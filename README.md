@@ -8,16 +8,6 @@ nabava primjenom umjetne inteligencije u funkciji učinkovitog i djelotvornog
 javnog menadžmenta"* (Sveučilište Jurja Dobrile u Puli, Odjel za ekonomiju i
 turizam).
 
-## ⚠️ Napomena o pouzdanosti
-
-**Ove ocjene su AI-generirane i do trenutka objave nisu prošle formalnu
-provjeru valjanosti** (nije proveden Cohenov kappa nasuprot ručnim ocjenama
-istraživača). Treba ih čitati kao **indikativan**, istraživački signal, a ne
-kao potvrđenu ili službenu ocjenu postupka, naručitelja ili ponuditelja.
-Test-retest pilot proveden u sklopu rada pokazao je da je metoda pouzdana na
-jasnim slučajevima, ali nestabilna na graničnim slučajevima (posebno kod
-ocjene razine detalja opisa, potpunosti dokumentacije i restriktivnosti).
-
 Model je za svaki postupak analizirao isključivo tekst natječajne
 dokumentacije preuzete s EOJN RH (javno dostupni izvor) — sadržaj citata i
 opisa u JSON datotekama odnosi se samo na ono što je u toj dokumentaciji
