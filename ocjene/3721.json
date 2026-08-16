@@ -1,0 +1,27 @@
+{
+  "postupak_id": 3721,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriteriji za odabir ponude (ENP: cijena 90 bodova, duljina jamstvenog roka 10 bodova) definirani su egzaktnom formulom i tablicom bodovanja po mjesecima jamstva, bez prostora za subjektivnu procjenu. Kriteriji kvalitativnog odabira (isključenja, upis u registar, tehnička sposobnost) navode točnu pravnu osnovu, način dokazivanja i mjerljiv prag (min. 1 do max. 3 ugovora u vrijednosti procijenjene nabave).",
+      "citat": "Ponuda s najnižom cijenom dobiva 90,00 bodova, dok se ostale ponude boduju prema formuli"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Zaseban dokument 'Tehničke specifikacije' upućuje isključivo na Troškovnik, koji sadrži vrlo detaljan opis svake stavke (materijal, debljina, dimenzije, norme EN/Oeko-Tex/ASTM), dovoljno konkretan za usporedivu ponudu. Većina stavki dopušta 'ili jednakovrijednu normu', a sva tri ponuditelja su prema Zapisniku ispunila zahtjeve opisa, što potvrđuje da opis nije bio neproporcionalno uzak.",
+      "citat": "Stol kvadratni, promjera 100 cm, visine 59 cm, zaobljenih rubova, vrh stola izrađen od iverice oplemenjene melaminskom folijom debljine 18mm, s dekorom javora."
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dostupna je cjelovita dokumentacija (Opći podaci, Upute za ponuditelje, Kriteriji kvalitativnog odabira, Kriteriji za odabir ponude, Troškovnik, Prilog III Izjava o jamstvenom roku, Prilog IV Ovlast za zastupanje) koja omogućuje samostalnu izradu ponude. Dokumenti su međusobno konzistentni (Obavijest o nadmetanju, Zapisnik, Odluka o odabiru, Obavijest o dodjeli navode identične podatke), a sva tri ponuditelja ocijenjena su potpunima i valjanima.",
+      "citat": "Elektronička ponuda mora sadržavati najmanje: Uvez ponude, Popunjeni eESPD obrazac, Popunjen troškovnik, Vrijednosti kriterija za odabir ponude"
+    },
+    "prosjecna_ocjena": 4.67
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak"
+  },
+  "napomena": "Pročitani su svi dostupni .txt dokumenti u extracted/ (12 datoteka, uklj. dupla HTML/PDF izdanja odluka i zapisnika). Nema referenci na točno određenu marku/proizvod niti nesrazmjernih financijskih/referentnih pragova; referentni uvjet (1-3 ugovora u visini procijenjene vrijednosti) standardan je i proporcionalan. Postupak je imao 3 ponuditelja, sva tri prošla kvalitativni odabir i ocjenu tehničke sukladnosti, što empirijski potvrđuje da specifikacija nije bila restriktivna prema tržištu."
+}

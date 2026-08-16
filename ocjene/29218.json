@@ -1,0 +1,27 @@
+{
+  "postupak_id": 29218,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij ENP potpuno je operacionaliziran: cijena 90 bodova prema eksplicitnoj formuli (najniža cijena = max bodova, ostale relativno), kvaliteta 10 bodova prema jasnoj tablici s tri diskretna praga recikliranosti ambalaže i propisanim dokazom (izjava), uz pravilo za jednako rangirane ponude i preciznost bodovanja na šest decimala.",
+      "citat": "Ponuda s najnižom cijenom dobiva 90,00 bodova, dok se ostale ponude boduju prema formuli"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 3,
+      "obrazlozenje": "Zaseban dokument tehničkih specifikacija svodi se na opće upute o zakonskoj sukladnosti (Zakon o hrani, deklariranje), bez konkretnih tehničkih zahtjeva. Stvarna specifikacija predmeta prisutna je tek djelomično, u troškovniku, i to samo za dio stavki (npr. postotak mliječne masti, dozvoljeno odstupanje mase), dok je za druge stavke (npr. 'Mlijeko svježe', 'Svježi sir', 'Sir topljeni 1/8') navedena samo generička roba bez ikakvih kvalitativnih parametara.",
+      "citat": "Maslac  10 g (dozvoljeno odstupanje +/- 5%)"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dostupan je pun standardni set dokumentacije: opći podaci o postupku, upute za ponuditelje s jasno popisanim obveznim sastojcima ponude, kriteriji kvalitativnog odabira, kriteriji za odabir ponude, tehnička specifikacija, troškovnik i propisani obrazac izjave (reciklirana ambalaža) — dovoljno za samostalnu izradu ponude bez dodatnih pojašnjenja.",
+      "citat": "Elektronička ponuda mora sadržavati najmanje: Uvez ponude Popunjeni eESPD obrazac ... Popunjen troškovnik"
+    },
+    "prosjecna_ocjena": 4.33
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak"
+  },
+  "napomena": "Pročitane su sve dostupne .txt datoteke (opći podaci, upute za ponuditelje, kriteriji kvalitativnog odabira, kriteriji za odabir ponude, tehn. specifikacija, troškovnik, izjava o recikliranoj ambalaži, obavijest o nadmetanju, odluka o odabiru, zapisnik o pregledu i ocjeni, obavijest o dodjeli ugovora). 'Odluka o odabiru__Prilozi.zip.txt' prazna je (0 B), vjerojatno artefakt neuspjelog preuzimanja/ekstrakcije arhive, ali nije bila presudna jer isti sadržaj postoji u paralelnim HTML/PDF inačicama. Traženi zahtjevi za kvalitetu (HACCP/ISO 22000) standardni su za nabavu prehrambenih proizvoda i proporcionalni vrijednosti nabave (80.000 EUR); nisu identificirani indikatori prilagođenosti određenom ponuditelju. Zaprimljena je samo jedna ponuda (VINDIJA d.d. Varaždin) — to je tržišni ishod, a ne samo po sebi dokaz restriktivnosti dokumentacije."
+}

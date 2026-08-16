@@ -1,0 +1,36 @@
+{
+  "postupak_id": 28944,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij ENP potpuno je operacionaliziran: cijena 85 bodova s eksplicitnom formulom (CP = (Cmin/Cp) x 85) i kvaliteta (duljina jamstvenog roka) 15 bodova prema fiksnoj, potpuno mjerljivoj bodovnoj ljestvici (0/4/9/12/15 bodova za pragove od 12 do 60 mjeseci). Nema prostora za diskrecijsku ili nejasnu ocjenu.",
+      "citat": "Ponuda s najnižom cijenom dobiva 85,00 bodova... CP = (Cmin/Cp) x 85"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Sam dokument 'Tehničke specifikacije' svodi se na jednu rečenicu koja upućuje na troškovnik, ali troškovnik sadrži vrlo detaljan, funkcionalno definiran opis za svaku od 8 kategorija opreme (promjeri, Q3 protoci, razred točnosti, IP zaštita, dokazi o kakvoći). Opis je dovoljno konkretan za usporedivu ponudu, uz jasnu napomenu da se izbjegava upućivanje na marku/patent.",
+      "citat": "Vodomjer volumetrijski za hladnu vodu (metalni navojni spoj) sa ugrađenim mehanizmom sa induktivnim pulserom"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dostupan je pun set dokumenata potreban za samostalnu izradu ponude: opći podaci, upute za ponuditelje, kriteriji za kvalitativni odabir s detaljnim ESPD uputama, kriteriji za odabir ponude, troškovnik, prijedlog ugovora i svi obrasci (izjave o jamstvu, solidarnoj odgovornosti, sankcijama EU). Naknadna izmjena troškovnika transparentno je objavljena.",
+      "citat": "Elektronička ponuda mora sadržavati najmanje: Uvez ponude, Popunjeni eESPD obrazac, Popunjen troškovnik"
+    },
+    "prosjecna_ocjena": 4.67
+  },
+  "restriktivnost": {
+    "prisutno": true,
+    "indikatori": [
+      {
+        "opis": "Zahtjev da radio moduli budu kompatibilni sa sustavom naručitelja pogoduje postojećem/ugrađenom sustavu (dosadašnjem dobavljaču), bez definiranog otvorenog protokola ili norme jednakovrijednosti za tu specifičnu stavku.",
+        "citat": "Kompatibilan sa sustavom naručitelja"
+      },
+      {
+        "opis": "Zahtjev da svi vodomjeri (unutar iste stavke) moraju biti od istog proizvođača ponavlja se kroz sve kategorije troškovnika; tehnički obrazloženo održavanjem, ali dodatno sužava krug ponuditelja koji mogu ponuditi cjelovito rješenje jednog proizvođača za sve stavke.",
+        "citat": "Svi vodomjeri moraju biti od istog proizvođača radi lakšeg održavanja"
+      }
+    ],
+    "rizik": "nizak"
+  },
+  "napomena": "Svi relevantni dokumenti iz extracted/ pročitani (opći podaci, upute za ponuditelje, kriteriji kvalitativnog odabira, kriteriji za odabir ponude, troškovnik, tehničke specifikacije, obrasci, prijedlog ugovora, obavijest o nadmetanju, izmjena, odluka o odabiru, oba zapisnika o pregledu i ocjeni, obavijest o dodjeli ugovora). Dokumentacija naglašava izbjegavanje upućivanja na marku/patent i dopušta 'ili jednakovrijedno', što snižava opću restriktivnost unatoč dva identificirana indikatora. Zaprimljena je samo 1 ponuda (CMC GROUP d.o.o.), a naručitelj (KOMUNALAC d.o.o.) u dokumentaciji navodi popis gospodarskih subjekata s kojima je u sukobu interesa (MERITUM PLUS) - potonji nije sudjelovao u postupku, transparentno deklarirano."
+}

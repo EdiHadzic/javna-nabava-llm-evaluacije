@@ -1,0 +1,33 @@
+{
+  "postupak_id": 19607,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij odabira (ekonomski najpovoljnija ponuda) potpuno je operacionaliziran: cijena 70 bodova prema jasnoj formuli (najniža cijena = max bodova, ostale razmjerno), rok izvršenja 30 bodova prema eksplicitnoj tablici pragova (1-20 dana=30, 21-30=20, 31-45=10, s definiranim min/max dozvoljenim vrijednostima). Kriteriji kvalitativnog odabira (isključenje, upis u registar, min. 1 referenca u vrijednosti nabave) navedeni su s pravnom osnovom, pitanjem za ESPD i načinom dokazivanja za svaku stavku. Zapisnik o pregledu i ocjeni pokazuje da je kriterij dosljedno primijenjen (bodovanje po ponuditelju eksplicitno prikazano).",
+      "citat": "Rok izvršenja 30 bodova 1-20 dana - 30 bodova 21-30 dana-20 bodova 31-45 dana 10 bodova"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Troškovnik je iznimno detaljan: precizne norme (EN ISO 3834-3, EN 1090-2, EN 14509, EN 13501-1, EN 10169-1, EN 10327), dimenzije, debljine slojeva, klase gorivosti, boje (RAL), opterećenja i tolerancije za sve stavke konstrukcije kontejnera. To omogućuje usporedive ponude. Međutim, stavka 9.1 (split klima) navodi neuobičajeno uzak skup karakteristika za osnovni uređaj (točan SEER/SCOP 6,6/4,1, snaga hlađenja/grijanja, 'generator hladne plazme', integrirani WiFi modul, razina buke po dB za unutarnju i vanjsku jedinicu) koji djeluje kao prepisan opis konkretnog komercijalnog modela, a ne generička tehnička specifikacija — blago snižava ocjenu jer se približava rubu prekomjerne suženosti (v. i restriktivnost niže).",
+      "citat": "Generator hladne plazme Integrirani WiFi modul Razina buke Unutarnja jedinica: 42 dB(A) Vanjska jedinica: 65 dB(A)"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dostupna je puna dokumentacija potrebna za samostalnu izradu ponude: Opći podaci, Upute za ponuditelje (sadržaj ponude, način dostave, jamstva, plaćanje, žalbeni rok), Kriteriji za kvalitativni odabir s uputama za ESPD, Kriteriji za odabir ponude s formulama bodovanja, detaljan Troškovnik s Općim uvjetima izvedbe, te Obavijest o nadmetanju. Naručitelj je i odgovorio na postavljeno pitanje ponuditelja (lokacija isporuke) putem modula Pitanja/Pojašnjenja, te izmijenio DON kad je to bilo potrebno (uklonjen sporni uvjet jamstva). Zapisnik o pregledu i ocjeni te Obavijest o dodjeli ugovora potpuno dokumentiraju tijek i ishod postupka.",
+      "citat": "Elektronička ponuda mora sadržavati najmanje: Uvez ponude Popunjeni eESPD obrazac Popunjen troškovnik Vrijednosti kriterija za odabir ponude"
+    },
+    "prosjecna_ocjena": 4.67
+  },
+  "restriktivnost": {
+    "prisutno": true,
+    "indikatori": [
+      {
+        "opis": "Tehnička specifikacija split klima uređaja (stavka 9.1 troškovnika) navodi vrlo uzak i neuobičajen skup značajki za tako malu jedinicu (točan SEER/SCOP omjer, 'generator hladne plazme', integrirani WiFi modul, egzaktne razine buke za unutarnju i vanjsku jedinicu), što nalikuje prepisanom opisu iz kataloga konkretnog proizvođača/modela, a ne funkcionalnom zahtjevu.",
+        "citat": "Split klima: Energetska klasa A++/A+ SEER/SCOP - 6,6/4,1 ... Generator hladne plazme ... Integrirani WiFi modul"
+      }
+    ],
+    "rizik": "nizak",
+    "napomena_rizika": "Rizik je ublažen time što se opća klauzula jednakovrijednosti iz Dokumentacije o nabavi ('ili jednakovrijedno' za svaku stavku s markom/tipom/podrijetlom) i Napomena 1 u samom Troškovniku (dopuštena alternativna oprema 'minimalno jednake kvalitete' uz poseban separat ponude) izričito primjenjuju na cijeli troškovnik, uključujući ovu stavku, a značajke poput WiFi modula i tehnologije pročišćavanja zraka danas nudi više proizvođača na tržištu, ne samo jedan."
+  },
+  "napomena": "Nacrt.pdf (tehnički crtež/tlocrt) ekstrahiran je gotovo isključivo kao niz brojčanih oznaka mjera bez čitljivog teksta - očekivano za vektorski/CAD crtež pri ekstrakciji teksta, ne ukazuje na nedostatak dokumentacije jer su svi tehnički podaci sadržani u Troškovniku. Postupak je imao 2 zaprimljene ponude; jedna je odbijena zbog nepopunjene stavke troškovnika (formalni razlog, transparentno obrazložen u Zapisniku), druga (APPARIS GRUPA d.o.o.) odabrana je s jasno prikazanim bodovanjem (70+10=80 bodova) po objavljenom kriteriju."
+}

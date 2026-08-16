@@ -1,0 +1,48 @@
+{
+  "postupak_id": 30228,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriteriji za odabir ponude su jasno definirani i mjerljivi. Dodjeljuje se 90 bodova za cijenu prema preciznoj formuli (CP = (Cmin/Cp) x 90) i 10 bodova za trajanje jamstvenog roka. Minimalna zahtjeva vrijednost za jamstvo je jasno određena na 12 mjeseci, a dodatni bodovi se dodjeljuju za 24 mjeseca i više.",
+      "citat": "Ekonomski najpovoljnija ponuda utvrđuje se na temelju: Cijene i kvalitete. Cijena: Cijena 90,00 Kvaliteta: Trajanje jamstvenog roka 10,00. CP = (Cmin/Cp) x 90 gdje je CP - bodovi po kriteriju cijene"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 5,
+      "obrazlozenje": "Opis predmeta nabave je ekstremno detaljan. Tehnička specifikacija obuhvaća precizne zahtjeve za podvozje (marka, tip, snaga motora, zapremnina, dimenzije, nosivost) i nadogradnju (volumen sanduka, materijali, debljina limova, hidraulički sustavi, senzori). Svi zahtjevi su specificirani kvantitativno (npr. min/max vrijednosti) ili kvalitativno.",
+      "citat": "Novo vozilo, nekorišteno, godina proizvodnje 2024/25. Diesel, 6 cilindara u liniji, s direktnim ubrizgavanjem goriva. Izvedba motora min. EURO-6E bez EGR-a. Snaga min. 210 kW max. 220 kW. Okretni moment minimalno 1150 Nm. Zapremnina motora min. 6800 ccm max. 7500 ccm. Ukupna zapremnina sanduka minimalno 16 m3."
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dostupna je kompletan skup dokumentacije potreban za izradu ponude: detaljne tehničke specifikacije, troškovnik, upute za ponuditelje, kriteriji za odabir gospodarskih subjekata, obavijest o nadmetanju, i obavijest o dodjeli ugovora. Svi relevantni dokazi i uvjeti su navedeni i dostupni.",
+      "citat": "Dokumentacija o nabavi se ne naplaćuje te se može preuzeti u cijelosti. Elektronička ponuda mora sadržavati najmanje: Uvez ponude, Popunjeni eESPD obrazac, Popunjen troškovnik, Vrijednosti kriterija za odabir ponude, Dokumentacija / dokazi za kriterija za odabir ponude"
+    },
+    "prosjecna_ocjena": 5.0
+  },
+  "restriktivnost": {
+    "prisutno": true,
+    "indikatori": [
+      {
+        "vrsta": "Zahtjev za ovlaštenim servisima",
+        "razina_rizika": "srednji",
+        "citat": "Ponuditelj mora dostaviti popis ovlaštenih servisa (naziv, adresa, telefonski broj, radno vrijeme) za održavanje podvozja i nadogradnje. Servisna radionica ne smije biti udaljena više od 50 km od lokacije Naručitelja."
+      },
+      {
+        "vrsta": "Specifični tehnički zahtjevi s brojevima",
+        "razina_rizika": "srednji",
+        "citat": "Okretni moment minimalno 1150 Nm. Zapremnina motora min. 6800 ccm max. 7500 ccm. Ukupna zapremnina sanduka minimalno 16 m3. Kapacitet podizanja minimalno 750 kg."
+      },
+      {
+        "vrsta": "Zahtjev za demonstracijom vozila",
+        "razina_rizika": "srednji",
+        "citat": "Ponuditelj će na eventualni zahtjev naručitelja, u roku od 7 (sedam) dana na lokaciji sjedišta naručitelja organizirati i omogućiti pregled i kontrolu propisanih tehničkih karakteristika, te demonstraciju rada vozila."
+      },
+      {
+        "vrsta": "Samo jedan primac ponude (de facto monopol)",
+        "razina_rizika": "visok",
+        "citat": "Broj zaprimljenih ponuda: 1. Broj zaprimljenih ponuda od ponuditelja iz drugih država članica EU-a: 0. Broj zaprimljenih ponuda od ponuditelja iz država koje nisu članice EU-a: 0."
+      }
+    ],
+    "rizik": "visok"
+  },
+  "napomena": "Postupak pokazuje visok stupanj transparentnosti u smislu jasnoće kriterija i detaljnosti specifikacije. Međutim, de facto monopolna situacija (samo 1 primljena ponuda, nema drugih natjecatelja) predstavlja rizik asimetrije informacija i potencijalnog rent-seeking ponašanja, posebno s obzirom na specifične industrijske zahtjeve (ovlašteni servis, materijalni standardi, precizne dimenzije). Specifikacija je tehnički opravdana za specijalzirano vozilo, ali se ne mogu isključiti mogućnosti da su pojedini zahtjevi dizajnirani tako da favoriziraju određenog proizvođača ili izvoznika. Kriterij 'razina detalja opisa' je maksimalan jer specifikacija omogućava usporedive ponude bez ostavljanja mjesta za diskreciju ili skrivene preferencije."
+}

@@ -1,0 +1,36 @@
+{
+  "postupak_id": 23040,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriteriji za odabir ponude (ENP) potpuno su kvantificirani i formulom određeni: cijena nosi 90 bodova prema jasnoj formuli, a kvaliteta (prosječna starost vozila) 10 bodova prema eksplicitnoj bodovnoj tablici s oštrim granicama (do 3 g. = 10 bodova, 3-6 g. = 5, 6-8 g. = 3, 8+ g. = 1). Način izračuna, dokazi i mjerne jedinice su nedvosmisleni, a naručitelj je čak i izmjenom dokumentacije pojasnio format unosa (decimalni broj umjesto cjelobrojnog).",
+      "citat": "Ponuda s najniže ponuđenom cijenom dobiva 90 bodova, a ostale ponude se boduju prema formuli: C= (Cmin/Cp) x 90"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 3,
+      "obrazlozenje": "Logistički dio opisa vrlo je konkretan (Troškovnik navodi svaku pojedinu relaciju s točnom adresom polazišta, udaljenošću u km i brojem učenika). Međutim, sam dokument 'tehničke specifikacije' iznimno je oskudan (svega dvije rečenice, upućuje gotovo isključivo na Troškovnik) i ne sadrži nikakve zahtjeve prilagođene ciljanoj populaciji korisnika (djeca s teškoćama) - nema odredbi o prilagođenosti vozila, pratitelju u vozilu, sigurnosnoj opremi za djecu s posebnim potrebama i sl., što se za ovakav predmet nabave moglo očekivati.",
+      "citat": "Ponuditelj se obvezuje prijevoz učenika vršiti kvalitetno, pravodobno i sigurno u skladu s odredbama Zakona o prijevozu u cestovnom prometu"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 4,
+      "obrazlozenje": "Kompletan standardni paket dokumentacije dostupan je i međusobno konzistentan: Opći podaci, Kriteriji za kvalitativni odabir (s ESPD uputama), Upute za ponuditelje, zaseban dokument s formulom ENP-a, Troškovnik i obrazac Izjave o starosti vozila. Ponuditelj je na temelju dostupnog mogao samostalno sastaviti ponudu (potvrđeno time što je zaprimljena i uspješno ocijenjena valjana ponuda). Ocjena nije 5 zbog izrazito tankog samostalnog dokumenta tehničkih specifikacija koji gotovo ništa ne dodaje uz Troškovnik.",
+      "citat": "Zahtjevi tehničke specifikacije predmeta nabave, vrsta i količina iskazani su u Troškovniku koji je u prilogu ove Dokumentacije o nabavi."
+    },
+    "prosjecna_ocjena": 4.0
+  },
+  "restriktivnost": {
+    "prisutno": true,
+    "indikatori": [
+      {
+        "opis": "Uvjet tehničke i stručne sposobnosti zahtijeva raspoloživost najmanje 10 vozača, što je relativno visok prag za manje prijevoznike s obzirom na to da je odabrani ponuditelj morao pribaviti dodatne resurse (vozila i vozače) od dva vanjska obrta putem izjava o ustupanju resursa kako bi zadovoljio uvjet - naznaka da je prag operativno zahtjevan, iako nije nužno nerazmjeran opsegu posla (više istovremenih jutarnjih/popodnevnih relacija).",
+        "citat": "Gospodarski subjekt treba dostaviti dokaz da raspolaže s najmanje 10 (deset) vozača kojima će vršiti uslugu prijevoza učenika"
+      },
+      {
+        "opis": "Naručitelj je unaprijed u dokumentaciji deklarirao sukob interesa s gospodarskim subjektom 'Bliss, obrt za turizam i posl. savjetovanje, vl. Kristijan Kotlar', dok je istovremeno osoba istog imena i prezimena (Kristijan Kotlar) navedena kao član stručnog povjerenstva koje je pregledalo i ocijenilo ponude u ovom postupku. Iako je Bliss transparentno deklariran i nije sudjelovao kao ponuditelj u ovom postupku, preklapanje imena unutar dokumentacije istog postupka predstavlja granični signal koji zahtijeva oprez pri interpretaciji neovisnosti povjerenstva.",
+        "citat": "Bliss, obrt za turizam i posl. savjetovanje, vl. Kristijan Kotlar ... Stručno povjerenstvo: ZRINKA ŠARIĆ, Kristijan Kotlar, Ema Genda"
+      }
+    ],
+    "rizik": "nizak"
+  },
+  "napomena": "Svi ključni dokumenti postupka bili su čitljivi i sadržajni (Obavijest o nadmetanju, Kriteriji za kvalitativni odabir, Upute za ponuditelje, Kriterij za odabir ENP, Opći podaci, Troškovnik, Odluka o odabiru, Zapisnik o pregledu i ocjeni, Obavijest o dodjeli ugovora). Zaprimljena je samo jedna ponuda u otvorenom postupku procijenjene vrijednosti 84.038,54 EUR (EU prag za usluge), što je nizak stupanj konkurentnosti, no bez izravnog dokaza da je uzrokovan restriktivnošću specifikacije - vjerojatnije odražava usku nišu tržišta (prijevoz djece s posebnim potrebama na više raspršenih relacija u Zadarskoj županiji). Odabrani ponuditelj (Exclusive Zadar j.d.o.o.) oslonio se na ustupljene resurse dvaju obrta (Idassa, Adriatic transfers) radi ispunjenja uvjeta o broju vozača, što je u konačnici prošlo naknadnu provjeru dokumenata (kaznena evidencija, porezni dug, registar) bez primjedbi."
+}

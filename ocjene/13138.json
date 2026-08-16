@@ -1,0 +1,28 @@
+{
+  "postupak_id": 13138,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 3,
+      "obrazlozenje": "Konačni kriterij za odabir ekonomski najpovoljnije ponude (cijena 70 %, jamstvo za otklanjanje nedostataka u jamstvenom roku 30 %) jasno je definiran formulom i bodovnim rasponima. Međutim, izvorna Dokumentacija sadržavala je stvarnu i opetovanu nejasnoću oko toga boduje li se i iskustvo angažiranih stručnjaka (točka 5.4.3.3./5.4.2.3. Kriterija za kvalitativni odabir), što je zahtijevalo najmanje tri odvojena kruga pitanja ponuditelja i naknadnu izmjenu dokumentacije prije nego što je naručitelj jednoznačno potvrdio da se iskustvo stručnjaka ne ocjenjuje.",
+      "citat": "i dalje imamo nejasnoća vezano za ocjenjivanje... nejasno je zašto i kako - pošto su kriteriji cijena ponude (70 posto) i jamstveni rok (30 posto)"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 2,
+      "obrazlozenje": "Opis predmeta nabave na razini projekta (kapacitet, namjena, površine) je konkretan, ali na razini troškovničkih stavki (koje operacionaliziraju predmet nabave za potrebe usporedive ponude) izvorna dokumentacija sustavno je izostavljala ključne parametre - RAL boje, dimenzije sanitarija i klupčica, debljine/vrste materijala, količine i jedinice mjere kod paušalnih stavki - za desetke stavki kroz gotovo sve troškovnike (arhitektura, ViK, elektro, strojarstvo), što je zahtijevalo opsežan niz pojašnjenja da bi stavke uopće bile ponudive.",
+      "citat": "Ovako opisano ne daje znati što se u stvari traži pod PRIPREMOM PODLOGE. Molim da se stavka raspiše na način da bude razumljiva za nuđenje"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 2,
+      "obrazlozenje": "Više bitnih priloga izvorno nije bilo dostupno ili je bilo pogrešno postavljeno: DWG podloga za izradu projekta organizacije gradilišta nije učitana, projekt konstrukcije/glavni projekt nije bio poveznički dostupan (naknadno dostavljen tek putem vanjske gofile.me poveznice u odgovoru na pitanje, a ne kroz službenu DON dokumentaciju), a više xlsx/pdf troškovnika sadržavalo je zaključane ćelije i pogrešne/nepotpune formule za zbrajanje stavki koje je naručitelj morao ispravljati kroz čak 5 uzastopnih 'Ispravaka'. Također je u prvotnoj objavi ostala pogrešna dokumentacija (DON_DIO I/II, ESPD u wordu) iz ranije faze savjetovanja, uklonjena tek nakon upozorenja ponuditelja.",
+      "citat": "za izradu projekta organizacije gradilišta potrebna je DWG podloga koja nije nigdje učitana, te molimo da istu učitate"
+    },
+    "prosjecna_ocjena": 2.33
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak",
+    "napomena_restriktivnost": "Reference na robne marke/proizvode (npr. 'Sušec ili Samoborka', 'Legrand, Schrack technik', 'Flamastop ili BlazeCut') dosljedno su popraćene izrazom 'ili jednakovrijedan', a Dokumentacija (točka 4.2. Uputa za ponuditelje) izričito propisuje opći mehanizam dokazivanja jednakovrijednosti za sve norme/tipove/marke iz troškovnika, čime se rizik favoriziranja određenog ponuditelja bitno smanjuje. Financijski i referentni pragovi (kumulativni promet i vrijednost ranijih radova u visini procijenjene vrijednosti nabave, 2.400.000 EUR kroz 5 godina) proporcionalni su veličini i vrsti predmeta nabave (veliki građevinski zahvat) i ne odudaraju od uobičajene prakse."
+  },
+  "napomena": "Postupak je velika građevinska nabava (izgradnja dječjeg vrtića, financirana dijelom iz NPOO fondova) s izrazito opsežnom dokumentacijom (60+ dokumenata, 11 formalnih izmjena obavijesti o nadmetanju te jedan vrlo dugačak dokument Odgovora na pitanja koji premašuje limit za jedno čitanje - pročitan je samo početni dio, ali je taj dio već sadržavao desetke pitanja usmjerenih na popunjavanje istih vrsta nedostataka opisanih gore, što je dovoljno za pouzdanu ocjenu obrazaca problema). Zapaženo je i nekonzistentnost između dva dokumenta: 'Opći podaci o postupku nabave' navodi da naručitelj nije u sukobu interesa ni s jednim gospodarskim subjektom, dok 'Kriteriji za kvalitativni odabir gospodarskog subjekta' (točka 4.7.3.) izričito imenuje gospodarski subjekt (Perinić International d.o.o.) s kojim je predstavnik naručitelja u sukobu interesa - ova nedosljednost nije bodovno utjecala na gornje ocjene (nije riječ o prilagodbi specifikacije određenom ponuditelju, već o transparentnosti/konzistentnosti podataka), ali je vrijedna spomena. Naručitelj je kroz proces bio sadržajno responzivan - na gotovo sva pitanja davao je konkretne, korisne odgovore i ispravljao dokumentaciju - što ublažava, ali ne poništava, nedostatke izvorne verzije dokumentacije."
+}

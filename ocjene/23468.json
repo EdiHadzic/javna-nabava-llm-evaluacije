@@ -1,0 +1,27 @@
+{
+  "postupak_id": 23468,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij odabira (ENP) potpuno je formaliziran zasebnim dokumentom 'Kriteriji za odabir ponude': cijena nosi 80 bodova s eksplicitnom formulom (najniža cijena = 80 bodova, ostale razmjerno), a jamstveni rok za otklanjanje nedostataka nosi 20 bodova prema jasnoj bodovnoj tablici (2 god.=0, 3 god.=5, 4 god.=10, 5 god.=20). Kriteriji za kvalitativni odabir (promet, solventnost, jedna referenca istovrsnih radova u vrijednosti procijenjene nabave, jedan inženjer gradilišta s odgovarajućim iskustvom) mjerljivi su i objektivno provjerljivi, s navedenim pravnim osnovama i načinom dokazivanja za svaki kriterij.",
+      "citat": "Ponuda s najnižom cijenom dobiva 80,00 bodova, dok se ostale ponude boduju prema formuli"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 5,
+      "obrazlozenje": "Tehnička specifikacija ('Tekst i grafika') opsežan je dokument (preko 3500 redaka) s detaljnim tehničkim opisom postojećeg stanja objekta (propust Deringaj), dijagnozom oštećenja na temelju istražnih radova, cjelovitim popisom sanacijskih radova po fazama (gornji/donji ustroj, pješačke staze, pristupne rampe), te opsežnim tehničkim uvjetima kvalitete za svaki materijal (klase betona, sanacijski mortovi, hidroizolacija, asfaltni slojevi) i programom kontrole kvalitete. Opis je konkretan i izvediv za usporedivu ponudu, a pritom generički (klase materijala, ne markice), što ne isključuje razumne alternative.",
+      "citat": "Objekt je izveden s integralnom rasponskom konstrukcijom ploče debljine 30 cm. Širina objekta iznosi 10,6 m"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 4,
+      "obrazlozenje": "Dostupna je gotovo cjelovita dokumentacija za samostalnu izradu ponude: opći podaci o postupku, kriteriji za odabir ponude i za kvalitativni odabir, detaljna tehnička specifikacija, korisnički priručnik za ispunjavanje troškovnika, upute za ponuditelje i ostale upute s obrascima/izjavama. Nedostaje uvid u sam sadržaj troškovnika (stavke i količine) jer se izvorna .xls datoteka 'DC1.propust Deringaj_bez cijena' ekstrahirala kao prazna (0 bajtova, poznati pipeline artefakt kod .xls formata, v. CLAUDE.md limitacija #5/#7) - dokument je nedvojbeno postojao i bio dostupan ponuditeljima (naveden kao zaseban prilog i obrađen u korisničkom priručniku), ali njegov sadržaj nije bio dostupan za ovu ocjenu.",
+      "citat": "Detaljan troškovnik se nalazi u zasebnom prilogu – Troškovnik."
+    },
+    "prosjecna_ocjena": 4.67
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak"
+  },
+  "napomena": "Ocjena temeljena na svim dostupnim .txt datotekama u extracted/ osim potpunog čitanja 'Prijedlog ugovora za radove.docx.txt' (pregledan sadržajno relevantan dio kroz srodne dokumente) i post-award dokumenata (Zapisnik o pregledu i ocjeni, Odluka o odabiru, Obavijest o dodjeli) koji su korišteni tek kao kontekst (4 ponuditelja, natjecanje realno, pobjednik nije lokalni/regionalni dominant). Zahtjevi kvalitativnog odabira (1 referenca u vrijednosti procijenjene nabave, 1 inženjer gradilišta) proporcionalni su predmetu i vrijednosti nabave te ne upućuju na prilagođenost određenom ponuditelju; tehnička specifikacija koristi generičke klase materijala i hrvatske tehničke propise (Opći tehnički uvjeti za radove na cestama, Tehnički propis za asfaltne kolnike), bez referenci na točno određene proizvode ili marke."
+}

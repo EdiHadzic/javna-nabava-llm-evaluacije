@@ -1,0 +1,40 @@
+{
+  "postupak_id": 7972,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij za odabir ponude (ekonomski najpovoljnija ponuda) precizno je definiran uz eksplicitnu matematičku formulu za cijenu i tablicu bodovanja za kriterij kvalitete (dodatno trajanje jamstvenog roka), bez prostora za subjektivnu procjenu.",
+      "citat": "Ponuda s najnižom cijenom dobiva 90,00 bodova, dok se ostale ponude boduju prema formuli: Bc = (Cmin/C) * 90."
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 3,
+      "obrazlozenje": "Opis predmeta nabave i troškovnik iznimno su detaljni (tehnički opisi, količine, norme), no u više stavki (elektroinstalacije, namještaj, odzračni ventil) opis je sveden na točno određeni komercijalni proizvod/marku umjesto generičke funkcionalne specifikacije, što ide na štetu razumne usporedivosti ponuda.",
+      "citat": "Dobava i montaža jednofazne šuko utičnice 16A/230V p/žb,kao tip UNICA \"Schneider Electric\"."
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dokumentacija je potpuna i omogućuje samostalnu izradu ponude: opći podaci, upute za ponuditelje, kriteriji za odabir i kvalitativni odabir, tri mape tehničke dokumentacije (arhitektura, elektroinstalacije, vodovod i kanalizacija) te troškovnik s obrascima priloga.",
+      "citat": "Elektronička ponuda mora sadržavati najmanje: Uvez ponude Popunjeni eESPD obrazac (ili više njih, ako je primjenjivo) Popunjen troškovnik"
+    },
+    "prosjecna_ocjena": 4.33
+  },
+  "restriktivnost": {
+    "prisutno": true,
+    "indikatori": [
+      {
+        "opis": "Ponavljano navođenje točno određenog proizvođača i tipa (Schneider Electric: Domae, UNICA, ID, Pragma UP) u desetak stavki elektroinstalacijskih radova, bez naznake 'ili jednakovrijedno' uz pojedinačnu stavku.",
+        "citat": "Dobava i ugradnja podžbuknog ormarića... kao tip Pragma UP \"Schneider Electric\"."
+      },
+      {
+        "opis": "Namještaj u troškovniku naveden isključivo pod komercijalnim IKEA nazivima modela (TERJE, FLINTAN, ELLOVEN, TROTTEN, KLIPPAN, TJUSIG, SUNNERSTA) bez ijedne generičke tehničke karakteristike osim dimenzija/boje.",
+        "citat": "Nabava i dostava bijela/knisa sklopiva stolica TERJE"
+      },
+      {
+        "opis": "Odzračni ventil odvodnje specificiran je isključivo prema proizvođaču i tipu.",
+        "citat": "Dobava i ugradnja automatskog odzračnog/odušnog ventila... proizvod kao Hutterer&Lechner, tip: HL900"
+      }
+    ],
+    "rizik": "visok"
+  },
+  "napomena": "Pročitane su sve relevantne .txt datoteke u extracted/ (opći podaci, upute za ponuditelje, kriteriji za odabir ponude i kvalitativni odabir, obavijest o nadmetanju, troškovnik, zapisnik o pregledu i ocjeni, odluka o odabiru). Postupak je imao samo jednog ponuditelja (GEMAS d.o.o.), pa restriktivnost specifikacije nije mogla biti empirijski testirana kroz broj/raznolikost primljenih ponuda u ovom slučaju, ali indikatori u troškovniku (opsežno i ponavljano brendiranje komercijalnim nazivima bez 'ili jednakovrijedno' uz pojedinačne stavke) predstavljaju strukturni rizik ograničavanja tržišnog natjecanja neovisno o ishodu ovog konkretnog postupka."
+}

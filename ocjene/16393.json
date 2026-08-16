@@ -1,0 +1,27 @@
+{
+  "postupak_id": 16393,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij za odabir je ekonomski najpovoljnija ponuda razrađena na dva potpuno mjerljiva podkriterija (cijena 90 bodova, vrijeme odaziva 10 bodova) s eksplicitnom matematičkom formulom za cijenu i cjelovitom bodovnom tablicom za vrijeme odaziva (5 dana=0 do 1 dan=10 bodova), bez prostora za diskrecijsku ocjenu.",
+      "citat": "CP = (Cmin/Cp) x 90 ... Rok izvršenja usluge – vrijeme odaziva: 5 dana 0; 4 dana 3; 3 dana 5; 2 dana 7; 1 dan 10"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Opis predmeta nabave konkretan je i provjerljiv (točne lokacije separatora s protocima i volumenima, ključni brojevi otpada, CPV oznake, učestalost kontrole), a dokumentacija izrijekom izbjegava upućivanje na marku/patent i dopušta jednakovrijedna rješenja, čime ostaje dovoljno širok za usporedive ponude. Ocjena nije 5 jer opis oslanja na tehnički predznanje (npr. kapaciteti separatora u l/s i m3) bez dodatnog pojašnjenja za manje specijalizirane ponuditelje.",
+      "citat": "Naručitelj je pri izradi ove Dokumentacije o nabavi izbjegavao upućivanje na marku, izvor, patent i sl. te su usluge i roba... specificirani na funkcionalan način"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dostupan je pun set dokumenata potreban za samostalnu izradu ponude: tehnička specifikacija, nestandardizirani troškovnik u xls formatu, upute za ponuditelje s detaljnim uvjetima jamstva/plaćanja/roka, kriteriji kvalitativnog odabira s pravnim osnovama i načinom dokazivanja te obrasci izjava. Svi elementi potrebni za izradu ponude međusobno su usklađeni i konzistentni.",
+      "citat": "Ponuditelj je obvezan popuniti nestandardizirani Troškovnik u xls.formatu koji je zajedno s Dokumentacijom o nabavi i Obavijesti o nadmetanju, objavljen neograničeno i u cijelosti"
+    },
+    "prosjecna_ocjena": 4.67
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak"
+  },
+  "napomena": "Pročitani su svi relevantni dokumenti postupka (dokumentacija o nabavi, tehnička specifikacija, kriteriji za odabir ponude, kriteriji kvalitativnog odabira, opći podaci, upute za ponuditelje, troškovnik). Referentni uvjet tehničke i stručne sposobnosti (min. 1 usluga u vrijednosti procijenjene vrijednosti nabave tijekom prethodne 3+1 godine) proporcionalan je i standardan, ne prelazi uobičajeni prag. Prilog 'Prilozi.zip' ekstrahiran je kao prazna (0 B) datoteka, ali ne utječe na ocjenu jer su sve dimenzije pokrivene iz ostalih, sadržajno cjelovitih dokumenata."
+}

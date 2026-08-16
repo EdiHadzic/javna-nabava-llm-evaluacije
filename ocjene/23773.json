@@ -1,0 +1,27 @@
+{
+  "postupak_id": 23773,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij za odabir (ekonomski najpovoljnija ponuda) precizno je podijeljen na 50% cijenu i 50% tehničke elemente, uz doslovno navedene bodovne tablice i formule iz Uredbe o uvjetima i vrednovanju kriterija za davanje koncesije (NN 31/14, čl. 6.-10.) za svaku kategoriju broda (klasični, brzi, tri kategorije Ro-Ro), pa je postupak bodovanja unaprijed potpuno predvidljiv i provjerljiv, bez prostora za diskrecijsko tumačenje naručitelja.",
+      "citat": "1. tehnički kriteriji 50%; 2. ekonomsko-financijski kriteriji 50%. Najpovoljnijim ponuditeljem smatrat će se brodar koji prema navedenim kriterijima ostvari najveći broj bodova."
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 5,
+      "obrazlozenje": "Predmet nabave (linija, luke pristajanja, trajanje ugovora i opcije produljenja, uvjeti za brod i posadu, tehnički i sigurnosni standardi) detaljno je razrađen kroz Dio I. i Dio II. dokumentacije te zaseban Program državne potpore, uz dugačak popis obveznih brodskih svjedodžbi i certifikata, a istovremeno nije sužen na jedan tip broda - dopušteni su klasični, brzi i tri kategorije Ro-Ro putničkih linija.",
+      "citat": "Svjedodžbu o klasi sa svim pripadajućim prilozima uz dodatne informacije o dospjelim ili budućim uvjetima klase (status lista) koja mora biti izdana od priznate organizacije"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dostupna je cjelovita dokumentacija za samostalnu izradu ponude: opći podaci, upute za ponuditelje s prilozima (izjave), kriteriji kvalitativnog odabira, tekst Uredbe s bodovnim tablicama, predložak troškovnika za svaku ugovornu godinu (2025.-2034.), Program državne potpore za SGEI te opsežan dokument Odgovora na pitanja ponuditelja koji dodatno pojašnjava sporne točke (npr. pitanje o varijantama ponude za brzi brod).",
+      "citat": "Dokumentacija o nabavi se ne naplaćuje te se može preuzeti u cijelosti na internetskoj stranici"
+    },
+    "prosjecna_ocjena": 5.0
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak"
+  },
+  "napomena": "Riječ je o nacionalno reguliranom PSO/SGEI postupku (obalna brzobrodska linija) čiji su tehnički i ekonomsko-financijski kriteriji propisani izravno Uredbom (NN 31/14) i Zakonom o prijevozu u linijskom i povremenom obalnom pomorskom prometu (NN 19/22), a ne diskrecijskom odlukom naručitelja, što objašnjava iznimno visoku i ujednačenu ocjenu transparentnosti u odnosu na tipične postupke iz uzorka. Zaprimljene su dvije ponude (TP LINE d.o.o. i MIATRADE d.o.o.); ponuda MIATRADE d.o.o. odbijena je isključivo zbog zakašnjele dostave jamstva za ozbiljnost ponude (proceduralni razlog), što nije indikator prilagođenosti specifikacije određenom ponuditelju."
+}

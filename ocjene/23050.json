@@ -1,0 +1,33 @@
+{
+  "postupak_id": 23050,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij za odabir ponude (ekonomski najpovoljnija ponuda) u potpunosti je operacionaliziran matematičkom formulom za cijenu (90 bodova) i preciznom bodovnom tablicom za jamstveni rok (10 bodova), bez prostora za diskrecijsko tumačenje. Isti kriteriji dosljedno se ponavljaju u Obavijesti o nadmetanju, Uputama za ponuditelje i zasebnom dokumentu 'Kriterij za odabir ponude', a u Zapisniku o pregledu i ocjeni izračun je proveden točno prema propisanoj formuli.",
+      "citat": "CP= (Cmin / Cp) x 90 ... Trajanje jamstvenog roka: 12 mjeseci - 0 bodova, 13-24 mjeseca - 8 bodova, 25-36 mjeseci - 9 bodova, 37 i više mjeseci - 10 bodova"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Tehničke specifikacije (Projektni zadatak i zaseban dokument Tehničke specifikacije) vrlo su detaljne i pokrivaju sve komponente sustava (postolje, el. ormar s točnim minimalnim hardverskim karakteristikama, softver/aplikaciju s opisom funkcionalnosti, bicikl s dimenzijama i pogonom). Razina detalja omogućava usporedivost ponuda, a da specifikacija nije formulirana kao zatvorena za jednog ponuditelja potvrđuje i to što su u postupku sudjelovala dva različita ponuditelja s različitim, ali sukladnim proizvodima (katalozima 'Go2bike' i 'next bike'), oba ocijenjena 'DA' po kriteriju uzoraka/opisa. Ocjena nije 5 jer pojedini parametri (točna veličina okvira 19'', kotača 29', snaga motora, kapacitet baterije) postavljaju uske brojčane raspone koji bi mogli suziti krug prihvatljivih proizvoda više nego što je nužno za funkcionalni ishod.",
+      "citat": "Veličina okvira: 19'', Veličina kotača: 29\", Brzina: minimalno 3 stupnja..., Elektromotorni pogon max. 250W i okretni momentom 80Nm, baterija 630Wh"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dokumentacija o nabavi cjelovita je i sadrži sve dijelove potrebne za samostalnu izradu ponude: Opće podatke o postupku, Kriterije za kvalitativni odabir gospodarskog subjekta (s pravnim osnovama i načinom dokazivanja za svaku stavku), Upute za ponuditelje, zaseban dokument Kriterij za odabir ponude, Projektni zadatak i Tehničke specifikacije, popunjivi Troškovnik (xlsx) te predložak Izjave o jamstvenom roku. Sve stavke potrebne za formalnu i sadržajnu valjanost ponude eksplicitno su navedene i dostupne.",
+      "citat": "Elektronička ponuda mora sadržavati najmanje: Uvez ponude, Popunjeni eESPD obrazac, Popunjen troškovnik, Tehničko rješenje/opis, Katalog proizvoda"
+    },
+    "prosjecna_ocjena": 4.67
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [
+      {
+        "opis": "Tehnička specifikacija postavlja precizne brojčane pragove (procesor min. dual core 2.4GHz, memorija min. 4GB, pohrana min. 128GB, veličina okvira bicikla 19'', kotači 29', motor max 250W/80Nm, baterija 630Wh, težina bicikla 15-25kg) koji bi teoretski mogli odgovarati jednom konkretnom proizvodu na tržištu.",
+        "citat": "procesor: dual core min. 2.4GHz, memorija: min. 4GB, pohrana podataka: min. 128GB, povezivost: Dual-Band Wi-Fi, Ethernet",
+        "napomena_o_riziku": "Ublažavajuća okolnost: dva različita gospodarska subjekta (UTE d.o.o. s katalogom 'Go2bike' i SUSTAV JAVNIH BICIKALA d.o.o. s katalogom 'next bike') oba su dokazala sukladnost svojih, međusobno različitih proizvoda s ovim specifikacijama (obojica ocijenjeni 'DA' u Zapisniku o pregledu i ocjeni, t. 6), što upućuje na to da specifikacija u praksi nije isključivala tržišno natjecanje niti je bila skrojena za jednog dobavljača."
+      }
+    ],
+    "rizik": "nizak"
+  },
+  "napomena": "Postupak ima potpunu i preglednu dokumentaciju te iznimno jasan, matematički definiran kriterij odabira. Financijski uvjet (godišnji promet u visini procijenjene vrijednosti, ne dvostruke) i referentni uvjet (zbroj do 3 isporuke u visini procijenjene vrijednosti) proporcionalni su predmetu nabave (naručitelj u Zapisniku eksplicitno navodi da ne traži promet veći od dvostruke procijenjene vrijednosti). Jedina slabija točka konkurentnosti nije metodološke prirode dokumentacije nego ishod postupka: od 2 zaprimljene ponude, druga je isključena zbog poreznog duga i cijene iznad planiranih sredstava, pa je stvarno ocjenjivana samo jedna ponuda (UTE d.o.o.), što nije posljedica restriktivnosti specifikacije nego statusa ponuditelja i cijene."
+}

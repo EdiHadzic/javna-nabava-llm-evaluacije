@@ -1,0 +1,27 @@
+{
+  "postupak_id": 19295,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij ENP je potpuno operacionaliziran: cijena 80 bodova po jasnoj formuli (najniža cijena = max bodova, ostale relativno), kvaliteta (jamstveni rok) 20 bodova po fiksnoj, potpuno determinističkoj tablici bez prostora za diskreciju povjerenstva.",
+      "citat": "Rbr Opis Broj bodova 1 2 godine 0,00 2 3 godine 5,00 3 4 godine 10,00 4 5 ili više godina 20,00"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Predmet nabave popraćen je potpunim izvedbenim projektom (tekstualni i grafički dio, plan izvođenja radova, privremena regulacija prometa) s konkretnom lokacijom i opsegom radova; opis je dovoljno konkretan za usporedivu ponudu, a izričita 'jednakovrijedno' klauzula za sve eventualne markе/tipove u troškovniku sprječava neopravdano suženje kruga ponuditelja.",
+      "citat": "IZVANREDNO ODRŽAVANJE DRŽAVNE CESTE DC106 Na području Općine Ražanac u naseljima Jovići (Vulete) i Rtina (Benići/Vrankovići)"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 4,
+      "obrazlozenje": "Dostupna je gotovo cjelovita dokumentacija za samostalnu izradu ponude (upute za ponuditelje, kriteriji, prijedlog ugovora, korisnički priručnik za troškovnik, izvedbeni projekt); umanjeno na 4 jer je ekstrakcija troškovnika (.xls) prazna i jedan dokument pojašnjenja nečitljiv, pa dio sadržaja nije bilo moguće izravno provjeriti iz ekstrahiranog teksta.",
+      "citat": "Troškovnik mora biti popunjen na izvornom predlošku, bez mijenjanja, ispravljanja i prepisivanja izvornog teksta."
+    },
+    "prosjecna_ocjena": 4.33
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak"
+  },
+  "napomena": "Ocjena temeljena na 32 ekstrahirane .txt datoteke; 2 su prazne/gotovo prazne (DC106.Ražanac_bez cijena_200324.xls.txt - 0 bajtova, Pojašnjenje HC Ražanac.pdf.txt - 1 bajt), pa sadržaj troškovnika i tog pojašnjenja nije bilo moguće izravno provjeriti iz teksta (poznata OCR/xls limitacija ekstrakcijskog pipelinea, v. CLAUDE.md). Velika datoteka tehničke specifikacije (Tekst i grafika, ~2,86 MB teksta) pregledana je djelomično (uvodni dio i struktura), no dostupni sažeci u 'Opći podaci' i 'Upute_ obrasci i izjave' dokumentima potvrđuju postojanje detaljnog izvedbenog projekta i eksplicitne 'ili jednakovrijedno' klauzule. Postupak je imao 3 valjane ponude (COLAS HRVATSKA, CESTE ZADARSKE ŽUPANIJE, CESTOGRADNJA), što potvrđuje stvarnu tržišnu utakmicu bez naznaka isključivosti u korist određenog ponuditelja."
+}

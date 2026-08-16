@@ -1,0 +1,40 @@
+{
+  "postupak_id": 32231,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriteriji za odabir ponude su potpuno operacionalizirani: eksplicitna formula za bodovanje cijene, jasne bodovne ljestvice po broju studijskih dokumentacija za svakog od 4 stručnjaka, te transparentna tablica pondera (20% svaki, ukupno 100%). Zapisnik o pregledu i ocjeni pokazuje da je povjerenstvo primijenilo kriterije doslovno prema objavljenoj metodologiji.",
+      "citat": "2 do 3 studijske dokumentacije 5 / 4 do 5 studijskih dokumentacija 10 / 6 i više studijskih dokumentacija 20"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 5,
+      "obrazlozenje": "Tehnička specifikacija razlaže predmet u 4 faze s konkretnim pod-zadacima po lokaciji, navodi točne fizikalno-kemijske parametre za analizu vode, rokove za nacrt/konačni plan rada i dinamiku koordinacijskih sastanaka - dovoljno konkretno za usporedivu ponudu.",
+      "citat": "1.3. odrediti potencijalno onečišćenje ispusta iz ribnjaka analizom fizikalno-kemijskih čimbenika vode (mikrobiološko ispitivanje vode, BPK5, KPK-Mn, amonij, nitrati...)"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Kompletan skup priloga dostupan: opći podaci, kriteriji kvalitativnog odabira, kriterij za odabir ponude, tehničke specifikacije, troškovnik, prijedlog ugovora, uvjeti plaćanja i obrasci izjava.",
+      "citat": "Istraživanje bioraznolikosti na području rijeka Krupe, Une i Zrmanje / kpl / 1 / [jedinična i ukupna cijena za popuniti]"
+    },
+    "prosjecna_ocjena": 5.0
+  },
+  "restriktivnost": {
+    "prisutno": true,
+    "indikatori": [
+      {
+        "indikator": "Kriterij kvalitete zahtijeva istovremeno 4 uskospecijalizirana stručnjaka (makrozoobentos, vidra, slatkovodni rakovi, sedra), svaki dokazujući iskustvo isključivo objavljenim znanstvenim/stručnim radovima o točno tom taksonu/pojavi - kombinacija koja realno postoji samo kod akademskih/istraživačkih institucija.",
+        "rizik": "srednji"
+      },
+      {
+        "indikator": "Naručitelj eksplicitno isključuje 'popularne članke' kao dokaz, priznajući samo recenzirane znanstvene/stručne publikacije - strukturno favorizira akademske ustanove nad komercijalnim konzultantskim tvrtkama.",
+        "rizik": "srednji"
+      },
+      {
+        "indikator": "Zaprimljena je samo jedna ponuda (Sveučilište u Zadru), koja je ostvarila maksimalnih 100/100 bodova na svih 5 kriterija - ishod u skladu s kriterijima vrlo precizno usklađenim s postojećim portfeljem jednog konkretnog ponuditelja.",
+        "rizik": "srednji"
+      }
+    ],
+    "rizik": "srednji",
+    "napomena": "Restriktivnost ovdje nije klasičan slučaj markice/patentiranog rješenja nego strukturne uskosti kroz kombinaciju vrlo specifičnih znanstvenih referenci - rizik ocijenjen srednji jer je specijalizacija dijelom opravdana prirodom istraživanja, no jedini ponuditelj i savršen rezultat (100/100) upućuju na moguću uskrojenost kriterija."
+  }
+}

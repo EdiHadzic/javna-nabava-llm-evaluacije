@@ -1,0 +1,27 @@
+{
+  "postupak_id": 30446,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij odabira ponude (ekonomski najpovoljnija ponuda) potpuno je operacionaliziran matematičkim formulama za oba potkriterija (cijena 90% i udio obnovljive energije 10%, s pragom od 50%), a kriteriji kvalitativnog odabira (isključenje, tehnička sposobnost, HERA dozvola) navedeni su s pravnom osnovom, pitanjem za ESPD i načinom dokazivanja za svaku stavku.",
+      "citat": "KCP = CPmin / CPo x 90 ... KOI = (OIo – 50) / (OImax – 50) x 10"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Opis predmeta nabave standardan je za opskrbu električnom energijom (roba/usluga koja se ne razlikuje po ponuditelju): troškovnik navodi 12 mjernih mjesta s adresama, tarifnim modelima i okvirnom godišnjom potrošnjom po mjestu, a tehnička specifikacija definira obračunske elemente (radna snaga, radna energija, tarifne stavke). Dovoljno konkretno za usporedivu ponudu, bez tehničkih detalja koji bi favorizirali određenog dobavljača.",
+      "citat": "BROJ MJERNOG MJESTA NAZIV MJERNOG MJESTA ADRESA MJERNOG MJESTA TARIFNI MODELI GODIŠNJA POTROŠNJA JEDINIČNA CIJENA"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dostupna je cjelovita dokumentacija: opći podaci, kriteriji kvalitativnog odabira s uputama za ESPD, upute za ponuditelje (jamstva, rok, način dostave), kriterij za odabir ponude s formulama, tehnička specifikacija, troškovnik i sve tri potrebne izjave (obrasci 1-3). Dovoljno za samostalnu izradu ponude bez dodatnih upita.",
+      "citat": "Elektronička ponuda mora sadržavati najmanje: Uvez ponude Popunjeni eESPD obrazac (ili više njih, ako je primjenjivo) Popunjen troškovnik"
+    },
+    "prosjecna_ocjena": 4.67
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak",
+    "napomena": "Zahtjev za HERA dozvolom za opskrbu električnom energijom je zakonska obveza za sve opskrbljivače na tržištu (čl. 16. st. 2. Zakona o energiji), ne predstavlja prilagodbu specifičnom ponuditelju. Referentni uvjet (min. 1 do 5 ugovora u vrijednosti procijenjene vrijednosti kroz 4 godine) proporcionalan je opsegu nabave. Nema referenci na markicu, patentirano rješenje ili nesrazmjerne pragove."
+  }
+}

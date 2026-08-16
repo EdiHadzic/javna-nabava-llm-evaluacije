@@ -1,0 +1,27 @@
+{
+  "postupak_id": 32846,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 4,
+      "obrazlozenje": "Kriterij ENP jasno je definiran formulom (cijena 80% + specifično iskustvo glavnog projektanta 20%) uz eksplicitnu matematičku formulu za cijenu i bodovne pragove za iskustvo. Manji nedostatak: bodovni razredi za iskustvo se preklapaju na rubu ('3-4 projekta' i '4-5 projekata'), što ostavlja dvosmislenost pri točno 4 projekta.",
+      "citat": "3-4 projekta - 10 bodova 4-5 projekata - 15 bodova 6 i više projekata - 20 bodova"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Projektni zadatak vrlo je detaljan (opseg dogradnje, površine, faze projektiranja, obvezni elaborati, EU horizontalna načela, DNSH kriteriji). Ipak, opseg 'rekonstrukcije' postojeće zgrade izazvao je konkretnu nejasnoću kod ponuditelja, što ukazuje da opis nije bio posve jednoznačan pri prvom čitanju.",
+      "citat": "Naručitelj ostaje pri procijenjenoj vrijednosti predmeta nabave, budući da izmjena iste nije moguća nakon objave postupka nabave."
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dostupna je puna dokumentacijska cjelina: opći podaci, upute za ponuditelje, kriteriji kvalitativnog odabira, detaljan projektni zadatak, troškovnik, obrazac za dokazivanje specifičnog iskustva stručnjaka, idejno rješenje kao prilog, te objavljeni odgovori na upite ponuditelja.",
+      "citat": "Elektronička ponuda mora sadržavati najmanje: Uvez ponude, Popunjeni eESPD obrazac, Popunjen troškovnik, Vrijednosti kriterija za odabir ponude, Dokumentacija / dokazi za kriterija za odabir ponude"
+    },
+    "prosjecna_ocjena": 4.33
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak",
+    "napomena": "Uvjet iskustva glavnog projektanta ograničen je na 'objekte javne i društvene namjene' uz eksplicitno isključenje šire definicije iz Zakona o gradnji - suženo tumačenje, ali objektivno vezano uz predmet nabave, ne uz specifičnog ponuditelja. Referentni prag proporcionalan je vrijednosti nabave. Nema referenci na točno određeni proizvod, marku ili patentirano rješenje."
+  }
+}

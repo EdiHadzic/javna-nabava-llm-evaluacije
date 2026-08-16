@@ -1,0 +1,40 @@
+{
+  "postupak_id": 19936,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Jedini kriterij za odabir ponude je cijena s ponderom 100%, što je jednoznačno i mjerljivo. Budući da se radi o pregovaračkom postupku bez prethodne objave s jednim pozvanim gospodarskim subjektom, kriterij nije bio primijenjen na usporedbu više ponuda, ali kako je naveden u obavijesti, potpuno je jasan i ne ostavlja prostor za tumačenje.",
+      "citat": "Cijena                                                                                                     100,00"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 2,
+      "obrazlozenje": "Opis predmeta nabave je vrlo šturo — svodi se na jednu rečenicu o najmu buldožera za potrebe održavanja odlagališta, bez tehničkih specifikacija (nosivost, snaga, priključci, uvjeti korištenja, gorivo, mobilizacija). Konkretni tehnički podaci o stroju (marka, tip, godina, težina) navedeni su tek naknadno u obrazloženju odabira konkretnog ponuditelja, a ne kao unaprijed definirana specifikacija predmeta nabave.",
+      "citat": "Predmet nabave obuhvaća pružanje usluge najma radnog stroja buldožera za potrebe tekućeg održavanja odlagališta otpada „Diklo“."
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 1,
+      "obrazlozenje": "U cijelom direktoriju postupka ne postoji nijedan dokument dokumentacije o nabavi (troškovnik, tehnički uvjeti, obrasci) — mape 'Dokumentacija o nabavi' i 'Odluka o odabiru' su prazne. Jedini dostupan sadržaj je obavijest o dodjeli ugovora (dvostruko, iz mapa Objave i Ugovori, identičan tekst). To je inherentno svojstvo ovog tipa postupka (pregovarački bez prethodne objave, izravan poziv jednom subjektu), ali za bilo kojeg trećeg promatrača praktički ne postoji dokumentacija na temelju koje bi se mogla samostalno izraditi usporediva ponuda.",
+      "citat": "Pregovarački postupak bez prethodne objave poziva na nadmetanje"
+    },
+    "prosjecna_ocjena": 2.67
+  },
+  "restriktivnost": {
+    "prisutno": true,
+    "indikatori": [
+      {
+        "opis": "Nakon provedbe pregovaračkog postupka bez prethodne objave, ugovor je izravno sklopljen s jednim unaprijed identificiranim ponuditeljem koji nudi točno određeni stroj (marka i tip), umjesto objave generičke tehničke specifikacije otvorene za više ponuditelja.",
+        "citat": "marke i tipa „LIEBHERR PR 736 LGP Litronic“, godina proizvodnje 2016., radna težina stroja: cca 25 tona"
+      },
+      {
+        "opis": "Naručitelj navodi da je nakon 'istraživanja tržišta' zaključio kako je samo jedan gospodarski subjekt mogao udovoljiti traženim (naknadno neobjavljenim) tehničkim karakteristikama i duljem razdoblju najma, bez da je metodologija ili opseg tog istraživanja tržišta dokumentirana ili priložena.",
+        "citat": "Jedini gospodarski subjekt koji je mogao udovoljiti i tehničkim karakteristikama stroja i dužem razdoblju najma radnog stroja (bez rukovatelja) je gospodarski subjekt „INŽENJERING GEORAD“ d.o.o."
+      },
+      {
+        "opis": "Obrazloženje 'iznimne žurnosti' temelji se na dotrajalosti i učestalim kvarovima vlastitog stroja naručitelja — okolnost koja je po prirodi predvidiva i posljedica (ne)pravodobnog održavanja/zamjene opreme, što je u napetosti sa zakonskim uvjetom da okolnosti iznimne žurnosti ne smiju biti uzrokovane postupanjem naručitelja (čl. 131. st. 1. t. 3. ZJN2016).",
+        "citat": "radi dotrajalosti i istrošenosti učestalo u kvaru (što je evidentno iz evidencije prijave kvarova službe održavanja)"
+      }
+    ],
+    "rizik": "srednji"
+  },
+  "napomena": "Za ovaj postupak u 'extracted/' postoje samo dvije (sadržajno identične) inačice obavijesti o dodjeli ugovora — nema dokumentacije o nabavi, tehničke specifikacije niti odluke o odabiru jer se radi o pregovaračkom postupku bez prethodne objave s jednim izravno pozvanim ponuditeljem (1 zaprimljena ponuda). Ocjene transparentnosti stoga odražavaju odsutnost objavljene dokumentacije, a ne nužno lošu praksu unutar dopuštenog okvira ove vrste postupka; ipak, sama pravna osnova (iznimna žurnost) i način obrazloženja odabira jedinog ponuditelja predstavljaju indikatore rizika vrijedne bilježenja."
+}

@@ -1,0 +1,27 @@
+{
+  "postupak_id": 8328,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 4,
+      "obrazlozenje": "Kriterij odabira sveden je na jedan jasan i mjerljiv element (cijena, 100% značaja), bez dvosmislenosti u primjeni. Ocjena nije 5 jer je riječ o pregovaračkom postupku s jednim gospodarskim subjektom bez prethodne objave, pa kriterij nikad nije stvarno bio izložen usporedbi između ponuditelja.",
+      "citat": "Kriterij za odabir ponude Cijena: Naziv kriterija Značaj Cijena 100,00"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 2,
+      "obrazlozenje": "Opis predmeta nabave navodi dimenzije i točne količine (dvije varijante debljine strunjača), što omogućuje osnovnu usporedivost, ali potpuno izostaju tehnički zahtjevi (materijal, protuklizna svojstva, sportski certifikati/standardi kvalitete za natjecateljske strunjače, boja, tvrdoća) uobičajeni za specifikaciju sportske opreme za međunarodno natjecanje.",
+      "citat": "Tatami strunjače za natjecanja u karateu: 100 x 100 x 2 cm - 600 kom 100 x 100 x 2,5 cm - 800 kom"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 1,
+      "obrazlozenje": "U extracted/ dostupne su isključivo obavijest o dodjeli ugovora i obavijest za dobrovoljnu ex ante transparentnost — nema objavljene dokumentacije o nabavi (tehnička specifikacija, troškovnik, obrasci, uvjeti sposobnosti). To je posljedica same vrste postupka (pregovarački bez prethodne objave, izravni pregovori s jednim gospodarskim subjektom zbog žurnosti), ali znači da treća strana ne može samostalno ocijeniti potpunost specifikacije niti izraditi usporedivu ponudu jer takav dokument nikad nije javno postojao.",
+      "citat": "primjenom pregovaračkog postupka bez prethodne objave, sa jednim gospodarskim subjektom"
+    },
+    "prosjecna_ocjena": 2.33
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak"
+  },
+  "napomena": "Za postupak 8328 u extracted/ postoje samo dva dokumenta (obavijest o dodjeli ugovora i obavijest za dobrovoljnu ex ante transparentnost) — nema tehničke specifikacije, troškovnika niti dokumentacije o nabavi jer je riječ o pregovaračkom postupku bez prethodne objave (čl. 131. st. 1. t. 3. ZJN2016, žurnost) proveden s jednim gospodarskim subjektom (1 zaprimljena ponuda). Opis predmeta ne sadrži reference na određenu marku/proizvođača niti nesrazmjerne pragove sposobnosti, pa restriktivnost u smislu prilagodbe specifikacije određenom ponuditelju nije detektirana na temelju dostupnog teksta — no napominje se da izostanak objavljene dokumentacije sam po sebi onemogućuje neovisnu provjeru te procjene, i da je izbor pregovaračkog postupka s jednim ponuditeljem (bez konkurencije) zaseban, prethodno pravno obrazložen rizik transparentnosti koji ova rubrika ne pokriva."
+}

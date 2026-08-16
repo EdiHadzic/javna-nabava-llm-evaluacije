@@ -1,0 +1,36 @@
+{
+  "postupak_id": 30938,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij ENP je potpuno mjerljiv: cijena nosi 90 bodova (formula B_C = 90 × min(C)/C), a jamstveni rok 10 bodova s eksplicitno zadanim donjim i gornjim ograničenjem (24-60 mjeseci) i formulom linearnog bodovanja. Nema prostora za diskrecijsko tumačenje.",
+      "citat": "Naziv kriterija Relativni značaj / Maksimalni broj bodova Cijena 90,00 ... Jamstveni rok 10,00"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 5,
+      "obrazlozenje": "Tehnička specifikacija (31 str.) definira za svih 12 tipova ormara točne dimenzije, materijale, norme (HRN/DIN/IEC), stupnjeve zaštite (IP/IK), ispitne postupke i kriterije prihvatljivosti opreme kod preuzimanja - dovoljno konkretno za usporedivu ponudu, uz dosljedno dopuštenu jednakovrijednost normi i opreme.",
+      "citat": "Kućište i vrata ormara moraju biti izrađeni od atestiranog izolacijskog UV stabiliziranog samogasivog materijala koji moraju zadovoljiti dielektričnu čvrstoću veću od 18 kV/mm"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Kompletan set dokumenata dostupan: opći podaci, upute za ponuditelje, kriteriji kvalitativnog odabira s detaljnim ESPD uputama, kriteriji za odabir ponude, tehnička specifikacija, troškovnik i izjava o integritetu.",
+      "citat": "Elektronička ponuda mora sadržavati najmanje: Uvez ponude Popunjeni eESPD obrazac (ili više njih, ako je primjenjivo) Popunjen troškovnik"
+    },
+    "prosjecna_ocjena": 5.0
+  },
+  "restriktivnost": {
+    "prisutno": true,
+    "indikatori": [
+      {
+        "indikator": "Tehnička specifikacija navodi konkretne proizvode/marke (npr. 'Tropolno isklopiva rastavna sklopka 250 A, tip: RBK1; Apator ili jednakovrijedna' te 'Predviđeno mjesto za ugradnju limitatora ETI OSP-10 ili jednakovrijedan'), no u svakom navodu izričito je dopuštena jednakovrijedna alternativa.",
+        "citat": "Predviđeno mjesto za ugradnju limitatora ETI OSP-10 ili jednakovrijedan"
+      },
+      {
+        "indikator": "Troškovnik zabranjuje nuđenje alternativnih proizvođača/varijanti po stavci — uobičajeno ograničenje radi usporedivosti ponuda, ne isključuje konkretnog ponuditelja unaprijed.",
+        "citat": "Nuđenje alternativnih proizvođača, varijanti ili inačica specificirane robe nije dopušteno"
+      }
+    ],
+    "rizik": "nizak",
+    "napomena": "Zahtjev reference (min. 1 isporuka u vrijednosti >= procijenjene vrijednosti nabave, 430.000 EUR) proporcionalan je vrijednosti nabave i nije procijenjen kao restriktivan."
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "postupak_id": 19018,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriteriji za odabir ponude potpuno su jasni i mjerljivi: cijena (90% značaja) boduje se prema eksplicitnoj matematičkoj formuli, a kvaliteta (10%) prema preciznoj tablici bodovanja dodatnog jamstvenog razdoblja u koracima od 12 mjeseci. Kriteriji kvalitativnog odabira (osnove za isključenje, tehnička i stručna sposobnost) navedeni su s točnom pravnom osnovom, konkretnim pragovima i načinom dokazivanja.",
+      "citat": "Ponuda s najniže ponuđenom cijenom dobiva 90 bodova, a ostale ponude se boduju prema formuli: Ymin/Yp x 90"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 5,
+      "obrazlozenje": "Predmet nabave opisan je kroz potpuni Glavni projekt (arhitektonski, elektrotehnički, strojarski-termotehnički, strojarski-vodovod i kanalizacija) i vrlo detaljan troškovnik (>2000 redaka) s opisom svake stavke. Svako upućivanje na marku/proizvođača (npr. Knauf, RIGIPS, Mitsubishi Electric, HL Hutterer & Lechner, Danfoss) dosljedno je popraćeno klauzulom 'ili jednakovrijedno', čime se opis drži konkretnim bez isključivanja razumnih alternativa.",
+      "citat": "Kod upotrebe gipskartonskih proizvoda upotrijebiti proizvode proizvođača tvrtke KNAUF, RIGIPS ili druge jednakovrijedne, i ugraditi ih prema propisima"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dostupna dokumentacija omogućuje potpuno samostalnu izradu ponude: opći podaci, obavijest o nadmetanju, kriteriji kvalitativnog odabira, upute za ponuditelje, kriterij za odabir ponude (Obrazac 1), pripadajući obrasci 2-6, kompletan glavni projekt u 4 mape i detaljan troškovnik. Sve potrebne informacije o jamstvima, plaćanju, rokovima i dokazima sposobnosti eksplicitno su navedene.",
+      "citat": "Predmet nabave obuhvaća izvođenje radova na adaptaciji i izvedbi interijera ljekarničke jedinice „PREKO“... a sve u skladu s Glavnim projektom i Troškovnikom koji se dostavljaju kao prilozi Dokumentacije o nabavi."
+    },
+    "prosjecna_ocjena": 5.0
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak"
+  },
+  "napomena": "Pročitane su sve relevantne .txt datoteke iz extracted/ (opći podaci, obavijest o nadmetanju, kriteriji kvalitativnog odabira, upute za ponuditelje, kriterij za odabir ponude, sva 4 dijela glavnog projekta, troškovnik, obrasci 1-6, odluka o odabiru, zapisnici o pregledu i ocjeni, obavijest o dodjeli). Dokumentacija je iznimno cjelovita i dobre kvalitete ekstrakcije (bez vidljivih praznih/OCR-gap datoteka). Svako upućivanje na marku/proizvođača u troškovniku sustavno je popraćeno izrazom 'ili jednakovrijedno', u skladu s općom napomenom o jednakovrijednosti iz Dijela I dokumentacije, pa nije ocijenjeno kao indikator prilagođenosti specifičnom ponuditelju. Referentni prag tehničke sposobnosti (50% procijenjene vrijednosti, 178.500 EUR, u razdoblju 2019.-2024.) uobičajen je i proporcionalan za radove ove vrste i vrijednosti. Postupak je zaprimio 2 ponude; ugovor dodijeljen tvrtki FAIN d.o.o. u vrijednosti 281.029,44 EUR (procijenjena vrijednost 357.000,00 EUR)."
+}

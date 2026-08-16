@@ -1,0 +1,40 @@
+{
+  "postupak_id": 22748,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij za odabir ponude (ENP) potpuno je jasno definiran za obje grupe: cijena nosi 80 bodova, dodatni jamstveni rok 20 bodova, uz eksplicitne matematičke formule za bodovanje, definirane gornje/donje granice za nefinancijski kriterij i pravilo za rangiranje kod izjednačenih ponuda. Nema dvosmislenosti u načinu izračuna.",
+      "citat": "Cijena 80,00 ... Duljina trajanja dodatnog jamstvenog roka za otklanjanje nedeostataka 20,00"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 3,
+      "obrazlozenje": "Opis predmeta nabave iznimno je detaljan (troškovnik navodi dimenzije, materijale i tehničke karakteristike za svaku stavku), što je pozitivno za usporedivost ponuda, no za dio medicinske opreme u Grupi 2 (npr. mobilni lifter) specifikacije su formulirane kao fiksne vrijednosti (točan broj kuka, točna visina/težina) umjesto minimalnih pragova. Gospodarski subjekt je to formalno osporio kao neopravdanu prepreku tržišnom natjecanju, a naručitelj je zahtjev odbio. Tržišni ishod to potvrđuje: Grupa 1 (fleksibilniji opisi 'po izboru investitora') primila je 4 ponude, dok je Grupa 2 (s osporenom specifikacijom) primila samo 1 ponudu.",
+      "citat": "Predmetna tehnička karakteristika ima učinak stvaranja neopravdanih prepreka za otvaranje javne nabave tržišnom natjecanju"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dokumentacija je potpuna i omogućuje samostalnu izradu ponude: uključuje opće podatke o postupku, kriterije kvalitativnog odabira gospodarskog subjekta s ESPD uputama, kriterije za odabir ponude s formulama, detaljne troškovnike za obje grupe, tehničke specifikacije, prijedlog ugovora te obrazac ovlasti za zastupanje. Naručitelj je uredno odgovarao na pitanja ponuditelja putem modula Pitanja/Pojašnjenja.",
+      "citat": "Tehničke specifikacije predmeta nabave, vrsta, kvaliteta i količina u cijelosti su iskazane troškovnikom, Glavnom projektu s pripadajućim mapama i Izvedbenim projektom."
+    },
+    "prosjecna_ocjena": 4.33
+  },
+  "restriktivnost": {
+    "prisutno": true,
+    "indikatori": [
+      {
+        "opis": "Tehnička specifikacija mobilnog liftera za nepokretne pacijente (Grupa 2, stavka 2 pod 'Ostala oprema') postavljena je kao fiksna vrijednost (točno 4 kuke, točna visina 415-1660 mm, težina 40 kg) umjesto minimalnog/maksimalnog raspona koji bi omogućio jednakovrijedna rješenja različitih proizvođača.",
+        "citat": "Ergonomska drška (4 kuke) za gurtnu omogućuje sigurnosno postavljanje gurtne pomoću jedne ruke ... Visina (mm): 415 do 1660 putem daljinskog upravljača ... Težina (kg): 40"
+      },
+      {
+        "opis": "Gospodarski subjekt je formalnim upitom zatražio izmjenu specifikacije pozivajući se na čl. 205./206. ZJN 2016. i konkretno rješenje DKOM-a, tvrdeći da specifikacija pogoduje određenom proizvođaču; naručitelj je zahtjev odbio bez izmjene ključnih parametara.",
+        "citat": "Budući da na tržištu postoji više gospodarskih subjekata koji mogu ponuditi proizvod koji udovoljava traženim tehničkim specifikacijama naručitelj nije prihvatio zahtjev za izmjenom."
+      },
+      {
+        "opis": "Korelacija s tržišnim ishodom: grupa s fleksibilnijim opisima (Grupa 1, namještaj) primila je 4 ponude, dok je grupa s osporenom, uskom specifikacijom (Grupa 2, medicinska oprema) primila samo 1 ponudu, od lokalnog ponuditelja iz Zadra.",
+        "citat": "Broj zaprimljenih ponuda: 4 [Grupa 1] ... Broj zaprimljenih ponuda: 1 [Grupa 2]"
+      }
+    ],
+    "rizik": "srednji"
+  },
+  "napomena": "Ocjena temeljena na svim dostupnim .txt datotekama iz extracted/ (24 datoteke): dokumentacija o nabavi (opći podaci, kriteriji kvalitativnog odabira, kriteriji za odabir ponude, tehničke specifikacije), troškovnici za obje grupe, obavijest o nadmetanju, odgovori na pitanja ponuditelja, odluke o odabiru, zapisnici o pregledu i ocjeni te obavijesti o dodjeli ugovora. Nalaz o restriktivnosti temelji se na konkretnom, dokumentiranom sporu (upit ponuditelja s pravnim obrazloženjem i odgovor naručitelja) te na korelaciji s brojem zaprimljenih ponuda po grupi, ne na nagađanju."
+}

@@ -1,0 +1,27 @@
+{
+  "postupak_id": 10590,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij za odabir (ENP) potpuno je operacionaliziran matematičkom formulom s jasno definiranim granicama za necjenovni kriterij (rok odaziva na reklamaciju, min. 1 h, maks. 5 h), pa je bodovanje svake ponude unaprijed potpuno predvidivo i provjerljivo.",
+      "citat": "C = Cmin/Cp * 90 ... RO = (Rmin/Rp) x 10, gdje je Rmin najkraće vrijeme odaziva, Rp vrijeme odaziva ponude koja se ocjenjuje"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Troškovnik sadrži 14 stavki pekarskih proizvoda s konkretnim minimalnim gramažama i minimalnim udjelima nadjeva po stavci, što omogućuje usporedivost ponuda bez isticanja konkretne marke ili proizvođača; opis je operativan (dostava, rokovi, deklaracije) i ne isključuje razumne alternative.",
+      "citat": "ŠKOLSKI SENDVIČ (mlij. pecivo 80-100 gr, šunka delikates (pureća i pileća prsa u ovitku) 30 gr, sir 30 gr, zelena salata)"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 4,
+      "obrazlozenje": "Dostupna je puna standardna dokumentacija (Obavijest o nadmetanju, Upute za ponuditelje, Kriteriji za kvalitativni odabir, tehničke specifikacije, Troškovnik, formula ENP, obavijest o dodjeli i zapisnici o pregledu i ocjeni), dovoljna za samostalnu izradu ponude. Ocjena spuštena s 5 na 4 jer je jedan prilog (APD.rar) na disku izdvojen kao prazan tekst pa mu sadržaj nije bilo moguće provjeriti.",
+      "citat": "Elektronička ponuda mora sadržavati najmanje: Uvez ponude, Popunjeni eESPD obrazac, Popunjen troškovnik"
+    },
+    "prosjecna_ocjena": 4.33
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak"
+  },
+  "napomena": "Prilog '(root)__APD.rar' na disku izdvojen je kao 0-bajtna .txt datoteka unatoč tome što izvorna .rar arhiva nije nulte veličine — ovo je poznati, dosad neriješeni artefakt ekstrakcije (v. CLAUDE.md, limitacija #7 / 'Sljedeći koraci', potvrđeno barem u 29 postupaka uklj. 10590), ne stvarni nedostatak dokumentacije naručitelja. Preostalih 17 dokumenata u extracted/ ekstrahirano je uspješno i sadržajno je potpuno (Obavijest o nadmetanju, Upute za ponuditelje, Kriteriji za kvalitativni odabir, tehničke specifikacije, Troškovnik, Kriterij za odabir ENP, Obavijest o dodjeli ugovora, zapisnici o pregledu i ocjeni), pa ocjena transparentnosti nije značajnije ugrožena ovim gapom."
+}

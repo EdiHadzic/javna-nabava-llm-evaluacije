@@ -1,0 +1,27 @@
+{
+  "postupak_id": 8272,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij ENP jasno je razložen na cijenu (90 bodova) i jamstveni rok (10 bodova), s eksplicitnom matematičkom formulom za bodovanje cijene i potpunom tablicom bodova za svaki raspon jamstvenog roka (24 mj. = 0 do 72+ mj. = 10 bodova). Nema dvosmislenosti niti prostora za diskrecijsku ocjenu.",
+      "citat": "Ponuda s najnižom cijenom dobiva 90,00 bodova, dok se ostale ponude boduju prema formuli"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Tehnička specifikacija (15 str.) i troškovnik vrlo su precizni - navode se točni tipovi opreme, proizvođači i tehničke karakteristike (npr. klase točnosti transformatora, dimenzije, IP zaštita), no gotovo uz svaku stavku dosljedno stoji klauzula 'ili jednakovrijedan/jednakovrijedno', čime se opis ne svodi na isključivi zahtjev za jednim proizvođačem.",
+      "citat": "Tip: 4VPA 1-38 \"KONČAR\" ili jednakovrijedan"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 4,
+      "obrazlozenje": "Dostupan je vrlo širok i strukturiran skup dokumenata: Opći podaci, Upute za ponuditelje, Kriteriji za odabir ponude, Kriteriji kvalitativnog odabira, potpuna Tehnička specifikacija s tablicom tehničkih podataka, Troškovnik, Prijedlog ugovora, Izjava o integritetu i Izjava o jamstvenom roku - dovoljno za samostalnu izradu ponude. Jedini nedostatak je datoteka 'Prilozi.zip' koja je na disku prazna (0 bajtova), pa je sadržaj eventualnih dodatnih nacrta/priloga (spomenutih npr. kao 'shema spoja u prilogu Nacrti') neprovjerljiv iz dostupnog teksta.",
+      "citat": "Elektronička ponuda mora sadržavati najmanje: Uvez ponude Popunjeni eESPD obrazac... Popunjen troškovnik"
+    },
+    "prosjecna_ocjena": 4.33
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak"
+  },
+  "napomena": "Troškovnik dosljedno navodi konkretne proizvođače i tipove opreme (KONČAR, Schneider Electric, Weidmuller) za pojedine stavke, ali uz svaku takvu stavku stoji izričita klauzula 'ili jednakovrijedan', a Opći podaci o postupku nabave dodatno razrađuju mehanizam dokazivanja jednakovrijednosti (tehnička dokumentacija proizvođača ili izvještaj priznatog tijela) te obvezuju naručitelja da ne odbije ponudu koja jednakovrijednost dokaže - stoga ovo nije ocijenjeno kao prilagodba specifičnom ponuditelju. Financijski uvjeti (jamstvo 950 EUR na procijenjenu vrijednost 32.100 EUR, jedan inženjer gradilišta elektrotehničke struke) razmjerni su opsegu nabave. Datoteka 'Prilozi.zip' ekstrahirana je kao prazna (0 bajtova na disku) pa njezin sadržaj nije mogao biti pregledan."
+}

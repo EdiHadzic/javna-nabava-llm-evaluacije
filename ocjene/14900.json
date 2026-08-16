@@ -1,0 +1,37 @@
+{
+  "postupak_id": 14900,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 4,
+      "obrazlozenje": "Kriteriji za odabir ponude (cijena 70, stručna kompetencija i iskustvo liječnika – SKS 20, rok za dostavu očitanog nalaza – RO 10) definirani su brojčano i s eksplicitnim matematičkim formulama za sva tri elementa, uz jasne pragove bodovanja za SKS. Ocjena nije 5 jer je sam SKS podkriterij, unatoč preciznosti bodovne ljestvice, sadržajno sporan – gospodarski subjekt je u fazi pojašnjenja doveo u pitanje njegovu logičku povezanost s kvalitetom izvršenja (v. restriktivnost niže), što ukazuje da 'jasno definirano' ovdje ne znači nužno i 'nedvosmisleno relevantno'.",
+      "citat": "RO= ROmin/ROp*10"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 3,
+      "obrazlozenje": "Opis predmeta nabave konceptualno je razumljiv (teleradiologija, MR/CT po anatomskim regijama, konzilijarno savjetovanje, teleasistencija), ali zasebna 'Tehnička specifikacija' datoteka ne postoji kao sadržajan dokument – u cijelosti upućuje na troškovnik, koji sadrži samo tri stavke (očitanje MR, očitanje CT, aplikacija kontrasta) s okvirnim količinama, bez detaljnijih tehničkih/SLA zahtjeva (format razmjene nalaza, dostupnost, tehnički standard opreme i sl.) izvan bodovanog roka dostave.",
+      "citat": "Tehnička specifikacija predmeta nabave je sadržana u samom troškovniku predmeta nabave u Prilogu 3."
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 4,
+      "obrazlozenje": "Dostupan je pun set dokumenata potreban za samostalnu izradu ponude: opći podaci, obavijest o nadmetanju (i njena izmjena), kriteriji za kvalitativni odabir, upute za ponuditelje, troškovnik, obrazac dodatnog bodovanja ENP, Prilog 1 (izjava o stručnoj kompetenciji) i Prilog 2 (izjava o roku), te objavljeni odgovori na pitanja zainteresiranih gospodarskih subjekata. Ocjena nije 5 jer je 'Prilozi.zip.txt' ekstrahiran kao prazan (0 bajtova) pa sadržaj tog dodatnog arhiva ostaje nepoznat, a posebna tehnička specifikacija kao samostalan dokument izostaje (v. gore).",
+      "citat": "Elektronička ponuda mora sadržavati najmanje: Uvez ponude Popunjeni eESPD obrazac (ili više njih, ako je primjenjivo) Popunjen troškovnik"
+    },
+    "prosjecna_ocjena": 3.67
+  },
+  "restriktivnost": {
+    "prisutno": true,
+    "indikatori": [
+      {
+        "opis": "Gospodarski subjekt je u fazi pojašnjenja dokumentacije formalno osporio SKS kriterij (bodovanje dostupnosti liječnika sa znanstveno-nastavnim zvanjima dr.sc./doc.dr.sc./prof.dr.sc.) kao nesrazmjeran i potencijalno usmjeren na favoriziranje jednog konkretnog ponuditelja na tržištu; naručitelj je zahtjev za izmjenom odbio bez suštinske promjene kriterija.",
+        "citat": "bodovanje same dostupnosti takvog kadra faktički služi isključivo dodatnom bodovanju ponude jednog gospodarskog subjekta na relevantnom tržištu"
+      },
+      {
+        "opis": "Odgovor naručitelja na prigovor ne nudi kvantitativno opravdanje praga (8+/3+/3+/2+ liječnika po pojedinim zvanjima) niti dokazuje njegovu nužnost za kvalitetu izvršenja, već se oslanja na opću tvrdnju o vrijednosti akademskog usavršavanja.",
+        "citat": "Ne prihvaća se tražena izmjena."
+      }
+    ],
+    "rizik": "srednji",
+    "napomena_o_ishodu": "Rizik je ublažen stvarnim ishodom postupka: zaprimljene su 3 valjane ponude, a čak su 2 od 3 ponuditelja (uklj. pobjednika) ostvarila maksimalnih 20/20 bodova na spornom SKS kriteriju, dok je treći izgubio bodove zbog nedostavljanja dokaza, a ne zbog stvarnog nedostatka kadra – što upućuje da kriterij nije de facto eliminirao konkurenciju, unatoč dokumentiranoj sumnji na prilagođenost."
+  },
+  "napomena": "Pročitane su sve sadržajne .txt datoteke u extracted/ (18 datoteka; 'Prilozi.zip.txt' prazan, 0 bajtova, sadržaj nepoznat). Postupak ima potpuni AwardInfo trag (3 ponude, dodjela Teleradiološki centar Salha d.o.o., 146.295,00 EUR) koji je korišten samo kao kontekst za procjenu rizika restriktivnosti, ne za ocjenu transparentnosti dokumentacije."
+}

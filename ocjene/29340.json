@@ -1,0 +1,39 @@
+{
+  "postupak_id": 29340,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij za odabir ponude je isključivo cijena (100% udjela), s eksplicitno navedenom pravnom osnovom i formulom bodovanja. Kvalitativni uvjeti sposobnosti (upis u registar, HAKOM ovlaštenje, referenca min. 100.000 EUR, ISO/kvaliteta) navedeni su za svaki s pravnom osnovom, pitanjem za ESPD i točnim načinom dokazivanja.",
+      "citat": "Naručitelj je u ovom postupku nabave odredio cijenu kao jedini kriterij za odabir, sukladno čl. 284. stavku 5. ZJN 2016."
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Opis predmeta jasno definira vrste pošiljaka (pismovne, preporučene, paketi, ekspresne), učestalost preuzimanja/uručenja, digitalno vođenje knjige pošte i rokove uručenja (i posebno za Zadar i otoke), a troškovnik sadrži razrađene stavke po masi/kategoriji. Ipak, opis je u velikoj mjeri standardni predložak za poštanske usluge bez dodatnih specifičnosti vezanih uz naručitelja osim lokacije poslovnice.",
+      "citat": "najmanje jedna poslovnica-poštanski ured posluje u mjestu u kojem je sjedište Naručitelja"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dostupan je pun set dokumenata potreban za samostalnu izradu ponude: tehnička specifikacija, detaljan troškovnik s okvirnim količinama, prijedlog ugovora, upute za ponuditelje, kriteriji kvalitativnog odabira i kriteriji za odabir ponude, te objavljeni odgovori naručitelja na pitanje zainteresiranog gospodarskog subjekta. Jedina prazna datoteka (Prilozi.zip, 0 B) uz odluku o odabiru ne utječe na mogućnost izrade ponude.",
+      "citat": "Detaljan troškovnik se nalazi u zasebnom prilogu – Troškovnik."
+    },
+    "prosjecna_ocjena": 4.67
+  },
+  "restriktivnost": {
+    "prisutno": true,
+    "indikatori": [
+      {
+        "opis": "Uvjet kontinuirane kakvoće poštanskih usluga na cijelom području RH (85% najbrže kategorije u 1 radnom danu, 95% u 2 dana, 95% u 3 dana za ostale), dokazan potvrdom neovisnog mjeritelja prema normama HRN EN 13850:2020 i HR EN 14508:2016 za referentnu 2023. godinu. Takvo mjerenje na nacionalnoj razini u praksi provodi se gotovo isključivo za nacionalnog univerzalnog davatelja poštanskih usluga, čime uvjet de facto isključuje manje/regionalne ponuditelje bez obzira na formalnu tehničku sposobnost.",
+        "citat": "Gospodarski subjekt mora dokazati da je u 2023. god. ostvario kontinuiranu kakvoću obavljanja poštanskih usluga na cijelom području Republike Hrvatske"
+      },
+      {
+        "opis": "Način dokazivanja zahtijeva specifičnu vanjsku certifikaciju kontinuiranog mjerenja prema točno navedenim normama, što je dostupno malom broju (u praksi jednom) subjektu na tržištu.",
+        "citat": "potvrdu neovisnog mjeritelja o rezultatima kontinuiranog mjerenja koji je obavio kontinuirano mjerenje, a koja su provedena sukladno normama HRN EN 13850:2020 i HR EN 14508:2016."
+      },
+      {
+        "opis": "Ishod postupka potvrđuje praktični učinak uvjeta: zaprimljena je samo 1 ponuda (od HP - Hrvatska pošta d.d., nacionalnog univerzalnog davatelja poštanskih usluga), 0 ponuda od malih/srednjih poduzeća i 0 iz drugih država EU."
+      }
+    ],
+    "rizik": "srednji"
+  },
+  "napomena": "Naručitelj u dokumentu (točka 6.1.3.) obrazlaže potrebu za dokazanom kakvoćom uručenja time što veliki dio pošiljaka čine sudska/upravna pismena vezana uz prekluzivne zakonske rokove, što je legitimna poslovna potreba, ne očita zlouporaba. Ipak, kombinacija zahtjeva (nacionalna pokrivenost + certificirano mjerenje kvalitete + samo 1 zaprimljena ponuda od inkumbenta) odgovara poznatom obrascu ograničavanja tržišnog natjecanja u hrvatskim poštanskim nabavama, stoga je ocijenjeno srednjim rizikom, a ne visokim (jer postoji jasno artikulirano legitimno opravdanje) niti niskim (jer je praktični isključujući učinak dokumentiran)."
+}

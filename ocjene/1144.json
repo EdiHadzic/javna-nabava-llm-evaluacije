@@ -1,0 +1,49 @@
+{
+  "postupak_id": 1144,
+  "broj_pojedinacnih_runova": 2,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Oba pokretanja se u potpunosti slažu: kriterij ekonomski najpovoljnije ponude definiran je isključivo matematičkim, provjerljivim formulama za oba potkriterija (cijena 90%, jamstveni rok za otklanjanje nedostataka 10%), uključujući granične vrijednosti bodovanja jamstva po godinama trajanja i pravilo zaokruživanja/rangiranja kod izjednačenih ponuda. Nema prostora za diskrecijsku ili kvalitativnu ocjenu ponude.",
+      "citat": "Ponuda s najnižom cijenom dobiva 90,00 bodova, dok se ostale ponude boduju prema formuli",
+      "runovi": [
+        5,
+        5
+      ],
+      "slaganje": "puno"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 5,
+      "obrazlozenje": "Runovi su se razišli za 1 bod (5 vs 4); run 2 je obrazložio nižu ocjenu time što se 'puna tehnička slika sastavlja tek kombinacijom troškovnika i opsežnog projektnog elaborata, što od ponuditelja traži dodatan napor povezivanja dokumenata'. Neovisnom provjerom izvornog teksta (Dokumentacija o nabavi, t. 2.4. Tehničke specifikacije) utvrđeno je da to nije točno kao kriterij za sniženje ocjene: dokumentacija izričito propisuje da su detaljne tehničke specifikacije sadržane u Troškovniku ('Detaljne tehničke specifikacije predmeta nabave sadržane su u Troškovniku'), tj. sam naručitelj definira Troškovnik kao samodostatan izvor tehničkog opisa za potrebe ponude, ne izvedbeni projekt. Sam Troškovnik je pritom vrlo detaljan (opis svakog rada, mjerna jedinica, količina, pozivanje na Tehnički propis za asfaltne kolnike NN 48/21, OTU, HRN norme, zahtjevi kvalitete Ms/Sz), pa dostupnost dodatnog opsežnog izvedbenog projekta predstavlja višak, a ne prepreku transparentnosti. Stoga se kao finalna ocjena uzima 5, u skladu s run-om 1.",
+      "citat": "2. 4. Tehničke specifikacije\n\nDetaljne tehničke specifikacije predmeta nabave sadržane su u Troškovniku.\n\nZahtjevi definirani Troškovnikom predstavljaju minimalne tehničke karakteristike te se iste ne smiju mijenjati od strane ponuditelja.",
+      "runovi": [
+        5,
+        4
+      ],
+      "slaganje": "djelomicno"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Oba pokretanja se slažu: dostupan je pun, međusobno konzistentan set dokumenata potreban za samostalnu izradu ponude - Dokumentacija o nabavi, Upute za ponuditelje, Kriteriji za kvalitativni odabir gospodarskog subjekta, Kriteriji za odabir ponude, Opći podaci o postupku, Obavijest o nadmetanju, Troškovnik i opsežan izvedbeni projekt, te naknadno Zapisnik o pregledu i ocjeni, Odluka o odabiru i Obavijest o dodjeli ugovora. Podaci (procijenjena vrijednost, rokovi, jamstva) podudaraju se kroz dokumente.",
+      "citat": "Elektronička ponuda mora sadržavati najmanje: Uvez ponude Popunjeni eESPD obrazac (ili više njih, ako je primjenjivo) Popunjen troškovnik",
+      "runovi": [
+        5,
+        5
+      ],
+      "slaganje": "puno"
+    },
+    "prosjecna_ocjena": 5.0
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak",
+    "runovi_prisutno": [
+      false,
+      false
+    ],
+    "slaganje": "puno"
+  },
+  "napomena": "Postupak ima potpunu i urednu dokumentaciju (radovi, sanacija kolnika Ž6052, Brgud, ŽUC Zadarske županije). Napomena: dvije datoteke u extracted/ ('Odluka o odabiru - Brgud.pdf.txt' i 'Zapisnik o pregledu i ocjeni - Brgud.pdf.txt') sadrže gotovo prazan tekst (2 i 22 bajta) - vjerojatno neuspjela ekstrakcija skeniranog PDF-a - ali isti sadržaj dostupan je putem paralelnih HTML datoteka ('Odluka o odabiru.html.txt', 'Zapisnik o pregledu i ocjeni.pdf.txt') koje su potpune, pa to nije utjecalo na ocjenu potpunosti dokumentacije.",
+  "napomena_resolvera": "Tri od četiri procjene (jasnoća kriterija, potpunost dokumentacije, restriktivnost) postigle su puno slaganje bez potrebe za dodatnom provjerom. Jedina razlika (razina_detalja_opisa, 5 vs 4) bila je unutar praga 'djelomicno' (razlika 1 bod, sadržajno kompatibilna obrazloženja - oba priznaju vrlo detaljan troškovnik uz izvedbeni projekt, ali se razilaze oko toga tereti li potreba kombiniranja dokumenata ocjenu). Neovisnom provjerom izvorne Dokumentacije o nabavi (t. 2.4.) utvrđeno je da naručitelj eksplicitno definira Troškovnik kao samodostatan nositelj tehničke specifikacije, čime je kritika run-a 2 o 'dodatnom naporu povezivanja dokumenata' oslabljena kao osnova za snižavanje ocjene - odabrana je ocjena 5 (run 1). Pouzdanost finalne ocjene: visoka - tri od četiri dimenzije potpuno se slažu, a jedino odstupanje riješeno je izravnom provjerom izvornika, ne proizvoljnim odabirom između dva runa."
+}

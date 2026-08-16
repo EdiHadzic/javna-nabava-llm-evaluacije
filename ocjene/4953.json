@@ -1,0 +1,36 @@
+{
+  "postupak_id": 4953,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij za odabir (ekonomski najpovoljnija ponuda) potpuno je operacionaliziran: cijena nosi 90 bodova a jamstveni rok za otklanjanje nedostataka 10 bodova, uz eksplicitne matematičke formule za oba potkriterija, jasno definiran minimalni prag (24 mjeseca) i posljedicu nepoštivanja praga (odbačaj ponude). Nema prostora za diskrecijsko tumačenje.",
+      "citat": "Formula: P = Pn / Pr * 90"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 3,
+      "obrazlozenje": "Opis predmeta nabave (troškovnik) sadrži konkretne, mjerljive tehničke parametre (kut i dubina vidnog polja, promjeri, radna duljina, savitljivost), ali dvije od devet stavki eksplicitno zahtijevaju kompatibilnost s točno određenim uređajem i markom (Pentax procesor EPK-i7010) te ovlaštenje vezano isključivo uz tog proizvođača, bez naznake 'ili jednakovrijedno'. To znatno sužava krug ponuditelja na jednu markersku liniju opreme.",
+      "citat": "1.8. Kompatibilnost sa Pentax procesorom EPK-i7010 1.9. Autorizacija proizvođača o distribuciji i servisu Pentax proizvoda"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dostupna je cjelovita dokumentacija: opći podaci o postupku, upute za ponuditelje, kriteriji za kvalitativni odabir, troškovnik s tehničkim specifikacijama, dokument s numeričkim vrijednostima kriterija te prijedlog ugovora. Dokumenti su međusobno dosljedni (ista procijenjena vrijednost, isti kriteriji u obavijesti o nadmetanju, odluci o odabiru i obavijesti o dodjeli), a jedna ponuda je i formalno odbijena upravo zbog nepotpunosti (nepopunjen troškovnik, nedostavljeno jamstvo), što potvrđuje da su zahtjevi bili dovoljno precizni da omoguće provjeru.",
+      "citat": "Detaljan troškovnik se nalazi u zasebnom prilogu – Troškovnik."
+    },
+    "prosjecna_ocjena": 4.33
+  },
+  "restriktivnost": {
+    "prisutno": true,
+    "indikatori": [
+      {
+        "opis": "Tehnička specifikacija (troškovnik) traži kompatibilnost isključivo s procesorom točno određenog proizvođača i modela, bez klauzule 'ili jednakovrijedno', čime se de facto isključuju ponuditelji koji nude endoskopsku opremu drugih proizvođača.",
+        "citat": "1.8. Kompatibilnost sa Pentax procesorom EPK-i7010"
+      },
+      {
+        "opis": "Uz to se traži ovlaštenje vezano isključivo uz distribuciju i servis proizvoda te iste marke, što dodatno učvršćuje ograničenje kruga ponuditelja na ovlaštene distributere jednog proizvođača.",
+        "citat": "1.9. Autorizacija proizvođača o distribuciji i servisu Pentax proizvoda"
+      }
+    ],
+    "rizik": "visok"
+  },
+  "napomena": "Pročitane su sve dostupne .txt datoteke u extracted/ (12 dokumenata: obavijest o nadmetanju, opći podaci, upute za ponuditelje, kriteriji za kvalitativni odabir, tehnička specifikacija/troškovnik, podaci o numeričkim vrijednostima kriterija, prijedlog ugovora, odluka o odabiru u dva formata, obavijest o dodjeli, zapisnik o pregledu i ocjeni, izjava o neulaganju žalbe). Dokumentacija je kvalitetno strukturirana i međusobno dosljedna. Zaprimljene su samo 2 ponude (jedna odbijena zbog nepotpunosti), što je u skladu s uočenim sužavanjem tržišta zbog zahtjeva vezanog uz specifičnu marku procesora - moguće opravdanje (postojeća Pentax infrastruktura naručitelja) nije eksplicitno navedeno ni u jednom pročitanom dokumentu."
+}

@@ -1,0 +1,49 @@
+{
+  "postupak_id": 1719,
+  "broj_pojedinacnih_runova": 2,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Oba pokretanja neovisno utvrđuju da je kriterij za odabir ponude (ekonomski najpovoljnija ponuda) potpuno operacionaliziran: tri mjerljiva potkriterija s točnim ponderima (cijena 60%, učinkovitost potrošnje goriva 20%, prianjanje na mokroj podlozi 20%), egzaktne matematičke formule za izračun bodova po svakom potkriteriju, pravila zaokruživanja te jasan postupak rangiranja kod izjednačenih ponuda (ranije zaprimljena ponuda ima prednost). Nema prostora za diskrecijsku ili subjektivnu ocjenu.",
+      "citat": "Ponuda s najnižom ponuđenom cijenom dobiva 60 bodova, a ostale ponude se boduju prema formuli: Cx= (Cmin/Cp) x 60",
+      "runovi": [
+        5,
+        5
+      ],
+      "slaganje": "puno"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Oba pokretanja slažu se da je tehnička specifikacija vrlo konkretna i mjerljiva po stavci troškovnika (razred gume, dimenzije, indeks brzine i nosivosti, razred učinkovitosti goriva i prianjanja na mokroj podlozi, razina buke), uz poziv na EU regulatorne razrede (Uredba 2020/740) i standarde (ECE R109) umjesto na konkretnu marku ili proizvođača. Ocjena 4 umjesto 5 jer je kombinacija svih parametara po stavci (razred + dimenzija + indeksi) ipak suženiji krug potencijalno usklađenih modela guma, iako opis ostaje opravdano detaljan s obzirom na tehničku prirodu predmeta nabave.",
+      "citat": "Razred gume: C3 Oznaka gume: 275/70 R22,5 Simbol kategorije brzine: najmanje J (100 km/h) ili veći",
+      "runovi": [
+        4,
+        4
+      ],
+      "slaganje": "puno"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Oba pokretanja potvrđuju dostupnost punog seta dokumenata potrebnih za samostalnu izradu ponude: Opći podaci o postupku, Upute za ponuditelje, Tehničke specifikacije po stavkama troškovnika, Troškovnik (xlsx), obrazac Tehničke specifikacije ponuđenih auto guma, Kriteriji za kvalitativni odabir gospodarskog subjekta (uključujući ESPD upute) te zaseban dokument s formulama za bodovanje. Dokumenti su međusobno konzistentni (isti pragovi, iste stavke troškovnika), bez OCR/ekstrakcijskih problema.",
+      "citat": "Ponuditelji su obvezni u svojoj ponudi dostaviti ispunjen dokument Tehničke specifikacije ponuđenih auto guma.",
+      "runovi": [
+        5,
+        5
+      ],
+      "slaganje": "puno"
+    },
+    "prosjecna_ocjena": 4.67
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak",
+    "runovi_prisutno": [
+      false,
+      false
+    ],
+    "slaganje": "puno"
+  },
+  "napomena": "Oba pokretanja neovisno pročitala su isti skup ključnih dokumenata iz extracted/ (opći podaci, upute za ponuditelje, tehničke specifikacije, troškovnik, kriteriji kvalitativnog odabira, kriterij za odabir ponude, obavijest o nadmetanju/dodjeli, obrazac tehničkih specifikacija ponuđenih guma) i dosljedno zaključuju: referentni uvjet (min. 5 isporuka u zbroju 50.000 EUR) proporcionalan je procijenjenoj vrijednosti nabave (50.000 EUR); jamstva (1.500 EUR za ozbiljnost ponude, 10% za uredno ispunjenje) standardnih su iznosa bez naznaka nesrazmjernosti; tehnički zahtjevi (dimenzije 275/70 R22,5 i 295/80 R22,5, indeksi nosivosti) proizlaze iz stvarnih karakteristika vozila naručitelja (autobusi), a pozivaju se na generičke EU razrede/standarde, ne na konkretnu marku ili proizvođača. Naručitelj transparentno objavljuje popis gospodarskih subjekata s kojima je u sukobu interesa, no taj subjekt (obrtnik za čišćenje/poliranje plovila) nije iz djelatnosti relevantne za predmet ove nabave (auto gume) pa ne predstavlja indikator prilagođenosti specifikacije. Zaprimljene su 4 ponude (2 od malih/srednjih poduzeća), što upućuje na zdravu konkurenciju bez znakova ograničavanja tržišnog natjecanja.",
+  "napomena_resolvera": "Potpuno numeričko i sadržajno slaganje između oba pokretanja na sve tri dimenzije transparentnosti (5/4/5 u oba runa, identična prosječna ocjena 4,67) i na restriktivnost (oba false/nizak, oba bez ijednog indikatora). Nije bilo potrebe za samostalnim čitanjem izvornih .txt datoteka iz extracted/ jer nije postojao ni brojčani ni sadržajni razilazak — obrazloženja oba runa navode iste ključne činjenice (generički EU razredi umjesto konkretne marke, proporcionalnost jamstava i referentnog uvjeta, sukob interesa nevezan uz predmet nabave). Citati su odabrani prema preciznosti/izravnosti utemeljenja ocjene (run 1 za jasnoću kriterija i potpunost dokumentacije, run 1 za razinu detalja opisa), a obrazloženja su sintetizirana iz oba runa. Razina pouzdanosti finalne ocjene: visoka."
+}

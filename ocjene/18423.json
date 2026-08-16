@@ -1,0 +1,27 @@
+{
+  "postupak_id": 18423,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij odabira je ekonomski najpovoljnija ponuda s dva jasno definirana i mjerljiva podkriterija: cijena (90%) prema eksplicitnoj matematičkoj formuli i dodatno jamstveno razdoblje (10%) prema preciznoj bodovnoj ljestvici s definiranim rasponima mjeseci. Nema dvosmislenih ili kvalitativnih/opisnih kriterija koji bi ostavljali prostor za subjektivnu procjenu.",
+      "citat": "Ponuda s najniže ponuđenom cijenom dobiva 90 bodova, a ostale ponude se boduju prema formuli: Ymin/Yp x 90"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 5,
+      "obrazlozenje": "Predmet nabave (rekonstrukcija i dogradnja vatrogasnog doma) opisan je kroz potpuni glavni projekt u 6 mapa (arhitektonski, instalacije vode i kanalizacije, fizika zgrade, elektroinstalacije, građevinski projekt konstrukcije, strojarski projekt) te iznimno detaljan stavkovni troškovnik s točnim mjerama, dimenzijama i količinama po svakoj pojedinoj radnji. Razina detalja omogućuje izradu usporedive ponude bez nejasnoća o opsegu radova.",
+      "citat": "Strojni iskop jame za izvedbu vodospreme, dubina iskopa je 4,2m."
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dokumentacija sadrži sve standardne dijelove (opći podaci, upute za ponuditelje, kriteriji kvalitativnog odabira s ESPD uputama, kriterij za odabir ponude, obrasce 1-4) i potpunu tehničku dokumentaciju (projekt, troškovnik, elaborat zaštite na radu, iskaznica energetskih svojstava, potvrda glavnog projekta, rješenje o izmjeni građevinske dozvole). Sve potrebno za samostalnu izradu ponude jasno je navedeno i priloženo.",
+      "citat": "Elektronička ponuda mora sadržavati najmanje: Uvez ponude, Popunjeni eESPD obrazac, Popunjen troškovnik"
+    },
+    "prosjecna_ocjena": 5.0
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak"
+  },
+  "napomena": "Jedina identificirana referenca na konkretnu marku (Ytong, u troškovniku, zidanje konstrukcija od plinobetona) izravno je popraćena formulacijom 'ili jednakovrijedno', a dokumentacija dodatno sadrži generičku odredbu o jednakovrijednosti za svako upućivanje na marku/normu/oznaku. Uvjet tehničke sposobnosti (1-3 reference radova u vrijednosti minimalno polovice procijenjene vrijednosti nabave kroz 6 godina) proporcionalan je i standardan za radove ove vrijednosti. Postupak je zaprimio 5 ponuda, što potvrđuje odsutnost praktičnog restriktivnog učinka. Sve relevantne .txt datoteke iz extracted/ pročitane su u cijelosti; kvaliteta ekstrakcije teksta je dobra (bez vidljivih OCR artefakata u ključnim dokumentima)."
+}

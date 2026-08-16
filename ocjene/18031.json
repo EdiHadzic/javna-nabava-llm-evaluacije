@@ -1,0 +1,30 @@
+{
+  "postupak_id": 18031,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriteriji za odabir ekonomski najpovoljnije ponude su potpuno mjerljivi i matematički definirani: cijena nosi 90 bodova (formula Cn = Cmin/Cp x 90,00), dodatno jamstvo za izvršene radove nosi 10 bodova (formula JR = (Jr pon - 24)/(Jr maks - 24) x 10), s jasno navedenim minimalnim (24 mj.) i maksimalnim (60 mj.) jamstvenim rokom te pravilom za slučaj izostanka izjave o jamstvu. Definirano je i pravilo za jednako rangirane ponude (raniji primitak ponude).",
+      "citat": "Cn = Cmin / Cp x 90,00 ... JR =( Jr pon -24)/(Jr maks – 24 ) x 10"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Opis predmeta nabave vrlo je konkretan (dvije funkcionalne cjeline, DN 300 cjevovod, 2,4 km i 2,7 km, CPV 45232150, tehnički uvjeti oko izvođenja u jednom prometnom traku, sanacija štete o trošku izvođača). Detaljne tehničke specifikacije i projektna dokumentacija nisu izravno uključene u dokumentaciju o nabavi nego se dobivaju zasebno (e-mailom na zahtjev ili preuzimanjem s vanjske web stranice naručitelja), što je vidljivo i iz ponovljenih upita ponuditelja o lokaciji projektne dokumentacije u modulu Pitanja/Pojašnjenja - blaga prepreka usporedivosti bez dodatnog koraka, ali ne narušava jasnoću opisa samog predmeta.",
+      "citat": "Detaljne tehničke specifikacije se nalaze u zasebnom prilogu."
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 4,
+      "obrazlozenje": "Dostupan je širok i sadržajan skup dokumenata (Opći podaci, Kriteriji za kvalitativni odabir, Kriterij za odabir ponude, Tehničke specifikacije, Prijedlog ugovora, Troškovnik u xlsx, Upute za ponuditelje, Obavijest o nadmetanju i o dodjeli, Zapisnici o pregledu i ocjeni, Odluka o odabiru), a naručitelj je uredno i pravodobno odgovarao na upite putem EOJN modula. Ipak, više gospodarskih subjekata je ponovljeno tražilo projektnu dokumentaciju/poveznicu jer ista nije bila izravno priložena dokumentaciji o nabavi na portalu, što ukazuje na manju prazninu u samostalnoj dostupnosti kompletne dokumentacije bez dodatne komunikacije s naručiteljem.",
+      "citat": "Poštovani, molimo projektnu dokumentaciju ili link ako ste ga dali negdje u dokumentaciji."
+    },
+    "prosjecna_ocjena": 4.33
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [
+      "Uvjet tehničke sposobnosti zahtijeva najmanje 1 referentni ugovor iste/slične vrste (izgradnja/rekonstrukcija komunalnih vodnih građevina za javnu vodoopskrbu) čija vrijednost nije manja od procijenjene vrijednosti nabave (1.125.000,00 EUR bez PDV-a), uz dodatni uvjet ukupne dužine cjevovoda ne manje od 5000 m - brojčano zahtjevno, ali proporcionalno opsegu i vrijednosti ovog konkretnog posla (ukupno cca 5,1 km cjevovoda u vrijednosti preko 1,1 mil. EUR) te unutar uobičajenih granica dopuštenih ZJN-om (referentna vrijednost ne prelazi dvostruku procijenjenu vrijednost).",
+      "U troškovniku se mjestimice upućuje na marku/tip proizvoda, no dokumentacija dosljedno i eksplicitno primjenjuje klauzulu 'ili jednakovrijedno' (čl. 209.-211. ZJN) na sve takve stavke i norme, uključujući slučajeve gdje je naručitelj to propustio izrijekom navesti."
+    ],
+    "rizik": "nizak"
+  },
+  "napomena": "Pročitane su sve dostupne .txt datoteke u extracted/ (24 dokumenta) - dokumentacija o nabavi, kriteriji, tehničke specifikacije, upute za ponuditelje, obavijesti o nadmetanju i dodjeli, zapisnici o pregledu i ocjeni ponuda te korespondencija (Odgovori, Zahtjev i odgovor TIM d.o.o.). U postupku je sudjelovao stvaran broj konkurentnih ponuditelja (4, iz različitih dijelova RH), što empirijski potkrepljuje procjenu niskog rizika restriktivnosti. Manji dokumenti (Popis ugovora, Izjava resursi - ranije zabilježeni kao mogući OCR/scan gap) sada sadrže čitljiv, netrivijalan tekst."
+}

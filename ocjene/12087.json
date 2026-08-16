@@ -1,0 +1,40 @@
+{
+  "postupak_id": 12087,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij ENP raščlanjen je na cijenu (90 bodova) i jamstveni rok (10 bodova), s eksplicitnim matematičkim formulama za bodovanje, propisanim minimalnim pragom (1 godina) za necjenovni kriterij, pravilom zaokruživanja na šest decimala i jasnim pravilom za rangiranje jednako bodovanih ponuda (ranije zaprimljena ponuda).",
+      "citat": "Bodovi za svaki od kriterija računa se na šest decimala, zaokruživanjem na više."
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 5,
+      "obrazlozenje": "Opis predmeta nabave vrlo je konkretan (točan tip i broj vozila, motor, mjenjač, godina nabave, trajanje i opseg jamstva), a Troškovnik navodi kataloški broj za svaku od preko 100 stavki rezervnih dijelova uz okvirne količine. Specifičnost proizlazi iz same prirode predmeta (održavanje već posjedovanog voznog parka u jamstvenom roku), a ne iz proizvoljnog suženja - dodatno ublaženo dosljednom formulacijom \"ili jednakovrijedan\" za sve stavke.",
+      "citat": "Iveco Crossway (13 vozila) Motor: Tector 7 235 kW (320 KS) Euro 6 Mjenjač: Automatic VOITH D864.6"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dokumentacija je cjelovita i međusobno usklađena: Opći podaci, Upute za ponuditelje, Kriteriji za odabir ponude, Kriteriji kvalitativnog odabira gospodarskog subjekta, Tehničke specifikacije i potpuno popunjiv Troškovnik s uputama za popunjavanje, uključujući i predložak Izjave o ovlaštenom servisu. Sadrži sve elemente potrebne za samostalnu izradu ponude bez dodatnih pojašnjenja.",
+      "citat": "U Troškovniku je naveden kataloški broj za sve stavke rezervnih dijelova, kojim se definiraju minimalne tehničke specifikacije za rezervne dijelove"
+    },
+    "prosjecna_ocjena": 5.0
+  },
+  "restriktivnost": {
+    "prisutno": true,
+    "indikatori": [
+      {
+        "opis": "Predmet nabave i uvjet tehničke sposobnosti eksplicitno su vezani uz jednu markicu vozila (IVECO) i zahtijevaju ovlašteni IVECO servis.",
+        "citat": "ponuditelj mora imati na raspolaganju ovlašteni servis... koju potpisuje proizvođač vozila ili ovlašteni dobavljač/uvoznik za Republiku Hrvatsku vozila marke IVECO"
+      },
+      {
+        "opis": "Kataloški brojevi u Troškovniku preuzeti su iz licenciranog elektroničkog programa proizvođača IVECO, što je inherentno vezano uz jednog proizvođača.",
+        "citat": "Naručitelj je u troškovniku... naveo originalne kataloške brojeve rezervnih dijelova proizvođača autobusa koristeći se licenciranim elektroničkim programom proizvođača autobusa IVECO"
+      },
+      {
+        "opis": "Ublažavajući čimbenik: za rezervne dijelove izričito je dopuštena jednakovrijedna zamjena, čime se ne isključuju alternativni dobavljači dijelova, samo servis mora biti ovlašten za marku IVECO.",
+        "citat": "Sve stavke označene su izrazom „ili jednakovrijedan“."
+      }
+    ],
+    "rizik": "nizak"
+  },
+  "napomena": "Svi ključni dokumenti dostupni su i čitljivi (.html i .pdf ekstrakcije potpune, bez naznaka OCR/scan gapa). Brand-specifičnost (IVECO) proizlazi objektivno iz predmeta nabave - riječ je o održavanju već posjedovanog voznog parka od 13 autobusa IVECO unutar jamstvenog roka, gdje je zahtjev za ovlaštenim servisom pravno i tehnički opravdan uvjetima jamstva vozila, a ne proizvoljno postavljen radi favoriziranja određenog ponuditelja - stoga je rizik ocijenjen niskim unatoč prisutnosti brand-specifičnog indikatora."
+}

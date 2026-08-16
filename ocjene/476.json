@@ -1,0 +1,49 @@
+{
+  "postupak_id": 476,
+  "broj_pojedinacnih_runova": 2,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Oba pokretanja neovisno utvrđuju da je kriterij odabira ekonomski najpovoljnija ponuda potpuno formaliziran i mjerljiv: cijena nosi 90% s eksplicitnom matematičkom formulom, a preostalih 10% (vrijeme preuzimanja otpada u izvanrednim okolnostima) boduje se prema jasno definiranim, uzajamno isključivim rasponima bez prostora za subjektivnu prosudbu naručitelja.",
+      "citat": "Vrijeme preuzimanja u roku od ≤ 15 sati - 10 bodova; Vrijeme preuzimanja u roku od 16 do 23 sata - 5 bodova; Vrijeme preuzimanja u roku od 24 sata - 0 bodova",
+      "runovi": [
+        5,
+        5
+      ],
+      "slaganje": "puno"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Oba pokretanja neovisno zaključuju da je predmet nabave detaljno specificiran (popis otpada prema kataloškim brojevima iz Pravilnika o katalogu otpada, okvirne količine po stavci, tehnički zahtjevi sukladni Pravilniku o gospodarenju medicinskim otpadom, dinamika preuzimanja), što omogućuje usporedivost ponuda. Ocjena je 4, a ne 5, zbog blage širine u zahtjevu za spremnike (raspon volumena 1-60 litara) koja ponuditelju ostavlja određeni prostor, no ne do mjere koja bi isključivala razumne alternative.",
+      "citat": "Gospodarski subjekt posjeduje spremnike volumena od 1 litre do 60 litara",
+      "runovi": [
+        4,
+        4
+      ],
+      "slaganje": "puno"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Oba pokretanja potvrđuju da je dostupan cjelovit set dokumentacije (Opći podaci, Upute za ponuditelje, Kriteriji za kvalitativni odabir s eESPD uputama, Troškovnik/tehnička specifikacija, prijedlog ugovora s prilozima o plaćanju, penalima i raskidu) koji zajedno omogućuju samostalnu izradu ponude bez potrebe za dodatnim pojašnjenjima.",
+      "citat": "Elektronička ponuda mora sadržavati najmanje: Uvez ponude, Popunjeni eESPD obrazac, Popunjen troškovnik",
+      "runovi": [
+        5,
+        5
+      ],
+      "slaganje": "puno"
+    },
+    "prosjecna_ocjena": 4.67
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak",
+    "runovi_prisutno": [
+      false,
+      false
+    ],
+    "slaganje": "puno"
+  },
+  "napomena": "Zaprimljena je samo jedna ponuda (GAJETA, d.o.o.), no dokumentacija ne sadrži naznake namjernog sužavanja tržišta prema jednom ponuditelju (nema reference na marku/patent, tehnički uvjeti i referentni prag proizlaze iz sektorske regulacije i proporcionalni su vrijednosti nabave) - vjerojatnije objašnjenje je uska specijalizacija tržišta gospodarenja medicinskim/opasnim otpadom u RH (malen broj licenciranih operatera). Nekoliko datoteka u extracted/ (potpisane/skenirane verzije Zapisnika o pregledu i ocjeni, Odluke o odabiru i Mišljenja povjerenika za otpad) ekstrahirano je prazno ili gotovo prazno zbog neuspjelog OCR-a nad skeniranim PDF-ovima, ali sadržajno identične nepotpisane/HTML verzije istih dokumenata bile su dostupne i pročitane u oba pokretanja, tako da gubitak informacije ne utječe na ocjenu.",
+  "napomena_resolvera": "Oba pokretanja slažu se brojčano na sve tri dimenzije transparentnosti (5/4/5) te na restriktivnost (prisutno: false, rizik: nizak); obrazloženja i citati sadržajno su kompatibilni (isti nalazi, ista argumentacija) bez pravog razilaženja. Nije bilo potrebe za samostalnim ponovnim čitanjem izvornog teksta iz Diplomski/Postupci/476/extracted/ jer nije postojao slučaj 'rascjep' ni na jednoj dimenziji - riječ je isključivo o slaganju tipa 'puno'. Jedina razlika bila je stilska (run_1 je u polju restriktivnost.indikatori naveo obrazložne napomene o odsutnosti rizika umjesto liste stvarnih indikatora prisutnosti restriktivnosti; budući da je prisutno: false u oba pokretanja, finalno polje indikatori ostavljeno je prazno, sukladno shemi pojedinačnog skilla). Razina pouzdanosti finalne ocjene: visoka."
+}

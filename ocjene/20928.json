@@ -1,0 +1,27 @@
+{
+  "postupak_id": 20928,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij za odabir ponude (ekonomski najpovoljnija ponuda) potpuno je jasno i mjerljivo definiran: cijena nosi 90 bodova, jamstveni rok za otklanjanje nedostataka 10 bodova, uz eksplicitne matematičke formule za izračun bodova za oba kriterija te maksimalne/minimalne vrijednosti (npr. jamstveni rok se boduje od 0 do 36 dodatnih mjeseci). Nema prostora za subjektivnu ocjenu.",
+      "citat": "C= (Cmin/Cp) x 90 ... J= (Jo/Jn) *10, 10= maksimalni broj bodova"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 3,
+      "obrazlozenje": "Opis predmeta nabave oslanja se na Elaborat otklanjanja nedostataka sudskog vještaka, koji sam po sebi ne utvrđuje točan uzrok problema procurijevanja, nego predviđa istražne radove ('detekcija i točno stanje moguće tek po otvaranju svih navedenih pozicija') i dio stavki troškovnika obračunava se 'prema stvarno izvedenim količinama'. Zainteresirani gospodarski subjekt u Odgovorima izričito je ukazao na tu nedorečenost i na nerazmjer između opsega istražno-sanacijskih radova i izvorno predviđene (pa potom ublažene) totalne odgovornosti izvođača, što naručitelj djelomično prihvaća. To je stvarna nesigurnost u opisu predmeta, ne artefakt ekstrakcije teksta.",
+      "citat": "nisu utvrđeni uzroci, odnosno mjesta gdje nastaju problemi vlaženja... nije jasno da li su navedene odredbe namjerne"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 4,
+      "obrazlozenje": "Dokumentacija je za samostalnu izradu ponude formalno potpuna: dostupni su Opći podaci, Upute za ponuditelje, Kriteriji za kvalitativni odabir, zaseban dokument s formulom ENP, popunjiv troškovnik, prijedlog ugovora i predlošci izjava. Naručitelj je kroz modul Pitanja/Pojašnjenja odgovorio na sadržajno pitanje o dosegu jamstva i sukladno tome izmijenio dokumentaciju (uklonio jamstva za bitne nedostatke građevine/zemljišta/opreme), čime je uklonjena dvosmislenost. Ocjena nije 5 jer temeljni tehnički dokument (Elaborat) ostaje mjestimično neodređen glede točnih količina i uzroka, što se prenosi i na ponudu unatoč formalnoj cjelovitosti seta dokumenata.",
+      "citat": "Naručitelj prihvaća primjedbu zainteresiranog gospodarskog subjekta, te iz dijela Kriterij za odabir ponude i ostalih dijelova Dokumentacije o nabavi i priloga uklanja jamstva"
+    },
+    "prosjecna_ocjena": 4.0
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak"
+  },
+  "napomena": "Pročitani su svi relevantni dokumenti u extracted/: Opći podaci o postupku nabave, Obavijest o nadmetanju, Kriteriji za kvalitativni odabir gospodarskog subjekta, Kriterij za odabir ENP, Upute za ponuditelje, Elaborat otklanjanja nedostataka (nalaz-misljenje-inkub-predaja.pdf), Troškovnik, Odgovori na pitanja, Zapisnik o pregledu i ocjeni ponuda (dvije verzije) i Odluka o odabiru. Tekst tehničke specifikacije/troškovnika ne sadrži reference na specifičan proizvod, marku ili patentirano rješenje (materijali su opisani generički, npr. 'armafleks ili slično'), a traženi referentni prag (minimalno jedan izvršeni posao u visini procijenjene vrijednosti nabave, u zadnjih 5 godina) proporcionalan je i uobičajen za radove ove vrijednosti (84.500 EUR) te ne ukazuje na prilagođenost određenom ponuditelju. Zaprimljena je samo jedna ponuda (SARAĐEN d.o.o. - koji je ujedno bio i izvorni izvođač radova na objektu iz 2018-2020, prema Elaboratu), ali ta činjenica proizlazi iz same prirode posla (sanacija skrivenih nedostataka na već izgrađenom objektu, uz uvjete koje je ponuditelj u Odgovorima opisao kao rizične) i nije potkrijepljena tekstualnim indikatorima prilagodbe dokumentacije tom ponuditelju."
+}

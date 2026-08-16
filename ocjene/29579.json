@@ -1,0 +1,27 @@
+{
+  "postupak_id": 29579,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriteriji za odabir ponude su ekstremno jasno definirani i u potpunosti mjerljivi. Koristi se jednostavna ekonomski najpovoljnija ponuda s dva jasna parametra: cijena (90 bodova - pobjeđuje najniža cijena) i jamstveni rok (10 bodova - skala od 24-60 mjeseci). Priložena je detaljno objašnjena formula za izračun bodova, uključujući kako se boduju sve ponude u odnosu na najbolju vrijednost.",
+      "citat": "Kriterij za odabir ponude je ekonomski najpovoljnija ponuda (ENP). Parametri kriterija i način bodovanja opisani su u ovom dokumentu. Cijena: 90 bodova; Jamstveni rok za otklanjanje nedostataka: 10 bodova."
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 5,
+      "obrazlozenje": "Troškovnik sadrži 107 detaljnih stavki s preciznim opisima, mjernim jedinicama, okvirnim količinama i tehničkim specifikacijama. Svaka stavka je neovisno specificirana (npr. beton klase C25/30, kamene ploče specifičnih dimenzija, oprema s točnim parametrima). Dio 'Uvodne napomene' jasno nabraja sve što je uključeno u cijene (rad, materijal, režije, davanja, sve troškove). Zahtjevi za izvođenje radova referenciraju hrvatske norme, zakone i pravilnike.",
+      "citat": "Cijene radova: odnose se na jediničnu cijenu gotovog posla. To znači da jedinične cijene obuhvaćaju sve troškove rada, materijala, režije gradilišta i poduzeća, sva davanja i zaradu poduzeća, dakle sve troškove bilo koje vrste."
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dostupna je sveobuhvatna dokumentacija za samostalnu izradu ponude: (1) Kriteriji za odabir ponude s formulama; (2) Kriteriji za kvalitativni odabir (ESPD, iskustvo, oprema); (3) Tehnička specifikacija koja eksplicitno remitiraj na Troškovnik; (4) Troškovnik s 107 stavki i detaljnim opisima; (5) Opći podaci o postupku; (6) Prijedlog okvirnog sporazuma; (7) Obavijest o dodjeli (award notice). Ponuditelj ima svu potrebnu informaciju za uspješnu ponudu.",
+      "citat": "Predmet nabave detaljno je opisan u Prilogu - Troškovnik. Sve radove izvođač mora izvesti u skladu s važećim zakonima i propisima, hrvatskim normama i pravilnicima."
+    },
+    "prosjecna_ocjena": 5.0
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak",
+    "napomena": "Specifikacija je tehnički detaljno razrađena ali tehnološki neutralna. Nijedan dio specifikacije se ne referira na specifične brendove, proizvođače ili patentirane rješenja. Oprema je specificirana po tipu i tehničkim karakteristikama (npr. 'bager tokač mase min. 18 t sa hidrauličkim čekićem'), što omogućava konkurentske ponude različitih dobavljača. Iako je primljeno samo 1 ponudu, to nije pokazatelj restriktivnosti specifikacije već potencijalno odraz tržišnih uvjeta. Okvirni sporazum je dodijeljen na temelju ekonomski najpovoljnije ponude, što je standardan pristup."
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "postupak_id": 11306,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriteriji za odabir ponude (cijena 80 %, jamstveni rok 20 %) definirani su egzaktnim matematičkim formulama, tablicom bodovanja po rasponima jamstvenog roka (120–180 mjeseci) i pravilom za rangiranje kod jednakog broja bodova. Nema prostora za diskrecijsko tumačenje.",
+      "citat": "Ponuda s najnižom cijenom dobiva 80,00 bodova, dok se ostale ponude boduju prema formuli... Minimalan jamstveni rok je 120 mjeseci, a maksimalni rok koji se uzima u obzir je 180 mjeseci."
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Opis predmeta nabave razrađen je kroz detaljan stavkovni troškovnik (7 skupina radova: demontaže, tesarski, zidarski, limarski, soboslikarsko-ličilački, elektrotehnički radovi) s jedinicama mjere i količinama za svaku stavku, što omogućuje usporedive ponude. Dvije stavke troškovnika referiraju konkretnu marku/tip proizvoda (izolacijski filc Ursa SF 34, crijep Tondach Venera), ali uz eksplicitno dopuštenu jednakovrijednost s mjerljivim tehničkim parametrima (koeficijent toplinske provodljivosti, klasa reakcije na požar, dimenzije, masa), čime se izbjegava stvarno sužavanje kruga ponuditelja.",
+      "citat": "Dobava materijala i postava... izolacijskog filca... tip Ursa SF 34 (ili jednakovrijedno) Kriterij za ocjenu jednakovrijednosti: *koeficijent toplinske provodljivosti λ= 0,034 W/mK, prema EN 13162"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dostupan je pun set dokumenata potreban za samostalnu izradu ponude: opći podaci o postupku, kriteriji kvalitativnog odabira gospodarskog subjekta (s detaljnim uvjetima sposobnosti, referencama, stručnjacima), kriteriji za odabir ponude, tehničke specifikacije, stavkovni troškovnik, uvjeti plaćanja te obrasci priloga (popis radova, izjava o stručnjacima, izjava o jamstvenom roku, prijedlog ugovora). Nema naznaka nedostajućih dijelova dokumentacije.",
+      "citat": "Detaljne tehničke specifikacije se nalaze u zasebnom prilogu... Detaljan troškovnik se nalazi u zasebnom prilogu – Troškovnik."
+    },
+    "prosjecna_ocjena": 4.67
+  },
+  "restriktivnost": {
+    "prisutno": true,
+    "indikatori": [
+      {
+        "opis": "Referenca na konkretnu marku i tip toplinske izolacije (Ursa SF 34) u stavci troškovnika, uz dopuštenu jednakovrijednost i jasne tehničke parametre za dokazivanje jednakovrijednosti.",
+        "citat": "izolacijskog filca (toplinska i zvučna izolacija) izrađenog od mineralne staklene vune debljine 5 cm, tip Ursa SF 34 (ili jednakovrijedno)"
+      },
+      {
+        "opis": "Referenca na konkretnu marku i tip crijepa (Tondach Venera) u stavci troškovnika, uz dopuštenu jednakovrijednost i detaljne kriterije jednakovrijednosti (boja, dimenzije, masa, letvanje, utrošak po m2, pokrovna širina).",
+        "citat": "Dobava i postava mediteran crijepa Tondach tip Venera (ili jednakovrijedno) na prethodno postavljene letve."
+      }
+    ],
+    "rizik": "nizak",
+    "napomena_restriktivnost": "Iako su dvije stavke troškovnika formulirane preko konkretne marke/tipa proizvoda, dokumentacija (i opća klauzula u Tehničkim specifikacijama, t. 5–7) eksplicitno i sustavno dopušta jednakovrijedna rješenja uz objektivne, mjerljive tehničke kriterije jednakovrijednosti te propisuje da naručitelj ne smije odbiti ponudu koja jednakovrijedno zadovoljava funkcionalne zahtjeve. Razina sposobnosti (min. 1 referenca u vrijednosti 95.000 EUR, 1 inženjer gradilišta) proporcionalna je procijenjenoj vrijednosti nabave (95.153 EUR). Postupak je zaprimio 7 ponuda od 7 različitih gospodarskih subjekata, što empirijski ne upućuje na sužavanje tržišnog natjecanja."
+  },
+  "napomena": "Pročitano svih 17 relevantnih .txt datoteka u extracted/ (Prilozi.zip.txt prazan, 0 bajtova - nije sadržavao dodatni tekst). Zapisnik o pregledu i ocjeni pokazuje da je jedna ponuda (GRADING ZIDARIĆ) odbijena zbog nedokazane tehničke i stručne sposobnosti (oslanjanje na podugovaratelja koji izvodi tek 0,79% ugovora) - ovo je primjena, ne indikator restriktivnosti same dokumentacije, jer je kriterij sposobnosti unaprijed jasno propisan i primijenjen jednako na sve ponuditelje."
+}

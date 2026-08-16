@@ -1,0 +1,36 @@
+{
+  "postupak_id": 13970,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij odabira je ekonomski najpovoljnija ponuda (ENP), identično strukturiran za svih 16 grupa: cijena nosi 90 bodova, rok plaćanja 10 bodova. Formula bodovanja cijene (najniža cijena = 90 bodova, ostale proporcionalno) i tablica bodovanja roka plaćanja (30 dana = 0 bodova, ..., 60 dana = 10 bodova) navedene su eksplicitno, uz gornju i donju granicu dopuštenog roka i pravilo za jednako rangirane ponude (ranije zaprimljena ponuda pobjeđuje). Nema dvosmislenosti niti subjektivnih (opisnih) kriterija.",
+      "citat": "Ponuda s najnižom cijenom dobiva 90,00 bodova... 60 dana - 10,00 bodova... Naručitelj je ograničio najviši dozvoljeni iznos za kriterij 60,00"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Troškovnici po grupama (16 grupa, prehrambeni proizvodi) sadrže vrlo konkretne stavke: gramaže/veličine pakiranja, raspone masa komada, kategorije kvalitete, udjele sastojaka, izostanak aditiva i sl. (npr. specifikacije mesa, ribe, tjestenine), što omogućuje usporedivost ponuda. Detalj je mjestimično vrlo visok. Umanjeno s 5 na 4 jer se u više desetaka stavki (osobito grupa 1 - mješovite namirnice) kao referentna vrijednost navode konkretni komercijalni brendovi (Podravka, Kraš, Jamnica, Vegeta, Cedevita, Lino Lada, Argeta, Zlato polje, Koestlin), doduše dosljedno uz klauzulu 'ili jednakovrijedno' i kriterije jednakovrijednosti (dopušteno odstupanje +/-3%), što je zakonski dopušteno (čl. 200. ZJN2016), ali ipak povećava orijentacijski teret na konkretne proizvode umjesto isključivo funkcionalnog opisa.",
+      "citat": "Kavovina \"Divka\" 250 g (kriterij jednakovrijednosti: prženi ječam 70%; prženi korjen cikorije 30%)"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dostupan je pun i međusobno konzistentan set dokumentacije: Opći podaci o postupku, Kriteriji za odabir ponude, Kriteriji za kvalitativni odabir gospodarskog subjekta, Upute za ponuditelje, tehnička specifikacija s uputom na detaljne troškovnike (16 zasebnih priloga po grupama s količinama i specifikacijama), Odgovori na pitanja zainteresiranih gospodarskih subjekata, Odluka o odabiru s obrazloženjima po grupama i podacima o zaprimljenim ponudama, te zapisnici o pregledu i ocjeni ponuda. Sve što je potrebno za samostalnu izradu ponude (predmet, količine, kriteriji, uvjeti sposobnosti, obrasci ESPD) je prisutno.",
+      "citat": "Zahtjevi tehničke specifikacije predmeta nabave, njena vrsta, kvaliteta, minimalne karakteristike i količina iskazana je u prilogu 5. – troškovnicima po grupama predmeta nabave"
+    },
+    "prosjecna_ocjena": 4.67
+  },
+  "restriktivnost": {
+    "prisutno": true,
+    "indikatori": [
+      {
+        "opis": "Više desetaka stavki u troškovniku grupe 1 (Mješovite namirnice i bezglutenski proizvodi) i pojedine stavke u drugim grupama referenciraju konkretne komercijalne brendove kao mjerilo kvalitete/sastava (Podravka, Kraš, Jamnica, Vegeta, Cedevita, Lino Lada, Argeta, Zlato polje, Koestlin, Sana). Rizik je ublažen time što je dosljedno uz svaku takvu stavku navedena klauzula 'ili jednakovrijedno' s konkretnim mjerljivim kriterijima jednakovrijednosti (npr. nutritivne vrijednosti na 100 g), što je u skladu s čl. 200. ZJN2016, pa ne djeluje kao stvarna prepreka jednakovrijednim ponudama.",
+        "citat": "Namaz čokoladni kao Lino Lada ili jednakovrijedno, pak. 50 g sastav: šećer palmino ulje, lješnjaci (10 %), kakaov prah smanjene masti (3 %), punomasno mlijeko u prahu (9%)"
+      },
+      {
+        "opis": "Naručitelj nije prihvatio zahtjev jednog gospodarskog subjekta (postavljen kroz modul Pitanja/Pojašnjenja) da se troškovnik grupe 6 (riba) dodatno podijeli po CPV podrazredima (svježe/smrznuto/prerađeno), što bi po navodu podnositelja zahtjeva omogućilo sudjelovanje većem broju specijaliziranih ponuditelja. Ovo nije prilagodba specifikacije određenom ponuditelju u užem smislu (nema favoriziranja konkretnog brenda/dobavljača), nego strukturna odluka o broju/opsegu grupa koja može posredno smanjiti broj potencijalnih ponuditelja po grupi - navedeno radi cjelovitosti, ne ulazi u ocjenu rizika ispod.",
+        "citat": "Podjela Troškovnika na grupe bi dovela do otvaranja tržišta većem broju gospodarskih subjekata... Naručitelj je odredio grupe proizvoda prema svojim potrebama... Naručitelj ne prihvaća prijedloge za izmjene."
+      }
+    ],
+    "rizik": "nizak"
+  },
+  "napomena": "Pročitani su svi relevantni dokumenti u extracted/ (opći podaci, oba dokumenta o kriterijima, upute za ponuditelje, tehnička specifikacija, svih 16 troškovnika po grupama, odgovori na pitanja, odluka o odabiru, zapisnici o pregledu i ocjeni te odluka o odabiru u pdf/html inačicama). Svi Prilozi *.zip.txt su prazne (0 bajtova) izvorne arhive - poznato ograničenje ekstrakcije, nisu bili potrebni jer su ključni dokumenti dostupni u drugim formatima (html/pdf/xls/xlsx). Postupak je podijeljen u 16 grupa; kriteriji odabira i tehnička specifikacija strukturno su identični po grupama pa je ocjena rađena na razini cijelog postupka, ne po grupi."
+}

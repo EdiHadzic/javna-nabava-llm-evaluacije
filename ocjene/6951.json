@@ -1,0 +1,31 @@
+{
+  "postupak_id": 6951,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriteriji za odabir ponude (ekonomski najpovoljnija ponuda) potpuno su kvantificirani: cijena 90 bodova, jamstveni rok za otklanjanje nedostataka 10 bodova, uz eksplicitne matematičke formule bodovanja, gornju i donju granicu ponuđene vrijednosti (12-60 mjeseci) i pravilo za jednako rangirane ponude (vremenski prioritet). Nema dvosmislenosti niti subjektivne prosudbe u postupku bodovanja.",
+      "citat": "Ponuda s najnižom cijenom dobiva 90,00 bodova, dok se ostale ponude boduju prema formuli"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 5,
+      "obrazlozenje": "Tehnička specifikacija (Prilog 4) sadrži 12 konkretnih, mjerljivih stavki (materijal PEHD/HDPE, zapremina 240 L, primjenjive EN norme 840-1/5/6, promjer kotača, boja, jamstveni rok, utor za čip i dr.) uz mogućnost dokazivanja jednakovrijednosti za svaku normu. Predmet je jednostavan (jedna vrsta proizvoda, jedna stavka troškovnika), pa je razina detalja u potpunosti dostatna i usporediva bez nepotrebnog suženja tržišta.",
+      "citat": "6. Kotači: gumirani, promjera min. 200 mm sa metalnom osovinom koja je elektrolitski cinčana ili jednakovrijedno zaštićena"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dostupni su svi dokumenti potrebni za samostalnu izradu ponude: opći podaci o postupku, kriteriji kvalitativnog odabira s uputama za ESPD, kriteriji za odabir ponude s formulama, upute za ponuditelje (jamstva, rokovi, način dostave), tehnička specifikacija i troškovnik. Naručitelj je dodatno pravodobno odgovorio na postavljeno pitanje i objavio izmjenu dokumentacije prije roka za dostavu ponuda, čime je dokumentacija ostala ažurna i dosljedna.",
+      "citat": "Zahtjev se prihvaća. Naručitelj će izmjeniti Tehničke specifikacije."
+    },
+    "prosjecna_ocjena": 5.0
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [
+      "Naručitelj izričito navodi da ne upućuje na određenu marku, izvor, proces ili zaštitni znak i dopušta dokazivanje jednakovrijednosti za sve EN norme (840-1, 840-5, 840-6), što je standardna praksa za spremnike za otpad u RH.",
+      "Izvorna tehnička specifikacija tražila je kotače promjera min. 250 mm, što je jedan ponuditelj osporio kao neopravdano restriktivno (EN 840-1 propisuje standardni promjer 200 mm, a veći promjer ne utječe na funkcionalnost); naručitelj je zahtjev prihvatio i izmijenio specifikaciju na 200 mm prije isteka roka za dostavu ponuda, čime je otklonjen potencijalni restriktivni element.",
+      "Zaprimljeno je 6 ponuda, a ugovorena vrijednost (74.100 EUR) je 32,6% niža od procijenjene (110.000 EUR), što ukazuje na zdravu konkurenciju bez znakova sužavanja tržišta u konačnoj verziji dokumentacije."
+    ],
+    "rizik": "nizak"
+  },
+  "napomena": "Pročitane su sve dostupne .txt datoteke u extracted/ (opći podaci, kriteriji kvalitativnog odabira, kriteriji za odabir ponude, upute za ponuditelje, tehnička specifikacija u dva formata, troškovnik, odgovori na upite, dvije obavijesti o izmjeni, obavijest o dodjeli ugovora, zapisnici o pregledu i ocjeni). Dokumentacija je potpuna i međusobno konzistentna. Zanimljiv nalaz: postupak sadrži dokumentiran primjer samokorekcije naručitelja - izvorno postavljen zahtjev (kotači min. 250 mm) koji je mogao neopravdano suziti krug ponuditelja ispravljen je na temelju obrazloženog upita gospodarskog subjekta prije roka za dostavu ponuda, što je uzeto u obzir pri ocjeni restriktivnosti (ocijenjeno prema konačnoj, ne izvornoj verziji dokumentacije)."
+}

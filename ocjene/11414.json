@@ -1,0 +1,36 @@
+{
+  "postupak_id": 11414,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriteriji za odabir ponude potpuno su operacionalizirani: cijena se boduje egzaktnom formulom, a preostala dva kriterija (broj ovlaštenih servisa, emisija CO2 za oba vozila) imaju eksplicitne bodovne ljestvice s jasnim pragovima, uključujući postupanje u slučaju nedostavljenog dokaza.",
+      "citat": "C= (Cmin/Cpp) x 80"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Tehničke specifikacije obaju vozila vrlo su konkretne (snaga, mjenjač, dimenzije, oprema, euronorma) i izražene pretežno kao minimalni pragovi, što omogućuje usporedivost ponuda više proizvođača. Jedna ocjena manje od maksimuma jer kombinacija specifičnih dimenzija (dužina/širina/visina) uz kriterij broja ovlaštenih servisa u samo jednoj županiji sužava krug realno konkurentnih marki.",
+      "citat": "Snaga motora: min. 110 kW ... Dužina: min. 4360 mm Širina: min. 1790 mm Visina: min. 1470 mm"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dokumentacija je iznimno potpuna: opći podaci, kriteriji kvalitativnog odabira s uputama o ESPD-u, kriteriji za odabir ponude, tehnička specifikacija za oba vozila, troškovnik, obrazac za CO2, popis prihvatljivog/neprihvatljivog stanja objekta leasinga te prijedlog ugovora — sve dostupno i međusobno usklađeno, dovoljno za samostalnu izradu ponude.",
+      "citat": "Prijedlog ugovora sastavni je dio dokumentacije o nabavi (Prilog 4)."
+    },
+    "prosjecna_ocjena": 4.67
+  },
+  "restriktivnost": {
+    "prisutno": true,
+    "indikatori": [
+      {
+        "opis": "Kriterij kvalitete 'Broj ovlaštenih servisa u gradu Zadru i Zadarskoj županiji' nosi 10% ukupnih bodova, ali mjeri gustoću postojeće servisne mreže ponuđene marke u samo jednoj županiji, a ne kvalitetu/cijenu vozila — sustavno pogoduje markama s već razvijenom lokalnom mrežom ovlaštenih servisa (tipično veći/etablirani distributeri) na štetu jednako kvalitetnih, ali lokalno manje zastupljenih marki.",
+        "citat": "Minimalan broj ovlaštenih servisa za ponuđenu marku vozila u gradu Zadru i Zadarskoj županiji je jedan (1)."
+      },
+      {
+        "opis": "Isti geografski uvjet ponavlja se i kao obveza izvršenja ugovora (održavanje isključivo u ovlaštenim servisima na području Grada Zadra i Zadarske županije), čime se dodatno pojačava prednost marki s postojećom lokalnom mrežom već u fazi vrednovanja ponuda.",
+        "citat": "Objekt leasinga održava se u ovlaštenim servisima na području Grada Zadra i Zadarske županije."
+      }
+    ],
+    "rizik": "srednji"
+  },
+  "napomena": "Pročitane su sve relevantne .txt datoteke iz extracted/ (opći podaci, kriteriji kvalitativnog odabira, kriteriji za odabir ponude, obje tehničke specifikacije, troškovnik, prilozi 2-4, obavijest o nadmetanju, odluka o odabiru, zapisnici o pregledu i ocjeni). Prilog 'Prilozi.zip.txt' prazan je (0 B), no sadržajno je dupliciran u zasebno izdvojenim prilozima pa nije utjecao na ocjenu. Restriktivnost je ocijenjena kao prisutna, ali umjerenog rizika jer kriterij nije isključujući (minimalno 1 servis dovoljan za sudjelovanje) i nosi relativno nizak ponder (10%) u odnosu na cijenu (80%)."
+}

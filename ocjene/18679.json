@@ -1,0 +1,27 @@
+{
+  "postupak_id": 18679,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij ENP raščlanjen je na cijenu (65 bodova) i četiri kvalitativna kriterija specifičnog iskustva ključnih stručnjaka (15+5+10+5 bodova), svaki popraćen preciznom bodovnom tablicom koja za svaki mogući broj referenci (0-5) unaprijed propisuje točan broj bodova, formulom za cijenu i jasno navedenim dokazima (izjave stručnjaka). Nema prostora za diskrecijsku interpretaciju naručitelja prilikom bodovanja.",
+      "citat": "Za iskustvo na 3 usluge, Naručitelj dodjeljuje 9 bodova."
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 5,
+      "obrazlozenje": "Prilog 10 (Projektni zadatak - Tehnička specifikacija) opisuje predmet nabave iznimno detaljno: kontekst projekta, opseg usluga po fazama (priprema, građenje, jamstveni rok), točne obveze i ograničenja ovlasti Inženjera (s pozivom na konkretne članke FIDIC uvjeta ugovora), zadatke svakog od 7 stručnjaka s predviđenim brojem radnih dana na gradilištu. Opis je opsežan, ali proizlazi iz stvarne složenosti nadzora nad građevinskim projektom vrijednim preko 5,7 mil. EUR, ne djeluje neopravdano suženo.",
+      "citat": "Nadzirati građenje tako da bude u skladu s građevinskom dozvolom, odnosno glavnim projektom, Zakonom o gradnji, posebnim propisima i pravilima struke;"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dostupan je pun set dokumenata potreban za samostalnu izradu ponude: Opći podaci, Upute za ponuditelje, Kriteriji za odabir ponude, Kriteriji za kvalitativni odabir (s detaljnim uputama za ESPD i dokazivanje), Troškovnik, Prilog 10 (tehnička specifikacija) i nacrt ugovora (Prilog 4). Troškovnik je strukturno minimalan (dvije stavke tipa 'usluga'), ali to je uobičajeno za paušalno ugovorene usluge nadzora te ne narušava potpunost.",
+      "citat": "Elektronička ponuda mora sadržavati najmanje: Uvez ponude Popunjeni eESPD obrazac (ili više njih, ako je primjenjivo) Popunjen troškovnik"
+    },
+    "prosjecna_ocjena": 5.0
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak"
+  },
+  "napomena": "Pročitani svi relevantni dokumenti u extracted/ (Opći podaci, Kriteriji za odabir ponude, Kriteriji za kvalitativni odabir, Upute za ponuditelje, Troškovnik, Prilog 10 - Tehnička specifikacija, Obavijest o dodjeli ugovora). Financijski prag (min. godišnji promet 148.574,83 EUR) i prag referenci (ista vrijednost, max 2 reference) izravno odgovaraju procijenjenoj vrijednosti nabave, što je proporcionalno i uobičajeno, ne prekomjerno. Kriterij specifičnog iskustva prema FIDIC uvjetima ugovora eksplicitno je obrazložen (radovi koji su predmet nadzora ugovaraju se prema FIDIC Žutoj knjizi) i nosi tek 5 od 100 bodova kao kvalitativni, ne isključni kriterij, pa ne djeluje kao neopravdano suženje kruga ponuditelja. Obavijest o dodjeli ugovora potvrđuje da su zaprimljene 2 ponude te da je posao dobrim dijelom (54,93%) dan u podugovor, što je u skladu s otvorenošću postupka. Nema referenci na specifičan proizvod, markicu ili patentirano rješenje."
+}

@@ -1,0 +1,36 @@
+{
+  "postupak_id": 13243,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 4,
+      "obrazlozenje": "Kriterij za odabir ponude jasno je naveden i mjerljiv (jedini kriterij je cijena s udjelom 100%), no obrazac ne donosi dodatnu metodologiju bodovanja niti druge potkriterije jer se radi o pregovaračkom postupku s pozivom upućenim jednom unaprijed određenom subjektu.",
+      "citat": "Cijena Naziv kriterija Značaj Cijena 100,00"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 1,
+      "obrazlozenje": "Opis predmeta nabave svodi se na identičnu, vrlo generičku frazu ponovljenu na tri mjesta u dokumentu, bez ikakvih tehničkih parametara, opsega radova, materijala ili specifikacija koje bi omogućile usporedivu ponudu neovisnom ponuditelju.",
+      "citat": "Opis nabave: Sanacija radnih kola crpki-turbina agregata"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 1,
+      "obrazlozenje": "U direktoriju extracted/ dostupna je isključivo Obavijest o dodjeli ugovora (rezultati postupka); nema dokumentacije o nabavi, tehničke specifikacije, troškovnika niti obrazaca koji bi omogućili samostalnu izradu ponude. To je očekivano s obzirom na vrstu postupka (pregovarački bez prethodne objave, poziv upućen samo jednom subjektu), ali znači da transparentnost dokumentacije prema široj javnosti/potencijalnim ponuditeljima ne postoji.",
+      "citat": "Naručitelj sklapa s odabranim ponuditeljem ugovor o javnoj nabavi."
+    },
+    "prosjecna_ocjena": 2.0
+  },
+  "restriktivnost": {
+    "prisutno": true,
+    "indikatori": [
+      {
+        "opis": "Poziv na dostavu ponude upućen je isključivo jednom, poimence navedenom gospodarskom subjektu, obrazloženo time da je taj subjekt izvorni proizvođač opreme koja se sanira i posjeduje potrebne alate i stručnost.",
+        "citat": "Poziv na dostavu ponuda se šalje gospodarskom subjektu Voith Hydro GmbH & Co KG VHPO, Linzer Straße 55, 3100 St. Pölten, Austria obzirom da je izradila i isporučila opremu na kojoj će se izvršiti sanacija te posjeduje sve potrebne alate za pružanje predmetne usluge"
+      },
+      {
+        "opis": "Postupak je strukturno isključio konkurenciju - zaprimljena je samo jedna ponuda, dosljedno pozivu upućenom samo jednom subjektu.",
+        "citat": "Broj zaprimljenih ponuda: 1"
+      }
+    ],
+    "rizik": "srednji"
+  },
+  "napomena": "U extracted/ direktoriju postoji samo jedna datoteka - Obavijest o dodjeli ugovora (rezultati postupka, sektorski naručitelj). Nema dokumentacije o nabavi, tehničke specifikacije, kriterija za kvalitativni odabir ni obavijesti o nadmetanju jer se radi o pregovaračkom postupku bez prethodne objave poziva na nadmetanje (čl. 131. st. 1. t. 3. ZJN2016, iznimna žurnost zbog puknuća radnog kola CT1 u RHE Velebit), gdje je poziv upućen izravno samo jednom, unaprijed poznatom subjektu (izvornom proizvođaču opreme). Ocjene transparentnosti dokumentacije stoga odražavaju stvarnu, formalno dopuštenu odsutnost javno dostupne dokumentacije za ovaj tip postupka, a ne propust u prikupljanju podataka u 4.1."
+}

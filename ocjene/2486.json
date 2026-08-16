@@ -1,0 +1,27 @@
+{
+  "postupak_id": 2486,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij ENP posve je mjerljiv i formulaički definiran: cijena (90%) po formuli C=Cmin/Cp*90 i rok odaziva na reklamaciju (10%) bodovan po jasnoj tablici raspona sati (0-7:59h=10, 8-23:59h=5, 24-48h=0). Nema prostora za subjektivnu ocjenu.",
+      "citat": "C = Cmin/Cp * 90 ... Maksimalno dopušteno vrijeme roka odaziva na pismenu reklamaciju je 48 sati od trenutka slanja reklamacije"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Troškovnik i tehničke specifikacije daju konkretne, mjerljive parametre (minimalna težina, postotak nadjeva/punjenja) po stavci, uz dodatne uvjete (rok trajanja, HACCP, hladni lanac 24h). Detaljno, ali ne toliko usko da isključuje objektivno usporedive alternative različitih proizvođača.",
+      "citat": "Burek sir, težina minimalno 155g (s nadjevom od sira min. 55% pri čemu je sir u istom min. 70%)"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Kompletan standardni set dokumenata dostupan: Opći podaci, Upute za ponuditelje, Kriteriji za kvalitativni odabir, ENP kriteriji, tehničke specifikacije, troškovnik i ESPD upute - dovoljno za samostalnu izradu ponude bez dodatnih pojašnjenja.",
+      "citat": "Elektronička ponuda mora sadržavati najmanje: Uvez ponude, Popunjeni eESPD obrazac, Popunjen troškovnik"
+    },
+    "prosjecna_ocjena": 4.67
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak"
+  },
+  "napomena": "Referentni prag (isporuke u vrijednosti jednakoj procijenjenoj vrijednosti nabave) na granici je zakonski dopuštenog maksimuma iz ZJN2016, ali nije nesrazmjeran. Nema referenci na marku/patent. Zaprimljena je samo 1 ponuda (MAREX-GEL, d.o.o.), što ukazuje na nizak broj zainteresiranih ponuditelja na tržištu, no ne proizlazi iz dokumentacije koja bi bila neproporcionalno restriktivna - vjerojatnije odražava nišnost tržišta (smrznuti pekarski proizvodi za školu u Zadru)."
+}

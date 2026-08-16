@@ -1,0 +1,27 @@
+{
+  "postupak_id": 6726,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij za odabir (ekonomski najpovoljnija ponuda) potpuno je operacionaliziran matematičkom formulom za oba pondera (cijena 90 %, jamstveni rok 10 %), s jasno definiranim rasponima bodovanja, maksimalnim/minimalnim vrijednostima i pravilom za jednako rangirane ponude. Nema prostora za diskrecijsko tumačenje.",
+      "citat": "C= (Cmin/Cp) x 90 ... J= (Jo/Jn) *10 ... Maksimalni broj bodova 100"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 5,
+      "obrazlozenje": "Opis predmeta nabave upućuje na cjelovit Glavni/izvedbeni građevinski projekt (opsežna dokumentacija s tehničkim opisom, nacrtima i zakonskom regulativom) i detaljan troškovnik s općim tehničkim uvjetima. Izričito je dopuštena jednakovrijednost normi/oznaka, čime se izbjegava nepotrebno sužavanje kruga ponuditelja.",
+      "citat": "Naručitelj je definirao troškovnik na način da omogućuje svim gospodarskim subjektima jednak pristup postupku javne nabave i da ne stvara učinak neopravdanih prepreka"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 4,
+      "obrazlozenje": "Dostupan je gotovo cjelovit skup dokumentacije potreban za samostalnu izradu ponude: opći podaci, obavijest o nadmetanju, kriteriji za kvalitativni odabir, kriterij ENP, upute za ponuditelje, tehničke specifikacije, troškovnik, glavni projekt, prijedlog ugovora i obrasci. Jedna priložena arhiva (APD.rar) ekstrahirana je kao prazna datoteka, što je manji, ali stvaran nedostatak u dostupnom sadržaju.",
+      "citat": "Projektno-tehnička dokumentaciju koja je potrebna za sastavljanje ponude je u cijelosti na raspolaganju posredstvom Elektroničkog oglasnika javne nabave RH"
+    },
+    "prosjecna_ocjena": 4.67
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak"
+  },
+  "napomena": "Pročitane su sve relevantne .txt datoteke iz extracted/. Uvjeti sposobnosti (godišnji promet ≥ 190.000 EUR u zadnje 3 godine; minimalno 1 referenca radova u morskim uvjetima vrijednosti ≥ 190.000 EUR u zadnjih 5 godina) razmjerni su procijenjenoj vrijednosti i prirodi specijaliziranih radova (sanacija gata), bez indikacija prilagodbe određenom ponuditelju; postupak je okončan sa 6 zaprimljenih ponuda i ugovorenom vrijednošću 144.841,00 EUR (-23,8 % od procjene), što potvrđuje stvarnu konkurentnost. Jedina datoteka bez sadržaja: (root)__APD.rar.txt (0 bajtova, vjerojatno korumpirana/prazna izvorna arhiva)."
+}

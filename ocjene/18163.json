@@ -1,0 +1,36 @@
+{
+  "postupak_id": 18163,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij za odabir ponude (ekonomski najpovoljnija ponuda) potpuno je operacionaliziran matematičkim formulama za oba parametra (cijena 70 bodova, jamstvo za otklanjanje nedostataka 30 bodova), uz eksplicitno definirane gornju i donju granicu za jamstveni rok (24-60 mjeseci) i pravilo za jednako rangirane ponude. Kriteriji kvalitativnog odabira gospodarskog subjekta (ESPD, reference, stručnjaci) također su strukturirano razrađeni po pravnoj osnovi, pitanju i načinu dokazivanja.",
+      "citat": "broj bodova = (najniža cijena ponude / cijena ponude) * 70"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Projektni zadatak sadrži vrlo detaljne tehničke specifikacije za sve tri komponente (pametni pješački prijelaz, sustav za kvalitetu zraka, aplikacija Moj grad), uključujući mjerne raspone, preciznost senzora i funkcionalne zahtjeve. Dio opisa ipak je prvotno bio nedovoljno konkretan za izradu usporedive ponude (nedostajala lokacija prijelaza, broj kamera, tip prometnog znaka) te je naknadno dopunjen kroz 18 pitanja/odgovora u fazi dokumentacije o nabavi - opis je time postao potpun, ali ne i u izvornoj dokumentaciji.",
+      "citat": "Senzor CO Elektrokemijski senzori za mjerenje koncentracija ugljikovog monoksida (CO) u zraku u rasponu od 0 do 10 000 ppb s preciznošću većom od 0,8 korelacijskog koeficijenta"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 4,
+      "obrazlozenje": "Dostupan je pun set dokumenata potreban za samostalnu izradu ponude (Opći podaci, Upute za ponuditelje, Kriteriji kvalitativnog odabira, Kriteriji za odabir ponude, Projektni zadatak, Troškovnik, tri obavijesti o izmjeni, Odgovori, Odluka o odabiru, Zapisnici). Umanjeno jednu ocjenu jer je 'Prilozi.zip' ekstrahiran kao prazna datoteka (0 bajtova) pa sadržaj tog priloga nije bilo moguće provjeriti, a troškovnik sadrži niz nepopunjenih numeriranih redaka (11-21) čija je svrha nejasna iz ekstrahiranog teksta.",
+      "citat": "Detaljne tehničke specifikacije se nalaze u zasebnom prilogu. Ponuditelji su dužni Tehničke specifikacije detaljno proučiti"
+    },
+    "prosjecna_ocjena": 4.33
+  },
+  "restriktivnost": {
+    "prisutno": true,
+    "indikatori": [
+      {
+        "opis": "Zahtjev za certifikatom ISO/IEC 27001:2017 za gospodarski subjekt zadržan je unatoč obrazloženom prigovoru ponuditelja da se poziva na pogrešnu pravnu osnovu (čl. 268. st. 1. t. 13. b) ZJN2016, koja se odnosi na sukladnost proizvoda, a ne na certifikaciju subjekta prema čl. 270.-271.) - naručitelj je zahtjev opravdao općenitom tvrdnjom o važnosti informacijske sigurnosti, bez dodatnog obrazloženja proporcionalnosti prema vrijednosti nabave (80.000 EUR).",
+        "citat": "Naručitelj smatra naročito opravdanim budući da je informacijska sigurnost jako bitna u implementaciji rješenja opisanih projektnim zadatkom"
+      },
+      {
+        "opis": "Predmet nabave objedinjuje tri sadržajno različita rješenja (prometna signalizacija/senzorika, mjerenje kvalitete zraka, razvoj SaaS platforme za digitalnu upravu) u jedan CPV kod za 'Opremu za reguliranje cestovnog prometa', što sužava krug potencijalnih ponuditelja na velike sistemske integratore koji mogu istovremeno pokriti hardver, IoT/telekom infrastrukturu i razvoj softvera - u postupku je zaprimljena samo jedna ponuda, od telekomunikacijskog operatera.",
+        "citat": "Broj zaprimljenih ponuda: 1"
+      }
+    ],
+    "rizik": "srednji"
+  },
+  "napomena": "Naručitelj je pokazao mjeru odgovornosti na prigovore ponuditelja tijekom faze pojašnjenja: zahtjevi za certifikatima ISO 9001:2015, ISO 22301:2019 te osobnim certifikatom PMI PMP/Prince2 Practitioner za voditelja projekta izbrisani su iz dokumentacije nakon obrazloženih primjedbi da su neproporcionalni i pravno neutemeljeni, što ublažava ukupnu ocjenu restriktivnosti unatoč zadržavanju ISO/IEC 27001 zahtjeva i objedinjenog opsega nabave. 'Prilozi.zip' ekstrahiran je kao prazna datoteka pa njegov sadržaj nije bio dostupan za ocjenu."
+}

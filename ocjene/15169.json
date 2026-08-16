@@ -1,0 +1,36 @@
+{
+  "postupak_id": 15169,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 4,
+      "obrazlozenje": "Kriteriji za odabir ponude (cijena 90% i teritorijalna rasprostranjenost benzinskih postaja 10%) definirani su mjerljivo i formulom, uz jasnu tablicu bodovanja za drugi kriterij. Manji nedostatak: tablica bodovanja teritorijalne rasprostranjenosti definira bodove samo za raspon 17-20 županija, bez eksplicitne odredbe za manji broj županija (implicitno 0 bodova, ali nije navedeno).",
+      "citat": "C= (Ymin/Yp) x 90"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Opis predmeta nabave (benzinsko i dizelsko gorivo) vrlo je sažet, no primjeren je za standardiziranu robu čija je kakvoća regulirana nacionalnim propisom i europskim normama (HRN EN 228/590), uz izričito dopuštenu jednakovrijednost. Razina detalja ne isključuje razumne alternative niti je nedovoljna za usporedivu ponudu s obzirom na prirodu predmeta nabave.",
+      "citat": "Predmet nabave su benzinska i dizelska goriva kakvoće sukladno zahtjevima propisanim važećom Uredbom o kvaliteti tekućih naftnih goriva"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dokumentacija je potpuna i standardna za otvoreni postupak: opći podaci, tehničke specifikacije, kriteriji kvalitativnog odabira s uputama, kriterij za odabir ponude s formulom, upute za ponuditelje, troškovnik te obrasci priloga (Prilog 2 - teritorijalna rasprostranjenost, Prilog 3 - izjava o sankcijama), dostatni za samostalnu izradu ponude bez dodatnih nejasnoća.",
+      "citat": "Elektronička ponuda mora sadržavati najmanje: Uvez ponude Popunjeni eESPD obrazac (ili više njih, ako je primjenjivo) Popunjen troškovnik"
+    },
+    "prosjecna_ocjena": 4.33
+  },
+  "restriktivnost": {
+    "prisutno": true,
+    "indikatori": [
+      {
+        "opis": "Kriterij 'teritorijalna rasprostranjenost benzinskih postaja ponuditelja' nagrađuje ponuditelje s benzinskim postajama u svih 20 županija i gradovima Zadru i Zagrebu maksimalnim brojem bodova, uz obvezni minimalni uvjet prisutnosti u tri specifične lokacije - takav zahtjev za nacionalnom mrežom benzinskih postaja praktički je ispunjiv samo za velike, uspostavljene naftne kompanije, čime se smanjuje krug potencijalnih (manjih/regionalnih) ponuditelja unatoč relativno skromnoj procijenjenoj vrijednosti nabave (106.120,00 EUR) i činjenici da se većina ugovorene količine (80.000 od ukupno oko 101.000 litara) isporučuje izravno na skladište naručitelja, a ne putem benzinskih postaja.",
+        "citat": "Ponuditelj mora imati najmanje jednu benzinsku postaju na području Grada Zadra, Grada Zagreba te u Zadarskoj županiji izvan Grada Zadra."
+      },
+      {
+        "opis": "U postupku su sudjelovala samo dva ponuditelja, oba velike nacionalne naftne kompanije (INA i PETROL), što je konzistentno s pretpostavkom da su manji regionalni distributeri fizički isključeni iz mogućnosti ostvarivanja maksimalnog broja bodova po ovom kriteriju.",
+        "citat": "Benzinske postaje na području svih 20 županija te na području Grada Zadra i Grada Zagreba 10 bodova"
+      }
+    ],
+    "rizik": "srednji"
+  },
+  "napomena": "Pročitane su sve dostupne .txt datoteke u extracted/ (16 datoteka): opći podaci, obavijest o nadmetanju i njezina izmjena, kriteriji kvalitativnog odabira, kriterij za odabir ponude, tehničke specifikacije, upute za ponuditelje, troškovnik, prilozi 2 i 3, odluka o odabiru (dvije inačice), zapisnik o pregledu i ocjeni ponuda (dvije inačice, jedna s OCR artefaktima ali čitljiva) te obavijest o dodjeli ugovora. Dokumentacija je cjelovita i međusobno konzistentna (nema kontradikcija između obavijesti, dokumentacije o nabavi i zapisnika o ocjeni)."
+}

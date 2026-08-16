@@ -1,0 +1,27 @@
+{
+  "postupak_id": 10853,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij odabira (ekonomski najpovoljnija ponuda) potpuno je operacionaliziran: cijena nosi 90 bodova prema eksplicitnoj formuli relativnog odstupanja od najniže cijene, a jamstveni rok 10 bodova prema jasnoj bodovnoj skali s pet stupnjeva (od 0 do 60+ mjeseci). Nema dvosmislenosti niti subjektivne prosudbe u bodovanju.",
+      "citat": "Maksimalni broj bodova koji ponuditelj može dobiti prema ovom kriteriju je 10 bodova. Bodovi... dodjeljivat će se u skladu sa skalom bodova."
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Tehnička specifikacija (25 str.) iznimno je detaljna i precizna (tablice traženo/nuđeno za SN sklopni blok, ormar daljinskog vođenja, sve komponente s brojčanim parametrima), što omogućuje potpuno usporedive ponude. Opis se poziva na hrvatske/EU norme (HRN EN), ali eksplicitno dopušta jednakovrijedne norme i rješenja, čime se izbjegava tehničko zatvaranje tržišta. Razina detalja je opravdana složenošću i sigurnosnom osjetljivošću srednjenaponske opreme, no takva razina zahtjeva realno sužava krug sposobnih ponuditelja (u postupku je zaprimljena samo 1 ponuda), stoga ocjena nije maksimalna.",
+      "citat": "Izrada po drugim normama odnosno po drugim odredbama iz tehničke regulative koja osigurava iste ili bolje karakteristike i/ili kvalitetu će također biti prihvaćena."
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dostupan je pun set dokumentacije potreban za samostalnu izradu ponude: opći podaci o postupku, kriteriji za kvalitativni odabir (s pravnim osnovama, pitanjima i načinom dokazivanja za svaku stavku), kriteriji za odabir ponude, tehnička specifikacija s jednopolnom shemom, troškovnik, upute za ponuditelje, prijedlog ugovora, izjava o integritetu i izjava o jamstvenom roku. Svi dokumenti međusobno su konzistentni (isti evidencijski broj, isti opis predmeta).",
+      "citat": "Elektronička ponuda mora sadržavati najmanje: Uvez ponude, Popunjeni eESPD obrazac, Popunjen troškovnik"
+    },
+    "prosjecna_ocjena": 4.67
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak"
+  },
+  "napomena": "Pročitani su svi relevantni dokumenti u extracted/ (kriteriji za kvalitativni odabir, kriteriji za odabir ponude, opći podaci, obavijest o nadmetanju, tehnička specifikacija, troškovnik, upute za ponuditelje, obavijest o dodjeli ugovora). Nema referenci na konkretnu marku/proizvođača ni patentirano rješenje - polja 'Proizvođač'/'Tip' u tablicama tehničkih podataka i troškovniku ostavljena su prazna za popunjavanje od strane ponuditelja, a norme imaju eksplicitnu klauzulu jednakovrijednosti. Traženi tehnički stručnjaci (ovlašteni inženjer elektrotehnike, inženjer gradilišta, KV elektromonteri, specijalisti za SN opremu) i iznos jamstva za ozbiljnost ponude (4.000 EUR na procijenjenu vrijednost 136.300 EUR, ~2,9%) proporcionalni su opsegu i sigurnosnoj osjetljivosti radova na srednjenaponskom postrojenju, stoga nisu ocijenjeni kao indikator restriktivnosti. Ipak, zaprimljena je samo 1 ponuda (isti ponuditelj ŠARE d.o.o. dobio je ugovor) - ovo je relevantno za analizu konkurentnosti (5.3), ali nije samo po sebi dokaz da je dokumentacija sastavljena da isključi ostale ponuditelje, pa nije uračunato u ocjenu restriktivnosti koja se temelji na sadržaju dokumentacije, ne na ishodu postupka. Prilog 'Prilozi.zip' ekstrahiran je kao prazna datoteka (0 bajtova, poznata limitacija ekstrakcije arhiva), ali sadržaj svih ostalih dokumenata bio je potpun i čitljiv te dostatan za ocjenu."
+}

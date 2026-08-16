@@ -1,0 +1,27 @@
+{
+  "postupak_id": 12069,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij za odabir ponude (ekonomski najpovoljnija ponuda) potpuno je precizno definiran: cijena nosi 80 bodova, jamstveni rok za otklanjanje nedostataka 20 bodova, uz eksplicitne matematičke formule za izračun bodova za svaki kriterij. Kriteriji kvalitativnog odabira gospodarskog subjekta (osnove za isključenje, upis u registar, tehnička i stručna sposobnost) navedeni su s pravnom osnovom, točnim uvjetima i načinom dokazivanja za svaku stavku.",
+      "citat": "Cijena 80,00 ... jamstvo za otklanjanje nedostataka u jamstvenom roku 20,00"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Tehnička specifikacija digitalnog kino projektora vrlo je detaljna (DCI sukladnost, rezolucija, kontrast, izlazna snaga svjetla, razina buke, formati zapisa) čime se omogućuje usporedivost ponuda. Većina parametara oslanja se na industrijske (DCI) standarde, ne na konkretnu marku ili model. Nekoliko zahtjeva izravno je vezano uz fizičke uvjete instalacije (dimenzije platna, udaljenost projekcije) što je opravdano lokacijom, ali dodatno sužava krug prihvatljivih rješenja.",
+      "citat": "Izlazna snaga svjetlosnog snopa minimalno 5300 Lumena u DCI standardu"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dokumentacija o nabavi sadrži sve dijelove potrebne za samostalnu izradu ponude: opće podatke o postupku, tehničke specifikacije u zasebnom prilogu, troškovnik sa svim stavkama, kriterije kvalitativnog odabira, kriterije za odabir ponude s formulama bodovanja, upute za ponuditelje te obrazac Izjave o jamstvenom roku (Prilog 1).",
+      "citat": "Detaljne tehničke specifikacije se nalaze u zasebnom prilogu... Detaljan troškovnik se nalazi u zasebnom prilogu – Troškovnik."
+    },
+    "prosjecna_ocjena": 4.67
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak"
+  },
+  "napomena": "Tehnička dokumentacija ne referira konkretnu marku/model niti patentirano rješenje; zahtjevi se oslanjaju na industrijske DCI standarde za digitalnu kino opremu. Uvjet reference (1-2 ugovora u zadnje 3 godine, zbrojene vrijednosti u visini procijenjene vrijednosti nabave od 37.000 EUR) proporcionalan je vrijednosti nabave. Zaprimljena je samo jedna ponuda (Prahin inc d.o.o.), no to je kontekstualna činjenica o ishodu postupka, ne tekstualni indikator prilagođenosti specifikacije u dokumentaciji, stoga nije uzeto kao dokaz restriktivnosti. Svi pročitani dokumenti čitljivi su i potpuni (nema OCR/ekstrakcijskih praznina)."
+}

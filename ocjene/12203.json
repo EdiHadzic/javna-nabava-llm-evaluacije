@@ -1,0 +1,41 @@
+{
+  "postupak_id": 12203,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij ekonomski najpovoljnije ponude potpuno je operacionaliziran: cijena (90 bodova) po eksplicitnoj formuli Ymin/Yp x 90, i populacijska pokrivenost 5G mrežom (10 bodova) po jasnoj razrednoj tablici (45-100%=10, 20-44%=5, 1-19%=0). Nema prostora za diskrecijsku ocjenu naručitelja - oba kriterija su u potpunosti objektivna i numerički provjerljiva, što potvrđuje i Analiza valjanih ponuda gdje je izračun bodova transparentno prikazan za oba ponuditelja.",
+      "citat": "45 - 100% populacijske pokrivenosti na području RH 10 / 20 - 44% ... 5 / 1 - 19% ... 0"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Opis predmeta nabave vrlo je detaljan: zaseban Obrazac 3 (opći zahtjevi usluge), Obrazac 4 (35 tehničkih stavki usluge u pokretnoj mreži) i Obrazac 5 (7 kategorija uređaja s po 12-15 tehničkih parametara). Rokovi, mjesto izvršenja i uvjeti plaćanja precizno su definirani. Ocjena nije 5 jer je izvorna dokumentacija sadržavala više grešaka/nejasnoća koje su morale biti ispravljene kroz Odgovore (pogrešan broj priključaka 83 vs 81, kolizija QVGA/MP jedinice za kameru, nedostupan microUSB konektor, nekompatibilan zahtjev za microSD karticom uz ostale specifikacije) - četiri odvojena produljenja roka zbog izmjena dokumentacije ukazuju na nedovoljnu prvotnu preciznost opisa.",
+      "citat": "Rok isporuke uređaja za mobilno telefoniranje ne smije biti dulji od 10 (deset) kalendarskih dana od dana slanja i primitka pisane narudžbe Naručitelja."
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dokumentacija je potpuna za samostalnu izradu ponude: Opći podaci, Upute za ponuditelje, Kriteriji za kvalitativni odabir, svi obrasci (1-9), Troškovnik, tri tehničke specifikacije, te potpuna evidencija provedbe postupka (4 Odgovora s izmjenama, Odluka o odabiru, Analiza valjanih ponuda, Zapisnik o pregledu i ocjeni, Obavijest o dodjeli). Naručitelj je uredno i pravovremeno odgovarao na sva pitanja zainteresiranih subjekata i produljivao rok kad je riječ o značajnim izmjenama.",
+      "citat": "Elektronička ponuda mora sadržavati najmanje: Uvez ponude, Popunjeni eESPD obrazac, Popunjen troškovnik, Vrijednosti kriterija za odabir ponude..."
+    },
+    "prosjecna_ocjena": 4.67
+  },
+  "restriktivnost": {
+    "prisutno": true,
+    "indikatori": [
+      {
+        "opis": "Tehnička specifikacija uređaja 1. kategorije (Obrazac 5, Tabela 1) koristi Apple-ov zaštićeni marketinški naziv zaslona ('Super Retina XDR OLED'), koji se koristi isključivo za iPhone uređaje, kao 'minimalni tehnički zahtjev' - ovo je izravno upućivanje na marku/model unatoč tome što Opći podaci o postupku nabave eksplicitno tvrde suprotno.",
+        "citat": "Zaslon: Super Retina XDR OLED"
+      },
+      {
+        "opis": "Ista kategorija 1 traži procesor s vrlo specifičnom konfiguracijom jezgri (Hexa-core 2x3.23+4x1.82 GHz) i bateriju od točno 3279 mAh - ovi ne-okrugli brojevi odgovaraju točnoj specifikaciji jednog konkretnog modela pametnog telefona, a ne funkcionalnom opisu potrebe.",
+        "citat": "Procesor: Hexa-core (2x3.23+ 4x1.82 GHz) ... Baterija (mAh): min. 3279 mAh"
+      },
+      {
+        "opis": "Kategorija 2 koristi Samsungov zaštićeni marketinški naziv zaslona ('Dynamic AMOLED 2X') i vrlo specifičnu konfiguraciju jezgri procesora koja odgovara točno određenom Snapdragon čipu, analogno indikatoru za kategoriju 1, ali za drugog proizvođača.",
+        "citat": "Zaslon: Dynamic AMOLED 2X, 120Hz, HDR10+"
+      }
+    ],
+    "rizik": "srednji",
+    "napomena_o_riziku": "Unatoč jasnim indikatorima brand-specifičnosti u tehničkim specifikacijama uređaja (7 kategorija, svaka izgleda kopirana s konkretnog postojećeg modela različitih proizvođača), stvarna konkurencija u postupku nije bila značajno ugrožena: pristigle su 2 valjane ponude od dva velika nacionalna telekom operatera (Hrvatski Telekom, Telemach), oba u potpunosti sukladna dokumentaciji, jer takvi operateri mogu nabaviti/preprodati uređaje bilo kojeg proizvođača. Rizik je stoga umjeren, a ne visok - specifikacija je restriktivna prema izboru točno određenog modela unutar svake kategorije uređaja, ali ne prema izboru ponuditelja/operatera."
+  },
+  "napomena": "Pročitano svih 27 .txt datoteka u extracted/. Postupak je nabava usluga mobilne telefonije s pripadnom nabavom uređaja (7 kategorija pametnih/mobilnih telefona), okvirni sporazum s jednim gospodarskim subjektom, procijenjena vrijednost 30.000 EUR. Dokumentacija iznimno dobre kvalitete ekstrakcije (svi tekstovi čitljivi, uključujući HTML izvore EOJN sučelja). Postupak je prošao kroz 4 izmjene dokumentacije temeljem pitanja zainteresiranih gospodarskih subjekata, s urednim produljenjima roka gdje je zakonski propisano. Odabran Telemach Hrvatska d.o.o. (100,00 bodova) ispred Hrvatskog Telekoma d.d. (79,41 bodova), ugovorena vrijednost 21.585,76 EUR bez PDV-a (28% ispod procijenjene vrijednosti)."
+}

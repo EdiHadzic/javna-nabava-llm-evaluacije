@@ -1,0 +1,27 @@
+{
+  "postupak_id": 19953,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij za odabir ponude (ekonomski najpovoljnija ponuda) potpuno je operacionaliziran zasebnim dokumentom s eksplicitnim formulama bodovanja, ponderima (cijena 80, dodatni jamstveni rok 20) i jasno određenim gornjim/donjim ograničenjem nefinancijskog kriterija (0-36 mjeseci). Kriteriji za kvalitativni odabir gospodarskog subjekta (osnove za isključenje, upis u registar, financijska sposobnost) navedeni su po standardnom ZJN predlošku uz precizan način dokazivanja za svaku stavku.",
+      "citat": "Cijena 80,00; Duljina trajanja dodatnog jamstvenog roka za otklanjanje nedostataka 20,00. Bodovi za svaki od kriterija računa se na šest decimala."
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 5,
+      "obrazlozenje": "Opis predmeta nabave razrađen je do razine pojedinačnih troškovničkih stavki s konkretnim tehničkim zahtjevima (klase betona, sastav cementa, granulometrija agregata, zbijenost posteljice, protukliznost završne obrade, materijal i klasa nehrđajućeg čelika), a pritom je svaka referenca na specifičnu normu ili materijal dosljedno popraćena mogućnošću ponude jednakovrijedne alternative, čime se razina detalja ne pretvara u nepotrebno suženje kruga ponuditelja.",
+      "citat": "Sav ugrađeni inox treba biti minimalno od čelika AISI 316 \"ili jednakovrijedno\" prikladnog za ugradnju u morskom okolišu."
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 4,
+      "obrazlozenje": "Dostupna je puna dokumentacija potrebna za samostalnu izradu ponude: opći podaci, upute za ponuditelje, kriteriji kvalitativnog odabira, kriteriji za odabir ponude, troškovnik, tehničke specifikacije, glavni i izvedbeni projekt te prijedlog ugovora i obrazac ovlasti za zastupanje - svi sadržajno neprazni i međusobno konzistentni u tehničkim podacima. Ocjena je snižena s 5 na 4 zbog unutarnje nedosljednosti u numeraciji priloga između dva dijela dokumentacije o nabavi (Opći podaci, t. 3. i t. 3.1. različito označavaju koji je prilog Glavni projekt, a koji tehničke specifikacije), što je sitna ali stvarna nejasnoća za ponuditelja pri snalaženju u dokumentaciji; sadržajno su svi prilozi ipak nedvosmisleno imenovani na razini samih datoteka.",
+      "citat": "u skladu s troškovnikom i tehničkim specifikacijama koje su dio troškovnika (Prilog 1.), Glavnim projektom (Prilog 2.) i Izvedbenim projektom (Prilog 3.)"
+    },
+    "prosjecna_ocjena": 4.67
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak"
+  },
+  "napomena": "Pročitane su sve .txt datoteke u extracted/ osim sadržajno prazne (root)__Prilozi.zip.txt (0 bajtova) - njezin sadržaj čini se dupliciran u pojedinačno imenovanim Prilog_1-6 datotekama pa nedostatak nije utjecao na ocjenu. Sve reference na specifičnu marku, normu ili proizvođača (npr. cement CEM II/B-W, čelik AISI 316, norme HRN DIN) dosljedno su popraćene klauzulom 'ili jednakovrijedno', a financijski uvjet sposobnosti (odsutnost blokade računa) nije nesrazmjeran procijenjenoj vrijednosti od 80.000 EUR, stoga nije detektirana prilagođenost specifikacije određenom ponuditelju. Zaprimljena je samo jedna ponuda (AMK Gradnja d.o.o.), što je zabilježeno kao kontekstualna činjenica iz Zapisnika o pregledu i ocjeni, no ta činjenica se odnosi na stvarni ishod tržišnog natjecanja, a ne na sadržaj specifikacije, te stoga nije korištena kao indikator restriktivnosti u smislu ove ocjene."
+}

@@ -1,0 +1,27 @@
+{
+  "postupak_id": 19699,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriteriji za odabir ponude (ENP) potpuno su precizno definirani: cijena nosi 80 bodova s eksplicitnom formulom (najniža cijena = 80 bodova, ostale razmjerno), a kvaliteta (specifično iskustvo tehničkog stručnjaka) nosi 20 bodova prema jasnoj bodovnoj tablici koja svaki broj referenci (0-10) mapira na točan broj bodova. Ne postoji prostor za subjektivnu procjenu naručitelja prilikom bodovanja.",
+      "citat": "Ponuda s najnižom cijenom dobiva 80,00 bodova... Bodovi će se dodijeliti sukladno tablici: ... 5 4 10,00 ... 10 9 19,00 ... 11 10 20,00"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Opis predmeta nabave u dokumentu 'Opći podaci' sam po sebi je sažet (jedna rečenica), no izravno upućuje na opsežnu izvedbenu projektno-tehničku dokumentaciju (Glavni i izvedbeni projekt K-02-11/23-IZV, oznaka mape 1/1K, izrađen po ovlaštenom projektantskom uredu) koja detaljno, po tehnološkim cjelinama (zemljani radovi, elementi odvodnje, betonski radovi i dr.), navodi tehničke uvjete izvedbe, dimenzije, klase materijala i normativne reference (OTU, HRN EN). Ocjena nije 5 jer temeljni opisni tekst u DON-u ne stoji samostalno, nego se oslanja u potpunosti na priloženi projekt za konkretizaciju.",
+      "citat": "Predmet javnog nadmetanja su građevinsko-obrtnički radovi Sanacija pokosa na plaži Sabunike u Privlaci u skladu s projektno-tehničkom dokumentacijom i troškovnikom."
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dostupna je cjelovita dokumentacija za samostalnu izradu ponude: Opći podaci, Upute za ponuditelje (uklj. jamstva, način dostave, rok, plaćanje), Kriteriji za kvalitativni odabir s ESPD uputama, Kriteriji za odabir ponude s formulama, cjeloviti Glavni i izvedbeni projekt te stavkasti troškovnik s tehničkim uvjetima izvedbe po pozicijama. Naručitelj je uredno odgovorio i na naknadni zahtjev za pojašnjenje (dimenzije panelne ograde) i izmijenio troškovnik prije roka za dostavu ponuda, čime je nedostatak dopunjen na vrijeme.",
+      "citat": "Naručitelj je prihvatio zahtjev te je izmijenio stavku 4.1. Učinjene izmjene u troškovniku označene su crvenom bojom."
+    },
+    "prosjecna_ocjena": 4.67
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak"
+  },
+  "napomena": "Pročitane su sve dostupne .txt datoteke u extracted/ (14 sadržajnih dokumenata; Prilozi.zip.txt je prazan, 0 bajtova - nema utjecaja na ocjenu jer je sadržaj dostupan kroz zasebno objavljene HTML/PDF dijelove dokumentacije). Tehnička dokumentacija upućuje na priznate norme (npr. 'HRN EN 1610-1997 ili jednakovrijedno') umjesto na konkretne proizvode/marke, što je dobra praksa. Zaprimljena je samo 1 ponuda (TIM d.o.o., Benkovac) - nizak stupanj tržišnog natjecanja, ali bez konkretnih tragova u dokumentaciji da je specifikacija oblikovana prema tom ponuditelju; kriterij kvalitete (min. 500 m2 bruto površine niskogradnje kao referentni prag) je uobičajen i razmjeran za ovu vrstu i vrijednost radova."
+}

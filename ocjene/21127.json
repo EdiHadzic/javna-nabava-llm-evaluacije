@@ -1,0 +1,27 @@
+{
+  "postupak_id": 21127,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 3,
+      "obrazlozenje": "Kriterij za odabir ponude jasno je naveden (cijena 100%), ali svi kriteriji kvalitativnog odabira gospodarskog subjekta (osnove za isključenje, ekonomska i financijska sposobnost, tehnička i stručna sposobnost) upućeni su na dokumentaciju o nabavi frazom 'Sukladno DoN-u' bez ijednog konkretnog praga ili mjerila navedenog u dostupnom tekstu, a sama dokumentacija o nabavi (DoN) nije među dostupnim ekstrahiranim datotekama.",
+      "citat": "Ukupni godišnji promet | Sukladno DoN-u"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 3,
+      "obrazlozenje": "Tehnički opis navodi konkretne parametre zahvata (kapacitet kotla, kombinirana izvedba loživo ulje/zemni plin, opseg strojarskih/elektro/građevinskih radova), no tekst sadrži unutarnju nedosljednost: opisuje da već postoji 'novi vrelovodni kotao kapaciteta 3,2 MW (ugrađen 2023. godine)' u postojećem stanju, a istovremeno se ovim postupkom nabavlja i ugrađuje 'novog vrelovodnog kotla kapaciteta 3,2 MW' - odnos između tog postojećeg i novonabavljenog kotla iste snage nije razjašnjen u dostupnom tekstu.",
+      "citat": "novi vrelovodni kotao kapaciteta 3,2 MW (ugrađen 2023. godine)"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 2,
+      "obrazlozenje": "Od sedam datoteka u extracted/ tri su prazne arhive (Odluka.zip, Prilozi.zip, Zapisnik.zip - 0 bajtova), a naslovni dokument MORH-a je praktički bez sadržaja. Dostupni su samo obavijest o nadmetanju, obavijest o dodjeli ugovora i kratak tehnički opis; nedostaju sama dokumentacija o nabavi (DoN), troškovnik i obrasci potrebni za samostalnu izradu ponude.",
+      "citat": "Upute o predaji ponude nalaze se u dokumentaciji o nabavi"
+    },
+    "prosjecna_ocjena": 2.67
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak"
+  },
+  "napomena": "Postupak je pregovarački postupak s prethodnim pozivom na nadmetanje u području obrane i sigurnosti (Direktiva 2009/81/EC), primljena je samo 1 ponuda, ali to je u skladu s prirodom takvog postupka i ne upućuje samo po sebi na prilagođenost specifikacije. Tehnički opis ne spominje konkretnu marku/proizvođača niti nesrazmjerne financijske/referentne pragove (ti pragovi uopće nisu vidljivi u dostupnom tekstu jer su upućeni na DoN), pa procjena restriktivnosti nije moguća s visokom pouzdanošću zbog nedostupnosti pune dokumentacije - vidjeti nisku ocjenu potpunost_dokumentacije."
+}

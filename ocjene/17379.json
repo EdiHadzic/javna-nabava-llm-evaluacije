@@ -1,0 +1,37 @@
+{
+  "postupak_id": 17379,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij za odabir ponude (ekonomski najpovoljnija ponuda) jasno je definiran i potpuno mjerljiv: cijena nosi 90 bodova s eksplicitnom formulom (najniža cijena / cijena ponude x 90), a rok isporuke nosi 10 bodova prema jasnoj bodovnoj tablici (do 7 dana = 1 bod, do 5 dana = 5 bodova, do 2 dana = 10 bodova). Kriteriji su dosljedno ponovljeni u Obavijesti o nadmetanju, Uputama za ponuditelje i posebnom dokumentu 'Kriterij za odabir ponude', bez nejasnoća oko načina bodovanja.",
+      "citat": "najniža cijena ponude bez PDV-a ostvarit će maksimalan broj bodova"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Opis predmeta nabave vrlo je detaljan i tehnički precizan (troškovnik sadrži brojne stavke s egzaktnim tehničkim parametrima - broj veličina komponenti, kutovi između osovine trupa i vrata, debljina hidroksiapatitnog premaza, promjeri glava, materijali). Razina detalja omogućuje usporedivost ponuda i nužna je za sigurnu medicinsku primjenu (kompatibilnost komponenti endoproteze), no vrlo uska numerička preciznost pojedinih zahtjeva (npr. točno određeni kutovi, minimalna debljina premaza u mikronima) približava se granici koja bi mogla favorizirati određene komercijalne linije proizvoda, stoga ocjena nije maksimalna.",
+      "citat": "presvučena u cijelosti hidroksiapatitom minimalno debljine 150 mikrona ili više"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dostupna dokumentacija je potpuna za samostalnu izradu ponude: Opći podaci, Upute za ponuditelje, Kriteriji kvalitativnog odabira (s detaljnim ESPD uputama po svakoj osnovi za isključenje), Tehničke specifikacije, zaseban Troškovnik u xls formatu za elektroničko popunjavanje, obrazac Kriterija za odabir ponude, Prijedlog ugovora i sve tražene izjave (o roku isporuke, o ustupanju instrumentarija, o stvarnom vlasniku). Svi dokumenti međusobno su konzistentni (isti podaci o vrijednosti, kriterijima i rokovima ponavljaju se identično kroz sve priloge).",
+      "citat": "Detaljan troškovnik se nalazi u zasebnom prilogu – Troškovnik."
+    },
+    "prosjecna_ocjena": 4.67
+  },
+  "restriktivnost": {
+    "prisutno": true,
+    "indikatori": [
+      {
+        "opis": "Zahtjev da sve komponente endoproteze (trup, glava, acetabulum, umeci, vijci) budu od istog proizvođača sužava krug mogućih ponuditelja na proizvođače s cjelovitom linijom proizvoda, isključujući kombinirane ponude više specijaliziranih dobavljača. Djelomično opravdano medicinskom potrebom kompatibilnosti sustava, ali i objektivno restriktivno za tržišno natjecanje.",
+        "citat": "Sve komponente moraju biti od istog proizvođača."
+      },
+      {
+        "opis": "Vrlo uski numerički tehnički zahtjevi u troškovniku (točno određeni kutovi trupa/vrata poput 135° ili 125°-126,5°, minimalna debljina premaza u mikronima, konus točno 12/14, minimalni broj veličina po komponenti) odgovaraju karakterističnom obrascu specifikacija koje se u praksi javne nabave ortopedskih implantata ponekad usko oblikuju prema katalogu jednog proizvođača, što je i poznata literatura o riziku 'krojenih' specifikacija u nabavi medicinskih proizvoda.",
+        "citat": "kut između osovine trupa i vrata 135°, strukturirana površina (proksimalno-horizontalne, distalno-vertikalne strukture) presvučena u cijelosti hidroksiapatitom"
+      }
+    ],
+    "rizik": "srednji",
+    "napomena_o_riziku": "Rizik se procjenjuje kao srednji, a ne visok, jer u dokumentaciji nije pronađena izravna referenca na konkretnu marku, model ili patentirano rješenje niti neproporcionalan financijski/referentni prag (jamstvo od 3% procijenjene vrijednosti i referentni uvjet od jednog ugovora jednake vrijednosti u tekućoj i tri prethodne godine standardni su za nabavu ove veličine). Ishod postupka (2 zaprimljene ponude, od kojih je 1 odbijena zbog nedostavljenog jamstva - razlog nepovezan sa specifikacijom, te konačna ugovorena vrijednost 534.560,00 EUR koja premašuje procijenjenih 512.000,00 EUR za 4,4%) konzistentan je s ograničenom konkurencijom, ali uzak krug proizvođača cjelovitih sustava kučnih endoproteza dijelom je i objektivno svojstvo ovog specijaliziranog medicinskog tržišta, ne nužno posljedica namjernog sužavanja specifikacije."
+  },
+  "napomena": "Pročitano svih 18 relevantnih .txt datoteka u extracted/ (Opći podaci, Obavijest o nadmetanju, Kriteriji za kvalitativni odabir, Kriterij za odabir ponude, Tehničke specifikacije, Troškovnik, Upute za ponuditelje, Odluka o odabiru, Rezultati pregleda i ocjene ponuda, Zapisnik o pregledu i ocjeni, Obavijest o dodjeli ugovora). Dokumentacija je kvalitetno izvučena i međusobno konzistentna. Zapisnik o pregledu i ocjeni i Rezultati pregleda i ocjene ponuda sadrže OCR artefakte (npr. iskrivljeni OIB, umetnuti razmaci u riječima poput 'Cijena ponuce 2D + 560,00 EUR') koji ne utječu na razumljivost ključnih podataka korištenih u ovoj ocjeni."
+}

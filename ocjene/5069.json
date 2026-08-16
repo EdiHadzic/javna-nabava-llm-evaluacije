@@ -1,0 +1,27 @@
+{
+  "postupak_id": 5069,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij je ekonomski najpovoljnija ponuda s dva potpuno mjerljiva podkriterija (cijena 90%, broj izvršitelja 10%), oba definirana eksplicitnom matematičkom formulom odnosno bodovnom tablicom u zasebnom dokumentu 'FORMULA ZA ODREĐIVANJE EKONOMSKI NAJPOVOLJNIJE PONUDE', bez prostora za diskrecijsku ocjenu.",
+      "citat": "CP = Pmin / Ppon * 90"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Opis predmeta je konkretan i operativan: 10 lokacija s površinama u m2, mjesečna satnica čišćenja po lokaciji u troškovniku, te opsežne priložene smjernice o postupcima čišćenja u zdravstvenoj ustanovi. Umanjeno na 4 jer troškovnik sadrži i suvišan, zastarjeli list 'PAG' s predloškom iz 2018. (drugo razdoblje, druga struktura), što je artefakt predloška koji može zbunjivati ponuditelje.",
+      "citat": "Bitno je da se tijekom čišćenja stvara minimalna maglica i aerosoli, odnosno disperzija prašine u prostorima."
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 4,
+      "obrazlozenje": "Dostupna je cjelovita osnovna dokumentacija za samostalnu izradu ponude: Opći podaci, Kriteriji kvalitativnog odabira, Tehnička specifikacija, Troškovnik, Formula ENP, Upute za ponuditelje i svi potrebni obrasci izjava. Umanjeno na 4 jer je 'Prilozi.zip' ekstrahiran kao potpuno prazan (0 bajtova) pa sadržaj tog priloga nije moguće provjeriti.",
+      "citat": "Elektronička ponuda mora sadržavati najmanje: Uvez ponude Popunjeni eESPD obrazac (ili više njih, ako je primjenjivo) Popunjen troškovnik"
+    },
+    "prosjecna_ocjena": 4.33
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak"
+  },
+  "napomena": "Nema referenci na točno određenu marku, patentirano rješenje ili nesrazmjerne pragove; jamstvo (3% procijenjene vrijednosti) i referentni uvjet (1-2 usluge u visini procijenjene vrijednosti kroz zadnje 3-4 godine) proporcionalni su maloj vrijednosti nabave (34.800 EUR). Dvije manje nejasnoće u dokumentaciji ne utječu na razumijevanje predmeta nabave: prazan 'Prilozi.zip' (0 bajtova, sadržaj nepoznat) i suvišan list 'PAG' iz 2018. u troškovniku (očit artefakt predloška)."
+}

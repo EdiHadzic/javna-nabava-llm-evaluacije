@@ -1,0 +1,27 @@
+{
+  "postupak_id": 10313,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij za odabir ponude (ekonomski najpovoljnija ponuda) potpuno je operacionaliziran: cijena nosi 90 bodova, kvaliteta (mjesečni kapacitet uklanjanja mulja) 10 bodova, s eksplicitnim formulama bodovanja, tablicom praga vrijednosti i jasno definiranim minimalnim/maksimalnim dopuštenim iznosom za ne-cjenovni kriterij.",
+      "citat": "Minimalni mjesečni kapacitet uklanjanja mulja je 999,99 m3. Ponuda ponuditelja u kojoj nisu zadovoljeni uvjeti... biti će ocijenjena s 0 bodova."
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Opis predmeta nabave precizno navodi vrstu zahvata (podmorski iskop sedimenta i nanosnog materijala), točnu lokaciju (profili 88-97, ninska uvala) i količinu (3.200 m3), uz upućivanje na opsežnu izvedbenu projektnu dokumentaciju kao Prilog I. Opis u samim uputama je sažet i oslanja se na vanjske priloge za punu tehničku razradu, stoga nije ocjenjen maksimalno, ali je dovoljno konkretan za usporedivu ponudu bez isključivanja razumnih tehnoloških alternativa (izričito je dopuštena druga tehnologija iskopa).",
+      "citat": "Procijenjena količina iskopnog materijala iznosi 3.200 m3... Izvođać radova može nuditi i drugčiju tehnologiju izvođenja radova od tehnologije predviđene troškovnikom"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dostupna je cjelovita dokumentacija: opći podaci o postupku, upute za ponuditelje, kriteriji kvalitativnog odabira i kriteriji za odabir ponude, obavijest o nadmetanju, opsežan izvedbeni projekt s troškovnikom u .xls formatu, lokacijska dozvola i izjava projektanta o usklađenosti s propisima. Sadržaj je dostatan za samostalnu izradu ponude bez dodatnih upita.",
+      "citat": "Detaljan opis predmeta nabave nalazi se u Prilogu I. Projektna dokumentacija i Prilog II. Troškovnik u .xls formatu koji čini poseban prilog ove Dokumentacije o nabavi."
+    },
+    "prosjecna_ocjena": 4.67
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak"
+  },
+  "napomena": "Pročitani su svi relevantni dokumenti u extracted/ (opći podaci, kriteriji kvalitativnog odabira, kriteriji za odabir ponude, upute za ponuditelje, obavijest o nadmetanju, troškovnik, lokacijska dozvola, izjava projektanta, zapisnik o pregledu i ocjeni, obavijest o dodjeli). Referentni prag tehničke sposobnosti (min. 100.000 EUR izvedenih radova) jednak je procijenjenoj vrijednosti nabave, dakle proporcionalan, a nema referenci na specifičan proizvod, marku ili patentirano rješenje. Napomena za interpretaciju: zaprimljena je samo 1 ponuda, koja je ostvarila maksimalan broj bodova na oba kriterija (cijena i kapacitet uklanjanja mulja točno na gornjoj granici raspona 3.100 m3) - ovo je zanimljivo za analizu konkurentnosti (5.3.), ali samo po sadržaju dokumentacije nema izravnog dokaza prilagodbe specifikacije jednom ponuditelju."
+}

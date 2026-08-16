@@ -1,0 +1,36 @@
+{
+  "postupak_id": 20971,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriteriji za odabir ponude (ENP) potpuno su operacionalizirani kroz eksplicitne formule i tablice: cijena nosi 90 bodova prema jasnoj formuli (najniža cijena / cijena ponude x 90), a rok isporuke 10 bodova prema tablici raspona dana s pripadajućim brojem bodova. Sve je matematički provjerljivo i ne ostavlja prostor za diskrecijsku ocjenu naručitelja.",
+      "citat": "do 7 dana 1 bod do 5 dana 5 bodova do 2 dana 10 bodova"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 3,
+      "obrazlozenje": "Zaseban dokument 'Tehničke specifikacije' sadrži samo uputu da se detalji nalaze u troškovniku, bez ikakvog samostalnog tehničkog opisa. Stvarni opis predmeta nabave nalazi se u troškovniku i svodi se na naziv lijeka, jedinicu mjere, oblik pakiranja i planiranu količinu po stavci - dovoljno za usporedivost ponuda, ali vrlo sažeto i uz opetovano upućivanje na konkretan komercijalni proizvod (uz klauzulu 'ili jednakovrijedno').",
+      "citat": "spremnik s dva ubodna mjesta, polietil. Ecoflac plus boca ili jednakovrijedno"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 4,
+      "obrazlozenje": "Dostupan je gotovo cjelovit skup dokumentacije potreban za samostalnu izradu ponude: opći podaci, obavijest o nadmetanju, upute za ponuditelje s popisom obveznog sadržaja ponude, kriteriji kvalitativnog odabira, kriteriji za odabir ponude, troškovnik, prijedlog ugovora i izjava o roku isporuke. Jedini nedostatak je 'Prilozi.zip' koji se ekstrahirao kao prazna datoteka pa njegov sadržaj nije bilo moguće provjeriti.",
+      "citat": "Elektronička ponuda mora sadržavati najmanje: Uvez ponude Popunjeni eESPD obrazac (ili više njih, ako je primjenjivo) Popunjen troškovnik"
+    },
+    "prosjecna_ocjena": 4.0
+  },
+  "restriktivnost": {
+    "prisutno": true,
+    "indikatori": [
+      {
+        "opis": "Troškovnik u gotovo svim od 16 stavki (npr. natrij-klorid, glukoza, aqua za injekcije u različitim pakiranjima) navodi konkretan komercijalni proizvod 'Ecoflac plus boca' kao referentni opis pakiranja, uz formalnu klauzulu 'ili jednakovrijedno'. Iako je klauzula prisutna (što je zakonski minimum), ponovljeno imenovanje istog tržišnog proizvoda kroz gotovo cijeli troškovnik ukazuje na moguće oblikovanje opisa prema jednom konkretnom proizvođaču/liniji proizvoda.",
+        "citat": "polietil. Ecoflac plus boca ili jednakovrijedno"
+      },
+      {
+        "opis": "Ugovor je dodijeljen upravo B. Braun Adria d.o.o. - distributeru proizvođača čiji je 'Ecoflac plus' zaštićeni naziv sustava pakiranja - dok je jedini konkurent (AnalyticPharma d.o.o.) svoju ponudu sam proglasio nesukladnom (nije ispunio troškovnik, izjavio da ne ispunjava kriterije odabira), pa je stvarna konkurencija svedena na jednu valjanu ponudu.",
+        "citat": "Odabrana ponuda gospodarskog subjekta: B. Braun Adria d.o.o."
+      }
+    ],
+    "rizik": "srednji"
+  },
+  "napomena": "Svi relevantni dokumenti iz extracted/ pročitani su u cijelosti (14 od 15 datoteka sadržajne; 'Prilozi.zip.txt' prazan/nepoznat sadržaj). Postupak ima samo 2 zaprimljene ponude, od kojih je jedna sama sebe proglasila nesukladnom, što je ograničilo stvarnu konkurentnost bez obzira na formalnu jasnoću kriterija odabira ponude."
+}

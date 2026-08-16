@@ -1,0 +1,38 @@
+{
+  "postupak_id": 30728,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij ENP potpuno je operacionaliziran: cijena 90% i jamstveni rok 10%, s eksplicitnim formulama bodovanja, minimalnim pragom jamstva (12 mjeseci, ponude ispod se odbacuju) i pravilom za jednako rangirane ponude (vrijeme zaprimanja). Nema prostora za subjektivnu ocjenu.",
+      "citat": "Cijena 90,00 ... Jamstveni rok 10,00 ... Ponude u kojima je iskazan jamstveni rok kraći od 12 mjeseci bit će odbačene."
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 3,
+      "obrazlozenje": "Opis predmeta nabave izrazito je detaljan, s brojnim numeričkim parametrima i uskim dozvoljenim odstupanjima (npr. širina stola, promjer odvoda, protok zraka, temperatura boje svjetla). Razina detalja je dovoljna za usporedivu ponudu, ali gustoća uskih tolerancija oko specifičnih tehničkih vrijednosti graniči s opisom pisanim prema jednom konkretnom proizvodu.",
+      "citat": "Protok zraka maksimalno 1100 m3/h, s dozvoljenim odsutpanjem +/- 100 m3/h."
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 4,
+      "obrazlozenje": "Dostupni su svi ključni dokumenti (Opći podaci, Kriteriji kvalitativnog odabira, Kriteriji za odabir ponude, Upute za ponuditelje, Troškovnik s ugrađenom tehničkom specifikacijom) i međusobno su konzistentni. Manjak: zasebna datoteka 'Tehnička specifikacija.docx' sadrži samo uputnu rečenicu da je spec u Prilogu 1, umjesto da bude samostalan dokument.",
+      "citat": "Tehnička specifikacija predmeta nabave je sadržana u samom troškovniku predmeta nabave u Prilogu 1."
+    },
+    "prosjecna_ocjena": 4.0
+  },
+  "restriktivnost": {
+    "prisutno": true,
+    "indikatori": [
+      {
+        "indikator": "Vrlo uske dozvoljene tolerancije na više nezavisnih fizičkih parametara istovremeno (dimenzije, protok zraka, temperatura boje svjetla, promjer odvoda), tipičan obrazac specifikacije prepisane prema listu jednog konkretnog proizvoda.",
+        "rizik": "srednji",
+        "citat": "Boja svijetlosti min. 6000 do max.6700 K"
+      },
+      {
+        "indikator": "Traženje potvrde autentičnosti kataloga/izjave proizvođača za svaku stavku specifikacije, uz obvezu preciznog povezivanja retka kataloga s rednim brojem stavke — administrativno zahtjevno i pogoduje ponuditelju koji već ima gotovu dokumentaciju usklađenu s ovim točnim brojevima.",
+        "rizik": "srednji",
+        "citat": "Uz svaki podatak kojim se dokazuje postojanje tražene minimalne tehničke karakteristike u katalogu, prospektu ili drugoj tehničkoj dokumentaciji potrebno je upisati redni broj stavke Tehničke specifikacije"
+      }
+    ],
+    "rizik": "srednji",
+    "napomena": "Materijal 'AISI 304 ili jednakovrijedno' i drobilica 'TEN-1706 ili jednakovrijedno' formalno dopuštaju jednakovrijedna rješenja, što ublažava rizik. Ipak, broj uskih numeričkih tolerancija znatno premašuje ono što je nužno za funkcionalnu usporedivost i sugerira mogući oslon na konkretan katalog. U postupku su sudjelovala samo 2 ponuditelja, od kojih je jedan diskvalificiran zbog nedostatka jamstva i praznog troškovnika (ne zbog tehničke specifikacije)."
+  }
+}

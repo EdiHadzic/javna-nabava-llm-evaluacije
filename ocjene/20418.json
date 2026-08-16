@@ -1,0 +1,38 @@
+{
+  "postupak_id": 20418,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij za odabir ponude (ekonomski najpovoljnija ponuda) potpuno je operacionaliziran: cijena nosi 90 bodova, jamstveni rok 10 bodova, uz eksplicitnu matematičku formulu za cijenu, tablicu bodovanja za jamstveni rok (raspon 6-36 mjeseci s pet stupnjeva bodovanja) i jasno propisane donju/gornju granicu prihvatljive vrijednosti. Nema prostora za subjektivnu ocjenu.",
+      "citat": "Naručitelj je ograničio najviši dozvoljeni iznos za kriterij 36,00 Naručitelj je ograničio najniži dozvoljeni iznos za kriterij 6,00"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Opis predmeta nabave (spojen s troškovnikom, budući da zaseban dokument tehničke specifikacije samo upućuje na troškovnik) sadrži 21 konkretno definiranu stavku radova na održavanju broda s tehničkim detaljima (broj premaza, vrsta boje, dimenzije). Marke boja navedene su uz klauzulu 'ili jednakovrijedan proizvod', što ne isključuje alternative. Ocjena nije 5 jer je većina stavki iskazana kao paušalni 'KPL' (komplet) bez mjerljivih količina/dimenzija za sve stavke, što nešto otežava izravnu usporedivost ponuda po jedinici mjere.",
+      "citat": "Dobava i bojanje podvodnog dijela broda 1x međupremaz i 2x antivegetativnom bojom (Hempel ili jednakovrijedan proizvod)"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dostupna je cjelovita dokumentacija potrebna za samostalnu izradu ponude: opći podaci, kriteriji za kvalitativni odabir gospodarskog subjekta (s ESPD uputama), kriteriji za odabir ponude, upute za ponuditelje (način dostave, jamstva, rokovi, žalbeni postupak), troškovnik s ugrađenom tehničkom specifikacijom, prijedlog ugovora te obrasci izjava (o integritetu, o lokaciji). Zapisnik o pregledu i ocjeni potvrđuje da je i drugi ponuditelj uspio pripremiti urednu, potpunu ponudu na temelju iste dokumentacije.",
+      "citat": "Svi uvjeti za izvršenje ugovora definirani su u tehničkoj specifikaciji, troškovniku i prijedlogu ugovora"
+    },
+    "prosjecna_ocjena": 4.67
+  },
+  "restriktivnost": {
+    "prisutno": true,
+    "indikatori": [
+      {
+        "opis": "Uvjet mjesta izvršenja/lokacije pružatelja usluge ograničen na najviše 70 nautičkih milja od Elektre Zadar, postavljen kao uvjet ispunjenja DON-a (ne samo preporuka), koji je u praksi izravno isključio jednog od dva ponuditelja iz postupka.",
+        "citat": "Mjesto izvršenja: Poslovni prostor pružatelja usluge udaljen ne više od 70 nm od Elektre Zadar.",
+        "posljedica": "KVARNERPLASTIKA d.o.o. (Rijeka) proglašena je neprihvatljivom isključivo zbog ove udaljenosti, čime je u konačnici u postupku ostao samo jedan valjani ponuditelj.",
+        "citat_posljedice": "Navedena lokacija nalazi se na udaljenosti većoj od 70 nM koliko je maksimalno bilo propisano."
+      },
+      {
+        "opis": "Reference na komercijalne marke boja/premaza (Hempel, International) u tehničkoj specifikaciji/troškovniku, ublažene standardnom klauzulom 'ili jednakovrijedan proizvod' pa formalno ne isključuju alternativne proizvođače.",
+        "citat": "Dobava boje i bojanje nadvodnog dijela broda, 2x međupremaz i 2x lak završni (Hempel ili jednakovrijedan proizvod)"
+      }
+    ],
+    "rizik": "srednji"
+  },
+  "napomena": "Zaseban dokument 'TEHNIČKA SPECIFIKACIJA.docx' sadrži samo napomenu da je specifikacija ugrađena u troškovnik (nije riječ o propustu ekstrakcije). Sva ostala dokumentacija pročitana je u cijelosti i čitljiva je bez OCR/formatnih problema. Zapisnik o pregledu i ocjeni ponuda korišten je kao dodatni kontekst za procjenu stvarnog učinka uvjeta lokacije na konkurentnost (isključio je jednog od dva ponuditelja), što je podiglo procjenu rizika restriktivnosti sa 'nizak' na 'srednji' unatoč tome što je uvjet plauzibilno opravdan prirodom usluge (fizički transport i održavanje broda)."
+}

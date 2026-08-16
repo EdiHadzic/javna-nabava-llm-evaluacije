@@ -1,0 +1,27 @@
+{
+  "postupak_id": 30591,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij ENP (cijena 90 / kvaliteta 10) definiran je egzaktnom matematičkom formulom i tablicom bodovanja bez interpretacijskog prostora (npr. jamstveni rok bodovan po fiksnim rasponima mjeseci). Uvjeti sposobnosti (isključenje, reference, stručnjak) razrađeni su sa jasnim načinom dokazivanja.",
+      "citat": "Rbr Opis Broj bodova: 1 Obvezno 24 mjeseca 0,00; 2 25-36 mjeseci 3,00; 3 37-48 mjeseca 5,00; 4 49-59 mjeseci 8,00; 5 60 i više mjeseci 10,00"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 3,
+      "obrazlozenje": "Opis predmeta oslanja se gotovo isključivo na troškovnik i projektnu dokumentaciju bez dodatnih pojašnjenja; u fazi pitanja/odgovora otkriveno je više grešaka u tehničkim oznakama asfaltnih mješavina koje su morale biti ispravljane, a naručitelj je odbio dostaviti jednostavnije geolokacijske podatke unatoč zahtjevu ponuditelja.",
+      "citat": "Naručitelj ne prihvaća prijedlog... U projektnoj dokumentaciji naznačene su sve pozicije dionica na kojima je predviđeno izvođenje radova."
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 4,
+      "obrazlozenje": "Dokumentacija je opsežna (11 zasebnih troškovnika po dionicama, glavni projekti, građevinska dozvola, uvjeti sposobnosti, ESPD upute), ali izvorna verzija sadržavala je konkretne propuste (nedostajući zbroj pripremnih radova za jednu dionicu, pogrešne oznake asfaltnih mješavina) koje je naručitelj morao ispravljati kroz tri kruga odgovora prije roka za dostavu ponuda.",
+      "citat": "U troškovniku CESTA 4 U DERINGAJU u PRIPREMNIM RADOVIMA NEMA UKUPNOG ZBROJA ZA PRIPREMNE RADOVE... Naručitelj prihvaća primjedbu... te dostavlja ispravljen troškovnik."
+    },
+    "prosjecna_ocjena": 4.0
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak",
+    "napomena": "Uvjeti sposobnosti proporcionalni su vrijednosti nabave (1 referenca u visini pola procijenjene vrijednosti, 1 inženjer gradilišta, jamstvo za ozbiljnost ponude ≈2,8% procijenjene vrijednosti) i nema referenci na specifičan proizvod/marku ili nesrazmjerne pragove. Pristiglo je 7 valjanih ponuda uskog cjenovnog raspona, svi ponuditelji nudili su maksimalni jamstveni rok — snažan indikator stvarne konkurentnosti."
+  }
+}

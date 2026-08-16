@@ -1,0 +1,27 @@
+{
+  "postupak_id": 22881,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriteriji za odabir ponude (cijena 90 bodova, udio električne energije iz obnovljivih izvora 10 bodova) definirani su brojčano i potkrijepljeni potpunim matematičkim formulama za bodovanje obiju komponenti, uključujući rubne slučajeve (izjednačeni rezultati rješavaju se prema vremenu zaprimanja ponude). Nema dvosmislenosti u načinu izračuna niti prostora za diskrecijsku ocjenu.",
+      "citat": "Ponuda s najniže ponuđenom cijenom dobiva 90 bodova, a ostale ponude se boduju prema formuli: C=Cmin/Cn x 90"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Opis predmeta nabave (opskrba električnom energijom s minimalno 50% udjela iz obnovljivih izvora) jasan je i dovoljan za izradu usporedivih ponuda za robu koja je po prirodi standardizirana (komoditet). Tehnička specifikacija je vrlo kratka (obračunski elementi, tarifne stavke, obračunsko razdoblje), ali za opskrbu električnom energijom to je uobičajena i dostatna razina detalja - ne postoje dodatni, nejasni ili proturječni zahtjevi. Ocjena nije 5 jer specifikacija ne opisuje npr. profil potrošnje po mjernim mjestima izvan onoga što je već u troškovniku, što bi dodatno olakšalo formiranje ponude.",
+      "citat": "Radna energija (kWh) se određuje mjerenjem. Tarifne stavke za prodaju električne energije utvrđuju se s obzirom na doba dana"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dokumentacija sadrži sve standardne sastavnice potrebne za samostalnu izradu ponude: Opće podatke o postupku, Upute za ponuditelje, Kriterije za odabir ponude (s formulama), Kriterije za kvalitativni odabir gospodarskog subjekta, Tehničke specifikacije, popunjivi Troškovnik te sve potrebne priloge/izjave (nepostojanje okolnosti vezanih uz mjere prema Rusiji, izjava o udjelu obnovljivih izvora). Svi dokumenti su čitljivi i međusobno konzistentni (isti opis predmeta i isti kriteriji ponavljaju se identično u svim dokumentima).",
+      "citat": "Elektronička ponuda mora sadržavati najmanje: Uvez ponude Popunjeni eESPD obrazac (ili više njih, ako je primjenjivo) Popunjen troškovnik"
+    },
+    "prosjecna_ocjena": 4.67
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak"
+  },
+  "napomena": "Pročitane su sve 15 .txt datoteke u extracted/ (jedna, Prilozi.zip.txt, prazna je - 0 bajtova, vjerojatno neuspjelo preuzimanje arhive; ostatak dokumentacije je potpun i međusobno konzistentan). Nisu pronađeni indikatori prilagodbe specifikacije određenom ponuditelju (nema referenci na markicu/patentirano rješenje), a naručitelj je izrijekom naveo da nije propisivao pooštrene uvjete ekonomske i financijske sposobnosti ('Naručitelj nije propisivao uvjete ekonomske i financijske sposobnosti.', Zapisnik o pregledu i ocjeni). Jamstvo za ozbiljnost ponude (1.500 EUR na procijenjenu vrijednost 50.000 EUR, 3%) je razmjerno. Napominje se, izvan okvira ove rubrike restriktivnosti, da je zaprimljena samo 1 ponuda (HEP-Opskrba d.o.o.) unatoč otvorenom postupku i formalno nerestriktivnim uvjetima - moguća posljedica strukture tržišta opskrbe električnom energijom, a ne specifikacije postupka."
+}

@@ -1,0 +1,36 @@
+{
+  "postupak_id": 23692,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriteriji za odabir ponude (ekonomski najpovoljnija ponuda) precizno su definirani i matematički operacionalizirani - cijena 90% i jamstveni rok 10%, s eksplicitnim formulama, minimalnim pragom jamstvenog roka i jasno navedenom posljedicom nedostavljanja traženog dokumenta.",
+      "citat": "Minimalni jamstveni rok je 12 mjeseca. Ponuda u kojoj je iskazan najdulji jamstveni rok dobiva maksimalni broj bodova."
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Tehnička specifikacija (troškovnik) iznimno je detaljna, s preciznim numeričkim rasponima za gotovo svaki parametar uređaja (magnetsko polje, frekvencija, širina impulsa i dr.), što omogućuje usporedivost ponuda. Pojedini vrlo uski tolerancijski rasponi za dodatnu opremu (elektrode) mogli bi neopravdano suziti krug prihvatljivih ponuda, stoga ocjena nije maksimalna.",
+      "citat": "Visina (debljina) aktivne elektrode: min. 5 mm - maks. 6 mm"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dostupna je cjelovita dokumentacija za samostalnu izradu ponude: opći podaci o postupku, kriteriji kvalitativnog odabira s ESPD uputama, detaljan troškovnik s ugrađenim tehničkim specifikacijama, prijedlog ugovora, obavijest o nadmetanju i njezina izmjena, odluka o odabiru te zapisnik o pregledu i ocjeni ponuda.",
+      "citat": "Tehničke specifikacije predmeta nabave su sadržane u samom troškovniku predmeta nabave koji je sastavni dio DON-a."
+    },
+    "prosjecna_ocjena": 4.67
+  },
+  "restriktivnost": {
+    "prisutno": true,
+    "indikatori": [
+      {
+        "opis": "Tehnička specifikacija eksplicitno navodi konkretnu komercijalnu marku i model istraživačkog EEG sustava (Brain Products actiCHamp) s kojim uređaj mora biti kompatibilan, bez dodatka 'ili jednakovrijedno'. Ovo može biti legitiman zahtjev interoperabilnosti s postojećom opremom naručitelja, ali istovremeno sužava krug ponuditelja na one čiji je TMS uređaj kompatibilan upravo s tim proizvodom jednog proizvođača.",
+        "citat": "Mogućnost korištenja s istraživačkim 32-kanalnim EEG sustavom Brain Products actiCHamp u istraživačke svrhe."
+      },
+      {
+        "opis": "Više numeričkih tolerancija za pripadajuću EEG opremu (elektrode) definirano je u vrlo uskim rasponima (impedancija, radna frekvencija, dimenzije), što je tipično za specifikacije usklađene s jednim konkretnim proizvodom, iako se bez dodatne provjere ne može sa sigurnošću utvrditi podudaraju li se s točno jednim tržišnim rješenjem.",
+        "citat": "Ulazna impedancija: > 200 MΩ"
+      }
+    ],
+    "rizik": "srednji"
+  },
+  "napomena": "Pročitani su svi dostupni dokumenti u extracted/ (DON - opći podaci, kriteriji kvalitativnog odabira, troškovnik s tehničkim specifikacijama, upute za ponuditelje, prijedlog ugovora, obavijest o nadmetanju i njezina izmjena, odluka o odabiru u dva formata, zapisnik o pregledu i ocjeni). 'Odluka o odabiru__Prilozi.zip.txt' ekstrahiran je prazan (0 bajtova) - vjerojatno prazna izvorna arhiva ili artefakt ekstrakcije; nije bilo presudno za ocjenu jer je sadržaj odluke dostupan u paralelnim PDF/HTML inačicama. Zaprimljene su 2 ponude; jedna (AnalyticPharma d.o.o.) odbijena je iz formalnih razloga (nedostavljeno jamstvo za ozbiljnost ponude, nepopunjen troškovnik), ne zbog tehničke neusklađenosti s traženom specifikacijom, pa se iz ishoda postupka ne može posredno zaključivati o stvarnom učinku uočene restriktivnosti na broj ponuda."
+}

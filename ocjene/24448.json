@@ -1,0 +1,27 @@
+{
+  "postupak_id": 24448,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij ENP (cijena 90 bodova, jamstveni rok 10 bodova) potpuno je operacionaliziran: date su matematičke formule za bodovanje obiju komponenti, gornja i donja granica za nenovčani kriterij, pravilo rješavanja izjednačenih ponuda i broj decimala zaokruživanja bodova. Nema prostora za diskrecijsko tumačenje.",
+      "citat": "Naručitelj je ograničio najviši dozvoljeni iznos za kriterij 60,00 Naručitelj je ograničio najniži dozvoljeni iznos za kriterij 24,00"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 5,
+      "obrazlozenje": "Opis predmeta nabave u DON-u sažeto ali jednoznačno navodi sve elemente zahvata (šetnica, komunalni vez KV1, uređenje plaža, valobrani, duljina 220 m), a uz to su priloženi puni glavni i izvedbeni građevinski projekt te građevinska situacija s detaljnim tehničkim specifikacijama materijala i normi (npr. zahtjevi za beton prema HRN ENV 13670), što omogućuje usporedive ponude bez nepotrebnog suženja na jedno rješenje.",
+      "citat": "Projektiranim zahvatom predviđa se gradnja obalnog pojasa i to: dužobalna pješačka staza, izgradnja komunalnog veza (KV1)..."
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dostupan je pun set dokumenata potreban za samostalnu izradu ponude: opći podaci, kriteriji kvalitativnog odabira, kriteriji za odabir ponude, upute za ponuditelje, troškovnik (xlsx), tehnička specifikacija/projektna dokumentacija (dva opsežna PDF-a s projektom) i obrazac izjave o jamstvenom roku. Nema naznaka nedostajućih priloga.",
+      "citat": "Detaljan troškovnik se nalazi u zasebnom prilogu – Troškovnik."
+    },
+    "prosjecna_ocjena": 5.0
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak"
+  },
+  "napomena": "Pročitano svih 21 .txt datoteka u extracted/, uključujući dva vrlo velika tehnička projekta (ukupno ~5MB teksta). Ciljano pretraženo (grep) po markerima restriktivnosti (proizvođač, isključivo, jednakovrijedno, tip/model/marka) — svi pogoci uz 'proizvođač' odnose se na generičke norme za beton (HRN EN/ENV) i standardne građevinske klauzule, bez reference na konkretnu marku ili jedinog dobavljača. Financijski uvjet (godišnji promet ≥ 800.000 EUR, jednako procijenjenoj vrijednosti) i uvjet reference (1-5 sličnih ugovora u 5 godina, vrijednosti ≥ procijenjena vrijednost) proporcionalni su i standardni za radove ove veličine, ne prekoračuju uobičajene pragove. Kontekstualno (izvan opsega ove ocjene, ali potvrđuje nalaz): zaprimljeno je 7 ponuda, od čega 6 od MSP-a, što empirijski ne upućuje na sužavanje kruga ponuditelja."
+}

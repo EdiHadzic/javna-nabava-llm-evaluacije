@@ -1,0 +1,31 @@
+{
+  "postupak_id": 5811,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij ENP jasno je razložen na cijenu (90 bodova) i kvalitetu (10 bodova, dodatno trajanje jamstva za otklanjanje nedostataka), s eksplicitnim matematičkim formulama za bodovanje oba kriterija, granicama (min. 2, maks. 5 godina) i pravilom za slučaj izjednačenja (ranije zaprimljena ponuda). Nema prostora za subjektivnu ocjenu.",
+      "citat": "Ponuda s najnižom cijenom dobiva 90,00 bodova, dok se ostale ponude boduju prema formuli"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Opći opis predmeta nabave (radovi na održavanju cesta i poljskih puteva) je generički, ali je razrađen kroz vrlo opsežan i stavkovno razveden troškovnik (pripremni radovi, donji/gornji stroj, prometna signalizacija, prekopi, poljski putevi) s jedinicama mjere i okvirnim količinama, čime se omogućuje usporediva ponuda. Zasebne 'Tehničke specifikacije' spominju se kao prilog, ali taj dokument nije bio među izdvojenim .txt datotekama pa detalji izvan troškovnika nisu bili dostupni za ocjenu.",
+      "citat": "Izrada bitumeniziranog nosivog habajučeg sloja AC 16 surf (BIT50/70) AG4 M4, debljine sloja 5 cm"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dostupna dokumentacija (Opći podaci, Kriteriji kvalitativnog odabira, Kriteriji za odabir ponude, Upute za ponuditelje, troškovnik, obrasci izjava) sadrži sve elemente potrebne za samostalnu izradu ponude: uvjete sposobnosti s načinom dokazivanja, obrasce izjava (alati/oprema, jamstvo), detaljan troškovnik i sve podatke o jamstvima i rokovima.",
+      "citat": "Elektronička ponuda mora sadržavati najmanje: Uvez ponude Popunjeni eESPD obrazac (ili više njih, ako je primjenjivo) Popunjen troškovnik"
+    },
+    "prosjecna_ocjena": 4.67
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [
+      "Naručitelj izričito navodi da ne koristi opise koji upućuju na određenu marku, izvor, proces ili zaštitni znak, već dopušta jednakovrijedne norme i rješenja.",
+      "Uvjet tehničke opremljenosti (asfaltna baza, finišer, valjci, kiperi, rezačica, grejder, rovokopači, vibronabijač, kompresor) standardna je oprema za izvođača cestovnih radova, nije definirana po specifičnom proizvođaču ili modelu.",
+      "Referentni prag (min. 1.000.000 EUR kumulativno u zadnjih 5 godina, uz proc. vrijednost 1.200.000 EUR) proporcionalan je vrijednosti nabave (omjer ~83%), unutar uobičajenih granica, ne nesrazmjerno visok."
+    ],
+    "rizik": "nizak"
+  },
+  "napomena": "Postupak je okvirni sporazum s jednim gospodarskim subjektom; zaprimljena je samo 1 ponuda (jedini ponuditelj ujedno i odabran), što je relevantno za analizu konkurentnosti (5.3) ali nije samo po sebi indikator prilagođenosti specifikacije - dokumentacija ne sadrži elemente koji bi sužavali krug potencijalnih ponuditelja. Zaseban dokument 'Tehničke specifikacije' naveden je kao prilog u Općim podacima, ali nije bio dostupan među izdvučenim .txt datotekama za ovaj postupak, pa ocjena razine detalja opisa temelji se prvenstveno na troškovniku."
+}

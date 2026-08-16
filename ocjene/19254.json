@@ -1,0 +1,27 @@
+{
+  "postupak_id": 19254,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij odabira (ekonomski najpovoljnija ponuda) potpuno je operacionaliziran matematičkim formulama za oba potkriterija (cijena 70 %, vrijeme odaziva 30 %), s jasno definiranim rasponom dopuštenih vrijednosti za mjerljivi kvalitativni kriterij (vrijeme odaziva), što omogućuje objektivnu, unaprijed predvidljivu usporedbu ponuda.",
+      "citat": "Najkraće vrijeme odaziva iznosi 3 sata. Maksimalno vrijeme odaziva je 12 sata."
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Opis predmeta nabave i troškovnik vrlo su konkretni: nabrajaju se sve lokacije, površine i vrste prostora (uredi, sanitarni čvorovi, hodnici, stubišta, liftovi, čajne kuhinje, terase) s opisom očekivanih radnji čišćenja, uz okvirne mjesečne količine sati rada po lokaciji. Ocjena nije 5 jer se dokumentacija opetovano poziva na zaseban 'Plan izvršenja poslova pranja i čišćenja' (metode, tehnike, doziranje sredstava po vrsti površine) koji u dostupnom ekstrahiranom tekstu dolazi prazan, pa se puna razina detalja ne može potvrditi iz primarnog izvora.",
+      "citat": "Odstranjivanje prašine, otisaka prstiju i druge prljavštine s namještaja i druge uredske opreme"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 4,
+      "obrazlozenje": "Dostupan je pun standardni set dokumentacije za samostalnu izradu ponude: Opći podaci, Upute za ponuditelje, Kriteriji za kvalitativni odabir, Kriterij odabira, Troškovnik-specifikacija, Prilog III (izjava o prihvaćanju uvjeta), Prilog IV (obrazac ovlasti) i Prilog V (prijedlog ugovora). Ocjena nije 5 jer je referentni tehnički prilog 'Plan izvršenja poslova pranja i čišćenja u ZJZ Zadar' (na koji se dokumentacija oslanja za detalje o doziranju sredstava i tehnikama čišćenja) u praksi nedostupan/prazan u izvučenom tekstu, čime nedostaje jedan potvrđeno referenciran, potencijalno relevantan dio dokumentacije.",
+      "citat": "Popunjeni eESPD obrazac (ili više njih, ako je primjenjivo) Popunjen troškovnik"
+    },
+    "prosjecna_ocjena": 4.33
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak"
+  },
+  "napomena": "Uvjeti sposobnosti (upis u registar, 3 reference sličnih usluga u zadnje 3 godine) standardni su i proporcionalni vrijednosti nabave (50.000 EUR), bez naznaka pragova nesrazmjernih predmetu ili reference na specifičan proizvod/marku. Postupak je bio stvarno natjecateljski: zaprimljene su 3 valjane ponude (DELTA IN, LAV ZAŠTITA, ADRIA GRUPA), niti jedna nije isključena niti odbijena, a odabrana je ekonomski najpovoljnija ponuda (LAV ZAŠTITA, 46.890,00 EUR s PDV-om naspram procijenjenih 50.000,00 EUR bez PDV-a) — što dodatno podupire ocjenu niskog rizika restriktivnosti. Datoteka 'Plan izvršenja poslova pranja i čišćenja u ZJZ Zadar NOVI.pdf' na disku ekstrahirana je kao prazna (29 bajtova) unatoč tome što je više puta izrijekom referencirana u Obavijesti o nadmetanju, Općim podacima i Troškovniku kao izvor detalja o tehnikama i doziranju — poznati/dokumentirani tip ekstrakcijskog propusta u korpusu (OCR/scan gap), ne indikacija namjerne netransparentnosti naručitelja."
+}

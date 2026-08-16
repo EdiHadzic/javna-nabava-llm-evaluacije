@@ -1,0 +1,27 @@
+{
+  "postupak_id": 18402,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriteriji za odabir ponude (cijena 90% i jamstveni rok 10%) definirani su egzaktnim matematičkim formulama u Obrascu 1., s jasno propisanim minimalnim jamstvenim rokom (24 mjeseca), načinom zaokruživanja bodova i postupkom u slučaju izostanka podatka o jamstvenom roku. Nema prostora za diskrecijsku ili nejasnu ocjenu.",
+      "citat": "Ponuda s najniže ponuđenom cijenom dobiva 90 bodova, a ostale ponude se boduju prema formuli"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 5,
+      "obrazlozenje": "Tehnička specifikacija (Obrazac 2.) daje detaljne, mjerljive karakteristike (materijal PEHD, norme EN 840-1/5/6, promjer kotača, dimenzije loga s dopuštenim odstupanjem ±5%), a istovremeno naručitelj eksplicitno navodi da je izbjegavao upućivanje na marku/patent i da za sve norme vrijedi 'ili jednakovrijedno', čime opis ostaje dovoljno konkretan bez isključivanja razumnih alternativa.",
+      "citat": "izbjegavao upućivanje na marku, izvor, patent i sl. te je sav materijal i oprema... specificiran na funkcionalan način bez navođenja marke"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dostupan je pun set dokumentacije potreban za samostalnu izradu ponude: Opći podaci, Kriteriji za kvalitativni odabir, Upute za ponuditelje, Obrasci 1-11 (kriterij odabira, tehnička specifikacija, izjave, popis referenci), Troškovnik i Obavijest o nadmetanju. Naručitelj je dodatno, na upit zainteresiranog gospodarskog subjekta, proaktivno izradio dopunski Obrazac 11. radi lakšeg planiranja dinamike isporuke, što ukazuje na visoku razinu brige za potpunost dokumentacije.",
+      "citat": "Naručitelj je načinio novi obrazac informativnog karaktera (Obrazac 11. Okvirna dinamika isporuke posuda za otpad)"
+    },
+    "prosjecna_ocjena": 5.0
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak"
+  },
+  "napomena": "Pročitane su sve relevantne .txt datoteke iz extracted/ (Opći podaci, Kriteriji za kvalitativni odabir, Obrazac 1 Kriterij za odabir ponude, Obrazac 2 Tehnička specifikacija, Troškovnik, Odgovori, Odluka o odabiru, Obavijest o dodjeli ugovora). Referentni prag tehničke sposobnosti (min. polovica procijenjene vrijednosti, uz najviše 3 reference) proporcionalan je i unutar uobičajenih okvira, nije identificiran kao restriktivan. Postupak je zaprimio 5 ponuda od različitih ponuditelja (odabran GRADATIN d.o.o.), a jedina odbijena ponuda (CONSULTARE d.o.o.) odbijena je zbog nepotpunog ESPD obrasca, ne zbog restriktivnosti specifikacije - što dodatno potvrđuje otvorenost postupka. Datoteka '(root)__ANALIZA VALJANIH PONUDA PREMA KRITERIJU ZA ODABIR PONUDE.pdf.txt' ekstrahirana je gotovo prazna (5 bajtova), ali isti sadržaj (rang-lista i bodovanje ponuda) dostupan je u Zapisniku o pregledu i ocjeni ponuda i Odluci o odabiru, pa to nije utjecalo na ocjenu."
+}

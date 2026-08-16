@@ -1,0 +1,32 @@
+{
+  "postupak_id": 16642,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriteriji za odabir ponude (ENP: cijena 90 %, rok odaziva na reklamaciju 10 %) definirani su egzaktnim matematičkim formulama s jasnim gornjim/donjim granicama i pravilom za slučaj izjednačenja. Kvalitativni uvjeti sposobnosti (isključenje, upis u registar, reference, HACCP/ISO norme) navedeni su s preciznom pravnom osnovom (članci ZJN2016), točnim pragom referenci (najmanje pola procijenjene vrijednosti grupe u 2021.-2024.) i načinom dokazivanja (ESPD + naknadni dokazi).",
+      "citat": "Minimalno vrijeme odaziva je 1 sat od trenutka zaprimanja poziva na reklamaciju. Maksimalno vrijeme odaziva je 3 sata."
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 3,
+      "obrazlozenje": "Dokument najavljen kao 'Tehničke specifikacije' za obje grupe sadrži samo opću uputu da je predmet specificiran u troškovniku te generičko pozivanje na zakone o hrani/HACCP-u, bez ijedne konkretne tehničke stavke. Stvarna razina detalja proizlazi isključivo iz naziva i minimalne mase/postotka masnoće u troškovniku (npr. 'min. 100 g', '2,8% mm'), što je dovoljno za usporedivost ponuda, ali znatno manje detaljno od onoga što naslov dokumenta obećava.",
+      "citat": "Predmet nabave je specificiran u troškovniku."
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Kompletan i međusobno konzistentan set dokumentacije dostupan je za obje grupe: opći podaci, obavijest o nadmetanju (i uredno objavljena izmjena zbog ispravka datuma otvaranja), upute za ponuditelje, kriteriji kvalitativnog odabira, zaseban dokument s formulom ENP-a, tehničke specifikacije, troškovnici i obrazac izjave o roku odaziva na reklamaciju. Sve stavke koje Upute za ponuditelje traže kao sastavni dio ponude imaju odgovarajući prilog u dokumentaciji o nabavi.",
+      "citat": "Ponuditelj uz ponudu dostavlja Izjavu o ponuđenom roku odaziva na reklamaciju isporučenog proizvoda."
+    },
+    "prosjecna_ocjena": 4.33
+  },
+  "restriktivnost": {
+    "prisutno": true,
+    "indikatori": [
+      {
+        "opis": "U troškovniku Grupe 2 jedna stavka imenuje zaštićeni izvorni naziv sira bez dodatka 'ili slično/jednakovrijedno', dok je usporediva stavka istog troškovnika (Sir Varaždinec) izričito dopuštena 'ili slično' - nedosljednost koja za tu pojedinačnu stavku sužava krug prihvatljivih dobavljača na jedan specifičan proizvod.",
+        "citat": "Tvrdi masni sir Parmigiano Reggiano 200g"
+      }
+    ],
+    "rizik": "nizak"
+  },
+  "napomena": "Pročitane su sve relevantne .txt datoteke u extracted/ (opći podaci, obavijest o nadmetanju + izmjena, upute za ponuditelje, kriteriji kvalitativnog odabira, dokument s formulom ENP-a, obje tehničke specifikacije, oba troškovnika, zapisnici o pregledu i ocjeni, odluka o odabiru, obavijest o dodjeli ugovora). Dvije PDF datoteke ('zapisnik.pdf', 'odluka.pdf') ekstrahirane su OCR-om s vidljivo oštećenim tekstom, no sadržaj je u potpunosti provjerljiv preko dviju čistih HTML/PDF inačica istog zapisnika te preko 'Odluka o odabiru.html'. Dvije .rar arhive (APD Tvornica kruha Zadar, APD Vindija - dokazi sposobnosti odabranih ponuditelja) ekstrahirane su kao prazne (0 B), ali ne utječu na ocjenu transparentnosti same dokumentacije o nabavi jer se radi o naknadno dostavljenim prilozima ponuda, ne o dokumentaciji koju je naručitelj objavio. Zapaženo, ali izvan opsega ove sheme: naručitelj u točki 1.3. objavljuje sukob interesa s trećom stranom čiji je vlasnik Kristijan Kotlar, a ista osoba (Kristijan Kotlar) navedena je kao član stručnog povjerenstva za ovaj postupak - vrijedno pažnje za buduću analizu integriteta, no ne ulazi u definiciju restriktivnosti specifikacije prema ovoj shemi."
+}

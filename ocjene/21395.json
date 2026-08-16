@@ -1,0 +1,39 @@
+{
+  "postupak_id": 21395,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriteriji za odabir ponude (ENP) potpuno su jasno definirani i mjerljivi: cijena (60 bodova, eksplicitna formula), jamstveni rok za vodomjere (12 bodova, tablica s bodovima po godinama trajanja jamstva) i specifično iskustvo stručnjaka (28 bodova, tablice s bodovanjem po broju izvršenih projekata za svakog od 3 stručnjaka). Nakon upita ponuditelja naručitelj je dodatno pojasnio na koji se dio sustava odnosi jamstveni kriterij (vodomjeri) i objavio izmijenjenu dokumentaciju.",
+      "citat": "C= (Cmin/Cp) x 60"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Opis predmeta nabave vrlo je detaljan za hardversku/mrežnu komponentu (precizne tehničke specifikacije LoRaWAN bazne stanice, radio modula, vodomjera, LNS poslužitelja, s konkretnim tehničkim parametrima poput IP zaštite, temperaturnog raspona, osjetljivosti prijamnika) i za troškovnik (jasno razdvojene stavke s količinama). Za webGIS komponentu naručitelj eksplicitno navodi da su zahtjevi dani kroz 'okvirne natuknice' te da će se dodatni zahtjevi naknadno definirati tijekom razvoja, što ostavlja dio opisa manje konkretnim u odnosu na hardversku komponentu.",
+      "citat": "Naručitelj je zahtjeve izrazio kroz okvirne natuknice i funkcionalnosti traženih programskih rješenja i usluga... dodatni zahtjevi... javljati u tijeku razvoja"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dokumentacija je iznimno potpuna: obavijest o nadmetanju, kriteriji za kvalitativni odabir s detaljnim uputama za ESPD po svakoj osnovi isključenja, kriteriji za odabir ponude s formulama, tehnička specifikacija webGIS-a, funkcionalni i tehnički zahtjevi (Excel po komponentama opreme), troškovnik razložen po stavkama, prijedlog ugovora, svi obrasci izjava (PRILOZI 5-10), te šest odgovora na pitanja ponuditelja s objavljenim izmjenama dokumentacije. Ponuditelj bi na temelju ovoga mogao samostalno izraditi ponudu.",
+      "citat": "Sva ponuđena oprema, softver i usluge moraju biti sukladni funkcionalnim zahtjevima i tehničkim specifikacijama navedenim u dokumentu PRILOG 1... i PRILOG 2."
+    },
+    "prosjecna_ocjena": 4.67
+  },
+  "restriktivnost": {
+    "prisutno": true,
+    "indikatori": [
+      {
+        "opis": "Zahtjev za LoRa Alliance certifikatom kod LoRaWAN radio modula, koji nije zakonski certifikat (za razliku od CE), a jedan je ponuditelj u upitu naveo da time naručitelj 'pogoduje proizvođačima jedne neprofitne organizacije'. Naručitelj je zahtjev zadržao unatoč prigovoru, obrazlažući ga tržišnom rasprostranjenošću certifikata i potrebom interoperabilnosti.",
+        "citat": "LoRa Alliance certifikat koji se traži... ne predstavlja zakonski okvir... Smatramo da bi ovaj zahtjev morao biti preformuliran... jer se u protivnom pogoduje proizvođačima jedne neprofitne organizacije"
+      },
+      {
+        "opis": "Izvorni kriterij za bodovanje iskustva stručnjaka priznavao je samo projekte izvedene 'za potrebe javnih naručitelja', što je jedan ponuditelj ocijenio kao neosnovano sužavanje tržišnog natjecanja. Naručitelj je prigovor djelomično prihvatio i izmijenio dokumentaciju da se jednako boduju i projekti za privatne naručitelje, ali je odbio priznati iskustvo stečeno projektiranjem za vlastite (interne) potrebe ponuditelja/poslodavca.",
+        "citat": "Smatramo da tako definiran neosnovano i nepotrebno ograničava tržišno natjecanje... Naručitelj prihvaća sugestiju da se na jednak način boduju i projekti koji nisu rađeni za potrebe javnih naručitelja"
+      },
+      {
+        "opis": "Postupak je rezultirao samo 2 zaprimljene ponude (obje od MSP-ova), što je nizak broj ponuditelja za nabavu procijenjene vrijednosti 395.000 EUR, konzistentno s mogućim učinkom niša-specifičnih tehničkih zahtjeva na krug potencijalnih ponuditelja (posredan, ne izravan dokaz restriktivnosti)."
+      }
+    ],
+    "rizik": "srednji"
+  },
+  "napomena": "Svi ključni dokumenti (obavijest o nadmetanju, kriteriji, tehničke specifikacije, troškovnik, odgovori na upite, obavijest o dodjeli) uspješno su pročitani i čitljivi bez vidljivih OCR/ekstrakcijskih problema. Odgovori na upite ponuditelja (Odgovori.html) posebno su korisni jer izravno dokumentiraju konkretne prigovore na restriktivnost i reakciju naručitelja na njih."
+}

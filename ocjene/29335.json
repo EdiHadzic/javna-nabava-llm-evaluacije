@@ -1,0 +1,40 @@
+{
+  "postupak_id": 29335,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriteriji za odabir (cijena 90% i jamstveni rok 10%) potpuno su jasno definirani, mjerljivi i popraćeni eksplicitnim matematičkim formulama za bodovanje, minimalnim i maksimalnim vrijednostima te pravilom za slučaj izjednačenja.",
+      "citat": "Kriterij (a) - Cijena ponude (maksimum 90 bodova)... Ymin/Yp x 90... Kriterij (b) – Jamstveni rok (maksimum 10 bodova)... Yp/Ymax x 10"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 3,
+      "obrazlozenje": "Tehnička specifikacija vrlo je detaljna (22 stavke, precizne količine 800 kom ključeva + 1 mobilna jedinica, funkcionalni zahtjevi), no jedna stavka eksplicitno imenuje komercijalnu marku bez pripadajuće klauzule 'ili jednakovrijedno', što narušava kriterij 'dovoljno konkretno, a da ne isključuje razumne alternative'.",
+      "citat": "Naručitelj koristi sustav mjerenja i naplate odloženog nerazvrstanog otpada kompatibilan s ključevima marke „ABLOY“"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dokumentacija sadrži cjelovit i konzistentan skup priloga (Opći podaci, Upute za ponuditelje, Kriteriji kvalitativnog odabira, Obrazac 1-8, Troškovnik) dovoljan za samostalnu izradu ponude; oba ponuditelja su na temelju iste dokumentacije podnijela valjane, potpune ponude uz tek manje formalne dopune.",
+      "citat": "Ponuda je dostavljena elektronički, popunjen je ponudbeni list sukladno obrascu EOJN RH... te su dostavljeni svi traženi obrasci."
+    },
+    "prosjecna_ocjena": 4.33
+  },
+  "restriktivnost": {
+    "prisutno": true,
+    "indikatori": [
+      {
+        "opis": "Tehnička specifikacija eksplicitno imenuje komercijalnu marku ('ABLOY') kao zahtjev kompatibilnosti s već instaliranim sustavom naručitelja, bez priložene klauzule 'ili jednakovrijedno' uz tu konkretnu stavku (za razliku od normi EN 61000-6-2/6-3 gdje je klauzula izričito navedena).",
+        "citat": "Elektronski korisnički ključ za otvaranje uređaja i puštanje u rad mora biti kompatibilan s elektronskim sustavom montiranim na spremnicima (Naručitelj koristi... kompatibilan s ključevima marke „ABLOY“)"
+      },
+      {
+        "opis": "Opći podaci o postupku sadrže generičku izjavu da je naručitelj izbjegavao upućivanje na marku, što je u izravnoj suprotnosti sa stvarnim sadržajem Tehničke specifikacije koja marku eksplicitno navodi.",
+        "citat": "Naručitelj je pri izradi Dokumentacije o nabavi izbjegavao upućivanje na marku, izvor, patent i sl."
+      },
+      {
+        "opis": "Zapisnik o pregledu i ocjeni potvrđuje da su OBA ponuditelja (jedina dva sudionika postupka) ponudila proizvode iste marke/proizvođača (ABLOY / ASSA ABLOY, Finska), što empirijski potvrđuje da je zahtjev iz tehničke specifikacije stvarno sužavao krug ponuditelja na distributere te marke, a ne samo teoretski.",
+        "citat": "ponudio elektronske korisničke ključeve s mobilnom prijenosnom jedinicom marke/tipa ABLOY/ABLOY CLIQ... proizvođača PDA jedinica – ABLOY OY, Finska; ... marke/tipa ABLOY PROTECT2 CLIQ proizvođača ASSA ABLOY, Finska"
+      }
+    ],
+    "rizik": "srednji"
+  },
+  "napomena": "Pročitane sve .txt datoteke u extracted/ (22 datoteke) — dokumentacija o nabavi, tehnička specifikacija, kriteriji kvalitativnog odabira, upute za ponuditelje, obavijest o nadmetanju, zapisnik o pregledu i ocjeni, odluka o odabiru te obavijest o dodjeli ugovora. Restriktivnost je djelomično pravno opravdana (kompatibilnost s već instaliranim sustavom naručitelja, iznimka slična čl. 210. ZJN 2016), a rizik je ublažen time što su dva neovisna ponuditelja (oba distributeri iste marke) stvarno konkurirala s vrlo bliskim cijenama (44.964,00 i 44.789,00 EUR, razlika 0,4%, oba blizu procijenjene vrijednosti 45.000,00 EUR) — nema indicija dogovorenog/simuliranog nadmetanja niti pretjerano naduvane cijene, ali strukturno je tržište ionako suženo na ABLOY-kompatibilne dobavljače."
+}

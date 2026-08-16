@@ -1,0 +1,38 @@
+{
+  "postupak_id": 17552,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij odabira je ekonomski najpovoljnija ponuda s jasno definiranom težinom (cijena 90 bodova, jamstveni rok 10 bodova), potpunom matematičkom formulom bodovanja, definiranim gornjim i donjim ograničenjem za kvalitativni kriterij (24-60 mjeseci) i preciznim dokazima koje treba dostaviti (ovjerena izjava o jamstvenom roku). Kriteriji kvalitativnog odabira gospodarskog subjekta (promet, popis radova, tehnički stručnjaci) definirani su s točnim brojčanim pragovima i načinom dokazivanja putem ESPD-a.",
+      "citat": "Naručitelj je ograničio najviši dozvoljeni iznos za kriterij 60,00 Naručitelj je ograničio najniži dozvoljeni iznos za kriterij 24,00"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 5,
+      "obrazlozenje": "Predmet nabave popraćen je punom projektnom dokumentacijom (arhitektonski i elektrotehnički izvedbeni projekt s tehničkim opisom, proračunima, primijenjenim propisima) te troškovnikom od 735 redaka s opisom svake stavke (dimenzije, materijali, način obračuna, upute za izvođenje), što omogućuje usporedivu ponudu bez pretjeranog suženja na jednog ponuditelja jer opći uvjeti troškovnika izričito dopuštaju materijale drugih proizvođača iste kvalitete.",
+      "citat": "Primjenjeni materijali u troškovniku imaju provedeno ispitivanje kvalitete u skladu s HRN... Kod izvedbe mogu se primjeniti materijali drugih proizvođača, ali sa istom kvalitetom kao navedeni"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dokumentacija o nabavi cjelovita je i sadrži sve dijelove potrebne za samostalnu izradu ponude: Opći podaci, Upute za ponuditelje, Kriteriji za odabir ponude, Kriteriji kvalitativnog odabira, tehničke specifikacije (projektna dokumentacija), troškovnik u .xlsx formatu, prijedlog ugovora (špranca) i obrasce izjava. Naknadna dokumentacija (zapisnik o pregledu i ocjeni, obavijest o dodjeli) potvrđuje da je postupak proveden bez nejasnoća oko sadržaja ponude.",
+      "citat": "Elektronička ponuda mora sadržavati najmanje: Uvez ponude Popunjeni eESPD obrazac... Popunjen troškovnik... Prijedlog ugovora ili okvirnog sporazuma... Potpisan obrazac izjave o nepostojanju zabrane dodjele ugovora"
+    },
+    "prosjecna_ocjena": 5.0
+  },
+  "restriktivnost": {
+    "prisutno": true,
+    "indikatori": [
+      {
+        "opis": "Troškovnik u nekoliko stavki opisa materijala referira konkretne komercijalne nazive proizvoda (cementne ploče za vlažne prostore, protupožarne ploče) umjesto isključivo generičkih tehničkih karakteristika, iako je za te konkretne stavke izostala eksplicitna oznaka 'ili jednakovrijedno' na razini pojedine stavke.",
+        "citat": "Za vlažne prostore - veliki % vlage: upotrebljavaju se cementne ploče Aquapanel Indoor, Aquapanel Outdoor (za vanjsku primjenu)",
+        "napomena_o_ublazavanju": "Opći uvjeti troškovnika sadrže opću odredbu da su navedeni proizvođači informativni te da se mogu koristiti materijali drugih proizvođača iste kvalitete uz dokaz ispitivanja, čime je rizik isključivosti bitno smanjen."
+      },
+      {
+        "opis": "Slična referenca na tržišni naziv ploče kod suhomontažnih radova, korištena kao opisni tip materijala.",
+        "citat": "DFH2IR tvrde impregnirane protupožarne ploče (\"Diamant\"), prema normi HRN EN 520:2006",
+        "napomena_o_ublazavanju": "Naziv je naveden kao ilustrativni primjer tipa ploče uz jasnu HRN normu, a ne kao isključiv uvjet nabave."
+      }
+    ],
+    "rizik": "nizak"
+  },
+  "napomena": "Pročitane su sve relevantne .txt datoteke iz extracted/ (33 datoteke): obavijest o nadmetanju, opći podaci, kriteriji za odabir ponude, kriteriji kvalitativnog odabira, upute za ponuditelje, puna projektna dokumentacija (arhitektonski i elektrotehnički izvedbeni projekt), troškovnik, zapisnik o pregledu i ocjeni ponuda te obavijest o dodjeli ugovora. Financijski (ukupni promet >= 94.000 EUR) i referentni pragovi (zbroj potvrda >= 94.000 EUR bez PDV-a) proporcionalni su procijenjenoj vrijednosti nabave i ne pokazuju znakove nesrazmjerne restriktivnosti. Postupak je zaprimio 2 valjane ponude (oba mala/srednja poduzetnika), s razlikom u bodovima od manje od 1 boda, što ukazuje na uredno provedenu konkurentnu evaluaciju."
+}

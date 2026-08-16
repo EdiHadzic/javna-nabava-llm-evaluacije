@@ -1,0 +1,28 @@
+{
+  "postupak_id": 15700,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 2,
+      "obrazlozenje": "Kriterij za odabir ponude naveden je samo kao naziv ('Cijena'), bez definirane metodologije, formule ili udjela u ocjeni. Osim toga, riječ je o postupku izuzetom od ZJN-a s izravnom dodjelom na temelju isključivog prava (0 zaprimljenih ponuda), pa kriterij nikad nije stvarno primijenjen u konkurentnom nadmetanju.",
+      "citat": "3.1.6. Kriterij za odabir ponude Cijena: Naziv kriterija Cijena"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 1,
+      "obrazlozenje": "Opis predmeta nabave svodi se na jednu generičku rečenicu bez ikakvih tehničkih detalja (opseg usluge, učestalost, standardi kvalitete, obveze izvođača). Nema tehničke specifikacije ni troškovnika u dostupnom tekstu.",
+      "citat": "Opis nabave: Usluge priveza i odveza u luci Brbinj"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 1,
+      "obrazlozenje": "U 'extracted/' direktoriju dostupna je isključivo Obavijest o dodjeli ugovora — nema dokumentacije o nabavi, tehničke specifikacije, troškovnika ni obrazaca. Na temelju dostupnog teksta nije moguće samostalno izraditi ponudu niti procijeniti uvjete nadmetanja, jer nadmetanje u uobičajenom smislu nije ni provedeno (izravna dodjela, 0 ponuda).",
+      "citat": "Broj zaprimljenih ponuda: 0"
+    },
+    "prosjecna_ocjena": 1.33
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak",
+    "napomena_restriktivnost": "Nisu pronađene reference na specifičan proizvod/marku, patentirano rješenje niti nesrazmjerne financijske/referentne pragove — takvi elementi zahtijevaju konkurentnu specifikaciju koja ovdje ne postoji. Umjesto toga riječ je o drugoj vrsti ograničenja tržišnog natjecanja: postupak je od početka izuzet iz ZJN-a i ugovor je izravno dodijeljen Županijskoj lučkoj upravi Zadar na temelju isključivog prava po čl. 30. st. 1. t. 15. ZJN2016, bez ikakvog poziva na nadmetanje (0 zaprimljenih ponuda). To je zakonski utemeljen monopol, a ne prilagodba specifikacije određenom ponuditelju u smislu ove dimenzije, pa je formalno 'prisutno' ostavljeno na false."
+  },
+  "napomena": "U 'Diplomski/Postupci/15700/extracted/' postoji samo jedna datoteka — Obavijest o dodjeli ugovora (PDF). Nema dokumentacije o nabavi, tehničke specifikacije, kriterija za kvalitativni odabir niti obavijesti o nadmetanju, jer postupak uopće nije proveden kao konkurentno nadmetanje: naveden je kao 'Nabava izuzeta od primjene ZJN', pregovarački postupak bez prethodne objave na temelju isključivog prava (čl. 30. st. 1. t. 15. ZJN2016), s 0 zaprimljenih ponuda i izravnom dodjelom ugovora Županijskoj lučkoj upravi Zadar (usluge priveza i odveza, luka Brbinj, EVV 171/456-2024, procijenjena vrijednost 30.000,00 EUR, naručitelj Jadrolinija). Ocjene transparentnosti stoga odražavaju gotovo potpuni izostanak standardne natječajne dokumentacije, a ne kvalitetu neke opsežnije dokumentacije koja bi postojala ali bila loše napisana."
+}

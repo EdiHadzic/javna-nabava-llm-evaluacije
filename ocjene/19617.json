@@ -1,0 +1,36 @@
+{
+  "postupak_id": 19617,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij ekonomski najpovoljnije ponude (cijena 30 %, tri podkriterija kvalitete kroz iskustvo ključnog stručnjaka 45+15+10 %) potpuno je operacionaliziran matematičkim formulama i bodovnim tablicama s jasnim pragovima (broj projekata/edukacija po rasponima), čime je bodovanje objektivno provjerljivo i unaprijed predvidljivo za svakog ponuditelja.",
+      "citat": "Broj bodova= najniža ponuđena cijena/cijena ponude x 30... od 1 do 6 projekata 5,00... 21 i više projekata 45,00"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Tehnička specifikacija je opsežna i konkretna (rezolucija ortofota 5 cm/px, DMP 10 cm/px, minimalne funkcionalnosti WebGIS Geoportala, standardni otvoreni formati/protokoli poput WMS/WFS/WMTS/REST API), što omogućuje usporedivu ponudu. Blago umanjuje ocjenu spajanje više vrlo specifičnih, rijetkih kompetencija (dronovsko snimanje + katastar/komunalna naknada + WebGIS) u jedan predmet nabave bez podjele na grupe.",
+      "citat": "digitalni ortofoto (min. prostorne razlučivosti 5 cm/px), digitalni modela površina (min. prostorne razlučivosti 10 cm/px) te izraditi 3d model u cesium formatu"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 4,
+      "obrazlozenje": "Dostupan je pun set dokumenata (Opći podaci, Upute za ponuditelje, Tehničke specifikacije, Kriteriji za kvalitativni odabir, Kriteriji za odabir ponude, Troškovnik) dovoljan za samostalnu izradu ponude. Troškovnik je, međutim, sveden na 7 paušalnih (komplet=1) stavki bez daljnje razrade po podaktivnostima, što ponešto ograničava usporedivost strukture cijene među ponuditeljima.",
+      "citat": "4. Izrada WebGIS rješenja\tkomplet\t1\t0"
+    },
+    "prosjecna_ocjena": 4.33
+  },
+  "restriktivnost": {
+    "prisutno": true,
+    "indikatori": [
+      {
+        "opis": "Referentni uvjet zahtijeva da se sve navedene, vrlo raznorodne komponente (izrada web GIS rješenja na tehnologijama otvorenog koda, zračno snimanje bespilotnim letjelicama u rezoluciji ≤5 cm s izradom ortofota i 3D Mesh-a, izrada evidencije nekretnina, uspostava WebGIS Geoportala za komunalnu naknadu) dokažu s najviše tri ugovora čija zbrojena vrijednost mora doseći punu procijenjenu vrijednost nabave (150.000 EUR) — spajanje ovoliko specijaliziranih i rijetko kombiniranih usluga u jedan uvjet sužava krug sposobnih ponuditelja na uzak segment tržišta.",
+        "citat": "Ponuditelji traženo iskustvo dokazuju s minimalno jednom, a maksimalno tri usluge, sa kojima su obuhvaćene sve gore navedene komponente, a čija vrijednost u zbroju mora biti minimalno u visini procijenjene vrijednosti nabave."
+      },
+      {
+        "opis": "U postupku je zaprimljena samo jedna ponuda (PREHNIT d.o.o.), što je kontekstualni pokazatelj sukladan uskom krugu tržišnih sudionika sposobnih zadovoljiti kombinirane uvjete, iako to samo po sebi nije dokaz namjerne prilagodbe.",
+        "citat": "Odabrana ponuda gospodarskog subjekta: PREHNIT d.o.o."
+      }
+    ],
+    "rizik": "srednji"
+  },
+  "napomena": "Pročitani su svi relevantni dokumenti iz extracted/ (Opći podaci, Upute za ponuditelje, Tehničke specifikacije, oba kriterija dokumenta, Odluka o odabiru, Troškovnik). Prazne priloge (PRILOG POPIS EDUKACIJA/PROJEKATA) čine očekivane neispunjene predloške za ponuditelje, ne propust ekstrakcije. (root)__APD.7z.txt je prazan (0 B, neizdvojena arhiva), ali nije bio presudan jer su svi ključni sadržajni dokumenti dostupni u drugim formatima (html/pdf/docx/xlsx)."
+}

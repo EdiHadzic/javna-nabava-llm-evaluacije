@@ -1,0 +1,32 @@
+{
+  "postupak_id": 16420,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 4,
+      "obrazlozenje": "Konačni kriteriji za odabir ponude (ekonomski najpovoljnija ponuda: cijena 80 bodova, iskustvo ključnog stručnjaka 20 bodova) jasno su definirani matematičkom formulom i tablicom bodovanja po broju referentnih projekata. Međutim, izvorno objavljena dokumentacija sadržavala je nejasnoće (pogrešno navedena obveza dostave 'popisa glavnih usluga' bez veze s kriterijem, te nepostojeća pozicija 'nadzorni inženjer gradilišta') koje su morale biti razjašnjene kroz čak pet zasebnih pitanja ponuditelja u modulu Pitanja/Pojašnjenja prije nego što su kriteriji postali jednoznačni.",
+      "citat": "Naručitelj je uočio grešku koja mu se potkrala kada je stavio da se traži popis glavnih usluga, te će istu izmijeniti."
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 5,
+      "obrazlozenje": "Tehnička specifikacija (Prilog 1 - Opis predmeta nabave) vrlo je opsežna i konkretna: precizno definira sadržaj usluge stručnog nadzora i koordinatora zaštite na radu, popis i broj traženih ključnih stručnjaka (5 pozicija), dinamiku izvještavanja, postupke uz VTR-ove, formulu za promjenu cijene kritičnih materijala i verifikaciju rezultata, bez pretjeranog suženja na način koji bi isključivao razumne alternative.",
+      "citat": "Za izvršenje ugovora odabrani gospodarski subjekt mora staviti na raspolaganje najmanje glavne i dodatne stručnjake... Pet (5) glavnih stručnjaka"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 4,
+      "obrazlozenje": "Dostupna je cjelovita dokumentacija potrebna za samostalnu izradu ponude: opći podaci, tehnička specifikacija, kriteriji kvalitativnog odabira, kriteriji za odabir ponude, upute za ponuditelje, nacrt ugovora i obrasci (životopis ključnog stručnjaka). Jedini manji nedostatak je troškovnik koji sadrži samo jednu paušalnu stavku ('komplet') bez daljnje razrade po fazama ili vrstama nadzora, što ponuditeljima daje manje transparentnosti u strukturiranju cijene.",
+      "citat": "1 USLUGA STRUČNOG NADZORA komplet 1 SVEUKUPNO BEZ PDV-a"
+    },
+    "prosjecna_ocjena": 4.33
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [
+      "Financijski uvjet (ukupni godišnji promet od najmanje 160.000,00 EUR u posljednje 3 godine) postavljen je točno u visini procijenjene vrijednosti nabave, što je uobičajena i proporcionalna praksa, ne prekomjerna.",
+      "Uvjet članstva u Hrvatskoj komori inženjera građevinarstva standardan je zakonski zahtjev za obavljanje poslova stručnog nadzora, ne predstavlja prilagodbu konkretnom ponuditelju.",
+      "Nema referenci na točno određeni proizvod, marku ili patentirano rješenje.",
+      "Naručitelj je transparentno objavio popis gospodarskih subjekata s kojima je u sukobu interesa (uključujući lokalni OPG s prezimenom koje se podudara s jednim od članova povjerenstva za otvaranje ponuda), što je pozitivan signal transparentnosti, a ne restriktivnosti."
+    ],
+    "rizik": "nizak"
+  },
+  "napomena": "Pročitane su sve relevantne .txt datoteke iz extracted/ direktorija (opći podaci, tehnička specifikacija, kriteriji kvalitativnog odabira, kriteriji za odabir ponude, upute za ponuditelje, obavijest o nadmetanju, odgovori na pitanja, troškovnik). Dokumenti dodjele ugovora, primopredaje i naknadnih izmjena ugovora nisu korišteni za ovu ocjenu jer se odnose na fazu nakon objave, izvan opsega ocjene transparentnosti dokumentacije o nabavi. Jedna datoteka (Prilog zapisniku.rar.txt) prazna je (0 bajtova) - poznati ekstrakcijski nedostatak dokumentiran u projektnim bilješkama, nije bila presudna jer se prema nazivu odnosi na zapisnik nakon otvaranja ponuda, ne na dokumentaciju o nabavi."
+}

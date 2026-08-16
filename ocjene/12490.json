@@ -1,0 +1,27 @@
+{
+  "postupak_id": 12490,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriteriji za odabir gospodarskog subjekta (osnove za isključenje, upis u registar, tehnička i stručna sposobnost) detaljno su razrađeni s pravnom osnovom, pitanjem za ESPD i načinom dokazivanja za svaku stavku. Kriterij za odabir ponude (ENP) matematički je precizno definiran, s eksplicitnom formulom za cijenu i bodovnom skalom za specifično iskustvo stručnjaka, uključujući točan popis dokaza koje potvrda mora sadržavati.",
+      "citat": "C= (Cmin/Cp) x 70 ... Broj referenci Broj bodova 0 = 0 bodova 1 = 5 bodova 2 = 10 bodova 3 = 20 bodova 4 ili više = 30 bodova"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 5,
+      "obrazlozenje": "Opis predmeta nabave (usluga stručnog nadzora i koordinacije zaštite na radu) vrlo je konkretan: navodi točan opseg poslova (nadzor po strukama, izvješćivanje, koordinacija, primopredaja, obračun), pravnu osnovu za svaku obvezu i referencira postojeću, opsežnu projektnu dokumentaciju (10 mapa glavnog projekta) na koju se nadzor odnosi. Time se omogućuje usporediva ponuda bez neopravdanog suženja kruga ponuditelja.",
+      "citat": "Predmet usluge stručnog nadzora građenja i koordinatora zaštite na radu tijekom građenja su građevinsko obrtnički radovi – rekonstrukcija zapadnog krila Specijalne bolnice za ortopediju Biograd na Moru... sukladno Glavnom projektu..."
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 4,
+      "obrazlozenje": "Dokumentacija je opsežna i unutarnje usklađena (Opći podaci, Upute za ponuditelje, Kriteriji kvalitativnog odabira, Kriteriji za odabir ponude, Tehničke specifikacije, Uvjeti sukladno posebnim propisima, obrasci). Otkrivena nedosljednost (obrazac 'Specifično iskustvo stručnjaka' tražio 1.000.000 EUR umjesto 500.000 EUR iz DON-a) transparentno je ispravljena kroz modul Pitanja/Pojašnjenja i formalnu Obavijest o izmjenama, što je pozitivan znak brzog reagiranja, ali ipak ukazuje na nesavršenu internu usklađenost priloga u prvoj verziji. Troškovnik je sveden na jednu paušalnu stavku bez daljnje razrade komponenti cijene.",
+      "citat": "Naručitelj je prilikom pripreme obrasca ''Specifično iskustvo stručnjaka'' napravio nenamjernu grešku te naveo da umjesto reference u vrijednosti od 500.000,00 eura boduje referencu vrijednosti 1.000.000,00 eura."
+    },
+    "prosjecna_ocjena": 4.67
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak"
+  },
+  "napomena": "Pročitani su svi relevantni dokumenti u extracted/ (Kriteriji za kvalitativni odabir, Kriteriji za odabir ponude, Obavijest o nadmetanju, Tehničke specifikacije, Uvjeti i zahtjevi sukladno posebnim propisima, Opći podaci o postupku nabave, Upute za ponuditelje, Troškovnik, Izmjena obavijesti, Odgovori). Projektna tehnička dokumentacija (arhitektura, konstrukcija, elektroinstalacije i sl.) nije detaljno pregledana jer se odnosi na sam građevinski zahvat koji se nadzire, ne na uvjete i kriterije ovog postupka nabave usluge nadzora. Prag od 500.000 EUR za referentni rad koji se boduje kod specifičnog iskustva stručnjaka djeluje proporcionalan s obzirom na razmjer i kompleksnost radova koji se nadziru (rekonstrukcija bolničkog krila u više struka), unatoč tome što je procijenjena vrijednost same usluge nadzora (44.184 EUR) znatno niža."
+}

@@ -1,0 +1,33 @@
+{
+  "postupak_id": 30235,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriteriji za odabir su jasno i eksplicitno definirani s preciznim formulama za bodovanje. Cijena nosi 90 bodova (najniža ponuda dobiva maksimalno, ostale se vrednuju proporcionalno), a rok isporuke 10 bodova (raspon 24-72 sata). Sve granice su konkretne i mjerljive.",
+      "citat": "Ekonomski najpovoljnija ponuda utvrđuje se na temelju Cijene i kvalitete. Cijena 90,00 / Rok isporuke 10,00"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Predmet nabave je detaljno opisana kroz tri odvojene grupe (meso, voće/povrće, ostali proizvodi) sa specifičnim količinama i vrstama proizvoda. Tehničke specifikacije upućuju na zakone o hrani i higijeni, s jasnom klauzulom da se mogu nuditi jednakovrijeda proizvoda, što daje dovoljnu fleksibilnost dok se sprječava previše uska specifikacija.",
+      "citat": "Dozvoljeno je nuđenje svih ponuđenih proizvoda koji imaju deklaraciju sukladno Zakonu o hrani. Ponuditelj može ponuditi jednakovrijednu robu bez obzira je li taj proizvod popraćen izrazom 'ili jednakovrijedno'"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dostupna je potpuna dokumentacija o nabavi: opći podaci, kriteriji za odabir, tehničke specifikacije, detaljan troškovnik za sve tri grupe s količinama, kriteriji za kvalitativni odabir gospodarskog subjekta, te obavijest o dodjeli ugovora. Svi potrebni dokumenti su prisutni za samostalnu izradu ponude.",
+      "citat": "Detaljne tehničke specifikacije se nalaze u zasebnom prilogu. Detaljan troškovnik se nalazi u zasebnom prilogu – Troškovnik."
+    },
+    "prosjecna_ocjena": 4.67
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [
+      {
+        "tip": "Vegeta u Grupi 3",
+        "sadrzaj": "Red broj 13 u troškovniku navodi 'Vegeta ili jednakovrijedno' sa dozvolom za ekvivalentne proizvode",
+        "rizik": "nizak - eksplicitno je dozvoljena zamjena"
+      }
+    ],
+    "rizik": "nizak"
+  },
+  "napomena": "Postupak pokazuje visoku transparentnost s jasnim kriterijima i fleksibilnom specifikacijom. Tri grupe su odvojeno vrednovane s različitim brojem ponuda (1, 3, 2), a ugovore su dobili različiti ponuditelji (AGRO MALEŠ, Samirić, BROSS TRADE), što ukazuje na otvoren i konkurentan postupak bez indikacija prilagođenosti određenom ponuditelju. Opću prihvatljivost fleksibilnosti potvrđuje ponavljajuća klauzula 'ili jednakovrijedno' kroz sve dokumente."
+}

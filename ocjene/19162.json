@@ -1,0 +1,27 @@
+{
+  "postupak_id": 19162,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij odabira (ekonomski najpovoljnija ponuda) razrađen je zasebnim dokumentom s eksplicitnim formulama bodovanja za oba parametra (cijena i jamstveni rok), uključno s decimalnom preciznošću bodovanja, jasno definiranim min./maks. granicama jamstvenog roka (24-48 mjeseci) i pravilom za rangiranje izjednačenih ponuda. Uvjeti kvalitativnog odabira gospodarskog subjekta (isključenja, tehnička i stručna sposobnost) također su iscrpno razrađeni s pravnom osnovom, pitanjem za ESPD i točnim numeričkim pragovima.",
+      "citat": "Ponuda s najnižom cijenom dobiva 85,00 bodova... Maksimalni broj bodova koji ponuditelj može dobiti prema ovom kriteriju je 15 bodova."
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Opis predmeta nabave vrlo je konkretan (detaljni arhitektonski parametri - tlocrtna površina, GBP, Kig/Kis, opis konstrukcije i materijala) i podržan s pet zasebnih projekata struka (arhitektonski, konstrukcija, ViK, elektro, strojarski) te detaljnim troškovnikom s DNSH uvjetima. Tehnička specifikacija eksplicitno zabranjuje upućivanje na marku/patent i nalaže klauzulu 'ili jednakovrijedno', čime se izbjegava prekomjerno sužavanje kruga ponuditelja. Ocjena nije 5 jer sadržaj troškovnika i pet tehničkih projekata nije u cijelosti pregledan red-po-red radi provjere eventualnih preciznih tehničkih zahtjeva koji bi mogli suziti opseg.",
+      "citat": "Tehničke specifikacije ne smiju upućivati na određenu marku ili izvor... osim ako je to opravdano predmetom nabave."
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dostupna je iscrpna dokumentacija: opći podaci o postupku, upute za ponuditelje, kriteriji za odabir ponude, kriteriji za kvalitativni odabir, obavijest o nadmetanju, detaljan troškovnik (xlsx) i svih pet tehničkih projekata struka, uz priloge zaštite od požara i zaštite na radu - dovoljno za samostalnu izradu ponude bez dodatnih upita. Jedina manjkavost su dvije arhivske (.zip) datoteke koje su ekstrahirane kao prazne (0 bajtova), no njihov sadržaj vjerojatno je dupliciran u zasebno dostupnim PDF prilozima (Prilog1/Prilog2), pa se ne čini presudnim za ocjenu.",
+      "citat": "Elektronička ponuda mora sadržavati najmanje: Uvez ponude, Popunjeni eESPD obrazac, Popunjen troškovnik..."
+    },
+    "prosjecna_ocjena": 4.67
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak"
+  },
+  "napomena": "Dokumentacija o nabavi eksplicitno zabranjuje upućivanje na marku/patent u tehničkim specifikacijama i nalaže klauzulu 'ili jednakovrijedno', što je pozitivan transparentnosni signal. Referentni uvjet (min. 150.000 EUR izvedenih radova u 5 god., naspram procijenjene vrijednosti 184.825 EUR, omjer ~81%) unutar je uobičajenih granica za radove i nije nesrazmjeran. Iznos jamstva za ozbiljnost ponude (5.000 EUR, ~2,7% procijenjene vrijednosti) uobičajen je. Dvije .zip arhive u extracted/ ekstrahirane su kao prazne (poznato ograničenje pipeline-a), ali njihov sadržaj vjerojatno dupliciraju zasebno dostupni PDF prilozi zaštite od požara/na radu, pa se ne ocjenjuje kritičnim za ovu ocjenu."
+}

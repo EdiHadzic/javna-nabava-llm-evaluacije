@@ -1,0 +1,27 @@
+{
+  "postupak_id": 2155,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij ENP potpuno je operacionaliziran: cijena (90 bodova, najniža cijena/formula omjera) i rok isporuke (10 bodova) s egzaktnom tablicom pragova u satima, uz jasno ograničenje raspona (1-48h) i formulu bodovanja na šest decimala.",
+      "citat": "Isporuka u roku od 1 do 24 sata 10 bodova Isporuka u roku od 25 do 36 sati 5 bodova Isporuka u roku od 37 do 48 sati 0 bodova"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Predmet nabave (plinsko ulje ekstra lako LU EL EURO, sumpor do 1000 mg/kg) definiran je prema zakonskoj/tehničkoj normi (Uredba NN 57/17), što je dovoljno konkretno za usporedivost ponuda za fungibilnu robu, ali sam dokument tehničkih specifikacija iznimno je kratak (jedna rečenica) i ne razrađuje dodatne parametre kvalitete izvan pozivanja na propis.",
+      "citat": "Plinsko ulje ekstra lako LU EL EURO - sa sadržajem sumpora do 1000 mg/kg."
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dostupan je kompletan i međusobno usklađen paket: Opći podaci, Upute za ponuditelje, Kriteriji za odabir ponude, Kriteriji za kvalitativni odabir, detaljan Način određivanja cijene i uvjeti promjenjivosti cijene s formulom, te troškovnik s formulama za izračun; naknadno je i ispravljena greška u trošarini (Odgovori + Izmjena troškovnika), što pokazuje funkcionalan proces dopune dokumentacije.",
+      "citat": "Elektronička ponuda mora sadržavati najmanje: Uvez ponude Popunjeni eESPD obrazac (ili više njih, ako je primjenjivo) Popunjen troškovnik"
+    },
+    "prosjecna_ocjena": 4.67
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak"
+  },
+  "napomena": "Pročitani svi relevantni dokumenti u extracted/ (opći podaci, obavijest o nadmetanju, kriteriji za odabir, kriteriji kvalitativnog odabira, tehničke specifikacije, troškovnik, način određivanja cijene, upute za ponuditelje, odgovori, obavijest o dodjeli). Uvjeti sposobnosti (HERA dozvola za trgovinu naftnim derivatima, referenca u vrijednosti procijenjene nabave, nesolventnost <2 dana u 6 mjeseci) proporcionalni su regulirano tržištu goriva i vrijednosti nabave, bez indikacija prilagodbe određenom ponuditelju; predmet je standardizirana zakonski definirana roba, ne patentirano/markirano rješenje. Zaprimljene su 3 ponude (TRI BARTOLA, PETROL, INA su spomenuti u prilozima), ugovoreno 29.304,00 EUR od procijenjenih 40.000,00 EUR, što upućuje na postojanje stvarne konkurencije."
+}

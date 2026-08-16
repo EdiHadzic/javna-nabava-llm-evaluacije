@@ -1,0 +1,27 @@
+{
+  "postupak_id": 20259,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriteriji za odabir ponude (cijena 90 bodova, rok isporuke 10 bodova) definirani su egzaktnim, potpuno objektivnim matematičkim formulama i tablicom pretvorbe dana u bodove, bez prostora za diskrecijsko tumačenje.",
+      "citat": "Rok Isporuke (RI) Bodovi (RI vrijednost) 1 dan 10 2 dana 8 3 dana 6 4 dana 4 5 dana 1"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Posebni tehnički uvjeti daju konkretne, mjerljive parametre kvalitete soli (granulometrija, vlaga, udio NaCl, teški metali, učinkovitost topljenja) putem raspona vrijednosti i normi (EN 933-1/2, SHRP H-205.1), što omogućuje usporedivu ponudu bez vezivanja uz jedan specifičan proizvod ili marku.",
+      "citat": "Udio NaCl u osušenoj soli za ceste i soli za ceste za silose treba biti min. 97%."
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dostupan je pun set dokumenata potreban za samostalnu izradu ponude: opći podaci, upute za ponuditelje, kriteriji za kvalitativni odabir i odabir ponude, posebni tehnički uvjeti, troškovnik, prijedlog ugovora te gotovi obrasci (popis referenci, izjava o prihvaćanju uvjeta).",
+      "citat": "Elektronička ponuda mora sadržavati najmanje: Uvez ponude Popunjeni eESPD obrazac Popunjen troškovnik Prijedlog ugovora"
+    },
+    "prosjecna_ocjena": 4.67
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak"
+  },
+  "napomena": "Pročitani svi relevantni .txt dokumenti iz extracted/ (11 od 16 datoteka; preostale su izmjena obavijesti, odluka o odabiru, zapisnici o ocjeni i obavijest o dodjeli ugovora, koje se odnose na fazu nakon dodjele i nisu presudne za ocjenu transparentnosti dokumentacije o nabavi). Prilog 'Prilozi.zip.txt' ekstrahiran je kao prazan (0 bajtova) pa njegov sadržaj nije mogao biti uzet u obzir. Referentni uvjet (1 ugovor iste ili slične vrijednosti kao procijenjena vrijednost nabave) je na gornjoj granici uobičajene prakse, ali ne prelazi procijenjenu vrijednost niti upućuje na specifičnog ponuditelja, stoga nije ocijenjen kao restriktivan."
+}

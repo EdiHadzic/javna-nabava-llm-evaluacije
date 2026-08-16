@@ -1,0 +1,40 @@
+{
+  "postupak_id": 29879,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 4,
+      "obrazlozenje": "Kriteriji za odabir ponude su jasno definirani s dvije komponente: cijena (80%) i duljina jamstvenog roka (20%). Bodovanje je detaljno specificirano s jasnim formulama za obračun bodova. Minimalni jamstveni rok je eksplicitno navedena kao 24 mjeseca.",
+      "citat": "Ekonomski najpovoljnija ponuda utvrđuje se na temelju Cijene i kvalitete. Cijena: 80,00 Duljina jamstvenog roka: 20,00"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Opis nabave je detaljno razrađen. Uključuje kompletan glavni arhitektonski projekt, tehničke specifikacije, troškovnik s detaljnim stavkama, i specifikaciju mjesta izvršenja (Donja Jagodnja, k.č. *74). Razine detalja dozvoljavaju kvalitativnu ponudu bez da isključuje razumne alternative.",
+      "citat": "Predmet nabave su radovi rekonstrukcije i opremanja građevine javne i društvene namjene (Društveni dom) k.č. *74 k.o. Donja Jagodnja, sukladno detaljnom opisu, vrstama i količinama određenim u Tehničkim specifikacijama, odnosno Troškovniku"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dokumentacija je izuzetno potpuna. Dostupni su: glavni arhitektonski projekt, tehnički opis, uvjeti za kvalitativni odabir gospodarskog subjekta, kriteriji za odabir ponuda, upute za ponuditelje, prijedlog ugovora, troškovnik, izjave o državljanstvu, i sve ostale nuzne forme. Ponuditelju je dostupna sva dokumentacija potrebna za samostalnu izradu kvalitetne ponude.",
+      "citat": "Dokumentacija o nabavi se ne naplaćuje te se može preuzeti u cijelosti na internetskoj stranici. Sve stavke troškovnika moraju biti ispunjene."
+    },
+    "prosjecna_ocjena": 4.33
+  },
+  "restriktivnost": {
+    "prisutno": true,
+    "indikatori": [
+      {
+        "naziv": "Sukobi interesa - predstavnik naručitelja u upravnim funkcijama ekonomskih subjekata",
+        "razina_rizika": "visok",
+        "citat": "Jure Maretić, mag.ing.aedif. (koji je naveden u Odluci o imenovanju stručnog povjerenstva) istodobno obavlja upravljačke poslove u gospodarskom subjektu STRATA d.o.o. i ANKER GRADNJA d.o.o. s više od 0,5%",
+        "napomena": "Detektovan je konflikt interesa - predstavnik naručitelja (Jure Maretić) naveden u stručnom povjerenstvu je ujedno vlasnik/upravitelj dvaju gospodarskih subjekata koji bi teoretski mogli biti konkurenti. To je pravo ograničenje konkurencije, a ujedno je i zakonski eksplicitno nabrojano kao razlog za isključenje."
+      },
+      {
+        "naziv": "Dostupnost niske vrijednosti jamstava za male ponuditelje",
+        "razina_rizika": "srednji",
+        "citat": "Jamstvo za ozbiljnost ponude u iznosu (EUR): 2.000,00. Minimalno trajanje jamstvenog roka za otklanjanje nedostataka za izvedene radove i isporučenu robu je 24 mjeseca",
+        "napomena": "Iako nisu neproporcionalni, uvjeti za male i srednje poduzetnike mogu biti zahtjevniji (24-mjesečno jamstvo za 295k EUR nabave)"
+      }
+    ],
+    "rizik": "srednji"
+  },
+  "napomena": "Dokumentacija je izuzetno profesionalno sastavljena s jasnim kriterijima i detaljnim specifikacijama. Međutim, kod conflict of interest predstavnika naručitelja koji je naveden kao dio stručnog povjerenstva i ujedno vlasnik/upravitelj konkurentnih gospodarskih subjekata predstavlja važnu informaciju za analizu integriteta postupka. Svi dokumenti su uspješno ekstrahirani, bez OCR gapova ili nedostataka."
+}

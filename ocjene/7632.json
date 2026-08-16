@@ -1,0 +1,41 @@
+{
+  "postupak_id": 7632,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij odabira (ekonomski najpovoljnija ponuda) potpuno je operacionaliziran: cijena nosi 90 % pondera, jamstveni rok na ugrađene dijelove 10 %, uz eksplicitne matematičke formule bodovanja, minimalni prag jamstvenog roka (1 godina) i pravilo za jednako rangirane ponude (raniji primitak). Osnove za isključenje i uvjeti sposobnosti (upis u registar, reference ≥ 40.000 EUR, ovlaštena IVECO servisna radionica, 2 kvalificirana tehničara) navedeni su mjerljivo, s pravnom osnovom i točnim načinom dokazivanja za svaki podkriterij.",
+      "citat": "Ponuda s najnižom cijenom dobiva 90,00 bodova, dok se ostale ponude boduju prema formuli"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Opis predmeta nabave vrlo je konkretan za dio rezervnih dijelova (142 stavke troškovnika, svaka s točnim IVECO kataloškim brojem i okvirnom količinom, uz izričito dopuštenu jednakovrijednost 'ili jednakovrijedan'), što omogućuje usporedivu ponudu bez isključivanja alternativnih dobavljača dijelova. Radni/uslužni dio troškovnika (limarski, mehaničarski, električarski, lakirerski poslovi) opisan je znatno generičnije, samo kroz satnicu po vrsti rada bez konkretizacije opsega štete ili predviđenih zahvata, što ostavlja prostor za nejasnoću pri procjeni stvarnog obujma posla.",
+      "citat": "135 - Opći limarski poslovi h 148 0 / 137 - Opći mehaničarski poslovi h 6 0 / 139 - Opći električarski radovi h 40 0"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dostupna je cjelovita i međusobno usklađena dokumentacija: opći podaci, upute za ponuditelje, kriteriji kvalitativnog odabira i kriteriji za odabir ponude, tehničke specifikacije (s uputom na troškovnik), popunjivi troškovnik, obavijest o nadmetanju, zapisnik o pregledu i ocjeni te odluka o odabiru i obavijest o dodjeli. Popis obveznih sastojaka elektroničke ponude eksplicitno je naveden, a cijeli tijek postupka (jedna zaprimljena ponuda, provjera sposobnosti, dodjela) transparentno je dokumentiran i sljediv.",
+      "citat": "Elektronička ponuda mora sadržavati najmanje: Uvez ponude Popunjeni eESPD obrazac (ili više njih) Popunjen troškovnik"
+    },
+    "prosjecna_ocjena": 4.67
+  },
+  "restriktivnost": {
+    "prisutno": true,
+    "indikatori": [
+      {
+        "opis": "Zahtjev da se popravak obavlja isključivo u ovlaštenom IVECO servisu i ugrađuju originalni (ili jednakovrijedni) IVECO dijelovi, obrazložen aktivnim tvorničkim jamstvom vozila iz 2022.",
+        "citat": "ponuditelj slugu popravaka štete ... moraju obavljati u za to ovlaštenom servisu proizvođača autobusa IVECO te ugrađivati originalne rezervne dijelove proizvođača autobusa IVECO ili jednakovrijedne dijelove"
+      },
+      {
+        "opis": "Uvjet tehničke sposobnosti traži najmanje jednu ovlaštenu IVECO BUS servisnu radionicu na području RH, čime se krug potencijalnih ponuditelja sužava na formalno ovlaštene subjekte marke IVECO.",
+        "citat": "najmanje jednu ovlaštenu IVECO BUS servisnu radionicu na području Republike Hrvatske, koja zadovoljava norme, kapacitete i ima kompetentnost za popravak servisiranja autobusa marke IVECO BUS"
+      },
+      {
+        "opis": "Kadrovski uvjet traži djelatnike s certifikatom proizvođača IVECO BUS specifično za tu marku, a ne opću automehaničarsku/autoelektričarsku kvalifikaciju.",
+        "citat": "minimalno 1 osoba (automehaničarske struke) osposobljena za popravak vozila marke IVECO BUS, i minimalno 1 osoba (autoelektričarske struke) osposobljena za popravak vozila marke IVECO BUS"
+      }
+    ],
+    "rizik": "srednji",
+    "napomena_rizika": "Ograničenje na marku IVECO objektivno je i transparentno obrazloženo aktivnim tvorničkim jamstvom vozila (kupljeno 2022., 3-godišnje jamstvo), a naručitelj izričito dopušta jednakovrijedne rezervne dijelove uz potvrdu proizvođača/distributera. Ipak, uvjet ovlaštenog IVECO servisa i IVECO-certificiranog osoblja stvarno sužava krug prihvatljivih ponuditelja na usko formalno ovlaštenu mrežu, što je i vidljivo u ishodu - zaprimljena je samo jedna ponuda."
+  },
+  "napomena": "Pročitano svih 14 .txt datoteka u extracted/ (dokumentacija o nabavi, kriteriji kvalitativnog odabira, kriteriji za odabir ponude, tehničke specifikacije, troškovnik, upute za ponuditelje, obavijest o nadmetanju, zapisnik o pregledu i ocjeni, odluka o odabiru, obavijest o dodjeli). Dokumentacija je čitka i potpuna, bez OCR/ekstrakcijskih praznina. Postupak je specifičan slučaj - mješovita nabava (dijelovi + usluga) za popravak jednog konkretnog, već posjedovanog vozila u jamstvenom roku, što objašnjava i opravdava dio inherentne 'restriktivnosti' vezane uz marku vozila. Zaprimljena je samo 1 ponuda (AUTOBUS d.o.o.), odabrana i ugovorena po cijeni 39.702,95 EUR bez PDV-a (blizu procijenjene vrijednosti 40.000,00 EUR)."
+}

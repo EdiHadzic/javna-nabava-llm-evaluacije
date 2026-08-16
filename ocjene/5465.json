@@ -1,0 +1,36 @@
+{
+  "postupak_id": 5465,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 4,
+      "obrazlozenje": "Kriteriji za odabir ponude jasno su definirani kroz ekonomski najpovoljniju ponudu (cijena 90 %, vrijeme odziva 10 %), s preciznim matematičkim formulama za bodovanje obaju kriterija i zaokruživanjem na šest decimala. Jedini manji nedostatak: gornja granica za kriterij 'vrijeme odziva' (4h) postavljena je bez obrazloženja zašto je upravo ta vrijednost odabrana kao maksimum.",
+      "citat": "Naziv kriterija Relativni značaj / Maksimalni broj bodova Cijena 90,00"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 2,
+      "obrazlozenje": "Opis predmeta nabave sveden je na naslov 'Godišnje održavanje BIS-a i LIS-a' i osam paušalnih mjesečnih stavki troškovnika bez ikakvih razina usluge (SLA), opsega poslova, broja korisnika/lokacija ili tehničkih parametara sustava. Dokumentacija izričito upućuje na zaseban prilog s detaljnim tehničkim specifikacijama, no taj prilog nije prisutan među pregledanim datotekama, pa se stvarna razina detalja opisa ne može potvrditi kao dostatna.",
+      "citat": "Detaljne tehničke specifikacije se nalaze u zasebnom prilogu."
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 2,
+      "obrazlozenje": "Nedostaje zaseban prilog s tehničkim specifikacijama na koji Opći podaci izričito upućuju. Troškovnik sadrži samo osam generičkih mjesečnih stavki (jedinična cijena 0, bez opisa opsega ili razine usluge po stavci), što otežava samostalnu, informiranu izradu ponude bez prethodnog poznavanja postojećeg instaliranog sustava naručitelja.",
+      "citat": "Održavanje BioNET LIS-a"
+    },
+    "prosjecna_ocjena": 2.67
+  },
+  "restriktivnost": {
+    "prisutno": true,
+    "indikatori": [
+      {
+        "opis": "Troškovnik izravno imenuje specifičan komercijalni/brendirani proizvod ('BioNET LIS-a') te niz integracija vezanih isključivo uz postojeći, već instalirani sustav naručitelja (eListe, eNaručivanje, eUputnice i eNalazi, CUS, e-Cijepni karton). Održavanje takvog, već ugrađenog vlasničkog softvera po prirodi stvari može ponuditi gotovo isključivo njegov izvorni proizvođač ili ovlašteni serviser s pristupom izvornom kodu/dokumentaciji, čime je krug mogućih ponuditelja unaprijed sužen.",
+        "citat": "Održavanje BioNET LIS-a"
+      },
+      {
+        "opis": "Stvarni ishod postupka potvrđuje obrazac vendor lock-ina: zaprimljena je samo jedna ponuda, od tvrtke IN2 d.o.o., koja je ujedno i odabrani ponuditelj — dosljedno s pretpostavkom da je riječ o održavanju već instaliranog sustava kod istog dobavljača.",
+        "citat": "Broj zaprimljenih ponuda: 1"
+      }
+    ],
+    "rizik": "srednji"
+  },
+  "napomena": "Zaseban prilog s tehničkim specifikacijama na koji dokumentacija izričito upućuje nije pronađen u dostupnim extracted/ datotekama. OCR ekstrakcija PDF inačica Zapisnika o pregledu i ocjeni ponuda te Odluke o odabiru djelomično je nečitljiva (izmiješani CJK znakovi, vjerojatno artefakt OCR/enkodiranja), ali ključni podaci (broj zaprimljenih ponuda, odabrani dobavljač, vrijednost ugovora) neovisno su potvrđeni iz čitljivog dokumenta 'Obavijest o dodjeli ugovora'."
+}

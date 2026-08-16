@@ -1,0 +1,27 @@
+{
+  "postupak_id": 12658,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 4,
+      "obrazlozenje": "Kriteriji za odabir ponude su jasno navedeni i mjerljivi: cijena nosi 90 % značaja, a kvaliteta 10 % kroz kriterij 'Tehnički stručnjaci (ovlašteni inženjeri geodezije) – specifično iskustvo', mjeren u kilometrima ceste na kojima je stručnjak sudjelovao. Zapisnici o pregledu i ocjeni dosljedno pokazuju konkretnu ponuđenu vrijednost (npr. 205,97 km) i izračun bodova, što potvrđuje da je kriterij u praksi bio primjenjiv i provjerljiv. Ocjena nije 5 jer sama formula pretvorbe kilometara u bodove (razmjerno u odnosu na najvišu ponudu) nije eksplicitno navedena u dostupnoj Obavijesti o nadmetanju, nego se može samo posredno rekonstruirati iz rezultata u Zapisniku.",
+      "citat": "Ponuđena vrijednost za Tehnički stručnjaci (ovlašteni inženjeri geodezije) – specifično iskustvo: 205,97 kilometar ceste"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 2,
+      "obrazlozenje": "Opis predmeta nabave u Obavijesti o nadmetanju (i njezinoj izmjeni) sveden je na jednu generičku rečenicu za sve grupe, bez ikakvih konkretnih podataka o dionicama cesta, opsegu geodetskih elaborata ili tehničkim zahtjevima – sav sadržajni opis prepušten je Projektnom zadatku i Troškovnicima 'u prilogu', a ti dokumenti nisu prisutni u dostupnom pročitanom korpusu (extracted/) niti za jednu od 6 grupa. Iz Zapisnika se posredno može zaključiti da se troškovnik svodi na 'stavku 1 – km duljine ceste', ali ni to nije dovoljno za samostalnu usporedivu ponudu bez izvornog Projektnog zadatka.",
+      "citat": "Opis nabave: Predmet nabave je uknjižba državnih cesta na području Republike Hrvatske, sukladno Projektnom zadatku i Troškovnicima koji se nalaze u prilogu."
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 2,
+      "obrazlozenje": "Od pročitanih datoteka nedostaje sama jezgra dokumentacije o nabavi (Projektni zadatak, Troškovnik, uvjeti tehničke i stručne sposobnosti s pragovima) — dostupni su samo Obavijest o nadmetanju/izmjena, zapisnici o pregledu i ocjeni, odluke o odabiru, obavijest o dodjeli/izmjeni ugovora te opsežan skup dokumenata koje su dostavili ponuditelji (potvrde DGU, kaznene/porezne evidencije, popisi izvršenih usluga, produljenja valjanosti ponude). Gospodarski subjekt bi za samostalnu izradu ponude trebao dokumente koji u ovom korpusu nisu prisutni, pa se potpunost ne može ocijeniti visoko na temelju onoga što je stvarno dostupno za čitanje.",
+      "citat": "Dokumentacija o nabavi dostupna je besplatno i može joj se u potpunosti pristupiti izravno i neograničeno na: https://eojn.hr/"
+    },
+    "prosjecna_ocjena": 2.67
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak"
+  },
+  "napomena": "Ocjena je ograničena dostupnošću dokumenata: ključni sadržajni dokumenti (Projektni zadatak, Troškovnik, detaljni uvjeti sposobnosti s pragovima) nisu prisutni u Diplomski/Postupci/12658/extracted/, samo su referencirani kao prilog u Obavijesti o nadmetanju. Zbog toga se restriktivnost/prilagođenost specifikacije ne može potpuno provjeriti (npr. nesrazmjernost referentnih pragova) — na temelju onoga što je dostupno (opis nabave, kriteriji za odabir, zapisnici, odluke o odabiru, dostavljeni dokazi sposobnosti ponuditelja) nisu pronađeni indikatori usmjeravanja prema određenom ponuditelju (nema navoda konkretnog proizvoda/marke niti očito nesrazmjernih pragova); rizik 'nizak' se stoga temelji na necjelovitom uvidu, ne na potvrđenoj proporcionalnosti. Nekoliko pročitanih PDF-ova s dostavljenim popisima usluga ima vidljive OCR artefakte (npr. izobličeni znakovi na početku 'APD - Grupa 1_Popis glavnih usluga.pdf.txt'), što je ograničilo čitljivost tog dijela sadržaja, ali nije bilo presudno za ovu ocjenu."
+}

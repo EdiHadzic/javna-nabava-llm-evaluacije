@@ -1,0 +1,27 @@
+{
+  "postupak_id": 2109,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij ENP potpuno je matematički definiran: cijena (90 bodova, formula C=(Cmin/Cp)x90) i jamstveni rok (10 bodova, tablica bodovanja po mjesecima s min. 24 i maks. 44 mjeseca). Nema prostora za diskrecijsko tumačenje.",
+      "citat": "Naručitelj je ograničio najviši dozvoljeni iznos za kriterij 44,00 Naručitelj je ograničio najniži dozvoljeni iznos za kriterij 24,00"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 3,
+      "obrazlozenje": "Opsežna projektno-tehnička dokumentacija (6 mapa + projekt vodovoda/kanalizacije + troškovnik) postoji, ali izvorna verzija sadržavala je brojne unutarnje proturječnosti između troškovnika i projekta (armatura estriha, sastav gips-kartonskih slojeva, materijal protudimnih vrata, debljina EPS-a), zahtijevajući 14 pojašnjenja i 3 formalne izmjene dokumentacije. Barem jedna nedosljednost ostala je nerazriješena do kraja.",
+      "citat": "EPS-a 2 se neće izvoditi, a iz projekta ga sad ne možemo ukloniti."
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 4,
+      "obrazlozenje": "Dostupna je opsežna dokumentacija: opći podaci, kriteriji, upute za ponuditelje, detaljan troškovnik (1684 redaka) i projektna dokumentacija svih struka (arhitektura, konstrukcija, vodovod/kanalizacija, elektro, strojarstvo/PP zaštita). Dovoljna za samostalnu izradu ponude, uz manje praznine razriješene kroz modul Pitanja/Pojašnjenja.",
+      "citat": "sukladno detaljnom opisu, vrstama i količinama određenim u Tehničkim specifikacijama, odnosno Troškovniku te sukladno projektno-tehničkoj dokumentaciji."
+    },
+    "prosjecna_ocjena": 4.0
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak"
+  },
+  "napomena": "Financijski prag (kumulativni promet 3 god. >= 700.000 EUR) i referentni radovi (1-5 ugovora u 5 god., kumulativno >= 700.000 EUR) proporcionalni su procijenjenoj vrijednosti nabave, ne prekoračuju je. Nazivi proizvoda u projektnoj dokumentaciji (npr. 'Geberit Silent-PP', 'proizvod kao KORONA NG-20') dosljedno su praćeni oznakom 'kao', uz opću klauzulu jednakovrijednosti u Općim podacima (3.1.2.) - standardna praksa, ne indikator prilagođenosti ponuditelju. Datoteka 'Prilozi.zip.txt' prazna je (0 bajtova, vjerojatno arhiva bez izdvojivog teksta); veliki MAPA prilozi pregledani ciljanim pretraživanjem zbog opsega (stotine tisuća znakova svaki), ne redak-po-redak."
+}

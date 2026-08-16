@@ -1,0 +1,27 @@
+{
+  "postupak_id": 29235,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij odabira (ekonomski najpovoljnija ponuda) precizno je operacionaliziran: cijena nosi 90 bodova po jasnoj formuli (najniža cijena = max bodova, ostale razmjerno), a kriterij kvalitete 'vrijeme odziva na intervenciju' ima potpuno eksplicitnu skalu bodovanja po intervalima (2h=10 bodova, 3-4h=7, 5-7h=4, 8h=0). Kvalitativni uvjeti sposobnosti (registar, obrazovanje stručnjaka, Rješenje po Zakonu o vodama) imaju jasnu pravnu osnovu i propisan način dokazivanja.",
+      "citat": "Ponuda u kojoj je iskazano minimalno vrijeme odziva (2 sata) dobiva 10 bodova, ponuda u kojoj je iskazano maksimalno vrijeme odziva (8 sati) dobiva 0 bodova"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 3,
+      "obrazlozenje": "Tehnička specifikacija opisuje obveze (rukovanje crpnim postrojenjima, distribucija vode, očitavanje vodomjera, održavanje) na proceduralnoj, prilično generičkoj razini identičnoj za sve četiri lokacije, bez tehničkih parametara pojedinih sustava (kapacitet crpki, broj agregata, duljina cjevovoda i sl.). Puna projektno-tehnička dokumentacija nije uključena u dostupne dokumente nego se referira izvan njih, dostupna tek uvidom na licu mjesta uz prethodnu najavu.",
+      "citat": "Gospodarskim subjektima se preporuča da prije podnošenja ponude prouče kompletnu projektno-tehničku dokumentaciju i troškovnik, temeljem kojih će se pružati usluge te se upoznaju s uvjetima na lokacijama"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 4,
+      "obrazlozenje": "Dostupan je pun standardni set dokumenata (Opći podaci, Tehnička specifikacija, Troškovnik s formulama, Kriteriji za odabir ponude, Kriteriji za kvalitativni odabir, Upute za ponuditelje, Prilog 1 - Izjava o stručnjacima, Prilog 2 - prijedlog ugovora), međusobno dosljedan (CPV, procijenjena vrijednost, kriteriji ponavljaju se identično). Odbitak jedne ocjene jer se dio suštinske tehničke dokumentacije (projektno-tehnička dokumentacija sustava navodnjavanja) ne nalazi u samoj elektroničkoj dokumentaciji nego zahtijeva fizički uvid uz prethodnu najavu, što relativizira samostalnu izradu ponude isključivo iz objavljenih dokumenata.",
+      "citat": "Naručitelj je predvidio mogućnost pregleda projektne dokumentacije predmetnih sustava navodnjavanja na adresi Zrinsko Frankopanska 8, Zadar... uz obveznu prethodnu najavu najmanje jedan dan prije planiranog dolaska"
+    },
+    "prosjecna_ocjena": 4.0
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak"
+  },
+  "napomena": "Pročitane su sve dostupne .txt datoteke u extracted/ (23 datoteke: dokumentacija o nabavi, obavijesti, odluka o odabiru sa zapisnicima). Nema referenci na specifičnu marku/proizvod, patentirano rješenje niti nesrazmjerne financijske/referentne pragove (jamstvo za ozbiljnost ponude 1.000 EUR uz procijenjenu vrijednost 50.000 EUR je razmjerno; traženi stručnjaci zahtijevaju samo EQF razinu 6 iz elektrotehnike/strojarstva, bez dodatnih iskustvenih pragova). Ipak, uvjet posjedovanja Rješenja sukladno čl. 210. Zakona o vodama predstavlja zakonski (ne naručiteljev diskrecijski) ulazni prag koji suštinski sužava krug ponuditelja - u ovom postupku zaprimljena je samo 1 ponuda (dobavljač Cestogradnja d.o.o., Obrovac, ugovorena vrijednost 49.410 EUR). Ovo je zabilježeno kao kontekst niske konkurentnosti, ali nije klasificirano kao 'restriktivnost' u smislu prilagodbe specifikacije određenom ponuditelju, jer proizlazi iz zakonske obveze primjenjive na sve gospodarske subjekte u toj djelatnosti, a ne iz odluke naručitelja."
+}

@@ -1,0 +1,32 @@
+{
+  "postupak_id": 4936,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij za odabir (ekonomski najpovoljnija ponuda) razložen je na cijenu (90%) i jamstveni rok (10%), s eksplicitnim matematičkim formulama za oba, definiranim minimalnim pragom (24 mjeseca) i jasnim posljedicama nepoštivanja praga (odbacivanje ponude). Mjerljivost i primjena potvrđene su u Zapisniku o pregledu i ocjeni, gdje su bodovi izračunati transparentno prema tim formulama.",
+      "citat": "P = Pn / Pr * 90 ... G = Gt / G1 * 10 ... Ponude u kojima je iskazan jamstveni rok kraći od 24 mjeseca bit će odbačene."
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Tehnička specifikacija iznimno je detaljna (11 stavki opreme, svaka s desetak do dvadesetak podkarakteristika: dimenzije, težine, priključci, optički parametri), što omogućuje potpuno usporedivu ponudu i izravno korespondira s troškovnikom. Detalj ide toliko duboko (npr. točno određena žarišna udaljenost, točne mase u gramima) da se približava rubu prekomjerne suženosti; djelomično je ublaženo formulacijama 'ili jednakovrijedno' na pojedinim mjestima (EDOF, C-AF), ali ne na svim numerički preciznim stavkama.",
+      "citat": "Omjer povećavanja: žarišna udaljenost f = 19.7 mm ... Težina maksimalno 281 g"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dostupan je pun ciklus dokumentacije: opći podaci o postupku, kriteriji kvalitativnog odabira, upute za ponuditelje, tehnička specifikacija, troškovnik (usklađen sa specifikacijom stavka po stavku), obrazac numeričkih vrijednosti kriterija, obavijest o nadmetanju, zapisnik o pregledu i ocjeni, odluka o odabiru, prijedlog ugovora i obavijest o dodjeli. Dokumentacija je samodostatna za samostalnu izradu ponude.",
+      "citat": "Detaljne tehničke specifikacije se nalaze u zasebnom prilogu... Detaljan troškovnik se nalazi u zasebnom prilogu – Troškovnik."
+    },
+    "prosjecna_ocjena": 4.67
+  },
+  "restriktivnost": {
+    "prisutno": true,
+    "indikatori": [
+      "Nekoliko numerički vrlo preciznih optičkih/tehničkih parametara (npr. točna žarišna udaljenost 19,7 mm, točna masa 281 g, specifične SDI konfiguracije) formulirano je bez 'ili jednakovrijedno', što je karakteristično za kopiranje specifikacije iz kataloga jednog proizvođača i sužava krug mogućih ponuditelja.",
+      "Terminologija specifična za pojedine zaštićene tehnologije proizvođača (NBI - Narrow Band Imaging, EDOF, C-AF kontinuirani autofokus) korištena je kao obavezan zahtjev, a ne kao opis funkcije.",
+      "Zapisnik o pregledu i ocjeni bilježi da nije bilo potrebe za dodatnim pojašnjenjem dokumentacije odabranog ponuditelja jer je isti 'već do sada isporučivao isti ili sličan predmet nabave' naručitelju, što upućuje na postojeći odnos s naručiteljem prije ovog postupka.",
+      "Od 2 zaprimljene ponude, jedina konkurentska ponuda (AnalyticPharma d.o.o.) odbijena je zbog formalnih razloga (nedostavljeno jamstvo za ozbiljnost ponude, nepopunjen troškovnik), ostavljajući stvarno samo jednog valjanog ponuditelja."
+    ],
+    "rizik": "srednji"
+  },
+  "napomena": "Svi dostupni .txt dokumenti u extracted/ pročitani (13 datoteka) i sadržajno su potpuni, bez praznih/OCR-neuspjelih ekstrakcija. Restriktivnost nije jednoznačno dokazana (nema izravnog navoda marke/modela niti nesrazmjernog financijskog praga), nego se temelji na kombinaciji vrlo precizne, brand-specifične tehničke terminologije i naznake prethodnog poslovnog odnosa s pobjedničkim ponuditeljem — stoga je ocijenjena kao srednji, a ne visok rizik."
+}

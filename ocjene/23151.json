@@ -1,0 +1,33 @@
+{
+  "postupak_id": 23151,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij ENP (cijena 90 %, jamstveni rok za otklanjanje nedostataka 10 %) potpuno je matematički definiran: formula za bodovanje cijene, tablica bodova za jamstveni rok po rasponima mjeseci (min. 24, maks. 60), zaokruživanje na šest decimala i pravilo rangiranja kod izjednačenja. Nema prostora za diskrecijsku ocjenu naručitelja.",
+      "citat": "Ponuda s najnižom cijenom dobiva 90,00 bodova, dok se ostale ponude boduju prema formuli"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Predmet nabave (izgradnja prometnice s pripadajućom infrastrukturom) opisan je kroz opsežnu projektnu dokumentaciju (5 mapa: prometnica, vodovod/odvodnja, javna rasvjeta, DTK kanalizacija, SN/NN mreža) i troškovnik, što omogućuje usporedive ponude. Međutim, prvotni troškovnik sadržavao je zahtjev za PE revizijska okna izrađena isključivo 'tehnikom roto lijeva', što je jedan ponuditelj osnovano prigovorio kao neopravdano suženje na jedan proizvodni proces bez veze s kvalitetom; naručitelj je zahtjev prihvatio kao osnovan i ispravio troškovnik prije roka za dostavu ponuda, čime je opis vraćen na neutralnu razinu.",
+      "citat": "Zahtjev je osnovan. Naručitelj mijenja stavku Troškovnika i stavlja na raspolaganje izmijenjeni Troškovnik"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dokumentacija sadrži sve elemente potrebne za samostalnu izradu ponude: opće podatke, kriterije kvalitativnog odabira s uputama za ESPD, kriterije za odabir ponude s formulama, upute za ponuditelje, prijedlog ugovora, izvorni troškovnik u Excel formatu (i njegovu ispravljenu verziju) te detaljne tehničke specifikacije/projektnu dokumentaciju. Postupak pojašnjenja funkcionirao je transparentno (pitanja i odgovori objavljeni javno, izmjene dokumentacije uredno objavljene s produženjem roka).",
+      "citat": "detaljno opisano u Prilogu - Troškovnik i Prilogu - Tehničke specifikacije"
+    },
+    "prosjecna_ocjena": 4.67
+  },
+  "restriktivnost": {
+    "prisutno": true,
+    "indikatori": [
+      {
+        "opis": "Prvotni troškovnik (stavke 'Prometnica i oborinska odvodnja' 5.3. i 'Fekalna odvodnja' 5.2.) zahtijevao je da PE revizijska okna budu izrađena isključivo tehnikom roto lijeva i tvornički zavarena, čime se favorizirao jedan način proizvodnje umjesto funkcionalnog zahtjeva (norma HRN EN 13598), što je jedan gospodarski subjekt prigovorio pozivom na članke 205., 206. i 207. ZJN 2016 i odluku Hrvatskih voda o izboru cijevnog materijala.",
+        "citat": "Zbog osiguranja vodonepropusnosti svi elementi okna moraju biti izrađeni tehnikom roto lijeva i tvornički zavareni."
+      }
+    ],
+    "rizik": "nizak",
+    "napomena_restriktivnost": "Naručitelj je prigovor ocijenio osnovanim i uklonio zahtjev za specifičnu tehnologiju proizvodnje prije roka za dostavu ponuda (izmijenjeni troškovnik, uz produženje roka), pa je rizik u konačnoj dokumentaciji korištenoj za ocjenu ponuda nizak. Ipak, postojanje takvog zahtjeva u izvornoj verziji dokumentacije samo po sebi je indikator prilagođenosti/suženosti specifikacije koji je vrijedan bilježenja."
+  },
+  "napomena": "Pročitani svi ključni dokumenti postupka (opći podaci, kriteriji kvalitativnog odabira, kriteriji za odabir ponude, obavijest o nadmetanju i njena izmjena, upute za ponuditelje, sva tri zahtjeva za pojašnjenjem i odgovori, zapisnik o pregledu i ocjeni, obavijest o dodjeli ugovora). Pet velikih projektnih mapa (Mapa1-5, tehnički nacrti i troškovnički prilozi, 190 KB-1,8 MB tekstualnog izvatka svaka) nisu čitane u cijelosti zbog opsega, ali njihovo postojanje i tematska pokrivenost (prometnica, vodovod/odvodnja, rasvjeta, DTK, SN/NN mreža) potvrđuju visoku razinu tehničke detaljnosti dokumentacije. Postupak je imao 8 zaprimljenih ponuda (visoka konkurentnost), sve ponude ocijenjene su valjanima, a odabrana je ekonomski najpovoljnija ponuda (COLAS HRVATSKA d.d.) s najnižom cijenom i maksimalnim jamstvenim rokom."
+}

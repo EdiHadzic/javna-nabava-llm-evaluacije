@@ -1,0 +1,40 @@
+{
+  "postupak_id": 3344,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij ENP je u potpunosti operacionaliziran matematičkim formulama za oba elementa (cijena i vrijeme odaziva), s jasnim gornjim/donjim ograničenjima za nefinancijski kriterij i eksplicitnim pravilom za rješavanje izjednačenja, što ostavlja minimalan prostor za diskrecijsko tumačenje.",
+      "citat": "CP = (Cmin/Cp) x 90 ... VO = (Vmin/Vp) x 10 ... Naručitelj je ograničio najviši dozvoljeni iznos za kriterij 12,00 ... najniži ... 3,00"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Opći opis predmeta je sažet, ali je popraćen vrlo detaljnim troškovnikom (54 kB, stavke s točnim dimenzijama, materijalima i postupcima ugradnje) i zasebnim tehničkim specifikacijama za specifičan element (stakleni paneli instalacije 'Pozdrav suncu'), što omogućuje usporedivu ponudu bez da opis bude neopravdano uzak zbog dosljedne klauzule 'ili jednakovrijedno'.",
+      "citat": "Dobava (nabava i doprema) i ugradnja zidnih košarica za otpatke na zdravi betonski ili kameni zid. Ugradnja nosača čeličnim tiplima i vijcima M 8x30 mm."
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dostupan je pun set dokumenata potreban za samostalnu izradu ponude: opći podaci, kriteriji kvalitativnog odabira s uputama o dokazivanju, kriteriji za odabir ponude, upute za ponuditelje, tehničke specifikacije, troškovnik te prijedlozi okvirnog sporazuma i ugovora — svi međusobno konzistentni.",
+      "citat": "Elektronička ponuda mora sadržavati najmanje: Uvez ponude Popunjeni eESPD obrazac ... Popunjen troškovnik ... Vrijednosti kriterija za odabir ponude"
+    },
+    "prosjecna_ocjena": 4.67
+  },
+  "restriktivnost": {
+    "prisutno": true,
+    "indikatori": [
+      {
+        "opis": "Zahtjev za posjedovanjem plovila s dopuštenim brojem osoba od najmanje 7, uz specifičan vozni park (do 1,5T, preko 1,5T, platforma min. 8m) — neuobičajena kombinacija za nabavu održavanja gradske opreme, moguće usklađena s postojećom opremom lokalnog inkumbenta.",
+        "citat": "najmanje 1 plovilo čiji je dopušten broj osoba najmanje 7 osoba"
+      },
+      {
+        "opis": "Referentni prag zahtijeva da zbroj vrijednosti najviše tri ranije pružene usluge dosegne 100% procijenjene vrijednosti nabave (331.200 EUR) — na gornjoj granici uobičajene proporcionalnosti, iako unutar zakonski dopuštenog okvira.",
+        "citat": "najviše tri (3) pružene usluge čija je zbrojena vrijednost minimalno u visini 331.200,00 eura (bez PDV-a)"
+      },
+      {
+        "opis": "Zaprimljena je samo jedna ponuda u otvorenom postupku, što je konzistentno s (ali samo po sebi ne dokazuje) sužavanjem tržišta kroz specifikaciju.",
+        "citat": "Broj zaprimljenih ponuda: 1"
+      }
+    ],
+    "rizik": "srednji"
+  },
+  "napomena": "Ključni dokumenti postupka (Opći podaci, Kriteriji kvalitativnog odabira, Kriteriji za odabir ponude, Upute za ponuditelje, Tehničke specifikacije, Troškovnik, Obavijest o nadmetanju, Zapisnik o pregledu i ocjeni, Obavijest o dodjeli) pročitani su u cijelosti i čitljivi su. Nekoliko priloga vezanih uz fazu dokazivanja sposobnosti odabranog ponuditelja (skenirane prometne dozvole u .jpg) ekstrahirano je prazno (0 bajtova) te nisu bili relevantni za ovu ocjenu jer se ne odnose na transparentnost/restriktivnost same dokumentacije o nabavi."
+}

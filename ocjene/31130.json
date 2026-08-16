@@ -1,0 +1,44 @@
+{
+  "postupak_id": 31130,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij ENP je precizno definiran s eksplicitnim matematičkim formulama i ponderima za oba podkriterija (cijena 90%, jamstveni rok 10%), uz jasno određene minimalne pragove i posljedice nedostavljanja podataka.",
+      "citat": "P = Pn / Pr * 90 ... G = Gt / G1 * 10"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Tehnički opis predmeta nabave sadrži 13 konkretnih, mjerljivih karakteristika (kapacitet komore, tlak vakuuma, veličina ekrana, certifikacija) koje omogućuju usporedivu ponudu, ali nekoliko parametara je usko određeno rasponima/minimumima specifičnim za jedan tip uređaja.",
+      "citat": "Vakuum komora od nehrđajućeg čelika zapremnine 25 do 30 litara."
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 4,
+      "obrazlozenje": "Dostupna je cjelovita dokumentacija (opći podaci, kriteriji kvalitativnog odabira, upute za ponuditelje, troškovnik s tehničkim karakteristikama, prijedlog ugovora) dovoljna za samostalnu izradu ponude; jedina slabost je što je zaseban dokument 'Tehničke specifikacije' prazan pokazivač na troškovnik.",
+      "citat": "Tehničke specifikacije predmeta nabave su sadržane u samom troškovniku predmeta nabave koji je sastavni dio DON-a."
+    },
+    "prosjecna_ocjena": 4.33
+  },
+  "restriktivnost": {
+    "prisutno": true,
+    "indikatori": [
+      {
+        "indikator": "Uzak raspon zapremnine vakuum komore (25-30 litara)",
+        "citat": "Vakuum komora od nehrđajućeg čelika zapremnine 25 do 30 litara."
+      },
+      {
+        "indikator": "Specifičan tehnički parametar vakuum pumpe",
+        "citat": "Visokoučinkovita vakuum pumpa s tlakom do 10 mBar."
+      },
+      {
+        "indikator": "Minimalna veličina zaslona osjetljivog na dodir",
+        "citat": "Sučelje s ugrađenim ekranom na dodir u boji veličine minimalno 7 inča."
+      },
+      {
+        "indikator": "Vrlo specifična kombinacija funkcija (barkod čitač, antimikrobni premaz, Data Logger utor) koja odgovara uskom krugu proizvoda na tržištu",
+        "citat": "Ugrađeni utor za prepoznavanje i očitavanje uređaja za praćenje ID-a uzorka, vremena i temperature tijekom transporta (Data Logger)."
+      }
+    ],
+    "rizik": "srednji",
+    "napomena": "Nema izravne reference na marku/model ni nesrazmjernih pragova. Zaprimljene su 2 ponude; druga je odbijena isključivo iz formalnog razloga (nepopunjen troškovnik), ne zbog tehničke neusklađenosti sa specifikacijom."
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "postupak_id": 16330,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij odabira je ekonomski najpovoljnija ponuda s jasno raspisanom formulom za cijenu (90% značaja) i eksplicitnom bodovnom tablicom za rok isporuke (10% značaja, pragovi 7/5/2 dana → 1/5/10 bodova). Identično i jednoznačno ponovljeno za sve četiri grupe, bez prostora za diskrecijsko tumačenje.",
+      "citat": "Broj bodova = Najniža ponuđena cijena / Cijena ponude x 90"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 2,
+      "obrazlozenje": "Opis predmeta nabave za Grupu 1 (endoproteza ramena) gotovo doslovno preslikava arhitekturu jednog patentiranog proizvoda (dvodijelni modularni stem, univerzalan za parcijalnu/anatomsku/inverznu konfiguraciju, glenosfere točno u promjerima 36/40/44mm) koja odgovara katalogu 'SMR Modular Shoulder Replacement' pobjednika (LIMA - O.I. d.o.o.), priloženom u istom postupku. Grupa 4 sadrži neuobičajeno precizan tehnički parametar (18,88 g monomera) koji vjerojatno odgovara točno jednoj formulaciji. Detalj je visok, ali prelazi u opis prilagođen konkretnom proizvodu umjesto funkcionalnih minimalnih zahtjeva, što ograničava usporedivost ponuda.",
+      "citat": "STEMOVI MODULARNI, IZ 2 DIJELA, UNIVERZALAN ZA PARCIJALNU, ANATOMSKU I INVERZNU PROTEZU"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 4,
+      "obrazlozenje": "Dostupna je gotovo cjelovita dokumentacija za samostalnu izradu ponude: Opći podaci, Kriteriji za kvalitativni odabir (detaljno razrađeni po osnovama isključenja i uvjetima sposobnosti), Upute za ponuditelje s potpunim sadržajem ponude po grupi, Kriterij za odabir ponude s formulom, Prijedlog ugovora i Troškovnik/specifikacija za sve četiri grupe. Manji nedostatak: zasebni dokument 'Tehničke specifikacije' sadrži samo uputnicu na troškovnik bez vlastitog sadržaja.",
+      "citat": "Ponuditelj mora popuniti troškovnik i učitati ga prilikom pripreme ponude na EOJN."
+    },
+    "prosjecna_ocjena": 3.67
+  },
+  "restriktivnost": {
+    "prisutno": true,
+    "indikatori": [
+      {
+        "opis": "Tehnička specifikacija Grupe 1 (endoproteza ramena) opisuje modularni dvodijelni stem 'univerzalan za parcijalnu, anatomsku i inverznu protezu' s glenosferama u promjerima 36/40/44 mm i inverznim linerom istih promjera - arhitektura koja se podudara s patentiranim sustavom 'SMR (Modular Shoulder Replacement)' proizvođača LIMA, čiji je marketinški katalog (X Lima, SMR sustav) priložen u dokumentaciji istog postupka, a LIMA - O.I. d.o.o. je i ugovaratelj za tu grupu.",
+        "citat": "MODULARNOST OVOG SUSTAVA OMOGUĆAVA: Jednostavne konverzije: inverzna zamjena prethodnog anatomskog implantata... X Lima"
+      },
+      {
+        "opis": "Grupa 4 (koštani cement visokoviskozni bez antibiotika) traži točno određenu masu monomera (18,88 g) umjesto raspona ili funkcionalnog zahtjeva, što je neuobičajeno precizan parametar za jednostavan potrošni materijal.",
+        "citat": "Koštani cement, visokoviskozni, 18,88 g monomera bez antibiotika, pakovanje a 40 gr."
+      },
+      {
+        "opis": "Grupa 5/4 (koštani cement s antibiotikom, velike viskoznosti) određuje egzaktno vrijeme stvrdnjavanja od 6,5 minuta, što je usko specificiran tehnički parametar koji obično odgovara jednom konkretnom komercijalnom proizvodu.",
+        "citat": "brzo stvrdnjavanje, vrijeme stvrdnjavanja: 6½ min., pakiranje od 20g"
+      }
+    ],
+    "rizik": "srednji"
+  },
+  "napomena": "Pročitani su svi relevantni .txt dokumenti u extracted/ (opći podaci, obavijest o nadmetanju, kriteriji kvalitativnog odabira, upute za ponuditelje, kriterij odabira ponude, tehničke specifikacije, sva 4 troškovnika, obavijest o dodjeli, zapisnici o pregledu i ocjeni, te priložene certifikate/kataloge). Zaključak o restriktivnosti oslanja se na unakrsnu usporedbu teksta troškovnika s katalogom i certifikatima pobjedničkog ponuditelja (LIMA SMR, Tecres/Cemex Genta) koji su također dio dokumentacije postupka - stvaran signal prilagođenosti specifikacije, ne nagađanje. Unatoč tome, natjecateljski ishod nije bio potpuno odsutan: 2-3 ponude po grupi su zaprimljene, pa je rizik ocijenjen kao srednji, a ne visok. Uočena je i manja interna nedosljednost u numeraciji listova troškovnika (interni naziv lista 'Grupa 3/4/5' ne odgovara vanjskom nazivu grupe 'Grupa 2/3/4' u istoj datoteci) - vjerojatno artefakt copy-paste izrade predloška, bez utjecaja na sadržajnu ocjenu."
+}

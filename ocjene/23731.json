@@ -1,0 +1,41 @@
+{
+  "postupak_id": 23731,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij odabira je ekonomski najpovoljnija ponuda s potpuno eksplicitnim matematičkim formulama za oba potkriterija (cijena 90%, rok isporuke 10%), uključujući definiciju svake varijable i maksimalan broj bodova po kriteriju. Nema prostora za diskrecijsku ili nejasnu ocjenu ponuda.",
+      "citat": "Formula: T= CP+RI ... CP = Pmin / Ppon * 90 ... RI = RImin / RIx * 10"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Troškovnik po svih 5 grupa sadrži 130+ stavki s vrlo konkretnim tehničkim opisima (dimenzije, materijal, norme, kompatibilnost), što omogućuje usporedivost ponuda. Ocjena nije 5 jer se dio 'Tehničke specifikacije' dokumenta svodi na generičku izjavu koja upućuje isključivo na troškovnik bez dodatnog samostalnog opisa, a nekoliko stavki referira konkretne modele opreme naručitelja (npr. defibrilator LIFEPAK15, Zoll) bez dodatnog objašnjenja razloga kompatibilnosti u samom troškovniku.",
+      "citat": "Podesivi tvrdi ovratnik (od polietilena) za odrasle, podesiv po različitim veličinama/pozicijama (4 veličine)... mora posjedovati otvor za traheotomiju, mogućnost rtg dijagnostike, na čičak"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dokumentacija je vrlo potpuna: opći podaci, kriteriji kvalitativnog odabira s detaljnim ESPD uputama, upute za ponuditelje s eksplicitnim popisom obveznih priloga po grupi, formula za bodovanje, tehnička specifikacija, 5 troškovnika i sve prateće izjave (jamstvo, solidarna odgovornost, zajednička ponuda, nekažnjavanje) dostupne su kao zasebni dokumenti. Jedina praznina je 'Dokumentacija o nabavi__izjave.rar.txt' koja je ekstrahirana kao 0 bajtova (poznati rar-ekstrakcijski artefakt), ali sadržaj se čini dupliciranim u zasebno dostavljenim .docx izjavama pa vjerojatno nije stvaran gubitak informacije.",
+      "citat": "Elektronička ponuda za svaku ponuđenu grupu mora sadržavati najmanje: Uvez ponude, Popunjeni eESPD obrazac, Popunjen troškovnik... Tehnički opis – Tehničku specifikaciju predmeta nabave"
+    },
+    "prosjecna_ocjena": 4.67
+  },
+  "restriktivnost": {
+    "prisutno": true,
+    "indikatori": [
+      {
+        "opis": "Više stavki troškovnika (potrošni materijal za EKG/defibrilator) referira točno određeni model uređaja naručitelja bez klauzule 'ili jednakovrijedno', što tehnički ograničava ponudu na proizvode kompatibilne s tim točno određenim modelom.",
+        "citat": "EDGE SYSTEM elektrode za odrasle s QUIK -COMBO konektorom, za defibrilator model LIFEPAK15"
+      },
+      {
+        "opis": "Papir za termalni printer vezan uz točno određeni model EKG aparata i čak naveden interni kataloški broj proizvođača.",
+        "citat": "Papir termalni za aparat EKG Schiller CARDIOVIT MS -2015...kat. Broj 2.157.012"
+      },
+      {
+        "opis": "Oprema (trening pištolj) navedena isključivo pod brand imenom, bez izričite 'ili jednakovrijedno' formulacije uz tu stavku.",
+        "citat": "Trening pištolj za odrasle WAISMED"
+      }
+    ],
+    "rizik": "nizak",
+    "napomena_rizika": "Navedene stavke odnose se na potrošni materijal/pribor kompatibilan s medicinskom opremom koju naručitelj (hitna medicinska služba) već posjeduje (točno određeni modeli defibrilatora/EKG aparata), što je uobičajena i tehnički opravdana praksa u zdravstvenom sektoru, a ne očita namjera favoriziranja određenog ponuditelja - riječ je o malom broju stavki (npr. 1-150 kom) unutar troškovnika od 134 stavke, uz opću odredbu dokumentacije da se jednakovrijedni proizvodi dopuštaju kad god ponuđeno ne odgovara traženim normama."
+  },
+  "napomena": "Pregledani su svi relevantni dokumenti u extracted/ (opći podaci, kriteriji kvalitativnog odabira, upute za ponuditelje, tehnička specifikacija, formula za bodovanje, svih 5 troškovnika po grupama i prateće izjave). Jedina datoteka s praznim sadržajem je 'Dokumentacija o nabavi__izjave.rar.txt' (0 bajtova, poznati rar-ekstrakcijski artefakt iz 4.1. pipeline-a), no njen sadržaj je vjerojatno dupliciran u zasebno dostavljenim .docx izjavama pa nije bitno utjecao na ocjenu. Dokumenti iz 'Odluka o odabiru' i 'Ugovori' (rezultati postupka, zapisnici o ocjeni) nisu korišteni za ovu ocjenu jer opisuju fazu nakon dodjele, a zadatak ocjenjuje transparentnost same natječajne dokumentacije."
+}

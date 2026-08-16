@@ -1,0 +1,132 @@
+{
+  "n_total": 457,
+  "n_legacy_multirun": 24,
+  "n_single_run": 433,
+  "avg_score": {
+    "mean": 4.339277899343545,
+    "sd": 0.6856360935292665,
+    "min": 1.33,
+    "max": 5.0
+  },
+  "avg_score_hist": {
+    "4.5": 294,
+    "5.0": 59,
+    "4.0": 47,
+    "3.0": 6,
+    "2.0": 6,
+    "2.5": 13,
+    "3.5": 25,
+    "1.5": 7
+  },
+  "dim_stats": {
+    "jasnoca_kriterija": {
+      "mean": 4.824945295404814,
+      "sd": 0.5333425903398555,
+      "dist": {
+        "5": 402,
+        "4": 37,
+        "3": 11,
+        "2": 7
+      }
+    },
+    "razina_detalja_opisa": {
+      "mean": 3.8293216630196936,
+      "sd": 0.9102949839486365,
+      "dist": {
+        "4": 257,
+        "5": 90,
+        "3": 61,
+        "2": 40,
+        "1": 9
+      }
+    },
+    "potpunost_dokumentacije": {
+      "mean": 4.361050328227571,
+      "sd": 0.980584713525168,
+      "dist": {
+        "4": 151,
+        "5": 261,
+        "3": 14,
+        "1": 20,
+        "2": 11
+      }
+    }
+  },
+  "dim_labels": {
+    "jasnoca_kriterija": "Jasnoca kriterija",
+    "razina_detalja_opisa": "Razina detalja opisa",
+    "potpunost_dokumentacije": "Potpunost dokumentacije"
+  },
+  "sector_avg": {
+    "Robe": {
+      "n": 203,
+      "mean": 4.442709359605911,
+      "sd": 0.40933208754346795
+    },
+    "Radovi": {
+      "n": 132,
+      "mean": 4.478106060606061,
+      "sd": 0.529682770378645
+    },
+    "Usluge": {
+      "n": 122,
+      "mean": 4.0169672131147545,
+      "sd": 1.0178608953111956
+    }
+  },
+  "sector_dim": {
+    "Robe": {
+      "jasnoca_kriterija": 4.945812807881773,
+      "razina_detalja_opisa": 3.7783251231527095,
+      "potpunost_dokumentacije": 4.600985221674877
+    },
+    "Radovi": {
+      "jasnoca_kriterija": 4.878787878787879,
+      "razina_detalja_opisa": 4.113636363636363,
+      "potpunost_dokumentacije": 4.4393939393939394
+    },
+    "Usluge": {
+      "jasnoca_kriterija": 4.565573770491803,
+      "razina_detalja_opisa": 3.6065573770491803,
+      "potpunost_dokumentacije": 3.877049180327869
+    }
+  },
+  "restr_overall": 0.43326039387308535,
+  "restr_count": 198,
+  "restr_by_sector": {
+    "Robe": 0.5024630541871922,
+    "Radovi": 0.3484848484848485,
+    "Usluge": 0.4098360655737705
+  },
+  "rizik_among_flagged": {
+    "nizak": 49,
+    "srednji": 116,
+    "visok": 33
+  },
+  "rizik_full_sample": {
+    "nizak": 308,
+    "srednji": 116,
+    "visok": 33
+  },
+  "rizik_by_sector": {
+    "Robe": {
+      "srednji": 66,
+      "nizak": 21,
+      "visok": 15
+    },
+    "Radovi": {
+      "nizak": 21,
+      "srednji": 23,
+      "visok": 2
+    },
+    "Usluge": {
+      "visok": 16,
+      "nizak": 7,
+      "srednji": 27
+    }
+  },
+  "restr_rate_low_score": 0.5263157894736842,
+  "restr_rate_high_score": 0.42,
+  "n_low_score": 57,
+  "n_high_score": 400
+}

@@ -1,0 +1,27 @@
+{
+  "postupak_id": 30442,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij za odabir ponude (ekonomski najpovoljnija ponuda) potpuno je operacionaliziran: eksplicitna formula, ponderi (90% cijena / 10% rok isporuke), tablica bodovanja za rok isporuke i pravilo za slučaj izjednačenja bodova. Nema prostora za diskrecijsko tumačenje.",
+      "citat": "C= NC/CO x 90 ... UBB=C+RI ... Rok isporuke do 06,00 sati 10 bodova, do 07,00 sati 5 bodova"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 3,
+      "obrazlozenje": "Tehnička specifikacija svodi se na generičke odredbe o sukladnosti sa zakonima o hrani/higijeni i zahtjev za HACCP/ISO 22000, bez konkretnih tehničkih/senzorskih parametara po artiklu (npr. sastav, udio brašna, rok trajanja, način pakiranja). Konkretizacija predmeta postoji tek kroz nazive i okvirne mase/količine stavki u Troškovniku (npr. 'KRUH POLUBIJELI 0,70'), a ne kroz zaseban opisni dokument.",
+      "citat": "Detaljna razrada predmeta nabave sadržana je u Troškovniku koji je sastavni dio ove Dokumentacije o nabavi."
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 4,
+      "obrazlozenje": "Dostupan je pun standardni set dokumenata (Opći podaci, Kriteriji kvalitativnog odabira, Kriterij za odabir ponude, Tehnička specifikacija, Troškovnik s 18 stavki i količinama, Upute za ponuditelje, Izjava o roku isporuke) dovoljan za samostalnu izradu ponude. Umanjeno jer je sama tehnička specifikacija vrlo šturo razrađena i jer je 'Prilozi.zip' uz Odluku o odabiru ekstrahiran kao prazan (0 bajtova).",
+      "citat": "Elektronička ponuda mora sadržavati najmanje: Uvez ponude, Popunjeni eESPD obrazac, Popunjen troškovnik, Vrijednosti kriterija za odabir ponude, Izjava o roku isporuke"
+    },
+    "prosjecna_ocjena": 4.0
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak",
+    "napomena": "Uvjet tehničke sposobnosti postavljen je nisko (min. 1 referenca isporuke iste/slične robe u visini procijenjene vrijednosti), nije neproporcionalan. Zahtjev za HACCP/ISO 22000 formuliran je alternativno/otvoreno. Rok isporuke (do 06:00/07:00 sati) proizlazi iz same prirode predmeta (svakodnevna dostava svježeg peciva djeci), ne iz proizvoljno postavljene specifikacije."
+  }
+}

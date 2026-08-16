@@ -1,0 +1,36 @@
+{
+  "postupak_id": 28524,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij odabira je ekonomski najpovoljnija ponuda s potpuno definiranom i matematički preciznom raspodjelom bodova (cijena 90, rok isporuke 10), uz eksplicitne formule za izračun bodova za oba potkriterija te jasno određene minimalne/maksimalne dozvoljene vrijednosti za rok isporuke.",
+      "citat": "Cijena 90,00 / Rok isporuke 10,00 ... Naručitelj je ograničio najviši dozvoljeni iznos za kriterij 5,00 Naručitelj je ograničio najniži dozvoljeni iznos za kriterij 1,00"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Predmet nabave (158 stavaka uredskog materijala) opisan je kroz detaljan troškovnik s tehničkim karakteristikama za dio stavaka (npr. gramatura, debljina, hrapavost, neprozirnost, bjelina papira prema ISO normama), no zaseban dokument 'Tehničke specifikacije' sadrži samo uputu da su specifikacije integrirane u troškovnik, bez dodatnog samostalnog teksta.",
+      "citat": "GRAMATURA g/m² ISO 536 80 ± 3 DEBLJINA u mm ISO 534 107 ± 3 HRAPAVOST PO BENDTSENU ml/min ISO 8791-2 150 ± 50 NEPROZIRNOST % ISO 2471 min 94.0 BJELINA CIE % ISO 11475 min 170 ± 4.0"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 4,
+      "obrazlozenje": "Dostupna je cjelovita osnovna dokumentacija (opći podaci, kriteriji kvalitativnog odabira, kriteriji za odabir ponude, upute za ponuditelje, troškovnik) s jasnim uputama za popunjavanje i predaju ponude. Jedini nedostatak je što zaseban prilog 'Tehničke specifikacije' formalno postoji ali nema samostalnog sadržaja (upućuje na troškovnik), što nije nedostatak informacije već organizacijska odluka naručitelja.",
+      "citat": "Elektronička ponuda mora sadržavati najmanje: Uvez ponude Popunjeni eESPD obrazac (ili više njih, ako je primjenjivo) Popunjen troškovnik"
+    },
+    "prosjecna_ocjena": 4.33
+  },
+  "restriktivnost": {
+    "prisutno": true,
+    "indikatori": [
+      {
+        "opis": "Dvije stavke troškovnika izravno referenciraju određenu marku i tip proizvoda (Pilot BP-145, Pilot G-2 07) s naznakom 'ili jednakovrijedna', što je zakonski dopušteno i uobičajeno, no i dalje predstavlja upućivanje na specifičnog proizvođača.",
+        "citat": "Kemijska olovka Pilot BP -145 ili jednakovrijedna ... Kemijska olovka Pilot G-2 07 plava, crvena, crna \" ili jednakovrijedna"
+      },
+      {
+        "opis": "Stavka 'KULTURNI VODIČ ZADRA najnovije izdanje' (na četiri jezika) je vrlo uska, lokalno specifična publikacija za koju vjerojatno postoji samo jedan izvor/izdavač, neuobičajena unutar kategorije uredskog materijala i potencijalno isključuje većinu gospodarskih subjekata za tu stavku.",
+        "citat": "KULTURNI VODIČ ZADRA najnovije izdanje: - na engleskom jeziku"
+      }
+    ],
+    "rizik": "nizak"
+  },
+  "napomena": "Svih relevantnih dokumenata za ocjenu (opći podaci, kriteriji kvalitativnog odabira, kriteriji za odabir ponude, upute za ponuditelje, troškovnik) uspješno je ekstrahirano i pročitano; jedina anomalija je zaseban dokument 'Tehničke specifikacije' koji sadrži samo uputu da je sadržaj u troškovniku (nije greška ekstrakcije). Postupak je imao samo jednog ponuditelja (DALMAT d.o.o.), što ukazuje na nisku razinu konkurencije u praksi, iako to nije izravan pokazatelj restriktivnosti same dokumentacije."
+}

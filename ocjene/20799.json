@@ -1,0 +1,27 @@
+{
+  "postupak_id": 20799,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriteriji za odabir ponude (ENP) potpuno su eksplicitni i mjerljivi: cijena 90 bodova, udio električne energije iz obnovljivih izvora 10 bodova, s točnim matematičkim formulama za bodovanje, ograničenjima (min 50%, maks 100%) i pravilom za jednako rangirane ponude (raniji primitak).",
+      "citat": "Ponuda s najnižom cijenom dobiva 90,00 bodova, dok se ostale ponude boduju prema formuli"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Opis predmeta nabave (distribucija/opskrba električnom energijom za Općinu Jasenice) razrađen je kroz obračunske elemente, tarifne modele (bijeli/žuti/plavi) i priložen popis svih 58 obračunskih mjernih mjesta s adresama i tarifnim modelima, što omogućuje usporedivu ponudu. Opis se oslanja na okvirne (ne fiksne) količine, što je uobičajeno za ovu vrstu nabave, ali unosi manju neizvjesnost za ponuditelje.",
+      "citat": "Troškovnik s opisima tarifnih modela, jedinicama mjere i količinama nalazi se u Prilogu 1 i sastavni je dio dokumentacije za nadmetanje."
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dostupan je pun set dokumenata potreban za samostalnu izradu ponude: Opći podaci, Upute za ponuditelje, Kriteriji za kvalitativni odabir gospodarskog subjekta, Kriteriji za odabir ponude, Tehničke specifikacije i popunjivi Troškovnik s popisom mjernih mjesta (OMM). Svi dokumenti međusobno su konzistentni (isti podaci o postupku, kriterijima i jamstvima ponavljaju se u više dokumenata).",
+      "citat": "Elektronička ponuda mora sadržavati najmanje: Uvez ponude Popunjeni eESPD obrazac (ili više njih, ako je primjenjivo) Popunjen troškovnik"
+    },
+    "prosjecna_ocjena": 4.67
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak"
+  },
+  "napomena": "Nabava opskrbe/distribucije električne energije za javnu rasvjetu i objekte male općine (Jasenice) - standardiziran, regulatorno uvjetovan predmet nabave bez reference na određeni proizvod/marku ili patentirano rješenje. Uvjet minimalno 50% udjela električne energije iz obnovljivih izvora je opći tržišni zahtjev (ne favorizira konkretnog ponuditelja) i primjenjuje se kao kvalitativni, ne isključujući kriterij. Zaprimljena je samo jedna ponuda (HEP-Opskrba d.o.o.), no to odgovara poznatoj tržišnoj strukturi opskrbe električnom energijom za manje javne naručitelje u RH, ne indikatoru prilagođene specifikacije. Svi pregledani dokumenti bili su čitljivi i sadržajno potpuni (bez praznih/OCR-gap ekstrakcija)."
+}

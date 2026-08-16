@@ -1,0 +1,27 @@
+{
+  "postupak_id": 19403,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriteriji za odabir (cijena 90 %, prosječna starost vozila 10 %) navedeni su s točnim relativnim značajem, matematičkim formulama za bodovanje (Ymin/Yp x 90; PSV = zbroj starosti / broj vozila), bodovnom ljestvicom za starost vozila i objektivnim obrazloženjem izbora kriterija (statistika Centra za vozila Hrvatske o neispravnosti starijih vozila). Identično razrađeno za obje grupe.",
+      "citat": "Kriteriji za odabir su: (a) cijena ponude i (b) prosječna starost ponuđenih vozila za grupu predmeta nabave."
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 5,
+      "obrazlozenje": "Tehničke specifikacije po grupama sadrže potpun popis relacija s brojem učenika, kilometražom po relaciji, vremenima polaska/povratka, ukupnim km/dan, te precizno definiran minimalan broj i tip vozila (uključujući terenska 4x4 vozila za nepristupačne relacije poput Krčko Brdo–Osredci–Srb), bez pretjerane suženosti koja bi isključila razumne alternative.",
+      "citat": "minimalno jedno (1) vozilo - minibus s minimalno 14 (četrnaest) mjesta za sjedenje + 1 (jedno) mjesto za sjedenje za vozača"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dostupna je puna dokumentacija: Opći podaci, Upute za ponuditelje, Kriteriji za kvalitativni odabir (s pravnim osnovama, pitanjima i načinom dokazivanja za svaku stavku), tehničke specifikacije i troškovnici za obje grupe, te svih 9 obrazaca (izjave o starosti vozila, nepromjenjivosti cijena, čistim vozilima, popisu usluga, alatima/opremi, isključenju). Objavljena je i uredna izmjena dokumentacije (dodatna relacija) s obrazloženjem i produljenjem roka.",
+      "citat": "Elektronička ponuda za svaku ponuđenu grupu mora sadržavati najmanje: Uvez ponude Popunjeni eESPD obrazac"
+    },
+    "prosjecna_ocjena": 5.0
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak"
+  },
+  "napomena": "Pročitani svi ključni dokumenti: Opći podaci o postupku nabave, Obavijest o nadmetanju i njena Izmjena, Kriteriji za kvalitativni odabir gospodarskog subjekta, Upute za ponuditelje, OBRAZAC 1 (kriterij za odabir), tehničke specifikacije i troškovnici za Grupu 1 (Linija sjever) i Grupu 2 (Linija istok), te Obavijest o dodjeli ugovora. Zahtjev za tehničku opremu (minimalni broj/tip vozila, uključujući terenska vozila) izravno je vezan uz konkretne prometno zahtjevne relacije opisane u tehničkoj specifikaciji, a referentni prag (pola procijenjene vrijednosti kroz 4 godine) standardan je i proporcionalan opsegu nabave — nema naznaka prilagodbe određenom ponuditelju (nema marki, patentiranih rješenja ni nesrazmjernih pragova)."
+}

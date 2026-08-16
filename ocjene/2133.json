@@ -1,0 +1,40 @@
+{
+  "postupak_id": 2133,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij za odabir ponude je jedinstven, jasno naveden i potpuno mjerljiv (cijena, 100% udjela u odabiru), bez dodatnih nejasnih ili nekvantificiranih potkriterija.",
+      "citat": "Cijena Značaj Cijena 100,00"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 2,
+      "obrazlozenje": "Opis predmeta nabave svodi se na jednu rečenicu koja upućuje na troškovnik i tehničke specifikacije, ali ti dokumenti nisu sadržani u dostupnom ekstrahiranom tekstu (samo dvije obavijesti o postupku/dodjeli), pa se konkretan opseg i sadržaj usluge održavanja ne može ocijeniti kao dovoljno detaljan iz dostupnog materijala.",
+      "citat": "Usluga održavanja Morskih orgulja u Zadru sukladno priloženom troškovniku i tehničkim specifikacijama."
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 1,
+      "obrazlozenje": "U extracted/ folderu dostupne su isključivo Obavijest o dodjeli ugovora i Obavijest za dobrovoljnu ex ante transparentnost; troškovnik, tehnička specifikacija i eventualni obrasci na koje se tekst poziva nisu prisutni, čime dokumentacija nije dostatna za samostalnu izradu/procjenu ponude iz dostupnih materijala.",
+      "citat": "sukladno priloženom troškovniku i tehničkim specifikacijama"
+    },
+    "prosjecna_ocjena": 2.67
+  },
+  "restriktivnost": {
+    "prisutno": true,
+    "indikatori": [
+      {
+        "opis": "Postupak je pregovarački bez prethodne objave, izravno opravdan time da je imenovani ugovaratelj jedini koji tehnički može izvršiti uslugu, čime je tržišno natjecanje unaprijed i posve isključeno za točno određenog gospodarskog subjekta.",
+        "citat": "Kako jedini mogu izvršiti usluge popravljanja i održavanja Morskih orgulja sukladno članku 131. stavak 1. točka 2b. ispunili su se uvjeti za provođenje pregovaračkog postupka javne nabave bez prethodne objave."
+      },
+      {
+        "opis": "Obrazloženje se poziva na autorsko/tehničko ekskluzivno svojstvo određenog subjekta (koautorstvo unikatne instalacije) kao pravnu osnovu za zaobilaženje standardnog nadmetanja.",
+        "citat": "Umjetnička radionica Heferer iz Zagreba kao koautor instalacije Morskih orgulja projektirala je labiume i svirala"
+      },
+      {
+        "opis": "Rezultat postupka potvrđuje potpuni izostanak konkurencije - zaprimljena je samo jedna ponuda, od istog subjekta koji je i imenovan u obrazloženju.",
+        "citat": "Broj zaprimljenih ponuda: 1"
+      }
+    ],
+    "rizik": "visok"
+  },
+  "napomena": "Za ovaj postupak dostupne su samo dvije proceduralne obavijesti (o dodjeli ugovora i za dobrovoljnu ex ante transparentnost); stvarna dokumentacija o nabavi (troškovnik, tehnička specifikacija) na koju tekst upućuje nije prisutna u extracted/ folderu, što ograničava ocjenu dimenzija razina_detalja_opisa i potpunost_dokumentacije na ono što je vidljivo u proceduralnim obavijestima. Restriktivnost je ovdje posljedica zakonski dopuštenog jednoizvorišnog postupka (čl. 131. st. 1. t. 2b. ZJN2016, tehnička nepostojanost tržišnog natjecanja) vezanog za održavanje unikatne umjetničke instalacije (Morske orgulje) od strane njezinog koautora, a ne nužno namjerno skrojene specifikacije za favoriziranje ponuditelja - no s gledišta tržišnog natjecanja/negativne selekcije riječ je o potpunom isključenju konkurencije."
+}

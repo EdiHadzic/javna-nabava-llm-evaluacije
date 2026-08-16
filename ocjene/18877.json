@@ -1,0 +1,27 @@
+{
+  "postupak_id": 18877,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij za odabir ponude (ekonomski najpovoljnija ponuda) potpuno je operacionaliziran matematičkom formulom za cijenu te preciznom bodovnom tablicom za jamstvo na radove, bez prostora za diskrecijsko tumačenje. Kvalitativni kriteriji za odabir gospodarskog subjekta (upis u registar, popis izvršenih radova u visini procijenjene vrijednosti) također su jasno i mjerljivo definirani u zasebnom dokumentu.",
+      "citat": "Cn = C(min) / Cp x 90 ... Maksimalan broj bodova za cijenu ponude je 90."
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 5,
+      "obrazlozenje": "Tehnička specifikacija (izvedbeni projekt, 7372 redaka) iznimno je detaljna po stavkama (dimenzije profila, debljine limova, norme HRN EN), a istodobno dokumentacija eksplicitno zabranjuje zatvorene upute na marku/proizvođača te dosljedno (87 pojavljivanja) koristi izraz 'ili jednakovrijedno', čime se izbjegava suvišno sužavanje kruga ponuditelja unatoč visokoj razini tehničke preciznosti.",
+      "citat": "Naručitelj ne koristi opise navodeći određenu marku ili izvor... ako bi to imalo učinak pogodovanja ili isključenja određenih gospodarskih subjekata."
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dostupan je pun set dokumenata potreban za samostalnu izradu ponude: opći podaci, upute za ponuditelje, kriteriji za odabir ponude, kriteriji za kvalitativni odabir GS, tehnička specifikacija, troškovnik (s naknadno ispravljenim jedinicama mjere), prijedlog ugovora, svi obrasci izjava, te objavljeni odgovori na pitanja ponuditelja. Nema naznaka nedostajućih priloga potrebnih za pripremu ponude.",
+      "citat": "Elektronička ponuda mora sadržavati najmanje: Uvez ponude, Popunjeni eESPD obrazac, Popunjen troškovnik..."
+    },
+    "prosjecna_ocjena": 5.0
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak"
+  },
+  "napomena": "Pročitani su svi dostupni .txt dokumenti iz extracted/ (opći podaci, upute za ponuditelje, kriteriji za odabir ponude, kriteriji za kvalitativni odabir GS, obrasci, prijedlog ugovora, izvedbeni tehnički projekt, troškovnik, obavijest o nadmetanju i njena 2 ispravka, odgovori na pitanja, obavijest o dodjeli ugovora, odluka o odabiru, zapisnici o pregledu i ocjeni ponuda). Prilozi.zip.txt prazan je (0 bajtova, poznati artefakt neuspjele ekstrakcije arhive, ne utječe na ocjenu jer je isti sadržaj dostupan kroz zasebno ekstrahirane dokumente). Skenirani PDF-ovi 'Odluka o odabiru' i 'Zapisnik o pregledu i ocjeni' imaju umjereno degradiran OCR tekst (izobličena dijakritika, spojena slova), ali ključni podaci (jedan zaprimljeni ponuditelj, HAPILAN d.o.o., 862.930,64 EUR bez PDV-a, 100/100 bodova) čitljivi su i potvrđeni dvostruko (i u strukturiranoj 'Obavijest o dodjeli ugovora'). Jedina pronađena reference na proizvođača ('KNAUF ploča') pojavljuje se generički unutar tehničkog opisa izvedbe gips-kartonskih pregrada, ne kao obvezujuća specifikacija stavke troškovnika, pa nije tretirana kao pokazatelj restriktivnosti. Zaprimljena je samo jedna ponuda unatoč vrlo transparentnoj i neograničavajućoj dokumentaciji — vrijedno napomene za interpretaciju u 5.1./5.3., ali ne ukazuje na restriktivnost specifikacije."
+}

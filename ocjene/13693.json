@@ -1,0 +1,27 @@
+{
+  "postupak_id": 13693,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij za odabir je ekonomski najpovoljnija ponuda s precizno definiranom raspodjelom bodova (cijena 90, rok isporuke robe 10) i eksplicitnim matematičkim formulama za bodovanje oba parametra, uključujući postupanje u slučaju nedostavljanja podatka o roku isporuke. Zapisnik o pregledu i ocjeni ponuda dosljedno primjenjuje iste formule na sve tri ponude s transparentnim izračunom bodova po ponuditelju.",
+      "citat": "Kriterij za odabir ponude je ekonomski najpovoljnija ponuda (ENP)."
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Opći opis predmeta nabave u dokumentaciji je sažet, ali troškovnik sadrži vrlo detaljnu stavku-po-stavku specifikaciju (dimenzije, DN oznake, materijali, norme HRN EN) uz dosljedno navođenje 'ili jednakovrijedno' za sve norme i upućivanja, čime se omogućuje usporedivost ponuda bez neopravdanog isključivanja alternativa. Manji minus jer razina tehničke preciznosti (specifične HRN EN norme za gotovo svaku skupinu artikala) zahtijeva stručno poznavanje branše za punu ocjenu usklađenosti.",
+      "citat": "Ukoliko Naručitelj upućuje na tehničke specifikacije smatra se da je svako upućivanje popraćeno izrazom »ili jednakovrijedno«."
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dostupan je pun set dokumenata potreban za samostalnu izradu ponude: opći podaci o postupku, tehničke specifikacije, detaljan troškovnik, kriteriji za odabir ponude, kriteriji kvalitativnog odabira gospodarskog subjekta, upute za ponuditelje, obrasci priloga (izjava, rok isporuke) te naknadno objavljeni zapisnik o pregledu i ocjeni i obavijest o dodjeli. Jedina prazna datoteka je 'Prilozi.zip.txt' (0 bajtova), no njezin sadržaj (obrasci) dupliciran je u zasebno ekstrahiranim .docx prilozima.",
+      "citat": "Detaljan troškovnik se nalazi u zasebnom prilogu – Troškovnik."
+    },
+    "prosjecna_ocjena": 4.67
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak"
+  },
+  "napomena": "Pročitano svih 15 sadržajnih .txt datoteka u extracted/ (16. datoteka, Prilozi.zip.txt, prazna je - 0 bajtova, arhiva se vjerojatno ekstrahirala kao prazna ili je izvorno bila prazna, no njezin sadržaj čini se dupliciran u zasebno ekstrahiranim Prilog 1./Prilog 2. .docx datotekama pa ne utječe na ocjenu). Postupak je sektorska nabava (Direktiva 2014/25/EU) niske vrijednosti (42.000 EUR), s 3 zaprimljene i valjane ponude te transparentnim, dosljedno primijenjenim postupkom ocjenjivanja. Referentni uvjet (1 isporuka jednake ili veće vrijednosti od procijenjene) postavljen je na gornjoj, ali još uvijek proporcionalnoj granici (100% procijenjene vrijednosti) - nije ocijenjeno kao restriktivnost jer ne prelazi vrijednost nabave niti je specifično prilagođeno pojedinom ponuditelju, što potvrđuje i činjenica da su sva tri ponuditelja s različitim, raznorodnim referencama uspješno dokazala ispunjenje uvjeta."
+}

@@ -1,0 +1,27 @@
+{
+  "postupak_id": 32528,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij ENP potpuno je operacionaliziran matematičkim formulama za oba pod-kriterija (cijena i rok plaćanja), s jasno definiranim granicama i posljedicama odstupanja.",
+      "citat": "C = (Cmin/Cp) x 90 ... RP = Rpp/Nrp x 10"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Predmet nabave je standardizirana roba (prirodni plin) pa je opis nužno generičan (kemijski sastav plina prema zakonskom standardu), no uz to su navedena konkretna mjerna mjesta, tarifni modeli i okvirne količine u troškovniku, što je dovoljno za usporedivu ponudu.",
+      "citat": "metan (CH4) minimalno 85%, etan (C2H6) maksimalno 7% ... Isporučitelj je dužan pridržavati se tehničkih specifikacija."
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dostupan je pun i unutarnje dosljedan set dokumenata: opći podaci, tehnička specifikacija, troškovnik, detaljni kriteriji kvalitativnog odabira s uputama za ESPD, upute za ponuditelje i obrazac izjave o roku plaćanja.",
+      "citat": "Elektronička ponuda mora sadržavati najmanje: Uvez ponude, Popunjeni eESPD obrazac ... Popunjen troškovnik"
+    },
+    "prosjecna_ocjena": 4.67
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak",
+    "napomena": "Traženje HERA dozvole za opskrbu plinom zakonski je uvjet za sve subjekte na tržištu, ne prilagođen pojedinom ponuditelju. Ishod postupka (4 pristigle ponude od različitih opskrbljivača plinom) potvrđuje da dokumentacija nije odvratila konkurenciju."
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "postupak_id": 1489,
+  "broj_pojedinacnih_runova": 2,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Oba pokretanja se sadržajno u potpunosti slažu: kriterij za odabir ponude je isključivo cijena (ENP, relativni značaj 100%), s eksplicitnom, matematički definiranom formulom bodovanja (CP = Pmin/Ppon*100) i jasnim pravilom za rangiranje kod izjednačenih ponuda (ranije zaprimljena ponuda). Nema kvalitativnih ni subjektivnih ne-cjenovnih kriterija koje bi trebalo tumačiti, pa dvosmislenost praktički ne postoji.",
+      "citat": "cijenu kao jedini kriterij za određivanje ekonomski najpovoljnije ponude i njen relativni značaj iznosi 100 %",
+      "runovi": [
+        5,
+        5
+      ],
+      "slaganje": "puno"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Oba pokretanja se slažu: stvarni tehnički opis predmeta nabave nalazi se u Troškovniku, koji vrlo precizno i usporedivo nabraja točne stavke pregleda po sve četiri dobno/spolne skupine (poimenične laboratorijske pretrage, UZV abdomena, EKG, ginekološki/internistički pregled itd.), što ponuditeljima omogućuje izradu usporedivih ponuda. Zaseban dokument 'Tehničke specifikacije' formalno postoji, ali je sadržajno gotovo prazan. Ocjena je snižena zbog te formalne praznine, no supstancijalni sadržaj opisa nije izgubljen jer je dostupan kroz Troškovnik, a Upute za ponuditelje dodatno dopuštaju nuđenje jednakovrijednog rješenja (potvrđeno neovisnom provjerom izvornog teksta: 'jednakovrijedne usluge identična je traženoj tehničkoj specifikaciji'), čime se izbjegava pretjerano suženje kruga ponuditelja.",
+      "citat": "Laboratorijska dijagnostika: SE, KKS, GUK, trigliceridi, bilirubin, kreatinin, željezo (FE), Kolesterol, HDL-kolesterol, LDL-kolesterol, AST, ALT, GGT, urati",
+      "runovi": [
+        4,
+        4
+      ],
+      "slaganje": "puno"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 3,
+      "obrazlozenje": "Runovi se razilaze za 1 bod (3 vs 4) oko istog nalaza: standardna dokumentacija (Opći podaci, Upute za ponuditelje, Kriteriji za kvalitativni odabir, Kriteriji za odabir ponude, Troškovnik, obrasci za zajednicu ponuditelja) je opsežna i cjelovita, ali zaseban dokument 'Tehničke specifikacije predmeta nabave' sadržajno je prazan (samo naslov i redak za potpis). Neovisnom provjerom izvornog teksta ('Opći podaci o postupku nabave' i 'Upute za ponuditelje') utvrđeno je da dokumentacija eksplicitno i doslovno upućuje na taj obrazac kao mjesto gdje je 'određen' detaljan opis predmeta nabave s tehničkim specifikacijama — dakle, naručitelj je najavio da će upravo taj dokument nositi tehnički sadržaj, a on je ostao praktički prazan. To je stvaran, dokumentirani nedostatak reference unutar dokumentacije o nabavi, ne samo formalnost bez posljedica, pa nadilazi 'manji nedostatak' — otud ocjena 3 umjesto 4. Supstancijalna kompenzacija kroz Troškovnik (koji doista sadrži usporedive tehničke stavke) sprječava da ocjena padne niže od 3.",
+      "citat": "Detaljan opis predmeta nabave određen je u obrascu Tehnički opis - Tehničke specifikacije predmeta nabave, ove dokumentacije o nabavi predmeta nabave.",
+      "runovi": [
+        3,
+        4
+      ],
+      "slaganje": "djelomicno"
+    },
+    "prosjecna_ocjena": 4.0
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak",
+    "runovi_prisutno": [
+      false,
+      false
+    ],
+    "slaganje": "puno"
+  },
+  "napomena": "Pročitano je 6-7 relevantnih dokumenata iz Diplomski/Postupci/1489/extracted/ (Opći podaci, Kriteriji za odabir ponude, Kriteriji za kvalitativni odabir, Tehničke specifikacije - gotovo prazan dokument, Troškovnik, Obavijest za društvene i druge posebne usluge, Upute za ponuditelje). Postupak je vrsta 'Društvene i druge posebne usluge' (čl. 284. ZJN 2016) s procijenjenom vrijednošću 36.540,00 EUR, ispod EU praga, stoga primjenjuje pojednostavljeni režim (cijena kao jedini kriterij dopuštena je bez posebnog obrazloženja). Uvjeti sposobnosti (1 referenca u visini procijenjene vrijednosti, rješenje Ministarstva zdravlja, gornja granica cijene prema Kolektivnom ugovoru) proporcionalni su i ne upućuju na određenog ponuditelja; nema referenci na marke, patente ili neproporcionalne pragove. Naveden spomen tvrtke VIRIBUS (proizvodnja PVC stolarije) u dokumentaciji irelevantan je za predmet nabave (zdravstvene usluge) i ne utječe na ocjenu restriktivnosti.",
+  "napomena_resolvera": "Jasnoća kriterija i razina detalja opisa: puno slaganje (identične ocjene, sadržajno usklađena obrazloženja), sintetizirano bez dodatnog čitanja izvora. Potpunost dokumentacije: djelomično neslaganje (3 vs 4) oko iste činjenice (prazan dokument 'Tehničke specifikacije'), riješeno samostalnim čitanjem izvornih datoteka 'Opći podaci o postupku nabave' i 'Upute za ponuditelje' (extracted/), koje eksplicitno navode da je upravo taj obrazac mjesto gdje je 'određen' detaljan tehnički opis — čime je nedostatak sadržaja u njemu ozbiljniji od 'manjeg nedostatka' koji navodi run 2, pa je odabrana niža ocjena (3) uz zadržavanje kompenzirajućeg učinka Troškovnika. Restriktivnost: puno slaganje (oba runa 'false', bez indikatora), dodatno potvrđeno provjerom postojanja klauzule o jednakovrijednosti u Uputama za ponuditelje. Ukupna pouzdanost finalne ocjene: visoka na dvije od tri dimenzije transparentnosti i na restriktivnosti (puno slaganje), umjereno niža na potpunosti dokumentacije zbog djelomičnog razilaženja, ali razriješenog izravnim uvidom u izvorni tekst, ne proizvoljnim odabirom."
+}

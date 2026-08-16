@@ -1,0 +1,39 @@
+{
+  "postupak_id": 11927,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij ENP (cijena 80 %, rok isporuke 20 %) potpuno je operacionaliziran matematičkim formulama za oba parametra, s pravilom za jednako rangirane ponude i gornjom granicom prihvatljivosti roka isporuke (36 h). Nema prostora za diskrecijsko tumačenje.",
+      "citat": "broj bodova = (najniža ponuđena cijena / cijena ponude) * 80"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Troškovnik sadrži vrlo konkretne, mjerljive tehničke karakteristike (materijal, broj slojeva, dužina, širina, težina, tolerancije +/-5 %) što omogućuje usporedivu ponudu. Međutim dva neovisna ponuditelja u fazi pitanja/odgovora izričito su ukazala da je izvorna specifikacija (250 m/21 cm/1880 g) neuobičajeno uska za tržište; naručitelj je specifikaciju samo djelomično ublažio (na min. 200 m), zbog čega opis ostaje na granici prekomjerne suženosti.",
+      "citat": "Dužine min. 200m;* Širina role min. 20cm;* Težine ne manje od 1600 gr.;* ... Laminirani papir Bez perforacija"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dostupan je pun set dokumentacije potreban za samostalnu izradu ponude: opći podaci, kriteriji kvalitativnog odabira s ESPD uputama, kriteriji za odabir ponude s formulama, tehnička specifikacija, troškovnik, upute za ponuditelje (jamstva, način dostave, rokovi) te odgovori naručitelja na postavljena pitanja.",
+      "citat": "Elektronička ponuda mora sadržavati najmanje: Uvez ponude Popunjeni eESPD obrazac ... Popunjen troškovnik"
+    },
+    "prosjecna_ocjena": 4.67
+  },
+  "restriktivnost": {
+    "prisutno": true,
+    "indikatori": [
+      {
+        "opis": "Izvorna tehnička specifikacija papirnatog ručnika (dužina 250 m, širina 21 cm, težina min. 1880 g) ocijenjena je od strane potencijalnog ponuditelja kao rijetka na tržištu i dobavljiva od strane ograničenog broja proizvođača, što je izravan indikator suženja kruga mogućih ponuditelja.",
+        "citat": "Opisani artikl vrlo je rijedak na tržištu te je vrlo ograničeno dobavljiv obzirom da ga potencijalno proizvodi ograničen broj proizvođača."
+      },
+      {
+        "opis": "Drugi, neovisni ponuditelj naknadno je ukazao na tehničku nekompatibilnost tražene dužine role (250 m) sa standardnim promjerom Autocut držača (cca 185 mm), što upućuje na to da je specifikacija oblikovana oko rjeđe kombinacije proizvod/držač.",
+        "citat": "Standard držača za autocut role su namijenjene rolama promjera cca 185 mm, a višeslojna rola od 250 metara se ne može namotati na promjer od 185 mm."
+      },
+      {
+        "opis": "Naručitelj je na oba upita odgovorio samo djelomičnim popuštanjem (dužina smanjena sa 250 m na min. 200 m), dok je zadržao ostale usko postavljene parametre (težina min. 1600 g, širina min. 20 cm, bez perforacije, zatvoreni Autocut sustav), čime restriktivnost nije u potpunosti otklonjena."
+      }
+    ],
+    "rizik": "srednji"
+  },
+  "napomena": "Pregledano svih 16 .txt datoteka u extracted/ (dokumentacija o nabavi, kriteriji, troškovnik, obavijest o nadmetanju, odgovori, zapisnik o pregledu i ocjeni, obavijest o dodjeli). Dokumentacija je sadržajno potpuna i čitljiva; jedina prazna datoteka (Prilozi.zip.txt, 0 bajtova) ne sadrži informacije relevantne za ocjenu jer su svi bitni prilozi dostupni zasebno (Tehnička specifikacija, Troškovnik). Zapisnik pokazuje 3 zaprimljene ponude, od kojih su 2 odbijene (TAPESS zbog cijene iznad procijenjene vrijednosti; DALMAT zbog cijene i neudovoljavanja stavci 2. troškovnika), a odabrana je jedina valjana ponuda (ALCA ZAGREB) - ovo nije korišteno kao poseban indikator restriktivnosti jer su razlozi odbijanja dokumentirani i nevezani uz spornu stavku 1."
+}

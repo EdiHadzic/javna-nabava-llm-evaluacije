@@ -1,0 +1,36 @@
+{
+  "postupak_id": 8274,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij odabira je ekonomski najpovoljnija ponuda s dvije potpuno matematički definirane komponente (cijena 90%, rok isporuke 10%), formule su eksplicitne i jednoznačno primjenjive bez prostora za diskrecijsko tumačenje.",
+      "citat": "CP = Pmin / Ppon * 90 ... RI =< 30 dana 10 bodova"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Tehnička specifikacija za obje grupe vrlo je detaljna i mjerljiva (33 stavke za defibrilator s konkretnim standardima IEC/ERC, 11 stavki za vakum madrac), a uz opće pravilo jednakovrijednosti za norme/oznake. Umanjeno s 5 na 4 jer je jedna stavka (dvostruko odvojivo zaštitno dno, grupa 2) izričito prijavljena od strane gospodarskog subjekta kao pogodujuća jednom proizvođaču, a naručitelj je zadržao zahtjev.",
+      "citat": "dvostruko odvojivo zaštitno dno...pogoduje isključivo jednom proizvođaču"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dostupan je pun set dokumentacije potreban za samostalnu izradu ponude: kriteriji kvalitativnog odabira, opći podaci, formula bodovanja, tehničke specifikacije i troškovnici za obje grupe, upute za ponuditelje, obrasci izjava, obavijest o nadmetanju, izmjena dokumentacije s obrazloženim odgovorom na upit, te odluke o odabiru i zapisnici o pregledu i ocjeni.",
+      "citat": "Detaljan opis predmeta nabave određen je u obrascu Tehnički opis - Tehničke specifikacije predmeta nabave"
+    },
+    "prosjecna_ocjena": 4.67
+  },
+  "restriktivnost": {
+    "prisutno": true,
+    "indikatori": [
+      {
+        "opis": "Gospodarski subjekt je tijekom postupka izričito prigovorio da tehnička stavka 'dvostruko odvojivo zaštitno dno' (Grupa 2, vakum madraci) pogoduje isključivo jednom proizvođaču i zatražio njeno brisanje radi šireg natjecanja.",
+        "citat": "Molimo brisanje navedenog navoda obzirom da pogoduje isključivo jednom proizvođaču"
+      },
+      {
+        "opis": "Naručitelj je odbio prijedlog izmjene i zadržao spornu stavku, uz funkcionalno obrazloženje (udobnost za pacijente, lakša manipulacija, duži vijek trajanja), umjesto da je ukloni ili zamijeni izrazom jednakovrijednosti.",
+        "citat": "ODGOVOR NARUČITELJA: Ne prihvaća se prijedlog za izmjenu."
+      }
+    ],
+    "rizik": "srednji"
+  },
+  "napomena": "Pročitani su svi relevantni dokumenti iz extracted/ (kriteriji, opći podaci, formula, obje tehničke specifikacije, oba troškovnika, obavijest o nadmetanju, izmjena dokumentacije, obavijest o dodjeli). Rizik restriktivnosti ocijenjen kao srednji, a ne visok, jer se odnosi na jednu funkcionalno obrazloženu stavku unutar inače opsežne i standardima utemeljene specifikacije, dokumentacija sadrži opću klauzulu jednakovrijednosti, a za obje grupe zaprimljene su ipak po 2 ponude."
+}

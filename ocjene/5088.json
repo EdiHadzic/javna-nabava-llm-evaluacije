@@ -1,0 +1,27 @@
+{
+  "postupak_id": 5088,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriteriji za odabir ponude (ENP) potpuno su operacionalizirani: cijena nosi 80 bodova s eksplicitnom formulom (najniža cijena = 80 bodova, ostale razmjerno), a duljina jamstvenog roka nosi 20 bodova uz potpunu tablicu bodovanja po intervalima mjeseci (24-64 mjeseca, uz definiran minimum i maksimum). Nema prostora za diskrecijsku ili nejasnu ocjenu.",
+      "citat": "Ekonomski najpovoljnija ponuda utvrđuje se na temelju Cijene i kvalitete . Cijena: ... Cijena 80,00 ... Kvaliteta: ... Duljina jamstvenog roka 20,00"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Opis predmeta nabave vrlo je konkretan (Troškovnik po stavkama s materijalima, dimenzijama i normama, npr. HRN EN 1177 za antistres podlogu; projektno-tehnička dokumentacija po lokaciji), uz dosljednu klauzulu 'ili jednakovrijedno' koja sprječava prekomjerno suženje kruga ponuditelja. Ocjena nije 5 jer je izvorna projektna dokumentacija sadržavala stvarnu tehničku grešku (preklapanje sigurnosnih zona sprava suprotno normi EN1176 na 3 od 4 igrališta), koju je ponuditelj uočio kroz postupak pojašnjenja te ju je naručitelj naknadno ispravio formalnom izmjenom dokumentacije - opis je time postao potpun, ali ne i besprijekoran od početka.",
+      "citat": "sigurnosne zone sprava (konkretnije, sigurnosne zone ljuljačke s košarom i kombinirane sprave s penjalicom) na tri od četiri igrališta presijecaju...nije prema normi EN1176"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dostupan je pun standardni set dokumentacije za samostalnu izradu ponude: Opći podaci, Kriteriji za odabir ponude, Kriteriji za kvalitativni odabir gospodarskog subjekta, Upute za ponuditelje, Troškovnik, 4 Glavna projekta (po lokaciji), Prilog II (prijedlog ugovora), Prilog III (uvjeti za obavljanje djelatnosti građenja), Prilog IV i V (obrasci izjava/ovlasti), te zapisnik o odgovorima na pitanja zainteresiranih gospodarskih subjekata. Nema naznaka nedostajućih priloga potrebnih za izradu ponude.",
+      "citat": "sukladno detaljnom opisu, vrstama i količinama određenim u Tehničkim specifikacijama, odnosno Troškovniku te sukladno projektno-tehničkoj dokumentaciji koji su sastavni dio ove Dokumentacije o nabavi"
+    },
+    "prosjecna_ocjena": 4.67
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak"
+  },
+  "napomena": "Pročitane su sve relevantne .txt datoteke iz extracted/ (25 datoteka), uključujući Troškovnik, sve 4 projektno-tehničke dokumentacije, Kriterije, Upute za ponuditelje, Odgovore, Prilog III i Obavijest o dodjeli ugovora. Tehničke specifikacije formulirane su funkcionalno (materijal, dimenzije, norme poput HRN EN 1177) bez referenci na marku/proizvođača, uz standardnu klauzulu 'ili jednakovrijedno'. Referentni uvjet tehničke sposobnosti (1-4 ugovora u zbroju najmanje jednakom procijenjenoj vrijednosti nabave, tj. 80.000 EUR) proporcionalan je i uobičajen, nije prepoznat kao restriktivan. Jedina prazna datoteka ('(root)__2_Izjava_TRACK_d.o.o..jpg.txt', 0 bajtova - slikovni prilog ponuditelja bez OCR-a) ne utječe na ocjenu jer se odnosi na naknadnu izjavu odabranog ponuditelja, ne na dokumentaciju o nabavi. Postupak je završen s 3 zaprimljene ponude i ugovorenom vrijednosti 79.786,00 EUR (odabran TRACK d.o.o.)."
+}

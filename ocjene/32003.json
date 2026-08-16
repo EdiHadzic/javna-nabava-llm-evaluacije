@@ -1,0 +1,31 @@
+{
+  "postupak_id": 32003,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriteriji za odabir ponude su iscrpno operacionalizirani zasebnim dokumentom s eksplicitnom matematičkom formulom za cijenu i egzaktnom bodovnom tablicom za necjenovni kriterij (0-5+ referenci = 0-50 bodova u koracima od 10).",
+      "citat": "Rbr Opis Broj bodova ... 1 0 projekata 0,00 ... 6 5 i više projekata 50,00"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 5,
+      "obrazlozenje": "Projektni zadatak detaljno navodi cjelokupan sadržaj tražene projektne dokumentacije po strukama, rokove izrade i format predaje, uz jasnu naznaku što NIJE uključeno u predmet nabave, što omogućuje usporedive ponude bez nepotrebnog suženja.",
+      "citat": "U predmet nabave nije uključeno: Geodetski projekt Geomehanički elaborate ispitivanja tla"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 4,
+      "obrazlozenje": "Ponuditeljima je na uvid dano postojeće Idejno rješenje kao polazište, priloženi su svi posebni uvjeti nadležnih tijela i Projektni zadatak. Troškovnik je sveden na svega dvije paušalne stavke bez razrade po strukama, uobičajeno za projektantske usluge, ali ostavlja nešto manje transparentnosti u strukturi cijene.",
+      "citat": "1. Izrada Glavnog projekta sukladno Projektnom zadatku komplet 1 0 / 2. Izrada Izvedbenog projekta sukladno Projektnom zadatku komplet 1 0"
+    },
+    "prosjecna_ocjena": 4.67
+  },
+  "restriktivnost": {
+    "prisutno": true,
+    "indikatori": [
+      {
+        "indikator": "Necjenovni kriterij kvalitete (50% ukupnih bodova) boduje isključivo iskustvo Glavnog projektanta na izradi projekata specifično za 'Domove za starije i nemoćne osobe', a ne šire za javne/društvene građevine općenito - sužava krug ponuditelja koji mogu ostvariti bodove, iako je razumljivo motivirano posebnim regulatornim zahtjevima za tu vrstu građevine.",
+        "rizik": "srednji"
+      }
+    ],
+    "rizik": "srednji"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "postupak_id": 6039,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij za odabir ponude (ekonomski najpovoljnija ponuda) precizno je matematički definiran za cijenu (90%) uz eksplicitnu formulu, a za rok isporuke (10%) uz jasnu bodovnu skalu s tri praga i gornjom granicom prihvatljivosti roka. Nema prostora za subjektivnu interpretaciju.",
+      "citat": "Isporuka u roku od 0 do 12 sati: 10 bodova Isporuka u roku od 12,01 do 24 sata: 5 bodova Isporuka u roku od 24,01 do 36 sati: 0 bodova"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 3,
+      "obrazlozenje": "Opisi predmeta nabave za Grupe 1-3 (maske, kape, kivete, igle za amniocentezu) dani su na razini uobičajenih generičkih tehničkih karakteristika (materijal, gramatura, dimenzije) koje ne isključuju razumne alternative. Međutim, stavka u Grupi 4 (postpartalni balon set) opisana je krajnje usko - s točno određenim mjerama komponenti (24.0 Fr, min. 54 cm, min. 500 ml, štrcaljka 50 ml, 180 cm cijevi) koje odgovaraju konkretnom komercijalnom proizvodu, što graniči s isključivošću alternativnih ponuditelja za tu stavku.",
+      "citat": "1x štrcaljka s dvostrukim nepovratnim ventilom zapremine min. 50 ml i 180 cm cijevi s pričvršćenim vretenom vrećice, 24.0 Fr, min 54 cm dužine i min 500 ml volumena balona."
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 4,
+      "obrazlozenje": "Dostupni su svi ključni dokumenti (Opći podaci, Upute za ponuditelje, Kriteriji za kvalitativni odabir, Kriterij za odabir ponude, Troškovnici po grupama, Obrazac ponude), a tehničke specifikacije su namjerno objedinjene s troškovnikom (nije praznina, nego dizajnerski izbor naručitelja). Manji minus jer zaseban dokument tehničkih specifikacija samo upućuje na troškovnik bez dodatnog sadržaja.",
+      "citat": "Tehničke specifikacije za predmet nabave su sastavni dio troškovnika."
+    },
+    "prosjecna_ocjena": 4.0
+  },
+  "restriktivnost": {
+    "prisutno": true,
+    "indikatori": [
+      "Specifikacija stavke u Grupi 4 (postpartalni balon set) navodi krajnje precizne tehničke parametre (promjer 24.0 Fr, minimalna duljina 54 cm, minimalni volumen balona 500 ml, štrcaljka s dvostrukim nepovratnim ventilom od 50 ml i 180 cm cijevi) koji odgovaraju karakteristikama jednog specifičnog komercijalnog proizvoda, bez formulacije 'ili jednakovrijedno'.",
+      "Za Grupu 4 nije sklopljen ugovor jer nije bilo valjanih ponuda ('Nema valjanih ponuda ili ZZS'), što je konzistentno s pretjerano uskom specifikacijom koja ograničava krug mogućih ponuditelja."
+    ],
+    "rizik": "srednji"
+  },
+  "napomena": "Ocjena temeljena na svim relevantnim dostupnim tekstualnim dokumentima postupka (Opći podaci, Upute za ponuditelje, Kriteriji za kvalitativni odabir, Kriterij za odabir ponude, 4 troškovnika po grupama, Obavijest o nadmetanju, Obavijest o dodjeli ugovora). Zip prilozi (Prilozi.zip i varijante) ekstrahirani su kao prazni (0 bajtova) i nisu mogli biti pregledani - poznata limitacija ekstrakcijskog pipelinea, ne utječe na dostupne troškovnike koji sadrže potpune opise. Restriktivnost je ocijenjena na razini specifikacije jedne stavke unutar cjelokupnog postupka (Grupa 4), ne cijelog postupka - ostale tri grupe nemaju indikatore prilagođenosti."
+}

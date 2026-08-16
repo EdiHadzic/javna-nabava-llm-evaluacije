@@ -1,0 +1,27 @@
+{
+  "postupak_id": 19588,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriteriji za odabir ponude (cijena 90% i dodatno trajanje jamstvenog roka 10%) potpuno su jasno i matematički definirani: postoji eksplicitna formula za bodovanje cijene te tablica pragova (25-36, 37-48, 49-60, 61-72, 73+ mjeseci) s pripadajućim bodovima za kvalitativni kriterij. Naknadno objavljena Analiza valjanih ponuda potvrđuje da je formula dosljedno i provjerljivo primijenjena na svih 8 ponuda.",
+      "citat": "Ponuda s najniže ponuđenom cijenom dobiva 90 bodova, a ostale ponude se boduju prema formuli: Ymin/Yp x 90"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Opis predmeta nabave u Općim podacima je sažet (popis katastarskih čestica i naziv projekta), ali je popraćen opsežnim Glavnim projektom (dvije verzije, >200.000 znakova svaka) s tehničkim opisom, programom kontrole kvalitete i posebnim tehničkim uvjetima gradnje, te detaljnim troškovnikom po dionicama (OS1-OS11). Razina detalja je visoka i omogućuje usporedivu ponudu, ali nije ocijenjeno maksimalnom ocjenom jer je sam opis predmeta nabave u osnovnom dokumentu prilično generički i oslanja se u potpunosti na vanjske priloge.",
+      "citat": "Predmet nabave obuhvaća radove na izgradnji prometnica, k.č. 2685/38, 2515/1, 2515/2, 3008, 3401/1, 824, 7102 k.o. Ražanac i k.č. 3776..."
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dokumentacija je potpuna za samostalnu izradu ponude: Kriteriji za kvalitativni odabir, Upute za ponuditelje, Obrasci 1-4, troškovnik (i ispravljena verzija), Glavni projekt, te naknadni odgovori na pitanja koji transparentno i s obrazloženjem mijenjaju sporne stavke troškovnika (uz produženje roka kad je izmjena bila značajna). Naknadno su dostupni i Zapisnik o pregledu i ocjeni, Analiza valjanih ponuda, Odluka o odabiru i Obavijest o dodjeli, čime je cijeli tijek postupka sljediv.",
+      "citat": "Elektronička ponuda mora sadržavati najmanje: Uvez ponude Popunjeni eESPD obrazac (ili više njih, ako je primjenjivo) Popunjen troškovnik"
+    },
+    "prosjecna_ocjena": 4.67
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak"
+  },
+  "napomena": "Pregledano svih 24 .txt datoteke u extracted/ (Opći podaci, Obavijest o nadmetanju, Kriteriji za kvalitativni odabir, Upute za ponuditelje, oba Glavna projekta, Troškovnik, 4 Obrasca, 4 Izmjene/Odgovori, Zapisnik o pregledu i ocjeni x2, Privitci, Odluka o odabiru x2, Obavijest o dodjeli, Obavijest o izmjeni ugovora, Analiza valjanih ponuda). Reference (tehnička i stručna sposobnost) postavljene na standardnu razinu (min. pola procijenjene vrijednosti, 1-3 reference, 5+tekuća godina) - nije nesrazmjerno. Svugdje gdje se dokumentacija poziva na marku/normu/oznaku eksplicitno je navedena klauzula \"ili jednakovrijedno\". Postupak je bio konkurentan (8 zaprimljenih ponuda), a naručitelj je na dvije primjedbe zainteresiranih gospodarskih subjekata transparentno izmijenio troškovnik (uz produženje roka za značajnu izmjenu, bez produženja za manju ispravku formula), što je pozitivan signal responzivnosti i transparentnosti postupka."
+}

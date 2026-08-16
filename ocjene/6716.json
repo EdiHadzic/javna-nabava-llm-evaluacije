@@ -1,0 +1,29 @@
+{
+  "postupak_id": 6716,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 3,
+      "obrazlozenje": "Kriterij odabira ponude (cijena 90 + trajanje jamstvenog roka 10) jasno je definiran formulama i tablicom bodovanja. Međutim, kod kriterija tehničke i stručne sposobnosti postoji stvarna unutarnja proturječnost: u točki 5.3.1.3./5.3.1.4. traži se da zbroj referentnih radova iznosi minimalno 300.000,00 EUR, dok se u točki 5.3.1.5. (način dokazivanja) navodi iznos od 750.000,00 EUR za isti dokaz. Nije jasno koji je iznos mjerodavan, što ostavlja ponuditelje u neizvjesnosti oko stvarnog praga sposobnosti.",
+      "citat": "minimalno iznosi 300.000,00 EUR [...] u iznosu od 750.000,00 EUR (bez PDV-a)"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Opis predmeta nabave potkrijepljen je idejnim projektom sanacije (opći dio, tehnički opis, nacrti presjeka) i troškovnikom razrađenim po stavkama s jedinicama mjere, količinama i tehničkim zahtjevima (npr. masa kamenih zrna 50-1000 kg, nagib pokosa 1:1,5, debljina obloge 50-90 cm, modul stišljivosti tampona). Opis je dovoljno konkretan za usporedivu ponudu, bez upućivanja na marku/patent.",
+      "citat": "Težina pojedinačnih zrna kamena je u rasponu od cca 250 do 1000 kg (40-90cm najveće dimenzije)."
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 4,
+      "obrazlozenje": "Dostupna je gotovo cjelovita dokumentacija: idejni projekt (1. i 2. dio), tehničke specifikacije, troškovnik, kriteriji kvalitativnog odabira, kriteriji odabira ponude, opći podaci o postupku, obavijest o nadmetanju, upute za ponuditelje, zapisnici o pregledu i ocjeni (uključujući ponovljeni pregled), odluke o odabiru i obavijest o dodjeli ugovora. Dva priložena zip arhiva ('Prilozi.zip', 'Prilozi (1).zip') ekstrahirana su prazna (0 bajtova) pa njihov sadržaj nije bio dostupan za ocjenu, no ključni tehnički i natječajni dokumenti dostupni su u drugim formatima.",
+      "citat": "POPIS PROJEKTNE DOKUMENTACIJE: IDEJNI PROJEKT SANACIJE, broj projekta: T.D.: 04/2024"
+    },
+    "prosjecna_ocjena": 3.67
+  },
+  "restriktivnost": {
+    "prisutno": true,
+    "indikatori": [
+      "Proturječni iznosi za dokazivanje tehničke i stručne sposobnosti unutar istog dokumenta: 300.000,00 EUR (5.3.1.3./5.3.1.4., sam kriterij) naspram 750.000,00 EUR (5.3.1.5., ažurirani popratni dokument) - potonji iznos je gotovo 2,4 puta veći od procijenjene vrijednosti nabave (310.000,00 EUR), što premašuje uobičajenu praksu da referentni prag ne prelazi vrijednost predmetne nabave."
+    ],
+    "rizik": "srednji"
+  },
+  "napomena": "Unatoč uočenoj nejasnoći/nesrazmjeru referentnog praga, postupak je privukao 4 zaprimljene ponude od gospodarskih subjekata iz različitih dijelova Hrvatske (Zagreb, Zadar, Preko, Stobreč), što upućuje da defekt u praksi nije značajno ograničio konkurenciju. Ocjena temeljena na svim dostupnim .txt datotekama u extracted/ osim dva prazna zip priloga."
+}

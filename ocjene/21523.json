@@ -1,0 +1,29 @@
+{
+  "postupak_id": 21523,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij za odabir ponude (ENP) precizno je matematički definiran: cijena nosi 90 bodova (formula min(C)/C * 90,00), a rok izvršenja 1. faze nosi 10 bodova s eksplicitno određenim gornjim (230 dana) i donjim (140 dana) dozvoljenim vrijednostima i formulom linearne interpolacije. Bodovi se računaju na šest decimala. Nema dvosmislenosti u načinu ocjenjivanja.",
+      "citat": "Naručitelj je ograničio najviši dozvoljeni iznos za kriterij 230,00 Naručitelj je ograničio najniži dozvoljeni iznos za kriterij 140,00"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Predmet nabave opisan je vrlo detaljno kroz 43-stranični Glavni projekt (tehnički opis, statički proračun, poprečni i uzdužni profili, detalji potpornog zida, stepenica, rubnjaka) te opsežan troškovnik s pozivanjem na OTU norme za svaku stavku. Međutim, u izvornoj verziji troškovnika stavka 4.1 (betonsko opločenje šetnice) nije imala određenu dimenziju/boju opločnika te je zainteresirani gospodarski subjekt to opravdano prigovorio pozivom na članak 200./205. ZJN-a kao nejasno i nedvojbeno; naručitelj je to naknadno ispravio izmjenom dokumentacije. Zbog tog dokumentiranog nedostatka u izvornoj verziji opis nije ocijenjen maksimalnom ocjenom.",
+      "citat": "Dimenzije i boja bitno utječu na jediničnu cijenu stavke... dokumentacija mora biti jasna, precizna, razumljiva i nedvojbena što u ovom slučaju nije."
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dostupan je kompletan set dokumentacije: Kriteriji kvalitativnog odabira, Kriteriji za odabir ponude, Upute za ponuditelje, Opći podaci o postupku, Obavijest o nadmetanju, Glavni projekt (tehnička specifikacija s nacrtima), detaljan troškovnik (sve tri faze), Odgovori na pitanja, Izmjena dokumentacije, Odluka o odabiru, Zapisnik o pregledu i ocjeni te Obavijest o dodjeli ugovora. Sadržaj je međusobno konzistentan i omogućuje samostalnu izradu ponude. Jedina prazna datoteka (Prilozi.zip) ne utječe na potpunost jer su svi bitni prilozi dostupni zasebno u drugim formatima.",
+      "citat": "Elektronička ponuda mora sadržavati najmanje: Uvez ponude, Popunjeni eESPD obrazac, Popunjen troškovnik"
+    },
+    "prosjecna_ocjena": 4.67
+  },
+  "restriktivnost": {
+    "prisutno": true,
+    "indikatori": [
+      "Stavka troškovnika 4.2 (Zidarski radovi) referira na specifičan komercijalni naziv/vrstu kamena bez izričite napomene 'ili jednakovrijedno', iako je formulirano kao primjer ('kao npr.'), što otvara mogućnost sužavanja kruga prihvatljivih ponuditelja/dobavljača materijala."
+    ],
+    "rizik": "nizak"
+  },
+  "napomena": "Pročitani su svi relevantni dokumenti u extracted/ direktoriju (14 od 15 datoteka sadrži tekst; Prilozi.zip.txt je prazan jer je izvorna arhiva prazna). Opsežni Glavni projekt (1,1 MB, 43 stranice) pregledan je u dostupnom dijelu (sadržaj, tehnički opis, popis nacrta) - dovoljno za ocjenu razine detalja, dodatno potkrijepljeno detaljnim troškovnikom. Postupak ima samo 1 valjanu ponudu od 4 zaprimljene (2 odbijene zbog cijene iznad osiguranih sredstava, 1 zbog dostave zastarjele verzije troškovnika nakon izmjene dokumentacije) - nizak stupanj konkurentnosti, ali to je posljedica tržišnih uvjeta/cijene, ne dokaz restriktivnosti specifikacije. Naručitelj je transparentno objavio popis gospodarskih subjekata s kojima je u sukobu interesa (uključujući projektanta), sukladno zakonskoj obvezi."
+}

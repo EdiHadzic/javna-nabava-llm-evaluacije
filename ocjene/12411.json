@@ -1,0 +1,27 @@
+{
+  "postupak_id": 12411,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriteriji za odabir ekonomski najpovoljnije ponude (cijena 70 bodova, rok isporuke 15 bodova, jamstveni rok 10 bodova, ekologija 5 bodova) definirani su eksplicitnim matematičkim formulama s jasno određenim gornjim i donjim granicama vrijednosti (npr. rok isporuke 1-90 dana, jamstveni rok min. 2 godine/99.999-100.000 km), za obje grupe predmeta nabave. Bodovanje je potpuno mjerljivo i unaprijed transparentno definirano, bez prostora za diskrecijsku ocjenu.",
+      "citat": "P = Pn / Pr * 70... Ri = Rmin / Rpon * 15"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Tehnička specifikacija sadrži 29 konkretnih, provjerljivih stavki (godina proizvodnje, kategorija M1, snaga motora, dimenzije, sigurnosna oprema i sl.) koje omogućuju izravnu usporedivost ponuda putem obrasca DA/NE. Opis je dovoljno konkretan za izradu usporedive ponude, no sadrži određena isključiva ograničenja (isključivo DIESEL EURO 6 motor bez mogućnosti hibridne/benzinske/električne alternative, obavezna bijela boja, fiksni raspon dimenzija) koja blago sužavaju krug prihvatljivih rješenja u odnosu na funkcionalno ekvivalentne alternative.",
+      "citat": "Vrsta motora: DIESEL motor EURO 6 ... Dimenzije vozila: duljina 4000mm – 4200mm"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dokumentacija je opsežna i interno konzistentna: Opći podaci, Upute za ponuditelje (38.000 znakova, uključuje detaljne odredbe o jamstvima, dostavi, otvaranju ponuda, žalbenom postupku), Kriteriji za kvalitativni odabir (ESPD upute, osnove za isključenje), tehničke specifikacije, troškovnik i prilozi (izjava o roku isporuke, obrasci za ekologiju i jamstveni rok) - sve potrebno za samostalnu izradu ponude jasno je navedeno i dostupno. Naručitelj je odgovorio i na postavljeno pitanje ponuditelja u sklopu roka za pojašnjenja.",
+      "citat": "Elektronička ponuda za svaku ponuđenu grupu mora sadržavati najmanje: Uvez ponude, Popunjeni eESPD obrazac, Popunjen troškovnik..."
+    },
+    "prosjecna_ocjena": 4.67
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak"
+  },
+  "napomena": "Pročitane su sve .txt datoteke u extracted/. Nekoliko datoteka (Kriterij za odabir ponude.pdf, IZJAVA O PONUĐENOM ROKU ISPORUKE.pdf, oba OBRAZAC-a za dodatne bodove) ekstrahirana su gotovo prazna (samo zaglavlje/podnožje naručitelja) - riječ je o praznim predlošcima koje popunjava ponuditelj (dio veće PDF cjeline), ne o stvarnom gubitku sadržaja bitnog za ocjenu. Jedan zahtjev ponuditelja u fazi pojašnjenja tražio je proširenje boje vozila s bijele na 'bijelu ili metalik', što je naručitelj odbio i zadržao isključivo bijelu boju - razmotreno kao mogući indikator restriktivnosti, ali ocijenjeno niskorizičnim jer se radi o uobičajenom zahtjevu ujednačenosti voznog parka sektorskog naručitelja, ne o referenci na određenog proizvođača/model ili nesrazmjernom pragu; stoga ne zadovoljava prag za 'prisutno: true'. Za Grupu 1 zaprimljena je samo 1 ponuda (isti ponuditelj dobio je i Grupu 2 s 2 ponude) - nizak broj ponuda može upućivati na usko tržište/specifikaciju, ali dokumentacija sama po sebi ne sadrži indikatore prilagodbe konkretnom ponuditelju."
+}

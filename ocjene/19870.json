@@ -1,0 +1,31 @@
+{
+  "postupak_id": 19870,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriteriji za odabir ponude (cijena 60 %, specifično iskustvo stručnjaka 40 %) potpuno su operacionalizirani matematičkim formulama i bodovnom tablicom (bodovni razredi prema broju referentnih ugovora, bonus za IPMA/PMI certifikat), pa je unaprijed potpuno jasno kako će svaka ponuda biti ocijenjena.",
+      "citat": "Ponuda s najniže ponuđenom cijenom dobiva 60 bodova, a ostale ponude se boduju prema formuli: CP = 60 x (Cmin/Ci)"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Projektni zadatak vrlo detaljno opisuje pozadinu projekta (fazna gradnja zračne luke), opseg usluga, obveze voditelja projekta, izvještavanje i rokove. Opis je konkretan i omogućuje usporedive ponude, uz jasno razgraničenje od poslova nadzora (čl. 36. ZPDPUG). Nije ocjena 5 jer sama tehnička specifikacija/troškovnik svedeni su na jednu paušalnu stavku ('komplet') bez daljnje razrade jediničnih troškova.",
+      "citat": "Izrada dokumentacije o nabavi i savjetovanje Naručitelja u provedbi javne nabave radova i stručnog nadzora za sve faze osim za fazu 3., podfaza 3.3."
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 4,
+      "obrazlozenje": "Dokumentacija je opsežna i omogućuje samostalnu izradu ponude (opći podaci, kriteriji kvalitativnog odabira, kriteriji odabira ponude, projektni zadatak, prijedlog ugovora, obrasci za stručnjake, troškovnik). Ocjena nije 5 jer 'Kriteriji za odabir gospodarskog subjekta.pdf' sadrži očito neprilagođeni predložak s referencom na 'opasan otpad' koja nema veze s uslugom vođenja projekta gradnje - znak nepažljive redakcije dokumentacije, ne stvarni predmet nabave.",
+      "citat": "Uzimajući u obzir kompleksnost radova i vrstu opasnog otpada koji su predmet ove nabave te blizinu naseljenog područja i potencijalne rizike"
+    },
+    "prosjecna_ocjena": 4.33
+  },
+  "restriktivnost": {
+    "prisutno": true,
+    "indikatori": [
+      "Uvjet tehničke i stručne sposobnosti dokazuje se isključivo jednom (1) referencom u iznosu jednakom ili većem od cjelokupne procijenjene vrijednosti nabave (98.080,00 EUR); gospodarski subjekt je u fazi pojašnjenja izričito zatražio ublažavanje (2 reference ili 1 referenca na 70% vrijednosti) navodeći da uvjet ograničava sudjelovanje, a Naručitelj je zahtjev odbio bez dodatnog obrazloženja razmjernosti.",
+      "Bodovni kriterij 'specifično iskustvo stručnjaka' dodjeljuje dodatnih 10 bodova (od 40 mogućih) isključivo za posjedovanje međunarodno priznate ovjere sposobnosti (IPMA ili PMI, uz mogućnost jednakovrijednog certifikata treće institucije) - realno postignut samo od uskog kruga stručnjaka na tržištu, premda formalno dopušta ekvivalent.",
+      "Zaprimljene su samo 2 ponude, oboje od malih/srednjih poduzeća iz RH, što je u skladu s (nisko) prosječnim brojem ponuda u uslugama u uzorku, ali potvrđuje ograničen krug realnih ponuditelja za ovaj specifičan profil usluge."
+    ],
+    "rizik": "nizak"
+  },
+  "napomena": "Pročitani su svi relevantni dokumenti iz extracted/ (opći podaci, obavijest o nadmetanju i njena izmjena, kriteriji za kvalitativni odabir i za odabir ponude, projektni zadatak, angažirani tehnički stručnjaci, troškovnik, odgovori na pitanja, odluka o odabiru, obavijest o dodjeli ugovora, zapisnici o pregledu i ocjeni, poziv na pojašnjenje ponude). Prag reference od 100% procijenjene vrijednosti je standardan/uobičajen prag prema čl. 259. ZJN 2022 i sam po sebi nije nerazmjeran, stoga je rizik restriktivnosti ocijenjen niskim unatoč prisutnim indikatorima. Ugovor je sklopljen s ponuditeljem CIVIL ENGINEERING CONSULTANCY d.o.o. (Zadar) po cijeni 68.460,00 EUR, što je -30,2% niže od procijenjene vrijednosti od 98.080,00 EUR."
+}

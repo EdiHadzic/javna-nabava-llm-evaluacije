@@ -1,0 +1,58 @@
+{
+  "postupak_id": 30257,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriteriji za odabir su eksplicitno i nedvojbeno definirani. Dva kriterija s ponderima (Cijena 90%, Jamstveni rok 10%) i detaljne formule bodovanja su jasno opisane. Jamstveni rok ima eksplicitnu skalu bodovanja (24 mjeseca = 0 bodova, 25-36 = 2, 37-48 = 5, 49-59 = 7, 60+ = 10 bodova).",
+      "citat": "Kriterij za odabir ponude je ekonomski najpovoljnija ponuda (ENP). Ekonomski najpovoljnija ponuda utvrđuje se na temelju Cijene i kvalitete. Cijena: 90,00, Jamstveni rok: 10,00"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 3,
+      "obrazlozenje": "Tehnička specifikacija je detaljna (25 stranica) s preciznim dimenzijama, normama i zahtjevima, ali je izvedba VRLO SPECIFIČNA i USKA. Specifikacija preskriptivno definira materijale, medije za gašenje luka, tipove aparata i konfiguracijske kombinacije često bez funkcionalne opravdanosti alternativnih rješenja. Na primjer, transformatorsko polje MORA koristiti vakuum (ne SF6), vodna polja mogu vakuum ILI SF6, što sugeriše da su izbori tehnički arbitrarni a ne funkcionalno nužni. Navodi specifične proizveitelje i tipove bez prostora za ekvivalente.",
+      "citat": "Medij za prekidanje luka u transformatorskim poljima mora biti vakuum, a u vodnim poljima vakuum ili plin SF6. Provodni izolatori (sučelja) za priključak kabela u transformatorskom polju moraju biti 'tipa A' (250 A), a u vodnom polju [...] 'tipa C' (630 A). Stupanj zaštite kućišta primarnog dijela mora biti minimalno IP 65."
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 4,
+      "obrazlozenje": "Dostupna je celovita dokumentacija: tehnička specifikacija (25 str), kriteriji odabira, upute za ponuditelje, kvalitativni kriteriji odabira, troškovnik, obavijest o dodjeli ugovora i odluka o odabiru. Sve je uspješno ekstrahirano iz PDF-a. Jedina ograničenja su: (a) samo 1 ponuda zaprimljena (nije dokaz manjka dokumentacije, ali sugeriše moguću usku specifikaciju), (b) nema analitičkog objašnjenja zašto su određene specifikacije nužne.",
+      "citat": "Uz svaku isporuku SN sklopnih blokova, Isporučitelj je dužan priložiti sljedeću dokumentaciju u papirnatom obliku: 1. Tvornički ispitni list [...] 2. Tvorničke ispitne listove [...] 3. Dokumentaciju s opisom tehničkih karakteristika..."
+    },
+    "prosjecna_ocjena": 4.0
+  },
+  "restriktivnost": {
+    "prisutno": true,
+    "indikatori": [
+      {
+        "tip": "Specifikacija medija za gašenje luka",
+        "detalj": "Transformatorska polja MORAJU koristiti vakuum, vodna polja mogu vakuum ILI SF6, bez opravdanog razloga za asimetriju",
+        "citat": "Medij za prekidanje luka u transformatorskim poljima mora biti vakuum, a u vodnim poljima vakuum ili plin SF6",
+        "rizik": "srednji"
+      },
+      {
+        "tip": "Specifičnih tipova i proizvođača",
+        "detalj": "Specifikacija traži da ponuditelj navede proizvođača vakuumske komore, tip mjernih transformatora, tip zaštitnih releja - što sugerira da su specifični proizvodi tehnički nužni, ali bez opravdanja",
+        "citat": "Proizvođač vakuumske komore [...] tip [...] Proizvoditel je u tablici dužan popuniti svaku poziciju u stupcu 'nuđeno' za nuđenu opremu",
+        "rizik": "srednji"
+      },
+      {
+        "tip": "Konfiguracijske kombinacije",
+        "detalj": "Samo dva tačno definirana skupa konfiguracija (T-3V-S-M-O i 3V-S-M-O) bez fleksibilnosti za alternativne rasporedje polja, što ograničava krug mogućih proizvođača",
+        "citat": "SN sklopni blok s mjernim poljem i odvojnim poljem, konfiguracija T-3V-S-M-O, motorni pogon [...] konfiguracija 3V-S-M-O",
+        "rizik": "visok"
+      },
+      {
+        "tip": "Samo jedna ponuda zaprimljena",
+        "detalj": "U otvorenom postupku bez vidljive prepreke za natjecanje zaprimljena je samo 1 ponuda. To je bitan indikator da je specifikacija možda uska ili da je tržište ekstremno konzentrirano",
+        "citat": "Broj zaprimljenih ponuda: 1",
+        "rizik": "visok"
+      },
+      {
+        "tip": "Referentni sustavi s domaćim ograničenjima",
+        "detalj": "Zahtjev za Rješenje Državnog zavoda za mjeriteljstvo za mjerne transformatore može favorizirati domaće proizveitelje ili proizveitelje koji već imaju certifikacije",
+        "citat": "Rješenje o odobrenju tipa mjerila (s prilogom) Državnog zavoda za mjeriteljstvo za nuđene: a) naponske mjerne transformatore",
+        "rizik": "nizak"
+      }
+    ],
+    "rizik": "visok"
+  },
+  "napomena": "Ova nabava pokazuje znakove specifikacije prilagođene uskom krugu ponuditelja. Iako je tehnička specifikacija detaljne i visokih kvalitativnih standarda, specifikacija je preskriptivna i ne ostavlja prostor za ekvivalentna tehnička rješenja. Činjenica da je samo jedna ponuda zaprimljena u otvorenom postupku ukazuje na moguću tržišnu barijeru ili usku specifikaciju. Preporuka: naručitelj bi trebao provjeriti jesu li sve specifikacijske zahtjeve tehnički nužne ili neki od njih mogu biti ublaženi da omoguće šire sudjelovanje na tržištu."
+}

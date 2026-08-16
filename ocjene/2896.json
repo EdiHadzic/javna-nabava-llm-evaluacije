@@ -1,0 +1,27 @@
+{
+  "postupak_id": 2896,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriteriji za odabir ponude (cijena 90%, norme kvalitete/okoliša 10%) potpuno su razrađeni zasebnim dokumentom s eksplicitnom matematičkom formulom za bodovanje cijene i točno definiranim, provjerljivim dokazima (ISO 9001/14001) za svaki od 5+5 bodova kvalitete. Zapisnik o pregledu potvrđuje da je kriterij dosljedno i transparentno primijenjen na sve 4 ponude.",
+      "citat": "Prihvatljiva ponuda s najnižom cijenom dobit će maksimalan broj bodova... C*90"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Opis predmeta vrlo je konkretan: troškovnik navodi površinu (m²) po prostoriji/etaži i dinamiku čišćenja (svakodnevno/tjedno/mjesečno/tromjesečno) za 5 katova Poliklinike i Upravnu zgradu. Ipak, dio opisa ostao je nedorečen do faze pitanja/odgovora (točna kvadratura prozora, sadržaj 'svakodnevnog' čišćenja, satnica smjena), što je naručitelj naknadno morao dopunjavati.",
+      "citat": "za traženu kvadraturu prozora ne postoji točna informacija, ali stojimo na raspolaganju za obilazak lokacija"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 3,
+      "obrazlozenje": "Izvorna dokumentacija sadržavala je konkretnu grešku (broj djelatnika za obuku naveden kao 40 umjesto 20, naknadno priznato), nije uključivala tražene standardne operativne postupke čišćenja, i ostavila je neriješenu nedosljednost između minimalnog broja djelatnika po smjenama (4+10) i procijenjene vrijednosti nabave (120.000 EUR) na koju je ponuditelj izravno upozorio izračunom da sama bruto plaća premašuje procjenu — naručitelj tu nedosljednost nije otklonio nego je uputio na mogućnost 'probijanja' procjene.",
+      "citat": "Što se tiče broja djelatnika, dogodila se greška prilikom izrade dokumentacije, te je potrebno dostaviti potvrde za 20 djelatnika."
+    },
+    "prosjecna_ocjena": 4.0
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak"
+  },
+  "napomena": "Pročitane sve .txt datoteke u extracted/ (32 datoteke): Obavijest o nadmetanju, Opći podaci, Kriteriji za kvalitativni odabir, Kriterij za odabir najpovoljnije ponude, Tehnička specifikacija, Upute za ponuditelje, Troškovnik, Odgovori (Q&A), Prijedlog ugovora, Zapisnik o pregledu i ocjeni, Obavijest o dodjeli ugovora, tlocrti katova i prilozi-izjave. Zahtjevi za opremom (min. 4 samohodna stroja, 10 kolica, ISO certifikati kao bonus-bodovi, financijsko jamstvo 3.500 EUR na 120.000 EUR procjene) proporcionalni su opsegu i vrijednosti nabave, nisu vezani uz određenu marku/proizvod, a Zapisnik pokazuje da su sve 4 raznolike ponude (uklj. lokalnu tvrtku LAV ZAŠTITA d.o.o. iz Zadra) prošle kvalifikaciju bez isključenja - što ne podupire tezu o prilagođenosti specifičnom ponuditelju. Datoteka '(root)__3 KAT.pdf.txt' sadrži samo naslov ('TLOCRT 3. KATA') bez teksta - vjerojatno slikovni tlocrt bez OCR-a (poznati OCR/scan gap iz projektne dokumentacije), a '(root)__Prilozi.zip.txt' je prazna (0 bajtova); niti jedna od njih nije bila presudna za ocjenu jer je ekvivalentan sadržaj (površine po prostoriji) dostupan u troškovniku."
+}

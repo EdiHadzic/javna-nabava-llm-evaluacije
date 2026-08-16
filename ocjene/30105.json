@@ -1,0 +1,43 @@
+{
+  "postupak_id": 30105,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriteriji za odabir ponude su eksplicitno i detaljno definirani. Dokumentacija o nabavi sadržava zaseban dokument 'Kriteriji za odabir ponude' koji precizira dva kriterija: Cijena (90 bodova) s formulom pri kojoj najniža cijena dobija maksimalan broj bodova, i Jamstveni rok (10 bodova) s tabelom koja jasno razgraničava raspon od 24 do 60 mjeseci i dodjeljuje bodove prema točnim intervalima.",
+      "citat": "Ekonomski najpovoljnija ponuda utvrđuje se na temelju Cijene i kvalitete. Cijena: Naziv kriterija Relativni značaj / Maksimalni broj bodova Cijena 90,00... Jamstveni rok za otklanjanje nedostataka 10,00"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Opis predmeta nabave je konkretan i referira na detaljne tehnijske specifikacije i troškovnik koji se nalaze u prilogu. Dokumentacija omogućava ponuditelju da razumije opseg radova zahvaljujući detaljnim mapama projekta (arhitektura, konstrukcija, vodovod, elektrotehnika, strojarstvo), ali je također dovoljno fleksibilan da se prihvate jednakovrijeda rješenja. Nema indikacija da je opis namjerno sužen da bi se isključile konkurentne alternative.",
+      "citat": "Predmet nabave je izgradnja vanjskog olimpijskog bazena SC Višnjik, detaljno opisan u Prilogu - Troškovnik i prilogu - Tehničke specifikacije... Ukoliko ponuditelj nudi jednakovrijedan rad dostavlja dokazno sredstvo o sukladnosti"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dokumentacija o nabavi je opsežna i potpuna. Dostupne su sve potrebne informacije za samostalnu izradu ponude: detaljne tehnijske specifikacije (6 mapa projekta), troškovnik s linijama stavaka, upute za ponuditelje, kriteriji za kvalitativni odabir, obrasci ESPD, referentne standarde, uvjete jamstva i sve druge administrativne specifikacije. Razmatranje zapisnika pokazuje da je naručitelj bio u mogućnosti da traži pojašnjenja i dodatne dokumente, što ukazuje da je dokumentacija bila dovoljno jasan temelj za evaluaciju.",
+      "citat": "Elektronička ponuda mora sadržavati najmanje: Uvez ponude, Popunjeni eESPD obrazac, Popunjen troškovnik... Detaljne tehničke specifikacije se nalaze u zasebnom prilogu"
+    },
+    "prosjecna_ocjena": 4.67
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [
+      {
+        "indikator": "Mogućnost dostave jednakovrijednih rješenja",
+        "rizik": "nizak",
+        "citat": "Kriteriji za ocjenu jednakovrijednosti predmeta nabave: U slučaju upućivanja na određenu marku ili izvor... smatra se da gospodarski subjekt može nuditi jednakovrijedo."
+      },
+      {
+        "indikator": "Otvorena konkurencija s više ponuda",
+        "rizik": "nizak",
+        "citat": "Broj zaprimljenih ponuda: 8... Broj zaprimljenih ponuda od poslovnih subjekata koji su mala i srednja poduzeća: 8"
+      },
+      {
+        "indikator": "Ekonomski najpovoljnija ponuda - kriterij",
+        "rizik": "nizak",
+        "citat": "Kriterij za odabir ponude je ekonomski najpovoljnija ponuda (ENP). Parametri kriterija i način bodovanja opisani su u ovom dokumentu."
+      }
+    ],
+    "rizik": "nizak"
+  },
+  "napomena": "Dokumentacija je izvućena iz 99 datoteka (77 GB teksta). Postupak je prošao normalnu proceduru s 8 primljenih ponuda, od čega su 2 odijenjene kao nepravilne, 1 isključena (MAVITA zbog neplaćenih poreza), i 5 valanih ponuda ocijenjeno i rangirano. Nema znakova namjernog sužavanja specifikacija niti primjene tehnike tailoringa prema određenom ponuditelju. Iznos ugovora značajno je niži od procijenjene vrijednosti (2,79M EUR naspram 4,3M EUR procijenjene vrijednosti), što indicira kompetitivne i ekonomski povoljne rezultate za naručitelja."
+}

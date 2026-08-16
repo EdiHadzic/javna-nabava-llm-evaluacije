@@ -1,0 +1,27 @@
+{
+  "postupak_id": 12909,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriteriji za odabir ponude (ENP: cijena 90%, udio obnovljive energije 10%) potpuno su operacionalizirani matematičkim formulama, uključujući gornju i donju granicu za ne-cjenovni kriterij te pravilo za slučaj izjednačenih ponuda. Nema prostora za diskrecijsko tumačenje prilikom bodovanja.",
+      "citat": "Naručitelj je ograničio najviši dozvoljeni iznos za kriterij 100,00 Naručitelj je ograničio najniži dozvoljeni iznos za kriterij 50,00"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 5,
+      "obrazlozenje": "Opis predmeta nabave precizno definira obračunske elemente (radna energija po tarifama VT/NT/JT/JR, radna snaga, naknade, trošarine) pozivom na mjerodavne propise, a Troškovnik sadrži potpun popis svih 41 mjernih mjesta s adresama i tarifnim modelima. Riječ je o standardiziranoj robi (opskrba električnom energijom) pa razina detalja ne sužava krug mogućih ponuditelja.",
+      "citat": "Tarifne stavke za prodaju električne energije utvrđuju se prema dobu dana i dijele se na: Više dnevne tarife (VT) Niže dnevne tarife (NT)"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dostupna je cjelovita dokumentacija za samostalnu izradu ponude: Opći podaci, Obavijest o nadmetanju, Tehničke specifikacije, Troškovnik s popisom mjernih mjesta, Kriteriji za odabir ponude, Kriteriji za kvalitativni odabir, Upute za ponuditelje te obrasci 1 i 2 (izjave o obnovljivim izvorima/jamstvu podrijetla). Sve stavke navedene kao obavezan sadržaj ponude imaju odgovarajući predložak.",
+      "citat": "Elektronička ponuda mora sadržavati najmanje: Uvez ponude Popunjeni eESPD obrazac (ili više njih, ako je primjenjivo) Popunjen troškovnik"
+    },
+    "prosjecna_ocjena": 5.0
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak"
+  },
+  "napomena": "Prilozi.zip.txt ekstrahiran je kao prazan (0 bajtova), ali sadržaj koji bi mogao biti u njemu (tehničke specifikacije, troškovnik, obrasci) dostupan je kroz zasebne, uspješno ekstrahirane datoteke, pa procjena nije ugrožena. Zaprimljena je samo jedna ponuda (HEP-Opskrba d.o.o.), no referentni uvjet (1-2 ugovora u visini procijenjene vrijednosti) proporcionalan je vrijednosti nabave (36.000 EUR) i tipičan je za opskrbu električnom energijom malih JLS-ova u RH, pa se ne tretira kao indikator restriktivnosti bez dodatnih dokaza."
+}

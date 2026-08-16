@@ -1,0 +1,30 @@
+{
+  "postupak_id": 7123,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij ENP (cijena/kvaliteta) potpuno je precizno operacionaliziran: točne formule za bodovanje cijene i jamstvenog roka, eksplicitna tablica bodova po godinama jamstva, propisan broj decimala i pravilo za jednako rangirane ponude. Kriteriji sposobnosti (reference, stručnjak) također su brojčano određeni (min. 1 referentni posao u vrijednosti procijenjene nabave ili 2 posla čiji zbroj to doseže, 1 inženjer gradilišta s iskustvom na min. 2 gradilišta).",
+      "citat": "Trajanje jamstva u godinama Bodovi 2 godine 0 3 godine 5 4 godine i više 10"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Sažeti opis predmeta u 'Opći podaci' i 'Obavijesti o nadmetanju' je generički (jedna rečenica), ali je potkrijepljen opsežnom zasebnom tehničkom dokumentacijom (glavni projekt sanacije mosta, ~420.000 znakova ekstrahiranog teksta) i detaljno raščlanjenim troškovnikom po stavkama radova s opisom tehnologije izvedbe za svaku stavku, što omogućuje usporedivu ponudu bez nepotrebnog suženja kruga ponuditelja.",
+      "citat": "Sanacija mosta na lokalnoj cesti L63074, Muškovci u Zadarskoj županiji. Predmet nabave obuhvaća radove izvanrednog održavanja sukladno tehničkoj dokumentaciji u privitku dokumentacije o nabavi."
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dostupna je cjelovita dokumentacija za samostalnu izradu ponude: opći podaci, kriteriji odabira ponude, kriteriji kvalitativnog odabira s uputama o ESPD-u i dokazima, upute za ponuditelje, ostale upute i obrasci (izjava o jamstvu, popis ugovora, potvrda o izvršenju, izjava o prihvaćanju uvjeta), prijedlog ugovora, detaljan troškovnik i tehnička dokumentacija (elaborat sanacije). Priloženi 'Prilozi.zip' je na disku 0 bajtova već u izvornom preuzetom obliku (nije artefakt ekstrakcije), pa ne umanjuje ocjenu potpunosti glavne dokumentacije.",
+      "citat": "Elektronička ponuda mora sadržavati najmanje: Uvez ponude Popunjeni eESPD obrazac (ili više njih, ako je primjenjivo) Popunjen troškovnik"
+    },
+    "prosjecna_ocjena": 4.67
+  },
+  "restriktivnost": {
+    "prisutno": true,
+    "indikatori": [
+      "Stavka troškovnika 3.12 (zaštitni premaz betona) navodi konkretan komercijalni proizvod kao primjer kvalitete: 'a sve prema uputi proizvođača (priprema i postupak nanošenja), npr Masterseal 550.' Riječ je o mekoj referenci ('npr.', tj. primjer), a Dokumentacija o nabavi eksplicitno dopušta jednakovrijednost za sve stavke koje spominju marku, patent ili tip, čime je rizik diskriminacije značajno ublažen.",
+      "Uvjet reference (1 posao sanacije/rekonstrukcije mosta ili slične cestovne građevine u minimalnoj vrijednosti procijenjene nabave, ili 2 posla čiji zbroj to doseže, u tekućoj i prethodnih 5 godina) proporcionalan je vrijednosti nabave (115.000 EUR) i uobičajen za radove ove vrste, stoga nije ocijenjen kao restriktivan indikator."
+    ],
+    "rizik": "nizak"
+  },
+  "napomena": "Pročitane su sve relevantne .txt datoteke u extracted/ (12 dokumenata, uklj. HTML metapodatke, PDF obavijesti, tehnički elaborat P-001-24 od ~420.000 znakova te troškovnik). Datoteka 'Prilozi.zip.txt' je prazna jer je i izvorni Prilozi.zip na disku 0 bajtova (neuspjelo preuzimanje na portalu), ne propust ekstrakcije. Postupak je dovršen s 5 zaprimljenih ponuda i ugovorenom vrijednošću 97.508,70 EUR (odstupanje -15,2% od procijenjene vrijednosti), što je konzistentno s ocjenom relativno otvorenog, nerestriktivnog postupka."
+}

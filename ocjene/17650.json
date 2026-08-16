@@ -1,0 +1,36 @@
+{
+  "postupak_id": 17650,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 4,
+      "obrazlozenje": "Kriterij za odabir ponude jasno je naveden i mjerljiv (cijena, značaj 100%), no bez ikakve dodatne metodologije bodovanja jer je riječ o pregovaračkom postupku bez prethodne objave upućenom jednom, unaprijed određenom gospodarskom subjektu, čime kriterij gubi praktičnu funkciju razlikovanja ponuda.",
+      "citat": "Kriterij za odabir ponude: Cijena: Značaj 100,00"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Opis predmeta nabave razmjerno je detaljan i strukturiran (tri cjeline: izmjena glavnog arhitektonskog projekta, izvedbena projektna dokumentacija s popisom sastavnica, i troškovnici po kategorijama), uz definiran redoslijed izrade i format predaje, no bez brojčanih parametara (npr. površina, broj etaža, tehničke norme).",
+      "citat": "Izvedbena dokumentacija predaje se u dva printana primjerka i digitalnom PDF formatu, troškovnici u excel formatu sa pripadajućim kratkim opisom i priloženim tlocrtima svih etaža."
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 2,
+      "obrazlozenje": "U 'extracted/' direktoriju dostupna je isključivo obavijest o dodjeli ugovora (ex-post izvještajni dokument). Ne postoji zasebna dokumentacija o nabavi, tehnička specifikacija, poziv na dostavu ponude niti troškovnik kao obrazac — nedovoljno za samostalnu izradu ponude od strane trećeg gospodarskog subjekta. Dijelom je to svojstveno pregovaračkom postupku bez prethodne objave upućenom jednom subjektu (takva dokumentacija se za taj tip postupka ne mora javno objavljivati na portalu), ali s aspekta vanjske transparentnosti dostupni materijal ostaje nepotpun.",
+      "citat": "Troškovničke stavke moraju biti sastavljene na način da budu u skladu sa propozicijama javne nabave."
+    },
+    "prosjecna_ocjena": 3.33
+  },
+  "restriktivnost": {
+    "prisutno": true,
+    "indikatori": [
+      {
+        "opis": "Postupak je pregovarački bez prethodne objave poziva na nadmetanje, upućen izravno jednom, unaprijed određenom gospodarskom subjektu (izvorni izrađivač glavnog projekta), uz pravnu osnovu 'nepostojanje tržišnog natjecanja iz tehničkih razloga' (čl. 131. st. 1. t. 2. podt. b) ZJN2016). Time je konkurencija formalno i u potpunosti isključena, a ne samo sužena kroz tekst tehničke specifikacije.",
+        "citat": "Gospodarski subjekt kojem se šalje poziv na dostavu ponude izrađivač je glavnog projekta na temelju kojeg je ishodovana građevinska dozvola."
+      },
+      {
+        "opis": "Zaprimljena je točno jedna ponuda, od istog subjekta kojem je upućen poziv, što potvrđuje da natjecanje nije ni bilo moguće u praksi.",
+        "citat": "Broj zaprimljenih ponuda: 1"
+      }
+    ],
+    "rizik": "visok"
+  },
+  "napomena": "Analiza je provedena isključivo nad jednom dostupnom datotekom (obavijest o dodjeli ugovora) jer u 'extracted/' direktoriju za ovaj postupak ne postoji zasebna dokumentacija o nabavi, tehnička specifikacija ili poziv na dostavu ponude. To je dijelom očekivano s obzirom na vrstu postupka (pregovarački bez prethodne objave, upućen jednom subjektu), ali ograničava dubinu ocjene dimenzija transparentnosti, posebno 'potpunosti dokumentacije'."
+}

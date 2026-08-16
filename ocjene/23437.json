@@ -1,0 +1,27 @@
+{
+  "postupak_id": 23437,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriteriji za odabir ponude (cijena 90 bodova, rokovi aktivacije 10 bodova) precizno su definirani eksplicitnom matematičkom formulom za bodovanje cijene i tablicom bodova po broju dana za rok aktivacije, čime su potpuno mjerljivi i predvidljivi za ponuditelje.",
+      "citat": "broj bodova = najniža cijena ponude / cijena ponude * 90"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Opći opis predmeta nabave u DoN je sažet i generički (redovito i povremeno održavanje zelenih površina), ali priloženi troškovnik razrađuje predmet do razine pojedinačnih vrsta biljaka, dimenzija sadnog materijala i količina po zonama (Gaženica, Lamjana), što omogućuje usporedivu ponudu. Manjak: 'detaljna tehnička specifikacija u zasebnom prilogu' i prikaz zona oslanjaju se na slikovne priloge (jpg) koji su ekstrahirani prazni (nisu tekstualni).",
+      "citat": "G3.4.1. Quercus ilex, visine 200 cm, 8/10"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 4,
+      "obrazlozenje": "Dostupan je gotovo pun set dokumenata potreban za samostalnu izradu ponude: opći podaci o postupku, kriteriji kvalitativnog odabira gospodarskog subjekta, upute za ponuditelje, kriterij za odabir ponude, obrasci izjava (nekažnjavanje, porezne obveze, sankcije EU, rok aktivacije), nacrt ugovora i detaljan troškovnik po zonama. Manjka tekstualna tehnička specifikacija (dostupna samo kao slikovni prikaz zona koji nije strojno čitljiv) i prilog 'Prilozi.zip' uz odluku o odabiru ekstrahiran je prazan.",
+      "citat": "Elektronička ponuda mora sadržavati najmanje: Uvez ponude Popunjeni eESPD obrazac"
+    },
+    "prosjecna_ocjena": 4.33
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak"
+  },
+  "napomena": "Tehnička specifikacija (prikaz zona) dostupna je samo kao jpg slike (Prikaz zona Hortikultura 2024.jpg, zona Lamjana 1/2.jpg, zona Marina.jpg) koje su u pipelineu ekstrahirane kao prazne (0 bajtova) jer OCR/tekstualna ekstrakcija nije primijenjena na slikovne priloge; sadržajno je taj gap nadomješten vrlo detaljnim troškovnikom (vrste biljaka, dimenzije, količine po zonama). Dokument 'Odluka o odabiru__Prilozi.zip' također je ekstrahiran prazan. Kriteriji kvalitativnog odabira su minimalni (samo upis u registar, bez dodatnih zahtjeva za financijsku/tehničku sposobnost poput minimalnog prometa ili referenci), što ukazuje na nisku ulaznu barijeru, a ne na restriktivnost. Zaprimljene su 2 valjane ponude (ĐARDIN i EUROGARDEN), obje su prošle provjeru sukladnosti s opisom predmeta i tehničkim specifikacijama bez primjedbi."
+}

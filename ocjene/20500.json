@@ -1,0 +1,27 @@
+{
+  "postupak_id": 20500,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij odabira (ekonomski najpovoljnija ponuda) potpuno je operacionaliziran: cijena nosi 90 bodova prema eksplicitnoj formuli C=(Cmin/Cp)x90, a jamstveni rok za izvedene radove nosi 10 bodova prema formuli J=(Jo/Jn)x10, s jasno definiranim minimumom (24 mj., 0 bodova) i maksimumom (60 mj., 10 bodova) koji se uzima u obzir. Bodovanje na šest decimala i pravilo za jednako rangirane ponude (raniji primitak) također su navedeni.",
+      "citat": "Ponuda s najnižom ponuđenom cijenom dobiva 90 bodova... C= (Cmin/Cp) x 90"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Opis predmeta nabave oslanja se na opsežnu projektnu dokumentaciju (tri mape glavnog projekta, tehničke specifikacije, troškovnik) koja detaljno definira radove (cesta, oborinska odvodnja, javna rasvjeta). Ipak, iz odgovora na pitanja vidljivo je da početna razina detalja nije bila dovoljna za izradu usporedivih ponuda u dijelu koji se odnosi na svjetlotehnički proračun (nedostajala DWG podloga) i ispitivanje upojnosti podloge retencije (nedefinirana metoda/promjer bušotina), što je zahtijevalo naknadna pojašnjenja i izmjene dokumentacije tijekom postupka.",
+      "citat": "iz objavljene dokumentacije potencijalni ponuditelji ne mogu ponuditi jednakovrijedne svjetiljke... potrebno je objaviti nacrte u dwg formatu"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 3,
+      "obrazlozenje": "Dokumentacija je tijekom postupka triput mijenjana zbog stvarnih propusta koje su identificirali ponuditelji: nedostajala je DWG podloga za svjetlotehnički proračun, troškovnik nije sadržavao stavku za izradu piezometara premda ih projekt prikazuje, stavka ispitivanja upojnosti podloge retencije bila je toliko nejasno definirana da je naručitelj morao izbrisati stavku iz troškovnika, a projekt zaštite građevne jame i geomehanika nisu bili unaprijed dostupni za stavku vezanu uz čelične talpe. Naručitelj je na sva pitanja odgovorio i sukladno tome ažurirao troškovnik/dokumentaciju te produžio rok za dostavu ponuda, što je ublažilo, ali ne u potpunosti otklonilo početnu nepotpunost.",
+      "citat": "Stavka 5.3.1. (ispitivanje upojnosti podloge retencije) se briše iz troškovnika. Naručitelj će objaviti novi troškovnik te produžiti rok za dostavu ponuda."
+    },
+    "prosjecna_ocjena": 4.0
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak"
+  },
+  "napomena": "Pročitani su svi ključevi dokumenti (obavijest o nadmetanju, kriteriji za kvalitativni odabir i odabir ponude, opći podaci, tehničke specifikacije, upute za ponuditelje, odgovori na upite, odluka o odabiru, obavijest o dodjeli ugovora). Tri velike PDF datoteke projektne dokumentacije (Mapa 01/02/03, ukupno >5,6 MB izdvučenog teksta, uglavnom OCR nacrta i troškovničkih detalja) nisu pročitane u cijelosti zbog opsega, nego pretražene (grep) na indikatore vezivanja uz određenu marku/model/proizvođača — nije pronađen niti jedan konkretan pogodak (jedini spomeni 'proizvođača' odnose se na generičke upute za ugradnju prema uputama proizvođača, uobičajeno u troškovnicima radova). Tehničke specifikacije eksplicitno dopuštaju jednakovrijedna rješenja uz normu ('ili jednakovrijedno'), sukladno čl. 209./212. ZJN 2016 — nema indikacija prilagodbe specifikacije određenom ponuditelju. Zaprimljeno je 5 ponuda, od toga 4 od malih i srednjih poduzetnika, što upućuje na razumnu razinu tržišnog natjecanja unatoč uočenim nedostacima dokumentacije. Zapaženo, ali izvan opsega ove dimenzije restriktivnosti (koja se odnosi na tehničku specifikaciju, ne na sukob interesa): naručitelj je u 'Općim podacima o postupku nabave' objavio popis gospodarskih subjekata s kojima je u sukobu interesa, uključujući 'OPG IVAN KNEZ'; Odluku o odabiru potpisuje gradonačelnik Ivan Knez, dipl.ing.agr. — isto ime kao u popisu sukoba interesa. Ovo je zabilježeno radi transparentnosti prema istraživaču, ali ne utječe na ocjenu restriktivnosti specifikacije niti je dalje istraživano u ovom zadatku."
+}

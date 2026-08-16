@@ -1,0 +1,39 @@
+{
+  "postupak_id": 4391,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij ekonomski najpovoljnije ponude potpuno je operacionaliziran: cijena (70 bodova) po eksplicitnoj formuli i tri dodatne funkcionalne karakteristike (po 10 bodova svaka) s definiranim dokazima (markiranje u katalogu/prospektu). Bodovanje je posve mjerljivo, bez prostora za diskrecijsko tumačenje, što potvrđuje i Zapisnik o pregledu i ocjeni gdje je svaki bod obrazložen.",
+      "citat": "Maksimalan broj bodova: 70 bodova. Bodovi se zaokružuju na dvije decimale."
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Troškovnik sadrži vrlo opsežnu i tehnički preciznu specifikaciju (funkcionalni parametri iskazani kao minimalni rasponi, npr. protok, tidalni volumen, PEEP), što je dobra praksa jer omogućuje usporedivost ponuda različitih proizvođača umjesto vezivanja uz jedan model. Ipak, tri 'dodatne funkcionalne karakteristike' opisane su neuobičajeno uskim inženjerskim jezikom koji nalikuje opisu konkretnog patentiranog rješenja jednog proizvođača, što blago narušava tehnološku neutralnost.",
+      "citat": "Tidalni volumen u minimalnom rasponu od 20 do 1400 ml"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dostupan je pun i međusobno konzistentan set dokumenata: kriteriji kvalitativnog odabira, upute za ponuditelje, opći podaci, tehnička specifikacija (putem troškovnika), prijedlog ugovora te obavijesti o nadmetanju/dodjeli. Sve što je potrebno za samostalnu izradu ponude (uključujući ESPD, jamstva, troškovnik) jasno je navedeno; jedina 'praznina' (kratka datoteka Tehničke specifikacije) izričito upućuje na troškovnik gdje je sadržaj stvarno naveden, pa nije stvarni nedostatak.",
+      "citat": "Elektronička ponuda mora sadržavati najmanje: Uvez ponude Popunjeni eESPD obrazac (ili više njih, ako je primjenjivo) Popunjen troškovnik"
+    },
+    "prosjecna_ocjena": 4.67
+  },
+  "restriktivnost": {
+    "prisutno": true,
+    "indikatori": [
+      {
+        "opis": "Dodatna funkcionalna karakteristika Br. 1 opisana je iznimno uskim, tehnički specifičnim jezikom (ventil za odvajanje protoka svježih plinova s točno opisanom funkcijom sprečavanja promjena tidalnog volumena/tlaka), što odgovara opisu konkretnog patentiranog mehanizma jednog proizvođača anestezioloških aparata, a nosi 10 od 100 bodova.",
+        "citat": "Ugrađen ventil za odvajanje protoka svježih plinova od ventilacije, funkcija odvođenja viška svježeg plina u respiracijski balon i sprečavanja promjena tidalnog volumena i tlakova ventilacija"
+      },
+      {
+        "opis": "Dodatna funkcionalna karakteristika Br. 2 (proizvođačev vlastiti 'Remote Service' portal za dijagnostiku) također je formulirana kao specifično rješenje jednog proizvođača, a ne generička funkcionalnost (npr. 'daljinska dijagnostika kvara').",
+        "citat": "Implementirano rješenje za \"Remote Service\" podršku koje omogućuje korisniku slanje log zapisa sa uređaja na internetski portal proizvođača u svrhu brze dijagnostike kvara"
+      },
+      {
+        "opis": "Pobjednik postupka je Dräger Medical Croatia d.o.o. — hrvatska podružnica samog proizvođača — dok je jedini konkurent (AnalyticPharma d.o.o., distributer) odbijen zbog formalnih razloga (nedostavljeno jamstvo, nepopunjen troškovnik) prije nego što je uopće ocijenjeno ispunjava li tehničke/dodatne kriterije, pa se ne može isključiti da su dodatne karakteristike oblikovane prema značajkama već poznatog proizvoda."
+      }
+    ],
+    "rizik": "srednji"
+  },
+  "napomena": "Svi relevantni dokumenti iz extracted/ pročitani (12 datoteka: kriteriji kvalitativnog odabira, kriteriji ENP, obavijest o nadmetanju, tehničke specifikacije, troškovnik, upute za ponuditelje, opći podaci, odluka o odabiru x2, zapisnik o pregledu i ocjeni, obavijest o dodjeli ugovora, prijedlog ugovora, izjava o neulaganju žalbe). Dokumentacija je kvalitetno ekstrahirana i čitljiva. Postupak je imao 2 ponude; jedna je odbijena iz formalnih razloga (nedostatak jamstva, nepopunjen troškovnik), pa stvarna konkurentnost na temelju tehničkih/kvalitativnih kriterija nije bila testirana."
+}

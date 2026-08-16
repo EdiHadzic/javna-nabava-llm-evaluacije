@@ -1,0 +1,62 @@
+{
+  "postupak_id": 1451,
+  "broj_pojedinacnih_runova": 2,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij ekonomski najpovoljnije ponude potpuno je kvantificiran i formaliziran: cijena nosi 90 od 100 bodova prema eksplicitnoj formuli u odnosu na najnižu ponuđenu cijenu, a 'broj sklopljenih ugovora' (10 bodova) boduje se prema unaprijed zadanoj stepenastoj tablici raspona (0-1 do 11 i više), uz definirane dokaze (potvrde druge ugovorne strane), bodovanje na šest decimala i pravilo za jednako rangirane ponude (raniji zaprimak). Nema prostora za diskrecijsku ocjenu povjerenstva ni po jednom kriteriju.",
+      "citat": "Maksimalan broj bodova (90) će se dodijeliti ponudi s najnižom cijenom.",
+      "runovi": [
+        5,
+        5
+      ],
+      "slaganje": "puno"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 3,
+      "obrazlozenje": "Opis predmeta nabave na razini glavne dokumentacije je generički ('Nabava elektromaterijala'), dok se stvarna razina detalja nalazi u zasebnom troškovniku. Iz dokumenta Odgovori vidljivo je da je troškovnik na razini pojedinih stavki bio vrlo precizan (dimenzije, boja svjetla, oznake optike), no mjestimično prekomjerno uzak: stavka 67 (boja svjetla 3700K) nije bila pronađena u portfelju velikog proizvođača (Osram) i premašuje zakonski prag od 3000K za svjetlosno onečišćenje, a stavka 52 (dimenzije 448×220×87mm) zadana je bez dopuštenog odstupanja unatoč izričitom zahtjevu ponuditelja za uvođenjem tolerancije. Naručitelj je djelomično reagirao (dopustio odstupanje samo za duljinu, nije generalizirao na cijeli troškovnik niti razjasnio neusklađenost sa zakonskim pragom), što upućuje na prekomjernu preciznost dijela specifikacije uz nepotpunu korekciju.",
+      "citat": "u odnosu na traženu dimenziju bitno je da je max. duljina svjetiljke 448mm te će se ista uzimati kao tražena",
+      "runovi": [
+        3,
+        3
+      ],
+      "slaganje": "puno"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 4,
+      "obrazlozenje": "Formalna struktura dokumentacije je potpuna i standardna (Opći podaci, Kriteriji za kvalitativni odabir, Kriteriji za odabir ponude, Upute za ponuditelje, obavijest o nadmetanju, s jasnim upućivanjem na zaseban troškovnik i tehničku specifikaciju), a naručitelj je pokazao responzivnost objavom Odgovora nakon pitanja ponuditelja. Sadržaj samog troškovnika/tehničke specifikacije nije bilo moguće izravno provjeriti u ekstrahiranom tekstu zbog poznatog pipeline-bug-a kod .xls ekstrakcije (v. napomena) — no dostupni su dovoljno jaki posredni dokazi: iz Odgovora je razvidno da je troškovnik bio razrađen na razini pojedinačnih stavki, a Zapisnik o pregledu i ocjeni (odjeljak 8, 'Ispunjenje zahtjeva za opis predmeta, tehničkih specifikacija i ostalih uvjeta') izričito potvrđuje da su OBJE zaprimljene ponude (LOCUM d.o.o. i ŠARE d.o.o.) u cijelosti ispunile zahtjeve opisa predmeta i tehničkih specifikacija, te su obje ponude ocijenjene valjanima, potpunima i usporedivima. To je jača potvrda stvarne potpunosti objavljene dokumentacije nego što je iskoristio bilo koji od dva pojedinačna runa, i opravdava ocjenu bližu gornjoj granici unatoč ostatku neizvjesnosti zbog neuspjele ekstrakcije.",
+      "citat": "Ispunjava zahtjeve opisa predmeta i teh. specifikacija: DA (LOCUM d.o.o. i ŠARE d.o.o.)",
+      "runovi": [
+        4,
+        3
+      ],
+      "slaganje": "djelomicno"
+    },
+    "prosjecna_ocjena": 4.0
+  },
+  "restriktivnost": {
+    "prisutno": true,
+    "indikatori": [
+      {
+        "opis": "Tip optike u troškovniku (stavka 52) naveden je pod oznakom proizvođača Siteco (ST1.0a), bez unaprijed objavljenih kriterija jednakovrijednosti — ponuditelj je morao naknadno tražiti pojašnjenje kako bi mogao ponuditi jednakovrijedan proizvod.",
+        "citat": "Kako se radi o oznaci optike proizvođača Siteco molimo da objavite kriterije jednakovrijednosti."
+      },
+      {
+        "opis": "Dimenzije svjetiljke (stavka 52) navedene su kao točna vrijednost (448 x 220 x 87 mm) bez dopuštenog odstupanja — za razliku od težine, koja je zadana kao 'max.' — iako je ponuditelj izrijekom zatražio uvođenje minimalnih/maksimalnih vrijednosti za cijeli troškovnik radi izbjegavanja ograničavanja tržišnog natjecanja prema ZJN; naručitelj je odgovorio samo djelomično, prihvativši toleranciju za duljinu, ali ne i generalizirano za ostatak troškovnika.",
+        "citat": "Molimo da se isto primjeni na cijeli troškovnik kako se ne bi ogranićavalo tržišno natjecanje prema ZJN."
+      },
+      {
+        "opis": "Boja svjetla žarulje (stavka 67, 3700K) nije postojala u portfelju velikog proizvođača (Osram) prema navodu ponuditelja i premašuje zakonski prag od 3000K za svjetlosno onečišćenje; naručitelj je odgovorio tek da se žarulja standardno proizvodi, bez razrješenja usklađenosti sa zakonskim pragom niti ispravka troškovnika.",
+        "citat": "žarulju ne možemo pronaći u Osramovom portfelju"
+      }
+    ],
+    "rizik": "srednji",
+    "runovi_prisutno": [
+      true,
+      true
+    ],
+    "slaganje": "puno"
+  },
+  "napomena": "Stvarni sadržaj troškovnika/tehničke specifikacije (na koji upućuje 'Opći podaci o postupku nabave' kao zaseban prilog) nije bio dostupan u ekstrahiranom tekstu — datoteka 'TROŠKOVNIK ELEKTROMATERIJALA 2024..xls.txt' sadrži samo naslovnu stranicu bez ijedne stavke (poznati, već prijavljeni pipeline bug kod .xls ekstrakcije — ispravak je u tijeku, ali nije primijenjen na ovaj postupak u trenutku ove ocjene), a 'Prilozi.zip.txt' ekstrahiran je kao potpuno prazan. Ocjena dimenzija 'razina_detalja_opisa' i 'potpunost_dokumentacije', te dio indikatora restriktivnosti, stoga se oslanjaju na posrednu evidenciju iz dokumenta Odgovori (pitanja/odgovori ponuditelja koji citiraju konkretne stavke troškovnika) i na Zapisnik o pregledu i ocjeni (potvrda da su obje ponude ispunile zahtjeve tehničke specifikacije), a ne na izravan uvid u puni troškovnik. Dvije dodatne datoteke ('Odluka o odabiru elektromaterijal.pdf.txt', 4 bajta, i 'Zapisnik o pregledu i ocjeni 2 24 mv.pdf.txt', 5 bajtova) ekstrahirane su gotovo prazne i predstavljaju duplikate/varijante glavnih dokumenata (Odluka o odabiru, Zapisnik o pregledu i ocjeni) koji su uspješno ekstrahirani i korišteni za ovu ocjenu.",
+  "napomena_resolvera": "Dva runa su se u potpunosti slagala (numerički i sadržajno) na 'jasnoca_kriterija' (5/5) i 'razina_detalja_opisa' (3/3) — obrazloženja su bila kompatibilna, pa je finalna ocjena zadržana uz sintezu obrazloženja i odabir preciznijeg citata. Restriktivnost se također potpuno slagala (oba runa: prisutno=true, ista tri nalaza uz manje razlike u formulaciji) — indikatori su spojeni bez duplikata. Jedino stvarno neslaganje bilo je na 'potpunost_dokumentacije' (run 1: 4, run 2: 3) — razlika od točno 1 boda, uz sadržajno kompatibilna obrazloženja (oba prepoznaju formalnu potpunost strukture, oba ističu istu limitaciju neuspjele .xls ekstrakcije, razlikuju se samo u pragu koliko ta limitacija treba sniziti ocjenu). Sukladno uputama za razliku od 1 boda, ponovno su pročitani izvorni dokumenti ('Opći podaci o postupku nabave', 'Odgovori', 'Zapisnik o pregledu i ocjeni') kako bi se utvrdilo koji je citat precizniji. Pronađen je jači, dosad neiskorišten dokaz u odjeljku 8. Zapisnika ('Ispunjenje zahtjeva za opis predmeta, tehničkih specifikacija i ostalih uvjeta' — DA za obje zaprimljene ponude), koji izravno potvrđuje da je objavljena dokumentacija (unatoč neuspjeloj ekstrakciji troškovnika) bila dovoljno potpuna i jasna da omogući dvjema neovisnim tvrtkama izradu valjanih, usporedivih ponuda. Ovaj nalaz podupire optimističniju ocjenu runa 1 (4), pa je ta vrijednost usvojena kao finalna. Pouzdanost finalne ocjene: visoka — tri od četiri komponente (dvije dimenzije transparentnosti i restriktivnost) imale su puno slaganje, a jedino djelomično neslaganje razriješeno je dodatnim, konkretnim dokazom iz izvornog teksta, bez potrebe za potpuno neovisnim rascjepom ocjene."
+}

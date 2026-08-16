@@ -1,0 +1,27 @@
+{
+  "postupak_id": 12894,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij odabira ponude (ENP) potpuno je operacionaliziran brojčano: cijena 80 bodova po formuli min(C)/C, jamstveni rok za otklanjanje nedostataka 20 bodova po fiksnoj tablici (2/3/4/5+ god. = 0/5/10/20 bodova). Kriteriji sposobnosti (financijski prag, tehnička sposobnost, kvalifikacije stručnjaka) navedeni su s egzaktnim brojčanim pragovima i načinom dokazivanja za svaki podkriterij.",
+      "citat": "Rbr Opis Broj bodova ... 2 godine 0,00 ... 3 godine 5,00 ... 4 godine 10,00 ... 5 godina ili više 20,00"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Opis predmeta u samoj obavijesti/dokumentaciji je sažet (ponavlja naziv postupka), ali naručitelj eksplicitno upućuje na opsežnu zasebnu tehničku dokumentaciju (izvedbeni projekt, tri velika dokumenta PIR/TIG/IR s ukupno >16.000 redaka teksta, prometna studija PRP) koja sadrži pune tehničke specifikacije i troškovnik razrađen po stavkama, što omogućuje usporedive ponude bez nepotrebnog suženja kruga ponuditelja (potvrđeno s 5 zaprimljenih ponuda).",
+      "citat": "Detaljne tehničke specifikacije se nalaze u zasebnom prilogu. ... Detaljan troškovnik se nalazi u zasebnom prilogu – Troškovnik."
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dokumentacija je iznimno potpuna: opći podaci, kriteriji kvalitativnog odabira, kriteriji odabira ponude, upute za ponuditelje (uključno jamstva, plaćanje, žalbeni rok), korisnički priručnik za popunjavanje troškovnika, prijedlog ugovora, te puna projektna dokumentacija (PIR/TIG/IR, prometna studija). Jedini nedostatak je što je sam .xls troškovnik ekstrahiran prazan (0 bajtova) — vjerojatno artefakt ekstrakcije složene proračunske tablice, ne nužno stvarni nedostatak dokumentacije naručitelja.",
+      "citat": "Troškovnik se sastoji od više radnih listova (sheet-ova) koji se popunjavaju sukladno Korisničkom priručniku, koji se nalazi u privitku Dokumentacije o nabavi i sastavni je dio iste."
+    },
+    "prosjecna_ocjena": 4.67
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak"
+  },
+  "napomena": "Zahtjev za iskustvom s 'tehnologijom hidrodinamičkog uklanjanja betona visokotlačnim pumpama' (uvjet reference i kvalifikacije STRUČNJAKA 1) specifičan je za metodu rada, ali nije vezan uz marku/proizvođača niti nesrazmjeran vrijednosti nabave (referentna vrijednost = procijenjena vrijednost, standardno za ZJN 2016); podržano stvarnom konkurencijom od 5 zaprimljenih ponuda i pobjednikom s cijenom ~12% ispod procijenjene vrijednosti. Nisu pronađene reference na konkretne proizvode/marke/patentirana rješenja niti nesrazmjerni financijski pragovi. Dokument 'DC1.vijadukt Sučević_bez cijena_170723.xls.txt' (troškovnik) i 'Pregledna prometna situacija.pdf.txt' ekstrahirani su gotovo prazni (0 i 2 bajta) — vjerojatno OCR/ekstrakcijski gap na složenoj tablici odnosno slikovnom nacrtu, ne nedostatak u samoj dokumentaciji naručitelja."
+}

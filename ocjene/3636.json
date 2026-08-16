@@ -1,0 +1,27 @@
+{
+  "postupak_id": 3636,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij za odabir ponude (ekonomski najpovoljnija ponuda, omjer 70:30 cijena/kvaliteta) potpuno je operacionaliziran eksplicitnim matematičkim formulama za oba potkriterija (cijena i rok isporuke), s jasno definiranim varijablama, maksimalnim bodovima po pragovima roka isporuke (1-80/81-100/101-120 dana) i pravilom razrješenja izjednačenih ponuda (ranije zaprimljena ponuda pobjeđuje). Nema prostora za diskrecijsku ili nejasnu ocjenu.",
+      "citat": "Ponuda s najniže ponuđenom cijenom dobiva 70 bodova, ponude se boduju prema formuli: C = NC/CP x 70"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Tehničke specifikacije rabljenog vatrogasnog vozila vrlo su detaljne i funkcionalno opravdane s obzirom na namjenu (kapacitet spremnika, protok pumpe, dimenzije, snaga motora), a jedini potencijalno restriktivan zahtjev (asistent za držanje trake u vozilu) izričito dopušta jednakovrijednu zamjenu. Opis je dovoljno konkretan za usporedivu ponudu bez očitog isključivanja razumnih alternativa.",
+      "citat": "Centrifugalna vatrogasna pumpa za vodu pogonjena kardanom direktno sa izvoda na mjenjaču, protoka min. 2400 lit/min kod 8 bara i visoki tlak min. 250 lit/min kod 40 bara."
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 4,
+      "obrazlozenje": "Dostupna je puna standardna dokumentacija (opći podaci, upute za ponuditelje, kriteriji kvalitativnog odabira, kriterij odabira ponude s formulama, tehničke specifikacije, troškovnik, obrazac izjave o roku isporuke) i sve je čitljivo i cjelovito. Datoteka 'Prilozi.zip' je na disku 0 bajtova (izvorna arhiva, ne artefakt ekstrakcije) pa nije moguće utvrditi je li nedostaje dodatni sadržaj koji bi upotpunio dokumentaciju, stoga ocjena nije 5.",
+      "citat": "Detaljne tehničke specifikacije se nalaze u zasebnom prilogu."
+    },
+    "prosjecna_ocjena": 4.33
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak"
+  },
+  "napomena": "Pročitane sve dostupne .txt datoteke u extracted/ (12 sadržajnih + 1 prazna 'Prilozi.zip.txt' koja odgovara 0-bajtnoj izvornoj arhivi na disku, ne grešci ekstrakcije). Postupak nabave rabljenog vatrogasnog vozila putem financijskog leasinga (DVD Biograd na Moru, proc. vrijednost 190.000 EUR); zaprimljena je samo jedna valjana ponuda (OTP Leasing d.d., 80/100 bodova), što je uobičajeno za financijski leasing specifičnih vozila i nije samo po sebi indikator restriktivnosti specifikacije. Kriteriji za kvalitativni odabir gospodarskog subjekta ograničeni su na standardne osnove isključenja i upis u registar, bez dodatnih financijskih/tehničkih pragova sposobnosti koji bi mogli djelovati restriktivno."
+}

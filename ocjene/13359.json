@@ -1,0 +1,27 @@
+{
+  "postupak_id": 13359,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij za odabir ponude (ekonomski najpovoljnija ponuda) potpuno je operacionaliziran: eksplicitni ponderi (Cijena 90 %, Rok isporuke 10 %), potpuna matematička formula bodovanja za oba potkriterija, definiran prag prihvatljivosti (rok isporuke dulji od 60 dana povlači odbacivanje ponude) i pravilo razrješenja izjednačenih ponuda (ranije zaprimljena ponuda). Nema prostora za diskrecijsko tumačenje pri bodovanju.",
+      "citat": "Ponude u kojima je iskazan rok isporuke dulji od 60 dana bit će odbačene."
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Tehnička specifikacija (u Prilogu 1 - Troškovniku) sadrži 18 mjerljivih minimalnih karakteristika uređaja (uvećanje, izvor svjetla, filteri, širina/dužina/rotacija procjepa, tonometar, kamera, radna stanica) s konkretnim numeričkim rasponima, što omogućuje usporedivost ponuda. Svi zahtjevi su formulirani kao minimalne vrijednosti (\"min.\"), a ne kao točno određeni model/marka, što ostavlja prostor različitim proizvođačima. Ocjena nije 5 jer je razina detalja vrlo visoka za specijaliziranu medicinsku opremu, gdje veći broj strogih numeričkih pragova nužno sužava krug potencijalnih ponuda (vidi i napomenu o restriktivnosti).",
+      "citat": "Uvečanje: min. 6x/10x/16x/25x/40x, s kompenzacijom ametropije od ±8 dpt"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 4,
+      "obrazlozenje": "Dokumentacija sadrži sve ključne dijelove potrebne za samostalnu izradu ponude: Opće podatke, Upute za ponuditelje, Kriterije za kvalitativni odabir, Kriterije za odabir ponude, Troškovnik s tehničkom specifikacijom, Prilog 2 (izjava o roku isporuke) i Prilog 3 (prijedlog ugovora). Dokument \"Tehnička specifikacija.docx\" sam po sebi je samo uputnica na Troškovnik (nije nedostatak, strukturna odluka naručitelja). Ocjena nije 5 jer je prateća datoteka \"Prilozi.zip\" ekstrahirana kao prazna (0 bajtova) pa sadržaj tog dodatnog priloga nije bilo moguće provjeriti niti uključiti u ocjenu.",
+      "citat": "Elektronička ponuda mora sadržavati najmanje: Uvez ponude Popunjeni eESPD obrazac (ili više njih, ako je primjenjivo) Popunjen troškovnik"
+    },
+    "prosjecna_ocjena": 4.33
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak"
+  },
+  "napomena": "Pročitane su sve dostupne .txt datoteke u extracted/ (14 datoteka), uključujući Obavijest o nadmetanju, Kriterije za odabir/kvalitativni odabir, Troškovnik s tehničkom specifikacijom, Upute za ponuditelje, Zapisnik o pregledu i ocjeni te Odluku o odabiru/dodjeli. Tehnički zahtjevi navedeni su isključivo kao mjerljivi minimalni pragovi (bez naziva marke, patentiranog rješenja ili nesrazmjernih referentnih/financijskih uvjeta); dvije ponude su zaprimljene (AnalyticPharma d.o.o. i CARL ZEISS d.o.o.), a gubitnik je isključen iz administrativnih razloga (nedostavljeno jamstvo za ozbiljnost ponude, nepopunjen troškovnik), ne zbog tehničke specifikacije, što upućuje na postojanje stvarnog tržišnog natjecanja. Jedina uočena praznina je datoteka \"Prilozi.zip.txt\" (0 bajtova) čiji sadržaj nije bilo moguće ocijeniti."
+}

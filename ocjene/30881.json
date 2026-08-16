@@ -1,0 +1,44 @@
+{
+  "postupak_id": 30881,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij ENP eksplicitno je raščlanjen na cijenu (90%) i jamstveni rok (10%), s potpunim matematičkim formulama za bodovanje, jasnim minimalnim pragom (12 mjeseci) ispod kojeg se ponuda odbacuje, i pravilom za rangiranje jednako bodovanih ponuda.",
+      "citat": "Ponuda s najnižom cijenom dobiva 90,00 bodova... Minimalni jamstveni rok je 12 mjeseci. Ponude u kojima je iskazan jamstveni rok kraći od 12 mjeseci bit će odbačene."
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Troškovnik je vrlo detaljan (dimenzije DN, materijali, toplinski učin, tlakovi, temperature, priključci za svaku stavku), što omogućuje usporedivu ponudu. Umanjeno jer se više stavki opisuje izravno preko konkretnih komercijalnih oznaka proizvoda i modela (npr. Danfoss serijski brojevi dijelova), a ne isključivo preko funkcionalnih/izvedbenih zahtjeva.",
+      "citat": "Trokraki regulacijski ventil VF3 DN80 PN16... El.motorni pogon AMV 435, 230V... Elektronički regulator ECL310 + podnožje + ECL ključ A217"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dostupna je puna dokumentacijska cjelina: opći podaci, kriteriji kvalitativnog odabira GS, kriteriji za odabir ponude, tehnička specifikacija, troškovnik, upute za ponuditelje (uklj. jamstva, rokove, žalbeni postupak) te obavijest o nadmetanju.",
+      "citat": "Elektronička ponuda mora sadržavati najmanje: Uvez ponude, Popunjeni eESPD obrazac, Popunjen troškovnik, Vrijednosti kriterija za odabir ponude..."
+    },
+    "prosjecna_ocjena": 4.67
+  },
+  "restriktivnost": {
+    "prisutno": true,
+    "indikatori": [
+      {
+        "indikator": "Ekspanzijski uređaj specificiran točnim proizvođačem i tipom (PIREKO EU-20-A2-H2T-CS-E-0) s vrlo detaljnim tehničkim opisom koji odgovara jednom konkretnom proizvodu, iako uz formalnu klauzulu 'ili jednakovrijedan'.",
+        "rizik": "srednji"
+      },
+      {
+        "indikator": "Pločasti izmjenjivač topline naveden s konkretnom trgovačkom oznakom modela (FP 206-27-1-NH) i preciznim materijalnim specifikacijama bez posebno istaknute klauzule jednakovrijednosti uz tu stavku.",
+        "rizik": "srednji"
+      },
+      {
+        "indikator": "Troputni regulacijski ventil naveden preko točnih tvorničkih oznaka komponenti drugog proizvođača (Danfoss serija: VF3, AMV 435, ECL310, ključ A217), karakterističan obrazac za suženje kruga ponuditelja na jednog dobavljača/zastupnika opreme.",
+        "rizik": "srednji"
+      },
+      {
+        "indikator": "Tijekom pregleda ponuda naručitelj je od najpovoljnijeg ponuditelja izričito tražio dopunu s nazivom proizvođača/tipa ponuđenog ekspanzijskog uređaja, što potvrđuje da je konkretna marka/tip bila materijalno važna za ocjenu sukladnosti ponude.",
+        "rizik": "srednji"
+      }
+    ],
+    "rizik": "srednji",
+    "napomena": "Postupak je zaprimio 2 ponude; opća formula jednakovrijednosti postoji u tekstu (3.1.2.) i pokriva sve stavke troškovnika markirane markom/tipom, što ublažava (ali ne uklanja) rizik restriktivnosti proizašao iz razine detalja tehničkih specifikacija po pojedinim stavkama."
+  }
+}

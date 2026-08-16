@@ -1,0 +1,27 @@
+{
+  "postupak_id": 28848,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij ENP raščlanjen je na cijenu (90 bodova) i rok izvršenja usluge (10 bodova) uz eksplicitnu matematičku formulu za cijenu i preciznu bodovnu tablicu s intervalima za rok izvršenja (1-7 dana=10 bodova, 8-10=5 bodova, 11-15=0 bodova), uključujući gornju i donju granicu dopuštene vrijednosti. Nema dvosmislenosti niti prostora za subjektivnu ocjenu.",
+      "citat": "Ponuda s najnižom cijenom dobiva 90,00 bodova, dok se ostale ponude boduju prema formuli"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 2,
+      "obrazlozenje": "Zaseban dokument 'Tehnička specifikacija' sadrži samo jednu rečenicu bez ikakvog opisa zahtijevanih tehničkih/kvalitativnih karakteristika broda vodonosca (kapacitet, broj tankova, standard održavanja i sl.); jedini konkretan sadržaj je popis otoka i okvirnih količina u troškovniku. Operativni uvjeti (zdravstvena ispravnost vode, obveza dostave brisa tankova) navedeni su tek u Uputama za ponuditelje, odvojeno od tehničke specifikacije, što otežava cjelovit uvid u zahtjeve struke potreban za izradu usporedive ponude.",
+      "citat": "Tehnička specifikacija iskazana je pripadajućim troškovnikom"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 4,
+      "obrazlozenje": "Skup dokumenata (Opći podaci, Kriteriji za kvalitativni odabir, Kriteriji za odabir ponude, Upute za ponuditelje, Troškovnik, Prijedlog okvirnog sporazuma, Obrazac 1 i Obrazac 2) omogućuje samostalnu administrativnu izradu ponude - jasno su navedeni traženi dokazi, obrasci, iznosi jamstava i rokovi. Jedini nedostatak je tanka tehnička specifikacija (v. gore), zbog čega ocjena nije maksimalna.",
+      "citat": "Elektronička ponuda mora sadržavati najmanje: Uvez ponude Popunjeni eESPD obrazac (ili više njih, ako je primjenjivo) Popunjen troškovnik"
+    },
+    "prosjecna_ocjena": 3.67
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak"
+  },
+  "napomena": "Pročitane su sve relevantne .txt datoteke iz extracted/ (Opći podaci, Kriteriji za kvalitativni odabir, Kriteriji za odabir ponude, Upute za ponuditelje, Tehnička specifikacija, Troškovnik, Prijedlog okvirnog sporazuma, Obrasci 1-2, Obavijest o nadmetanju). Referentni uvjet tehničke i stručne sposobnosti (min. 1 usluga u vrijednosti 360.000 EUR, tj. ~49% procijenjene vrijednosti od 730.000 EUR) proporcionalan je predmetu nabave i ne ukazuje na prilagođenost specifičnom ponuditelju. Nema referenci na markice, patentirana rješenja niti nerazmjerne financijske/referentne pragove. Dokumenti 'Odluka o odabiru__PRILOZI ZAPISNIKU.rar.txt' (0 bajtova) i skenirani dodatni dokumenti nisu bili relevantni za ocjenu transparentnosti/restriktivnosti specifikacije jer se odnose na fazu nakon dodjele ugovora."
+}

@@ -1,0 +1,27 @@
+{
+  "postupak_id": 32200,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij za odabir ponude (ekonomski najpovoljnija ponuda) potpuno je operacionaliziran: eksplicitni ponderi (cijena 40%, iskustvo Ključnog stručnjaka 1 30%, Ključnog stručnjaka 2 30%), egzaktna bodovna tablica po broju referentnih projekata i matematička formula za cjenovni kriterij.",
+      "citat": "2 projekta 5,00 bodova 3 projekta 10,00 bodova 4 projekta 20,00 bodova 5 i više projekata 30,00 bodova"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 5,
+      "obrazlozenje": "Projektni zadatak (Prilog 1, 28 stranica) sadrži iznimno konkretan opis predmeta: popis svih projektnih faza, analizu postojećeg stanja s tablicama dužina dionica, kartografske priloge, popis 8 ključnih stručnjaka s definiranim ulogama. Opis je detaljan bez da suzuje tehnička rješenja.",
+      "citat": "Racionalno ulaganje u biciklističku infrastrukturu treba fokusirati na način da se s uloženim sredstvima postigne najviše."
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 4,
+      "obrazlozenje": "Dokumentacija je iznimno cjelovita: opći podaci, kriteriji za kvalitativni odabir, kriterij za odabir ponude, projektni zadatak, uputa za ponuditelje, te obrasci. Jedina manja slabost: Troškovnik sadrži samo jednu paušalnu stavku bez razrade po fazama/stručnjacima.",
+      "citat": "1. Izrada idejnog, glavnog i izvedbenog projekta s geodetskom snimkom zatečenog stanja, konzervatorskim elaboratom i provedbom arheoloških istraživanja... Usluga 1"
+    },
+    "prosjecna_ocjena": 4.67
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak",
+    "napomena": "Uvjet tehničke sposobnosti proporcionalan je stvarnom opsegu posla. Zahtjev za 8 ključnih stručnjaka opsežan je za procijenjenu vrijednost, ali opravdan stvarnom multidisciplinarnošću predmeta nabave. Nema referenci na konkretne proizvode, marke ili patentirana rješenja."
+  }
+}

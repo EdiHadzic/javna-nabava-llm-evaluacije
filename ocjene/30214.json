@@ -1,0 +1,28 @@
+{
+  "postupak_id": 30214,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 4,
+      "obrazlozenje": "Kriteriji za odabir su jasno i precizno definirani. Koristi se ekonomski najpovoljnija ponuda s dva sub-kriterija sa točno definiranim ponderima: cijena (70%) i trajanje jamstva (30%). Formule za bodovanje su eksplicitno navedene, uključujući granice za trajanje jamstva (minimum 24, maksimum 60 mjeseci).",
+      "citat": "Ekonomski najpovoljnija ponuda utvrđuje se na temelju Cijene i kvalitete. Cijena: 70,00 bodova; Trajanje jamstva za otklanjanje nedostataka: 30,00 bodova."
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 3,
+      "obrazlozenje": "Opis predmeta nabave je pronađen, ali relativno opći: radovi na izgradnji objekta Autohtone dalmatinske kućice i objekta restorana sa toaletima. Detaljne tehničke specifikacije postoje kao засebni prilog, ali nije jasno iz samog opisa što se točno gradi. Izdane su dvije izmjene dokumentacije, od kojih se druga odnosi na pojašnjenje specifikacije elektroinstalacija, što sugeriše da je inicijalna dokumentacija bila nedovoljno detaljnog opisana za dio osvjetljenja.",
+      "citat": "Opis predmeta nabave: 'Radovi na izgradnji objekta Autohtone dalmatinske kućice i objekta restorana sa toaletima za cijeli prostor benkovačkog sajma'. Izmjena: 'Pozicije rasvjete u vanjskom dvorištu trebaju biti izvedene sukladno rasporedu koji je dodatno učitan'."
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 4,
+      "obrazlozenje": "Dostupna je cjelovita dokumentacija obavezna za postupak: opći podaci o postupku, kriteriji za odabir, upute za ponuditelje, kvalitativni kriteriji za odabir gospodarskog subjekta, troškovnik, i tehnické specifikacije. Sve je učinjeno dostupno na EOJN. Međutim, činjenica da su izdane najmanje 2 izmjene dokumentacije ukazuje da je inicijalna verzija imala nedoslednosti ili nedostatke koji su zahtijevali pojašnjenja.",
+      "citat": "Dokumentacija o nabavi dostupna je besplatno i može joj se u potpunosti pristupiti izravno i neograničeno na: https://eojn.hr/. Detaljne tehničke specifikacije se nalaze u zasebnom prilogu."
+    },
+    "prosjecna_ocjena": 3.67
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak",
+    "obrazlozenje": "Nisu pronađeni pokazatelji prilagođenosti specifikacije određenom ponuditelju. Nema referenci na specifične marke, patente ili proizvode - gdje su navedeni, dokumentacija izričito dozvoljava 'jednakovrijedne proizvode'. Tehnički zahtjevi (inženjeri - građevinski, elektro, strojarskog smjera) su standardni za gradnju objekta te vrijednosti projekta. Financijski i iskustveni zahtjevi su proporcionalni. Dobit je konkurentna (2 ponude), a pobjednika nije očito privilegirani po nekoj karakteristici specifikacije."
+  },
+  "napomena": "Postupak je detaljno dokumentiran s kompletnom dokumentacijom dostupnom na EOJN. Izdane su dvije izmjene dokumentacije (18.12.2024. i barem još jedna, što je normalno za kompleksne građevinske projekte). Konačna dodjela: KLANAC GRADITELJSTVO d.o.o. s vrijednosti od 1.448.529,03 EUR (bez PDV), što je otprilike 48,8% više od procijenjene vrijednosti od 974.204,68 EUR - moguć sign da su inicijalni troškovi недоцијenjeni ili da je projekt nadopunjen tijekom obilaska. Izvađeni su tekstovi iz dostupnih dokumenata (prikupljeni dokumenti su uglavnom u PDF formatu s ekstrahiranim tekstom)."
+}

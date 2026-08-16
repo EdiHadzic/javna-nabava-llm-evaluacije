@@ -1,0 +1,30 @@
+{
+  "postupak_id": 30470,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriteriji za odabir ponude (ENP) su potpuno precizno definirani: cijena 90 bodova, rok isporuke 10 bodova, s eksplicitnom formulom bodovanja za cijenu i točno definiranom ljestvicom bodova za rok isporuke (24h/48h/72h), uključujući poseban obrazac 'IZJAVA - ROK ISPORUKE' za dokazivanje. Nema prostora za subjektivnu procjenu.",
+      "citat": "rok isporuke - 24 sata od narudžbe - 10 bodova rok isporuke - 48 sata od narudžbe - 5 bodova rok isporuke - 72 sata od narudžbe - 0 bodova"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Tehnička specifikacija u zasebnom dokumentu je minimalna (upućuje na troškovnik i opće propise o kvaliteti hrane), ali sâm troškovnik sadrži 70 stavki s preciznim jedinicama mjere, okvirnim količinama i nazivima proizvoda dovoljno konkretnim za usporedivu ponudu, a da pritom ne isključuje razumne alternative (samo 3 stavke referenciraju konkretan proizvod/marku, sve uz eksplicitnu klauzulu jednakovrijednosti).",
+      "citat": "Minimalne tehničke specifikacije predmeta nabave određene su u opisu u Troškovniku."
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 3,
+      "obrazlozenje": "Ključni dokumenti (kriteriji odabira, upute za ponuditelje, troškovnik, obrazac izjave o roku isporuke) su prisutni i sadržajno potpuni. Međutim, dostavljena Excel datoteka troškovnika je stara, ponovno korištena radna knjiga s brojnim nepovezanim povijesnim listovima (nabave hrane iz 2011.-2013.) pomiješanim sa stvarnim aktualnim troškovnikom za 2025., što otežava jednoznačno pronalaženje relevantnog obrasca i narušava urednost dokumentacije.",
+      "citat": "--- list: bure --- spremljeno nabava 2012 nabava i izračun 2012 ... --- list: List 1 --- ... Troškovnik za nabavu-ostali prehrambeni proizvodi za 2025. god."
+    },
+    "prosjecna_ocjena": 4.0
+  },
+  "restriktivnost": {
+    "prisutno": true,
+    "indikatori": [
+      "Referenca na konkretan proizvod/marku 'Kavovina Divka 250g' i 'Kavovina Kneipp 250g' u troškovniku, no uz eksplicitno navedeni kriterij jednakovrijednosti (sastav).",
+      "Referenca na marku 'Vegeta original' za dodatak jelima, također uz izričitu formulaciju 'ili jednakovrijedno' i minimalne sastavne kriterije."
+    ],
+    "rizik": "nizak",
+    "napomena": "Sve tri identificirane reference na marku popraćene su zakonski ispravnom klauzulom jednakovrijednosti, što bitno smanjuje rizik neopravdanog favoriziranja određenog ponuditelja."
+  }
+}

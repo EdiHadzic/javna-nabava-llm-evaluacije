@@ -1,0 +1,36 @@
+{
+  "postupak_id": 24401,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij ENP potpuno je operacionaliziran: cijena (90 bodova) i jamstveni rok (10 bodova) s eksplicitnim formulama, tablicom bodovanja po rasponima (0-24 mj.=0 bod., 25-47=5 bod., 48-60=10 bod.) i jasno definiranim min./max. ograničenjima vrijednosti kriterija te dokazom (Izjava o jamstvenom roku). Nema dvosmislenih ili nekvantificiranih elemenata.",
+      "citat": "Bodovi će se dodijeliti sukladno tablici: 0,00 24,00 0,00 - 25,00 47,00 5,00 - 48,00 60,00 10,00"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 5,
+      "obrazlozenje": "Tehnički opis i troškovnik iznimno su konkretni: precizne dimenzije, materijali, slojevi kolničke konstrukcije, klase betona, stacionaže i količine po stavkama, uz pozivanje na Glavni projekt (3 mape s nacrtima). Opis omogućuje izradu usporedive ponude, a pritom ne isključuje razumne tehničke alternative osim u dvije stavke opreme (v. restriktivnost).",
+      "citat": "asfaltbeton habajući AB11 BIT60 debljine 4 cm, bitumenizirani nosivi sloji BNS 32 BIT60 debljine 6 cm"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 4,
+      "obrazlozenje": "Dostupna je puna dokumentacija za samostalnu izradu ponude: Opći podaci, Kriteriji za odabir, Kriteriji kvalitativnog odabira, Upute za ponuditelje, detaljan troškovnik po stavkama i tehnički opis. Ocjena nije 5 jer je velik broj priloženih nacrta (situacije, uzdužni profili, presjeci, detalji) u izvučenom tekstu gotovo prazan (sadržaj je grafički/CAD, poznata OCR/skenirana limitacija ekstrakcije, a ne nužno manjkavost same dokumentacije dostupne ponuditeljima).",
+      "citat": "Detaljan troškovnik se nalazi u zasebnom prilogu – Troškovnik."
+    },
+    "prosjecna_ocjena": 4.67
+  },
+  "restriktivnost": {
+    "prisutno": true,
+    "indikatori": [
+      {
+        "opis": "Stavka odvodnje u troškovniku specificira točno određeni komercijalni proizvod (marku i model) s zaštićenom značajkom, bez naznake 'ili jednakovrijedno' bilo gdje u dokumentaciji.",
+        "citat": "ACO drain V200, tip 0.0, kanal iz polimerbetona s bezvijčanim DrainLock® učvršćivanjem rešetke."
+      },
+      {
+        "opis": "Ojačanje spoja kolnika specificirano je preko dvije imenovane komercijalne marke geomreže (bez generičke tehničke specifikacije ili formulacije jednakovrijednosti), što ublažava ali ne uklanja rizik jer je izbor sveden na dva konkretna proizvoda.",
+        "citat": "armiranjem kontakta geomrežom TENSAR AR-G ili GLASSTEX P50/P100"
+      }
+    ],
+    "rizik": "srednji"
+  },
+  "napomena": "Pročitane su sve relevantne .txt datoteke iz extracted/ (opći podaci, kriteriji za odabir ponude, kriteriji kvalitativnog odabira, upute za ponuditelje, obavijest o nadmetanju, tehnički opis, troškovnik, dokumenti odluke o odabiru). Velik broj PDF nacrta iz glavnog projekta (situacije, profili, presjeci, detalji) ekstrahiran je kao gotovo prazan tekst (89-186 znakova) — poznata limitacija OCR/skeniranih CAD priloga u pipelineu (v. CLAUDE.md, limitacija #7), ne indikacija da dokumentacija dostupna ponuditeljima nije bila potpuna. Referentni uvjet tehničke sposobnosti (1-3 ugovora u zbroju ≥ procijenjena vrijednost, unutar 5 god.) ocijenjen je kao standardan i proporcionalan, nije uključen u indikatore restriktivnosti."
+}

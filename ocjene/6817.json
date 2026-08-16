@@ -1,0 +1,28 @@
+{
+  "postupak_id": 6817,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij za odabir ponude (ekonomski najpovoljnija ponuda) razrađen je u zasebnom dokumentu s potpuno eksplicitnim ponderima (cijena 90, jamstveni rok 10), matematičkim formulama za bodovanje i tabličnim rasponima bodova za jamstveni rok, čime je metoda odabira u potpunosti mjerljiva i unaprijed predvidiva za ponuditelje.",
+      "citat": "Cijena 90,00 / Jamstveni rok 10,00... Bodovi za svaki od kriterija računa se na šest decimala, zaokruživanjem na više."
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Tehnička specifikacija transformatora vrlo je detaljna (nazivne snage, naponi, grupa spoja, tolerancije, ispitivanja, dokumentacija uz isporuku), no radi se o standardiziranom proizvodu gdje je takva razina detalja uobičajena i nužna za usporedivost ponuda; naručitelj eksplicitno dopušta jednakovrijedne norme čime se izbjegava neopravdano sužavanje kruga ponuditelja.",
+      "citat": "Izrada po drugim normama odnosno po drugim odredbama iz tehničke regulative koja osigurava iste ili bolje karakteristike i/ili kvalitetu također će biti prihvaćena."
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dostupan je pun standardni set dokumentacije (opći podaci, upute za ponuditelje, kriteriji za odabir ponude, kriteriji kvalitativnog odabira, tehnička specifikacija s tablicama tehničkih podataka po tipu transformatora, troškovnik, prijedlog ugovora, izjava o integritetu), dovoljan za samostalnu izradu ponude bez dodatnih pojašnjenja.",
+      "citat": "Elektronička ponuda mora sadržavati najmanje: Uvez ponude, Popunjeni eESPD obrazac, Popunjen troškovnik... popunjene i ovjerene Tablice tehničkih podataka"
+    },
+    "prosjecna_ocjena": 4.67
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak",
+    "napomena_restriktivnost": "Tehnička specifikacija upućuje isključivo na europske/hrvatske norme (HRN EN/IEC) uz izričito dopuštenje jednakovrijednih normi, bez referenci na konkretni proizvod, marku ili patentirano rješenje. Uvjet reference (minimalno 1 isporuka u vrijednosti jednakoj ili većoj od procijenjene vrijednosti nabave u posljednje 3 godine) proporcionalan je i uobičajen za ovu vrstu nabave. Zaprimljena je samo 1 ponuda (BRODOMERKUR ENERGETIKA d.o.o.), no to je vjerojatnije posljedica uskog specijaliziranog tržišta proizvođača energetskih transformatora nego dokumentacijom uvjetovane restriktivnosti."
+  },
+  "napomena": "Pročitani su svi relevantni dokumenti iz extracted/ (opći podaci, upute za ponuditelje, kriteriji za odabir ponude, kriteriji kvalitativnog odabira, tehnička specifikacija, obavijest o nadmetanju, zapisnik o pregledu i ocjeni, obavijest o dodjeli ugovora). Prilozi.zip.txt je prazan (0 bajtova - vjerojatno neuspjela ekstrakcija arhive), ali sadržaj nije bio presudan jer su tablice tehničkih podataka dostupne zasebno kao PDF-ovi po tipu transformatora."
+}

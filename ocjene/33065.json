@@ -1,0 +1,27 @@
+{
+  "postupak_id": 33065,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij odabira (ekonomski najpovoljnija ponuda) potpuno je operacionaliziran matematičkim formulama za oba potkriterija (cijena 90%, rok isporuke 10%), s jasno definiranim min/max vrijednostima i pravilom za jednako rangirane ponude.",
+      "citat": "CP = Pmin / Ppon * 90 ... Rok isporuke RI = RImin / RIx * 10"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Predmet nabave opisan je kroz 89 stavki troškovnika (Grupa 1) i 12 stavki (Grupa 2) s generičkim (INN) nazivima, dozom, farmaceutskim oblikom, pakiranjem i okvirnom količinom po stavci, što omogućuje usporedivu ponudu. Samostalni dokument 'Tehničke specifikacije' je tek generička izjava bez dodatnog sadržaja.",
+      "citat": "acetil. Salic kiselina 300 mg\ttableta\tkom\t1400"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dostupan je pun set dokumenata potreban za samostalnu izradu ponude: opći podaci, upute za ponuditelje, kriteriji kvalitativnog odabira, formula bodovanja, troškovnici po grupama, obrasci izjava te tehnička specifikacija; postoji i objavljena izmjena dokumentacije/troškovnika.",
+      "citat": "Elektronička ponuda za svaku ponuđenu grupu mora sadržavati najmanje: ... Popunjeni eESPD obrazac ... Popunjen troškovnik"
+    },
+    "prosjecna_ocjena": 4.67
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak",
+    "napomena": "Stavke troškovnika navedene su isključivo generičkim (INN) nazivima uz eksplicitnu dopuštenost jednakovrijednih proizvoda; referentni uvjet proporcionalan je i ne prelazi vrijednost nabave - nema indikatora prilagođenosti određenom ponuditelju."
+  }
+}

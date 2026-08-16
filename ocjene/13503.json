@@ -1,0 +1,27 @@
+{
+  "postupak_id": 13503,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 2,
+      "obrazlozenje": "Kriterij za odabir ponude naveden je jednoznačno (cijena, 100% značaja), no dokument ne sadrži nikakvo obrazloženje metodologije ocjenjivanja niti kontekst primjene kriterija u pregovaračkom postupku sa samo jednim ponuditeljem — informacija je formalno prisutna, ali sadržajno minimalna jer nema stvarne usporedbe ponuda.",
+      "citat": "Kriterij za odabir ponude Cijena: Naziv kriterija Značaj Cijena 100,00"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 1,
+      "obrazlozenje": "Opis predmeta nabave doslovno ponavlja naziv postupka bez ikakvog dodatnog tehničkog opisa, opsega radova, količina ili specifikacija koje bi omogućile usporedivu ponudu neovisnom ponuditelju.",
+      "citat": "Opis nabave: Demontaža i defektaža crpke-turbine agregata 1"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 1,
+      "obrazlozenje": "Jedini dostupan dokument za ovaj postupak je Obavijest o dodjeli ugovora; ne postoji dokumentacija o nabavi, tehnička specifikacija, troškovnik niti obrasci za pripremu ponude. To je izravna posljedica vrste postupka (pregovarački bez prethodne objave), koji po definiciji ne uključuje javno objavljenu dokumentaciju o nabavi, ali za neovisnog promatrača dokumentacija je u potpunosti nedostupna.",
+      "citat": "Vrsta postupka: Pregovarački postupak bez prethodne objave poziva na nadmetanje"
+    },
+    "prosjecna_ocjena": 1.33
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak"
+  },
+  "napomena": "Za ovaj postupak dostupan je isključivo jedan dokument — Obavijest o dodjeli ugovora (sektorski naručitelj, HEP-Proizvodnja d.o.o.) — jer se radi o pregovaračkom postupku bez prethodne objave poziva na nadmetanje, opravdanom iznimnom žurnošću (puknuće radnog kola crpke-turbine agregata 1 u RHE Velebit). Nema dokumentacije o nabavi niti tehničke specifikacije za analizu, pa procjena restriktivnosti (prilagođenosti specifikacije određenom ponuditelju) nije moguća na temelju sadržajnih indikatora — nema teksta specifikacije koji bi se mogao ispitati na reference na marku/patentirano rješenje ili nesrazmjerne pragove. Zaprimljena je samo 1 ponuda, izravno od tvrtke ZAKŁADY REMONTOWE ENERGETYKI KATOWICE S.A., što je očekivano s obzirom na prirodu postupka (izravni pregovori s odabranim izvođačem zbog žurnosti), a ne nužno znak namjerne restriktivnosti. Niske ocjene transparentnosti stoga prvenstveno odražavaju strukturnu odsutnost javno dostupne dokumentacije o nabavi u ovoj vrsti postupka, a ne nužno namjeru naručitelja da prikrije informacije."
+}

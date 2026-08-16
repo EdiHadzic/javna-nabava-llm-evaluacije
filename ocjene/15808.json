@@ -1,0 +1,27 @@
+{
+  "postupak_id": 15808,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij za odabir ponude je ekonomski najpovoljnija ponuda s dva potkriterija (cijena 90 %, rok odaziva na reklamaciju 10 %), oba matematički precizno definirana formulama s jasno određenim minimalnim (2 dana) i maksimalnim (5 dana) dopuštenim rasponom za necjenovni kriterij, bez prostora za subjektivnu ocjenu.",
+      "citat": "C = (Cmin/Cp) x 90 ... Ro = Romin/Rop * 10"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Opis predmeta oslanja se na vrlo detaljan troškovnik (naziv, šifra, autori, nakladnik, vrsta izdanja za svaki udžbenik po razredu i predmetu, temeljem službenog Kataloga odobrenih udžbenika MZO-a), što omogućuje potpuno usporedive ponude. Utvrđena je jedna manja pogreška u nazivu naslova u izvornom troškovniku (naslov za 3. razred zamijenjen naslovom koji postoji za 2. razred), koju je naručitelj promptno ispravio nakon upita zainteresiranog gospodarskog subjekta.",
+      "citat": "Naslov „ČITAM I PIŠEM 3 rukopisno pismo i jezični udžbenik...“ ne postoji... molimo korekciju troškovnika. Odgovor: Prihvaća se primjedba..."
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dostupna je kompletna dokumentacija (Opći podaci, Upute za ponuditelje, Kriteriji za kvalitativni odabir, Tehničke specifikacije, Kriterij za odabir ENP, troškovnik) dostatna za samostalnu izradu ponude, što potvrđuje i podatak da su sve tri zaprimljene ponude (Školska knjiga d.d., EKUPI d.o.o., Narodne novine d.d.) ocijenjene valjanima prema obliku, sadržaju i cjelovitosti te su zadovoljile sve zahtjeve tehničke specifikacije.",
+      "citat": "Ponuda ponuditelja Ekupi d.o.o. dostavljena je putem EOJN RH u za to propisanom obliku i sadrži sve tražene dijelove ponude."
+    },
+    "prosjecna_ocjena": 4.67
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak"
+  },
+  "napomena": "Predmet nabave (školski udžbenici) po prirodi zahtijeva navođenje točnih naslova/nakladnika iz službenog Kataloga odobrenih udžbenika MZO-a, no to nije prepreka tržišnom natjecanju jer isti naslov mogu ponuditi svi ovlašteni distributeri udžbenika - potvrđeno time što su tri različita gospodarska subjekta dostavila valjane, usporedive ponude za identičan popis stavki. Naručitelj je transparentno objavio i podatak o sukobu interesa (član stručnog povjerenstva Kristijan Kotlar, vlasnik obrta Bliss), no taj gospodarski subjekt nije sudjelovao kao ponuditelj u ovom postupku pa okolnost nije utjecala na tijek nadmetanja. Jamstvo za ozbiljnost ponude (1.000 EUR, ~1,6 % procijenjene vrijednosti) i uvjet reference (min. 1, maks. 2 ugovora u vrijednosti procijenjene nabave) proporcionalni su predmetu i vrijednosti nabave."
+}

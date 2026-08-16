@@ -1,0 +1,27 @@
+{
+  "postupak_id": 20108,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 4,
+      "obrazlozenje": "Kriteriji za odabir ponude jasno su definirani i mjerljivi: cijena nosi 90 od 100 bodova, a kvalitativni kriterij 'Kapacitet praonice rublja' 10 bodova, uz eksplicitne matematičke formule bodovanja (relativno prema najnižoj cijeni odnosno najvišoj ponuđenoj vrijednosti kapaciteta), jedinicu mjere i donji prag prihvatljivosti. Jedina slabost je što se kapacitet dokazuje slobodnom izjavom ponuditelja bez zahtjeva za neovisnom potvrdom, što ostavlja prostor za naknadnu spornu provjeru.",
+      "citat": "Minimalni dnevni kapacitet praonice rublja ne smije biti manji od 500 kg."
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 2,
+      "obrazlozenje": "Opis predmeta nabave svodi se na jednu rečenicu (pranje i glačanje bolničkog rublja, radne i zaštitne odjeće) i jednu stavku troškovnika iskazanu isključivo u kilogramima (110.000 kg okvirno godišnje), bez razrade po vrsti rublja, razini kontaminacije/higijenskih zahtjeva, dinamici preuzimanja/dostave ili načinu pakiranja. Dokument 'Teh. specifikacije' ne sadrži stvarnu specifikaciju nego upućuje natrag na troškovnik, koji opet ne sadrži tehničke detalje - kružna, sadržajno prazna referenca.",
+      "citat": "Tehnička specifikacija predmeta nabave određena je u troškovniku koji je prilog ove dokumnetacije za nadmetanje."
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 3,
+      "obrazlozenje": "Administrativna dokumentacija (Opći podaci, Kriteriji kvalitativnog odabira, Kriteriji za odabir ponude, Upute za ponuditelje) iznimno je opsežna i standardizirana, s jasnim uputama o ESPD-u, jamstvima, rokovima i dokazima sposobnosti. No, dokumentacija nužna za samostalnu tehničku pripremu ponude (stvarna tehnička specifikacija, razrada troškovnika) praktički ne postoji izvan jedne stavke u kilogramima, što ponuditelja ostavlja da tehničke pretpostavke gradi samostalno.",
+      "citat": "PRANJE I GLAČANJE BOLNIČKOG RUBLJA, RADNE I ZAŠTITNE ODJEĆE"
+    },
+    "prosjecna_ocjena": 3.0
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak"
+  },
+  "napomena": "Nema referenci na točno određeni proizvod/marku, patentirano rješenje niti nesrazmjerne financijske/referentne pragove (referentni uvjet - ugovori u zbroju jednaki procijenjenoj vrijednosti - standardan je; BON-2/SOL-2 i ISO 9001/14001 uobičajeni su za ovu vrstu usluge). Uočena su dva blaža, ali neformalno dvosmislena elementa koja nisu klasificirana kao restriktivnost: (1) zahtjev za intervencijskom uslugom pranja u roku od 5 sati od naloga bolnice implicitno favorizira geografski bliske ponuditelje, no operativno je opravdan prirodom usluge; (2) na postupak je pristigla samo jedna ponuda (TURISTHOTEL d.o.o.), što ukazuje na nisku razinu konkurentnosti, ali samo po sebi ne dokazuje da je dokumentacija prilagođena tom ponuditelju - nema tekstualnih indikatora u tom smjeru. Tehnička dokumentacija (v. razina_detalja_opisa) sadržajno je minimalna, što ograničava mogućnost procjene je li opis predmeta nabave neproporcionalno uzak ili širok."
+}

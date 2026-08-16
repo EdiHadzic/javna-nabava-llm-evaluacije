@@ -1,0 +1,36 @@
+{
+  "postupak_id": 11066,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 3,
+      "obrazlozenje": "Kriterij odabira je jednoznačan (cijena, značaj 100%), no dokument ne sadrži nikakvu metodologiju bodovanja niti obrazloženje formule - vjerojatno jer se radi o pregovaračkom postupku s jednim (jedinim mogućim) ponuditeljem, pa je 'ocjenjivanje' formalnost bez stvarne usporedbe ponuda.",
+      "citat": "Cijena: 100,00"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 1,
+      "obrazlozenje": "Opis predmeta nabave samo ponavlja naziv postupka bez ikakvih podataka o opsegu usluge, broju/vrsti operacija priveza i odveza, radnom vremenu, tehničkim zahtjevima ili očekivanoj razini usluge - ne postoji dokumentacija o nabavi u extracted/ koja bi to razradila.",
+      "citat": "Opis nabave: USLUGE PRIVEZA I ODVEZA BRODOVA JADROLINIJE U PUTNIČKOJ LUCI ZADAR (POLUOTOK)"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 1,
+      "obrazlozenje": "U direktoriju extracted/ postoji isključivo Obavijest o dodjeli ugovora (rezultati postupka) - nema dokumentacije o nabavi, tehničkih uvjeta, troškovnika ni obrazaca. Za samostalnu izradu ponude (hipotetski, jer postupak nije bio otvoren tržištu) ne bi bilo dovoljno informacija.",
+      "citat": "Obavijest o dodijeli ugovora - Rezultati postupka nabave"
+    },
+    "prosjecna_ocjena": 1.67
+  },
+  "restriktivnost": {
+    "prisutno": true,
+    "indikatori": [
+      {
+        "opis": "Postupak je proveden kao pregovarački bez prethodne objave poziva na nadmetanje, s eksplicitnim pravnim obrazloženjem da posao zbog isključivog prava (koncesije) može izvršiti samo jedan, poimence naveden gospodarski subjekt - najekstremniji oblik isključenja tržišnog natjecanja, jer čak ni formalna mogućnost konkurencije nije postojala.",
+        "citat": "Prvenstvena koncesija za obavljanje lučke djelatnosti priveza i odveza brodova... dodijeljena je društvu LUKA ZADAR d.d."
+      },
+      {
+        "opis": "Zaprimljena je točno jedna ponuda, od istog subjekta kojem je i inače dodijeljena isključiva koncesija za tu djelatnost u luci Zadar - potvrđuje da je krug mogućih ponuditelja bio sveden na jednog unaprijed poznatog subjekta.",
+        "citat": "Broj zaprimljenih ponuda: 1"
+      }
+    ],
+    "rizik": "visok"
+  },
+  "napomena": "extracted/ sadrži samo jednu datoteku (Obavijest o dodjeli ugovora); nema dokumentacije o nabavi, tehničke specifikacije ni poziva na nadmetanje jer se radi o pregovaračkom postupku bez prethodne objave, pravno utemeljenom na isključivom pravu/koncesiji. Niske ocjene transparentnosti stoga dijelom odražavaju stvarni nedostatak dokumentacije, a dijelom prirodu postupka u kojem klasična tržišna transparentnost (usporediva ponuda, tehnički uvjeti za više ponuditelja) nije ni bila primjenjiva - restriktivnost je ovdje zakonski sankcionirana, ali suštinski predstavlja potpuno isključenje tržišnog natjecanja."
+}

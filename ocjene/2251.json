@@ -1,0 +1,31 @@
+{
+  "postupak_id": 2251,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij za odabir ponude je isključivo cijena (100% pondera), s eksplicitno navedenom formulom bodovanja i postupkom u slučaju izjednačenih ponuda; nema dvosmislenih ili nemjerljivih ne-cjenovnih kriterija.",
+      "citat": "Kriterij odabira je najniža cijena s PDV-om prihvatljive, prikladne i pravilne ponude."
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Tehnička specifikacija navodi konkretne parametre (broj sudionika po kategoriji, tip pansiona, raspored soba, minimalna kategorizacija objekta, lokacija), no naručitelj sam navodi da su količine okvirne jer broj sudionika ovisi o nižim razinama natjecanja koje još nisu održane, što unosi određenu neodređenost u opis predmeta.",
+      "citat": "Naručitelj je u Tehničkoj specifikaciji i Troškovniku odredio okvirne (očekivane) količine za navedeni predmet nabave"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dostupna je cjelovita dokumentacija (Opći podaci, Upute za ponuditelje, Kriteriji za odabir ponude, Kriteriji za kvalitativni odabir, Tehnička specifikacija, Troškovnik) dovoljna za samostalnu izradu ponude bez dodatnih upita; postupak je proveden bez žalbi na dokumentaciju, uz samo manje naknadno pojašnjenje roka valjanosti ponude i ispravak računske pogreške na strani ponuditelja.",
+      "citat": "Elektronička ponuda mora sadržavati najmanje: Uvez ponude Popunjeni eESPD obrazac (ili više njih, ako je primjenjivo) Popunjen troškovnik"
+    },
+    "prosjecna_ocjena": 4.67
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [
+      "Zahtjev za lokacijom objekta (mjesto održavanja natjecanja, Zadar) proizlazi izravno iz prirode usluge (smještaj sudionika natjecanja koje se održava u Zadru), nije proizvoljno suženje tržišta.",
+      "Zahtjev minimalne kategorizacije 3* je uobičajen i razmjeran vrsti usluge (smještaj i prehrana), ne upućuje na konkretnog ponuditelja niti markiranu/patentiranu robu.",
+      "Tehnička i stručna sposobnost dokazuje se tek izjavom o sposobnosti izvršenja usluge, bez traženja nesrazmjernih referenci ili financijskih pragova."
+    ],
+    "rizik": "nizak"
+  },
+  "napomena": "Pročitani su svi relevantni dokumenti iz extracted/ (Opći podaci, Upute za ponuditelje, Kriteriji za odabir ponude, Kriteriji za kvalitativni odabir, Tehnička specifikacija, Troškovnik, Obavijest o nadmetanju, Zapisnik o pregledu i ocjeni, ispravci/pojašnjenja). Zaprimljena je samo jedna ponuda (HOSTEL 4 YOU d.o.o.), što može odražavati usko lokalno tržište (hoteli 3*+ u Zadru s kapacitetom za 210 osoba) prije nego restriktivnost specifikacije — u samom tekstu dokumentacije nema indikatora prilagođenosti konkretnom ponuditelju."
+}

@@ -1,0 +1,27 @@
+{
+  "postupak_id": 2069,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij odabira je ekonomski najpovoljnija ponuda s potpuno formuliranim bodovanjem (cijena 90 %, jamstveni rok 10 % s egzaktnom tablicom bodova po rasponima mjeseci). Uvjeti sposobnosti su brojčano mjerljivi: referenca radova kumulativne vrijednosti ≥ procijenjena vrijednost nabave, imenovana kvalifikacija (voditelj radova građevinske struke) i točno specificirana minimalna tehnička opremljenost (4 stroja s egzaktnim tehničkim parametrima).",
+      "citat": "najmanje 1 (jedan) ugovor, a najviše 5 (pet) ugovora ista ili slična predmetu nabave čija zbrojena vrijednost mora biti jednaka ili viša od 560.000,00 EUR-a."
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Samostalni prilog 'Tehničke specifikacije' sadrži samo jednu rečenicu koja upućuje na Troškovnik, ali Troškovnik sam sadrži vrlo detaljan opis (preko 100 stavki po vrsti radova, materijalima, dimenzijama, jedinicama mjere i okvirnim količinama), pa je stvarna razina detalja visoka, samo organizacijski koncentrirana u jednom dokumentu umjesto podijeljena po zasebnim prilozima.",
+      "citat": "Predmet troškovnika su građevinski radovi održavanja nerazvrstanih cesta na području Grada Obrovca, održavanje kolnika u zimskim uvjetima i održavanje prometne signalizacije i opreme."
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dostupan je cjelovit skup dokumenata potreban za samostalnu izradu ponude: opći podaci, kriteriji kvalitativnog odabira s uputama o dokazivanju (ESPD), kriteriji i formula za odabir ponude, upute za ponuditelje (jamstva, dostava, plaćanje, rokovi), detaljan troškovnik te obrasci (izjava o jamstvenom roku, ovlast za zastupanje). Nema uočljivih nedostajućih priloga potrebnih za pripremu ponude.",
+      "citat": "Elektronička ponuda mora sadržavati najmanje: Uvez ponude Popunjeni eESPD obrazac (ili više njih, ako je primjenjivo) Popunjen troškovnik"
+    },
+    "prosjecna_ocjena": 4.67
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak"
+  },
+  "napomena": "Tehnički zahtjevi za opremu (valjak, bager/kombinirani stroj, greder, kiper) definirani su generičkim tehničkim parametrima (snaga, širina, nosivost), bez referenci na marku/proizvođača ili patentirano rješenje; financijski i referentni uvjeti proporcionalni su procijenjenoj vrijednosti nabave (560.000 EUR). Dva PDF-a (Odluka o odabiru - potpisana, Zapisnik ... potpisano) ekstrahirana su s vidljivim OCR artefaktima (izmiješana slova, tablice raspadnute u linije), ali sadržaj je unakrsno provjeren i potpuno se poklapa s paralelnim HTML/nepotpisanim inačicama istih dokumenata, pa nije utjecao na ocjenu."
+}

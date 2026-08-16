@@ -1,0 +1,44 @@
+{
+  "postupak_id": 11827,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij za odabir (ekonomski najpovoljnija ponuda) potpuno je operacionaliziran: jasna raspodjela pondera (cijena 80, rok isporuke 20), eksplicitne matematičke formule za bodovanje oba kriterija, tablica bodova po rasponu dana isporuke, pravilo za rangiranje u slučaju izjednačenja te definirano zaokruživanje na šest decimala.",
+      "citat": "FI=(NC/CP)x80 pri čemu su FI-broj bodova ponude za cijenu CP - cijena ponude za koju se računa broj bodova NC- najniža cijena"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 3,
+      "obrazlozenje": "Tehnička specifikacija iznimno je detaljna (91 stavka), što omogućuje usporedivost ponuda, ali više ključnih parametara zadano je i minimalnom i maksimalnom vrijednošću u vrlo uskom rasponu (npr. snaga motora u rasponu od svega 6 kW, zapremnina motora u rasponu od 700 ccm, uz istovremeno zadan maksimalni osovinski razmak, maksimalnu masu i maksimalne vanjske dimenzije nadograđenog vozila), što graniči s isključivanjem razumnih tržišno dostupnih alternativa umjesto funkcionalnog opisa.",
+      "citat": "Snaga motora min.178 kW - max. 184 kW"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dostupan je cjelovit paket: opći podaci, upute za ponuditelje, kriteriji za kvalitativni odabir (uklj. ESPD upute), kriteriji za odabir ponude s formulama, tehnička specifikacija, troškovnik, obrasci izjava (rok isporuke, jamstveni rok, prezentacija vozila), zapisnik o pregledu i ocjeni te odluka o odabiru i obavijest o dodjeli ugovora - dovoljno za samostalnu izradu ponude bez nejasnoća o postupku. Jedina prazna datoteka (Prilozi.zip) potječe od izvorne 0-bajtne arhive na EOJN-u, a ne od stvarno nedostajuće dokumentacije.",
+      "citat": "Elektronička ponuda mora sadržavati najmanje: Uvez ponude Popunjeni eESPD obrazac ... Popunjen troškovnik ... Tehničko rješenje/opis"
+    },
+    "prosjecna_ocjena": 4.33
+  },
+  "restriktivnost": {
+    "prisutno": true,
+    "indikatori": [
+      {
+        "opis": "Snaga motora zadana u vrlo uskom rasponu od svega 6 kW (178-184 kW), što je tipičan obrazac 'ograđivanja specifikacije' oko jednog konkretnog motora/modela podvozja, iako marka nije izravno navedena.",
+        "citat": "Snaga motora min.178 kW - max. 184 kW"
+      },
+      {
+        "opis": "Zapremnina motora ograničena uskim rasponom (6800-7500 ccm) koji dodatno sužava broj podvozja koja mogu istovremeno zadovoljiti i snagu i zapremninu.",
+        "citat": "Zapremnina motora min. 6800 ccm max. 7500 ccm"
+      },
+      {
+        "opis": "Kombinacija istovremeno zadanih maksimalnih vrijednosti (najveća dopuštena masa, osovinski razmak, vanjske dimenzije nadograđenog vozila) uz minimalne zahtjeve za zapreminu sanduka i nosivost dodatno sužava krug tehnički prihvatljivih vozila.",
+        "citat": "Dimenzije nadograđenog vozila (dxšxv) max: 6900x2350x3200 mm"
+      },
+      {
+        "opis": "U otvorenom postupku iznad EU praga zaprimljena je samo jedna ponuda, što je konzistentno s hipotezom da uske tehničke specifikacije ograničavaju broj sposobnih ponuditelja (kontekstualni, ne tekstualni pokazatelj).",
+        "citat": "Broj zaprimljenih ponuda: 1"
+      }
+    ],
+    "rizik": "srednji"
+  },
+  "napomena": "Pročitane su sve relevantne .txt datoteke iz extracted/ (opći podaci, kriteriji kvalitativnog odabira, kriteriji za odabir ponude, upute za ponuditelje, obavijest o nadmetanju, tehnička specifikacija, troškovnik, oba zapisnika o pregledu i ocjeni, obje verzije odluke o odabiru, obavijest o dodjeli ugovora, obrasci 1-3). Postupak je nabava komunalnog vozila 10m3 putem financijskog leasinga (ČISTOĆA PAG d.o.o., 227.000 EUR), s jednim zaprimljenim ponuditeljem (OTP Leasing d.d. kao davatelj leasinga, cijena bez PDV-a 222.161,55 EUR, rok isporuke 60 dana, ukupno 100 bodova). Restriktivnost nije utemeljena na eksplicitnom navođenju marke/modela ili patentiranog rješenja, nego na kombinaciji uskih brojčanih raspona (snaga, zapremnina motora) koja je poznati obrazac neizravne restriktivnosti u nabavi komunalnih vozila - rizik je stoga ocijenjen kao srednji, a ne visok."
+}

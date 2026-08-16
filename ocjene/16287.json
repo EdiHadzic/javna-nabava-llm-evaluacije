@@ -1,0 +1,40 @@
+{
+  "postupak_id": 16287,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 4,
+      "obrazlozenje": "Kriterij za odabir ponude eksplicitno je naveden i mjerljiv (cijena, značaj 100 %). Riječ je, međutim, o pregovaračkom postupku bez prethodne objave sa samo jednim ponuditeljem, pa kriterij ima ograničeno praktično značenje jer nema stvarnog natjecanja u kojem bi se primjenjivao.",
+      "citat": "Cijena ... 100,00"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 2,
+      "obrazlozenje": "Opis predmeta nabave vrlo je općenit — svodi se na naziv usluge i trajanje (12 mjeseci), bez tehničke specifikacije, opsega usluga, razine usluge (SLA) ili drugih mjerljivih parametara koji bi omogućili usporedivu ponudu neovisnom ponuditelju.",
+      "citat": "usluga održavanja informatičkog programa Medicus.Net za rad ordinacija primarne zdravstvene zaštite Doma zdravlja Zadarske županije za jednogodišnje razdoblje"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 1,
+      "obrazlozenje": "U direktoriju extracted/ dostupna je isključivo obavijest o dodjeli ugovora; nema tehničke specifikacije, troškovnika, obrazaca niti druge dokumentacije o nabavi potrebne za samostalnu izradu ponude. To je dosljedno prirodi postupka (pregovarački bez prethodne objave), kod kojeg takva dokumentacija nije ni bila javno objavljena.",
+      "citat": "Vrsta postupka: Pregovarački postupak bez prethodne objave poziva na nadmetanje"
+    },
+    "prosjecna_ocjena": 2.33
+  },
+  "restriktivnost": {
+    "prisutno": true,
+    "indikatori": [
+      {
+        "opis": "Postupak je proveden kao pregovarački bez prethodne objave, izravno pravdan zaštitom isključivih prava/intelektualnog vlasništva postojećeg dobavljača, čime je tržišno natjecanje unaprijed isključeno.",
+        "citat": "Članak 131. stavak 1. točka 2. podtočka c) ZJN2016 - zbog zaštite isključivih prava, uključujući prava intelektualnog vlasništva"
+      },
+      {
+        "opis": "Obrazloženje eksplicitno navodi da samo jedan određeni gospodarski subjekt tehnički može izvršiti uslugu, zbog vezanosti naručitelja na već implementiran vlasnički softver i CEZIH certifikaciju.",
+        "citat": "iz tehničkih razloga samo određeni gospodarski subjekt može za korisnika obaviti usluge održavanja i najma predmetnog programa"
+      },
+      {
+        "opis": "Rezultat postupka potvrđuje potpunu odsutnost natjecanja — zaprimljena je samo jedna ponuda.",
+        "citat": "Broj zaprimljenih ponuda: 1"
+      }
+    ],
+    "rizik": "visok"
+  },
+  "napomena": "U extracted/ nalazi se isključivo 'Obavijest o dodjeli ugovora' (jedina datoteka), bez dokumentacije o nabavi, tehničke specifikacije ili kriterija za kvalitativni odabir u punom opsegu — jer se radi o pregovaračkom postupku bez prethodne objave kod kojeg takva dokumentacija nije bila ni objavljena. Niske ocjene za 'razina_detalja_opisa' i 'potpunost_dokumentacije' odražavaju ovo ograničenje dostupnog izvora, a ne nužno kvalitetu interne dokumentacije naručitelja. Visoka ocjena rizika restriktivnosti proizlazi izravno iz same pravne osnove postupka (isključiva prava/vendor lock-in), a ne iz analize teksta specifikacije kao u tipičnom otvorenom postupku."
+}

@@ -1,0 +1,27 @@
+{
+  "postupak_id": 13558,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 4,
+      "obrazlozenje": "Kriterij ENP jasno je razložen na tri mjerljive komponente s eksplicitnim ponderima i bodovnim skalama (cijena po formuli, rok isporuke i jamstveni rok po diskretnim intervalima). Ocjena nije 5 jer je u dokumentu 'Bodovanje.pdf' vidljiva ostatna pogreška iz predloška ('86 – maksimalni broj bodova' unatoč tome što je maksimalan broj bodova za cijenu 70), a naručitelj je naknadno morao izdati ispravak dokumentacije zbog krivog obrasca za jamstveni rok, što ukazuje na manju nepreciznost prvotne verzije.",
+      "citat": "1. Cijena ponude bez PDV-a- 70% - 70 bodova 2. Rok isporuke- 20% - 20 boda 3. Jamstveni rok za vozilo – 10% - 10 bodova"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Opis predmeta nabave u dijelu I dokumentacije je sažet, no detaljna tehnička specifikacija priložena je u zasebnom dokumentu s opsežnim popisom mjerljivih zahtjeva (dimenzije, snaga, kapaciteti, materijali) za podvozje i nadogradnju, što omogućuje usporedivu ponudu. Nije 5 jer opis samog predmeta u glavnom tekstu ostaje generički ('Specijalno vozilo za uklanjanje FOD-a s operativnih površina') i oslanja se u potpunosti na prilog za konkretizaciju.",
+      "citat": "Snaga motora min. 150 kW / Zapremina motora min. 4.000 cm³ / Najveća dopuštena masa podvozja: max. 8.500kg"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dostupan je pun i međusobno konzistentan skup dokumenata potreban za samostalnu izradu ponude: opći podaci, kriteriji kvalitativnog odabira s uputama za ESPD, upute za ponuditelje s odredbama o cijeni, jamstvima i kriteriju odabira, zasebni dokument s formulom bodovanja, tehničke specifikacije i troškovnik. Svi dokumenti su sadržajno neprazni i međusobno usklađeni (isti evidencijski broj, isti iznosi, ista imena kriterija).",
+      "citat": "Elektronička ponuda mora sadržavati najmanje: Uvez ponude Popunjeni eESPD obrazac (ili više njih, ako je primjenjivo) Popunjen troškovnik"
+    },
+    "prosjecna_ocjena": 4.33
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak"
+  },
+  "napomena": "Pročitano svih 13 sadržajnih .txt datoteka u extracted/ (dvije su prazni obrasci izjava bez teksta koji bi utjecao na ocjenu). U tehničkim specifikacijama nema referenci na točno određenu marku/proizvođača niti na patentirano rješenje; jedina navedena boja ('bijela 9010') sadrži klauzulu 'ili jednakovrijedno'. Nema naznaka nesrazmjerno visokih financijskih/referentnih pragova - jedini dodatni uvjet tehničke sposobnosti je dostava fotografija/kataloga radi potvrde sukladnosti sa specifikacijom, što je uobičajeno za opremu ove vrste. Zaprimljena je samo jedna ponuda (GRADATIN d.o.o.), što ne predstavlja tekstualni indikator restriktivnosti prema definiciji zadatka, ali je zabilježeno kao kontekstualna napomena."
+}

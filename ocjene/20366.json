@@ -1,0 +1,40 @@
+{
+  "postupak_id": 20366,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij odabira je ekonomski najpovoljnija ponuda s eksplicitno kvantificiranim relativnim značajem (cijena 90, jamstveni rok 10), potpunom formulom bodovanja, tablicom bodova po rasponima jamstvenog roka te definiranim minimalnim/maksimalnim vrijednostima. Nema dvosmislenosti u načinu izračuna.",
+      "citat": "Bodovi za svaki od kriterija računa se na šest decimala, zaokruživanjem na više."
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Predmet nabave detaljno je opisan kroz opsežne tehničke specifikacije (1243 retka, sadržaj pokriva materijale, izvođenje, norme, sigurnost) i troškovnik s konkretnim stavkama, količinama i normama (HRN EN 14364:2007 i dr.). Umanjeno s 5 na 4 jer je jedan zainteresirani gospodarski subjekt formalno prigovorio da opis GRP okana/cijevi (\"bez punila i ojačanja\") implicitno favorizira jedan način proizvodnje cijevi (isključuje centrifugalni lijev), pozivajući se na čl. 205.-207. ZJN 2016.",
+      "citat": "Smatramo da se nedostatak tehnologije ne može tražiti kao uvjet za ponudu cijevi, jer se time favorizira isključivo jedan način proizvodnje cijevi"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dostupna je cjelovita dokumentacija: opći podaci o postupku, tehničke specifikacije, troškovnik (i njegova izmjena), kriteriji za odabir ponude i kvalitativni odabir, upute za ponuditelje, prijedlog ugovora, obavijest o nadmetanju i izmjeni, odgovori na upite, zapisnik o pregledu i ocjeni te odluka o odabiru i obavijest o dodjeli ugovora - dovoljno za samostalnu izradu ponude.",
+      "citat": "Dokumentacija o nabavi dostupna je besplatno i može joj se u potpunosti pristupiti izravno i neograničeno na: https://eojn.hr/"
+    },
+    "prosjecna_ocjena": 4.67
+  },
+  "restriktivnost": {
+    "prisutno": true,
+    "indikatori": [
+      {
+        "opis": "Troškovnička stavka za GRP (poliesterska) revizijska okna i cijevi zahtijeva unutrašnji zaštitni sloj 'bez punila i ojačanja', karakteristiku koju prema navodu gospodarskog subjekta ne postiže jedan od tri poznata postupka proizvodnje (centrifugalni lijev) bez dodatnog naknadnog sloja - potencijalno favorizira određene proizvođače.",
+        "citat": "cijev od koje je proizvedeno okno mora imati unutrašnji zaštitni sloj od poliestera, bez punila i ojačanja uz osiguranje pojačane otpornosti na abraziju"
+      },
+      {
+        "opis": "Naručitelj je na formalni prigovor odgovorio samo pojašnjenjem promjera cijevi te izmjenom troškovnika dodao opću napomenu 'ili jednakovrijedno' uz sporne stavke, ali nije uklonio ni izmijenio spornu specifičnu tehničku formulaciju na koju se prigovor odnosio.",
+        "citat": "Naručitelj mijenja stavke troškovnik i stavlja na raspolaganje u EOJN RH izmijenjeni troškovnik (Troškovnik - I Izmjena)"
+      },
+      {
+        "opis": "U ponovljenom otvorenom postupku za radove procijenjene vrijednosti 4.000.000 EUR zaprimljena je samo jedna ponuda, što je u skladu s (ali ne dokazuje uzročno) prigovorom o suženom krugu mogućih ponuditelja zbog tehničke specifikacije.",
+        "citat": "Broj zaprimljenih ponuda: 1"
+      }
+    ],
+    "rizik": "srednji"
+  },
+  "napomena": "Pročitani su svi sadržajno relevantni .txt dokumenti u extracted/ (opći podaci, kriteriji, upute, obavijest o nadmetanju i izmjena, odgovori na upite, prijedlog ugovora, zapisnik o pregledu i ocjeni, odluka o odabiru, obavijest o dodjeli ugovora, troškovnik i njegova izmjena, tehničke specifikacije). Namjerno nisu čitani u cijelosti: dvije vrlo velike datoteke nacrta/projektne dokumentacije (cca 66 MB i 41 MB, CAD/skenirani planovi bez utjecaja na ocjenu transparentnosti teksta) te GP_Zd_8_faza_visoka zona.pdf.txt (dodatni nacrt, 260 KB) - njihov sadržaj je tehnički projektni crtež, ne tekstualni opis kriterija/dokumentacije. '(root)__Prilozi.zip.txt' je prazan jer je izvorna arhiva 0 bajtova (poznat artefakt neuspjelog preuzimanja, ne pipeline-gap). Potpisane PDF inačice odluke o odabiru i zapisnika o pregledu i ocjeni nisu zasebno čitane jer sadržajno odgovaraju već pročitanim HTML/PDF verzijama."
+}

@@ -1,0 +1,27 @@
+{
+  "postupak_id": 18628,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij za odabir ponude (ekonomski najpovoljnija ponuda) u potpunosti je matematički operacionaliziran: cijena nosi 90 bodova prema eksplicitnoj formuli C=(Cmin/Cp)x90, a jamstveni rok na izvedene radove nosi 10 bodova prema formuli J=(Jo/Jn)*10, uz jasno definiran minimalni prag (2 godine/24 mjeseca se ne boduje) i maksimalni prag koji se uzima u obzir (36 mjeseci dodatnog trajanja). Definirano je i pravilo za slučaj izjednačenih ponuda (ranije zaprimljena ponuda). Zapisnik o pregledu i ocjeni ponuda pokazuje da je formula dosljedno i provjerljivo primijenjena na sve 4 zaprimljene ponude.",
+      "citat": "C= (Cmin/Cp) x 90 ... J= (Jo/Jn) *10"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 5,
+      "obrazlozenje": "Predmet nabave (sanacija dijela obalnog zida u mjesnoj lučici Diklo) opisan je kroz cjeloviti Glavni projekt (TD 11-24, izradio ovlašteni inženjer građevinarstva) koji sadrži opći dio, tehnički opis, program kontrole i osiguranja kvalitete, uporabni vijek i način održavanja, posebne tehničke uvjete gradnje i zbrinjavanja otpada, troškovnik rada i nacrte. Opis je dovoljno konkretan da omogući usporedivu ponudu (predviđene/okvirne količine u troškovniku, definirana lokacija, rok izvršenja), a pritom ne sadrži reference na specifične marke, proizvođače ili patentirana rješenja koje bi neopravdano suzile krug ponuditelja.",
+      "citat": "SADRŽAJ PROJEKTA 1. OPĆI DIO PROJEKTA 2. TEHNIČKI OPIS 3. PROGRAM KONTROLE I OSIGURANJA KVALITETE 4. UPORABNI VIJEK I NAČIN ODRŽAVANJA GRAĐEVINA 5. POSEBNI TEHNIČKI UVJETI GRADNJE I NAČIN ZBRINJAVANJA GRAĐEVNOG OTPADA 6. TROŠKOVNIK RADA 7. NACRTI"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dokumentacija obuhvaća sve elemente potrebne za samostalnu izradu ponude: Opće podatke o postupku, Obavijest o nadmetanju, Kriterije za kvalitativni odabir gospodarskog subjekta, Upute za ponuditelje, Kriterij za odabir ENP, Glavni projekt s troškovnikom, prijedlog ugovora i obrazac izjave o jamstvenom roku. Naknadno pitanje ponuditelja o nedosljednosti jedinice mjere u troškovniku (stavka 2.16) transparentno je odgovoreno i formalizirano kroz službenu izmjenu dokumentacije. Sve 4 zaprimljene ponude ocijenjene su kao potpune, u traženom obliku i sadržaju, što posredno potvrđuje da je dokumentacija bila dovoljna za samostalnu, urednu izradu ponude.",
+      "citat": "Ponuditelj je dostavio cjelovitu ponudu putem EOJN RH sa sadržajem i u obliku propisanima dokumentacijom o nabavi."
+    },
+    "prosjecna_ocjena": 5.0
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak"
+  },
+  "napomena": "Pročitane su sve relevantne .txt datoteke iz extracted/ (Opći podaci, Obavijest o nadmetanju + izmjena, Kriteriji za kvalitativni odabir, Upute za ponuditelje, Kriterij za odabir ENP, Glavni projekt sanacije (tehnička specifikacija), Troškovnik, prijedlog ugovora, Odgovori na pitanja, Zapisnik o pregledu i ocjeni ponuda, Odluka o odabiru, Obavijest o dodjeli ugovora). Dokumentacija je iznimno kvalitetna i potpuna za ovaj uzorak (radovi, otvoreni postupak); pretraga Glavnog projekta na indikatore prilagođenosti (marka, proizvođač, tip, model, jednakovrijedno) nije pronašla ništa restriktivno - reference na 'proizvođača' odnose se isključivo na standardnu dokumentaciju sukladnosti građevnih proizvoda, ne na propisivanje konkretnog proizvoda/marke. Referentni uvjet (1 rad u vrijednosti >= procijenjene vrijednosti nabave, u morskim uvjetima) proporcionalan je predmetu i vrijednosti nabave. Postupak je privukao 4 valjane, znatno rangirane ponude (91.134,60-111.686,50 EUR bez PDV-a), što ukazuje na stvarnu konkurenciju bez naznaka pretkonfiguriranog ishoda."
+}

@@ -1,0 +1,41 @@
+{
+  "postupak_id": 18536,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij za odabir ponude je isključivo cijena (relativni ponder 100%, sukladno čl. 284. st. 5. ZJN2016 za društvene i druge posebne usluge), s potpuno eksplicitnom matematičkom formulom bodovanja i pravilom za jednako rangirane ponude (vrijeme zaprimanja). Nema nejasnih ili nemjerljivih kriterija.",
+      "citat": "Maksimalan broj bodova za kriterij cijene dodijelit će se ponudi s najnižom cijenom, a ostale ponude se boduju prema formuli: Ymin/Yp x 100"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Opis predmeta nabave vrlo je konkretan: definirani su rokovi uručenja po kategorijama pošiljaka (unutarnji promet, otoci, međunarodni promet), postotci uspješnosti, vremena preuzimanja/dostave, popis obuhvaćenih općina i otoka te obrazloženje poslovne potrebe (uplatnice za komunalnu uslugu). Detalj je funkcionalno opravdan, ali kombinacija s uvjetima sposobnosti (v. restriktivnost niže) ide dalje od pukog opisa usluge prema zahtjevima koji sužavaju krug mogućih ponuditelja.",
+      "citat": "Ponuditelj poštanskih usluga je u obvezi u unutarnjem poštanskom prometu osigurati uručenje 85% poštanskih pošiljaka iz Troškovnika najbrže kategorije u roku jednog radnog dana"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dokumentacija je iscrpna i interno konzistentna: opći podaci, kriteriji kvalitativnog odabira, kriteriji za odabir ponude, tehnička specifikacija, troškovnik te obrasci 1-8 (kriterij, tehnička specifikacija, izjave o pružanju usluga na otocima/općinama, nepromjenjivost cijena, čista vozila, popis usluga, nepostojanje osnova za isključenje). Naručitelj je i pravovremeno odgovorio na postavljeno pitanje i transparentno izmijenio troškovnik (izmjene označene crvenom bojom) uz obrazloženje zašto se rok za dostavu ponuda ne produljuje.",
+      "citat": "Elektronička ponuda mora sadržavati najmanje: Uvez ponude Popunjeni eESPD obrazac (ili više njih, ako je primjenjivo) Popunjen troškovnik"
+    },
+    "prosjecna_ocjena": 4.67
+  },
+  "restriktivnost": {
+    "prisotno": true,
+    "prisutno": true,
+    "indikatori": [
+      {
+        "opis": "Zahtjev da ponuditelj raspolaže minimalnim brojem poštanskih poslovnica/ureda na točno navedenim otocima i u općinama Zadarske županije (barem 5 od otoka/općina iz Obrasca 3., barem 7 od općina/gradova iz Obrasca 4.) praktički je ispunjiv samo za subjekta koji već ima izgrađenu nacionalnu poštansku mrežu s univerzalnom uslugom (u RH: HP - Hrvatska pošta d.d.), a ne za regionalne/privatne poštanske operatere bez razvijene mreže na otocima.",
+        "citat": "da raspolaže s najmanje 5 (pet) poštanskih poslovnica/ureda od ukupno navedenih otoka/općina"
+      },
+      {
+        "opis": "Uvjet dokazivanja kontinuirane kakvoće prijenosa pismovnih pošiljaka konkretno za 2023. godinu, potvrđen od neovisnog tijela sukladno normi HRN EN 14508, dodatan je ulazni prag koji u praksi mogu ispuniti samo operateri s dužim, dokumentiranim poslovanjem i postojećim mjerenjima kvalitete.",
+        "citat": "gospodarski subjekt mora dokazati da je tijekom 2023. godine ostvario kontinuiranu kakvoću prijenosa pismovnih pošiljaka"
+      },
+      {
+        "opis": "Ishod postupka potvrđuje praktični učinak navedenih zahtjeva: zaprimljena je točno jedna ponuda, od HP - Hrvatska pošta d.d. (nacionalni operater s univerzalnom uslugom), bez ijedne ponude drugog gospodarskog subjekta.",
+        "citat": "Broj zaprimljenih ponuda: 1"
+      }
+    ],
+    "rizik": "srednji"
+  },
+  "napomena": "Svi ključni dokumenti pročitani (Opći podaci, Kriteriji kvalitativnog odabira, Kriteriji za odabir ponude, Obrazac 1-8, Upute za ponuditelje, Odgovori, Obavijest o dodjeli ugovora, Zapisnik o pregledu i ocjeni, Izmjena obavijesti). Kvaliteta ekstrakcije teksta dobra, bez vidljivih praznina. Restriktivnost je ovdje umjerenog rizika, a ne visokog, jer su zahtjevi za mrežom poslovnica i kvalitetom usluge objektivno vezani uz stvarnu poslovnu potrebu naručitelja (dostava uplatnica za komunalnu uslugu na otoke/općine u zakonskim rokovima) i tipični su za postupke nabave poštanskih usluga u RH gdje univerzalnu uslugu ionako pruža pretežno jedan nacionalni operater - ne radi se o upućivanju na marku/patent ili očito nesrazmjernom financijskom pragu. Ipak, rezultat (točno 1 ponuda) objektivno potvrđuje da su uvjeti sposobnosti u praksi sузili konkurenciju."
+}

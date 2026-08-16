@@ -1,0 +1,27 @@
+{
+  "postupak_id": 17863,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriteriji za odabir ponude (ekonomski najpovoljnija ponuda) potpuno su mjerljivi: cijena (90%) po eksplicitnoj formuli i rok odaziva (10%) po jasnoj bodovnoj ljestvici s tri praga, bez prostora za subjektivnu ocjenu.",
+      "citat": "U roku od 8 sati od poziva 1 bod U roku od 4-7 sati od poziva 5 bodova U roku od 3 sata i manje od poziva 10 bodova"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 3,
+      "obrazlozenje": "Opis predmeta nabave svodi se na jednu generičku rečenicu, a zasebni dokument 'Tehničke specifikacije' samo upućuje natrag na troškovnik umjesto da sadrži stvarne tehničke detalje. Troškovnik ipak daje konkretne godišnje količine (17.800 kg / 3.000 kg) i pet dodatnih zahtjeva usluge, što omogućuje usporedivu ponudu, ali bez šireg tehničkog opisa (npr. tipa ambalaže, standarda vozila za prijevoz).",
+      "citat": "Prema obrascu troškovnik/specifikacija predmeta nabave koji je sastavni dio ove dokumentacije za nadmetanje."
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 4,
+      "obrazlozenje": "Svi ključni dokumenti za samostalnu izradu ponude dostupni su i međusobno usklađeni (Upute za ponuditelje, Kriteriji za kvalitativni odabir, Kriterij za odabir ponude s ponderima, Troškovnik, Prijedlog ugovora). Umanjeno jer se prilog 'Prilozi.zip' ekstrahirao kao prazna datoteka (0 bajtova), pa njegov sadržaj (ako je postojao) nije bilo moguće provjeriti u okviru ove ocjene.",
+      "citat": "Elektronička ponuda mora sadržavati najmanje: Uvez ponude Popunjeni eESPD obrazac (ili više njih, ako je primjenjivo) Popunjen troškovnik"
+    },
+    "prosjecna_ocjena": 4.0
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak"
+  },
+  "napomena": "Nisu pronađeni pokazatelji prilagodbe specifikacije određenom ponuditelju: traženi uvjeti (Dozvola za gospodarenje zaraznim otpadom, upis u Očevidnik prijevoznika/posrednika otpada) proizlaze izravno iz zakonske regulative struke (Zakon o održivom gospodarenju otpadom), a referentni prag (zbrojena vrijednost ranijih ugovora najmanje jednaka procijenjenoj vrijednosti nabave) proporcionalan je i uobičajen. Maksimalni rok odaziva od 8 sati opravdan je prirodom predmeta (infektivni/zarazni otpad) i eksplicitno navedenom žurnošću zbog isteka postojećeg ugovora. Napomena izvan opsega transparentnosti/restriktivnosti: zaprimljena je samo jedna ponuda, a ugovorena vrijednost (41.600,00 EUR) premašuje procijenjenu vrijednost (32.000,00 EUR) za oko 30%, što Naručitelj u Odluci o odabiru izričito obrazlaže dostupnim financijskim sredstvima. Prilog 'Prilozi.zip' ekstrahiran je prazan (0 bajtova, poznati artefakt neuspjelog preuzimanja ili prazne izvorne arhive), pa njegov sadržaj nije mogao biti uzet u obzir."
+}

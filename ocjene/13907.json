@@ -1,0 +1,36 @@
+{
+  "postupak_id": 13907,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij za odabir ponude (ekonomski najpovoljnija ponuda) u potpunosti je matematički definiran: cijena nosi 90% s eksplicitnom formulom, a rok isporuke 10% prema jasnoj bodovnoj ljestvici s tri raspona i strogim maksimumom od 36 sati iznad kojeg se ponuda ne razmatra. Nema prostora za subjektivnu ocjenu.",
+      "citat": "P = Pn / Pr * 90"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Troškovnik sadrži 34 stavke s preciznim tehničkim karakteristikama (promjeri igala, dimenzije i volumeni epruveta, standardi poput ISO9626), što omogućuje usporedive ponude. Detalj je ponegdje toliko specifičan (npr. broj rubova vrha igle) da graniči sa suženjem kruga mogućih ponuditelja - obrađeno odvojeno u restriktivnosti.",
+      "citat": "vrh igle sa 5 rubova zbog minimalne neugode za pacijenta (priložiti dokaz), koji olakšava pristup teškim venama ( priložiti dokaz )"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 4,
+      "obrazlozenje": "Dostupni su svi ključni dokumenti za samostalnu izradu ponude: opći podaci, kriteriji kvalitativnog odabira, upute za ponuditelje, detaljan troškovnik/tehničke specifikacije, obrazac ponude (PRILOG 1) i prijedlog okvirnog sporazuma. Ocjena nije 5 jer je 'Prilozi.zip' ekstrahiran kao prazna datoteka (0 bajtova) pa sadržaj tog priloga nije bio dostupan za provjeru potpunosti.",
+      "citat": "Detaljne tehničke specifikacije se nalaze u zasebnom prilogu."
+    },
+    "prosjecna_ocjena": 4.33
+  },
+  "restriktivnost": {
+    "prisutno": true,
+    "indikatori": [
+      {
+        "opis": "Zahtjev da svi dijelovi sustava za vađenje krvi (igle, baby setovi, epruvete, nastavci) budu proizvedeni od istog proizvođača, čime se u praksi isključuju ponuditelji koji ne distribuiraju cjeloviti zatvoreni sustav jednog proizvođača, iako je obrazloženo pozivom na CLSI/EFLM preporuke.",
+        "citat": "svi pojedinačni dijelovi sistema za vađenje krvi (igle, baby setovi, epruvete i nastavci za igle) budu međusobno kompatibilni, odnosno proizvedeni od strane istog proizvođača"
+      },
+      {
+        "opis": "Vrlo specifična tehnička karakteristika igle (vrh s 5 rubova, uz zahtjev za dostavom dokaza) koja odgovara obilježju određenih komercijalnih proizvoda te sužava krug mogućih ponuditelja na one koji nude upravo takav dizajn igle.",
+        "citat": "vrh igle sa 5 rubova zbog minimalne neugode za pacijenta (priložiti dokaz)"
+      }
+    ],
+    "rizik": "srednji"
+  },
+  "napomena": "Predmet nabave je po definiciji 'zatvoreni sustav za vađenje krvi', vrsta proizvoda kod koje je kompatibilnost/jedinstvenost proizvođača dijelom inherentna prirodi proizvoda, što djelomično opravdava indikatore restriktivnosti, no ne isključuje mogućnost sužavanja tržišta. Prilog 'Prilozi.zip' ekstrahiran je kao prazna datoteka (0 bajtova), stoga njegov sadržaj nije mogao biti uzet u obzir. PDF inačice 'Odluka o odabiru' i 'Zapisnik o pregledu i ocjeni' imaju degradiran OCR tekst (izobličeni dijakritički znakovi), no isti sadržaj dostupan je čist u paralelnim HTML inačicama istih dokumenata, pa gubitak informacije nije relevantan. Postupak je završio s 2 zaprimljene ponude, od kojih je jedna odbijena zbog nejasne cijene u troškovniku (ne zbog tehničke neusklađenosti), što ne dokazuje niti isključuje stvarni učinak identificiranih restriktivnih elemenata na tržišno natjecanje."
+}

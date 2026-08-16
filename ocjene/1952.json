@@ -1,0 +1,27 @@
+{
+  "postupak_id": 1952,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij ENP je matematički precizno definiran: cijena (90 bodova) i jamstveni rok (10 bodova), s eksplicitnim formulama, decimalnom preciznošću (šest decimala) i jasnim pravilom za jednako rangirane ponude (vrijeme zaprimanja). Uvjeti sposobnosti minimalni (samo upis u registar), ali jasno navedeni i dokazivi ESPD obrascem.",
+      "citat": "Ponuda s najnižom cijenom dobiva 90,00 bodova, dok se ostale ponude boduju prema formuli"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 5,
+      "obrazlozenje": "Predmet nabave (rekonstrukcija ulice s nogostupom i oborinskom odvodnjom) opisan je s konkretnim tehničkim parametrima (dužine, širine, nagibi, slojevi kolnika, dimenzije kanala i okana) uz generičke tehničke oznake asfaltnih smjesa (nisu brand-specifične), što omogućuje usporedivu ponudu bez isključivanja razumnih alternativa.",
+      "citat": "Konstrukcija kolnika: tucanička podloga 25 cm te slojevi AC 22 base 50/70 AG6 M2 (6 cm) i AC 11 surf 50/70 AG1 M3 (4 cm)"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dostupan je potpun set dokumentacije: opći podaci, kriteriji kvalitativnog odabira, kriteriji za odabir ponude, upute za ponuditelje, tehnički opis, izvedbeni projekt s nacrtima, troškovnik i obrazac izjave o jamstvenom roku — dovoljno za samostalnu izradu ponude.",
+      "citat": "Troškovnik naručitelj prilaže dokumentaciji o nabavi za predmet / grupu. Ponuditelj mora popuniti troškovnik i učitati ga prilikom pripreme ponude na EOJN."
+    },
+    "prosjecna_ocjena": 5.0
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak"
+  },
+  "napomena": "Pročitane su sve manje datoteke u extracted/ u cijelosti. Datoteka 'Izvedbeni projekt ulice Gojka Šuška.pdf.txt' (6,9 MB) pročitana je djelomično (tehnički opis u cijelosti) i dodatno pretražena (grep) po ključnim riječima za prilagođenost specifikacije (marka, proizvođač, tip, model, jednakovrijedno, patent, certifikat, referenca) — bez pogodaka koji bi upućivali na prilagođenost specifičnom ponuditelju; isto vrijedi za troškovnik. Uvjeti sposobnosti gospodarskog subjekta ograničeni su samo na upis u registar (nema financijskih/referentnih pragova), što ne ukazuje na restriktivnost. Zaprimljene su 3 ponude s razlikom u cijeni od ~40% između najniže i najviše (249.346 – 351.420 EUR bez PDV-a), što je konzistentno s otvorenim, nekoordiniranim natjecanjem."
+}

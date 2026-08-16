@@ -1,0 +1,39 @@
+{
+  "postupak_id": 19739,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriteriji za odabir ponude (cijena 80% i specifično iskustvo stručnjaka 20%) potpuno su kvantificirani zasebnim dokumentom 'Kriteriji za odabir ponude': za cijenu je dana eksplicitna matematička formula, a za iskustvo stručnjaka priložena je tablica s točno definiranim bodovnim pragovima (1/2/3/4+ ugovora = 4/9/12/15 bodova, plus dodatnih 5 bodova za neprekidnu funkciju objekta tijekom radova). Nema prostora za subjektivnu diskreciju povjerenstva.",
+      "citat": "Ponuda s najniže ponuđenom cijenom dobiva 80 bodova, a ostale ponude se boduju prema formuli: CP = 80 x (Cmin/Ci)"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 5,
+      "obrazlozenje": "Projektni zadatak vrlo je opsežan i konkretan: opisuje kontekst projekta (faze gradnje prema lokacijskoj dozvoli), točne dimenzije zahvata, opseg usluga nadzora po fazama (priprema/građenje/nakon građenja), zadatke svakog od 5 profila stručnjaka, obveze izvještavanja s rokovima i sadržajem izvješća. Opis je konkretan bez da je toliko uzak da isključuje razumne alternative u načinu izvršenja usluge.",
+      "citat": "Terminal se u ovoj fazi dograđuje prema istoku (stajanci) kao prizemna građevina visine 12,30 m tlocrtne površine oko 3510 m², duljine oko 125 m"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dostupan je pun set dokumenata potreban za samostalnu izradu ponude: Opći podaci, Upute za ponuditelje, Kriteriji za kvalitativni odabir gospodarskog subjekta (s pravnim osnovama, pitanjima za ESPD i načinom dokazivanja za svaki uvjet), Kriteriji za odabir ponude s formulom bodovanja, Projektni zadatak, popis angažiranih stručnjaka, troškovnik i prijedlog ugovora. Naručitelj je uz to objavio i Odgovore na pitanja ponuditelja te izmjene dokumentacije, čime je nesigurnosti dodatno otklonio prije roka za dostavu ponuda.",
+      "citat": "Elektronička ponuda mora sadržavati najmanje: Uvez ponude, Popunjeni eESPD obrazac, Popunjen troškovnik, Vrijednosti kriterija za odabir, Jamstvo za ozbiljnost ponude"
+    },
+    "prosjecna_ocjena": 5.0
+  },
+  "restriktivnost": {
+    "prisutno": true,
+    "indikatori": [
+      {
+        "opis": "Uvjet tehničke i stručne sposobnosti (1 referenca u visini pune procijenjene vrijednosti nabave za usluge stručnog nadzora nad rekonstrukcijom/dogradnjom zgrada javne namjene koje su tijekom radova neprekidno obavljale svoju funkciju) izričito isključuje kao 'sličnu' referencu usluge nadzora nad izgradnjom (novogradnjom) zgrada, iako je jedan ponuditelj u pitanjima naveo da je nadzor nad izgradnjom sadržajno usporediva usluga. Naručitelj je zahtjev za proširenjem definicije 'slično' odbio bez detaljnijeg obrazloženja razlike osim upućivanja na tekst DON-a.",
+        "citat": "Pri tome u predmetne zgrade ne spadaju trgovački centri, poslovno stambene zgrade, zgrade namijenjene pružanju usluga u ugostiteljstvu i turizmu i slično."
+      },
+      {
+        "opis": "Jedan od ponuditelja u modulu Pitanja/Pojašnjenja izravno je doveo u pitanje razmjernost uvjeta tehničke sposobnosti, navodeći da razina zahtjeva 'baca sumnju da se radi o pogodovanju određenom ponuditelju', i predložio ublažavanje (2 reference u vrijednosti pola procijenjene vrijednosti umjesto 1 reference u punoj vrijednosti); naručitelj je prijedlog odbio bez dodatnog obrazloženja izvan tvrdnje da su uvjeti razmjerni.",
+        "citat": "Naručitelj je vrlo strogo propisao uvjete tehničke sposobnosti i ne može se reći da se radi o minimalnim uvjetima, već baca sumnju da se radi o pogodovanju određenom ponuditelju"
+      },
+      {
+        "opis": "Nizak stvarni odaziv tržišta u konačnici (2 zaprimljene ponude na otvorenom postupku vrijednom 367.798 EUR) konzistentan je sa suženim krugom ponuditelja koji ispunjavaju postavljene uvjete, iako se dio uskog kruga ponuditelja može objasniti i objektivnom nišnošću usluge (FIDIC nadzor nad kompleksnom rekonstrukcijom zračne luke u pogonu)."
+      }
+    ],
+    "rizik": "srednji"
+  },
+  "napomena": "Pročitane su sve relevantne .txt datoteke u extracted/ (Opći podaci, Obavijest o nadmetanju, Kriteriji za kvalitativni odabir gospodarskog subjekta, Upute za ponuditelje, Kriteriji za odabir ponude, Angažirani tehnički stručnjaci, Kriteriji za odabir gospodarskog subjekta, Troškovnik, Projektni zadatak, Odgovori na pitanja, Zapisnik o pregledu i ocjeni). Dokumentacija je potpuna i čitljiva bez vidljivih artefakata ekstrakcije (prazan/skraćen tekst). Restriktivnost je ocijenjena kao prisutna na temelju izravnog prigovora ponuditelja i uske definicije 'slične' reference, no rizik je ocijenjen kao srednji, a ne visok, jer je zahtjev (1 referenca u visini procijenjene vrijednosti za specijaliziranu FIDIC uslugu nadzora nad zahtjevnom rekonstrukcijom zgrade u punom pogonu) unutar uobičajenih granica za ovakav tip i složenost predmeta nabave, a naručitelj je zahtjev primijenio jednako na sve ponuditelje bez daljnjih znakova prilagodbe točno određenom gospodarskom subjektu (npr. nema referenci na markicu/patentirano rješenje)."
+}

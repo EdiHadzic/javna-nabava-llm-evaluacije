@@ -1,0 +1,36 @@
+{
+  "postupak_id": 10996,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriteriji za odabir ponude (cijena 90%, jamstveni rok za otklanjanje nedostataka 10%) definirani su egzaktnom matematičkom formulom za cijenu i preciznom bodovnom skalom (2/3/4/5 godina = 0/4/6/10 bodova) za kvalitativni kriterij, bez prostora za subjektivnu procjenu.",
+      "citat": "Vrijednosni kriterij: najniža cijena ponude ostvarit će maksimalan broj bodova."
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Zaseban dokument 'Tehnička specifikacija' sadrži samo uputu da su svi zahtjevi iskazani u troškovniku, no sâm troškovnik je vrlo detaljan i konkretan (dimenzije prozora u mm, debljine slojeva, materijali, količine po stavci za sve četiri lokacije - fizikalna terapija, tank, portirnica, garaža/kuhinja), što omogućuje usporedivu ponudu.",
+      "citat": "Izrada novih PVC prozora. Profil (okvir 6k,74mm bijeli),staklo izo 4+16+low-e, okow activ securuty NT, boja po želji investitora. Dimenzija 3500x1600 mm."
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dostupna je cjelovita dokumentacija potrebna za samostalnu izradu ponude: opći podaci, upute za ponuditelje, kriteriji kvalitativnog odabira s ESPD uputama, kriterij za odabir ponude, tehnička specifikacija, detaljan troškovnik, prijedlog ugovora i prilog izjave o jamstvenom roku.",
+      "citat": "Elektronička ponuda mora sadržavati najmanje: Uvez ponude Popunjeni eESPD obrazac... Popunjen troškovnik... Prijedlog ugovora"
+    },
+    "prosjecna_ocjena": 4.67
+  },
+  "restriktivnost": {
+    "prisutno": true,
+    "indikatori": [
+      {
+        "opis": "Uvjet tehničke i stručne sposobnosti (referentna lista radova) sužen je s općenite izgradnje/rekonstrukcije zgrada na specifično 'zgrade zdravstvene namjene', što suzuje krug gospodarskih subjekata s formalno priznatljivim referencama u odnosu na širi krug izvođača građevinskih radova.",
+        "citat": "Pod sličnim predmetima nabave smatra se izvođenje radova na izgradnji i/ili rekonstrukciji zgrada zdravstvene namjene."
+      },
+      {
+        "opis": "Više stavki troškovnika za PVC stolariju ponavlja identičnu, vrlo specifičnu tehničku oznaku okova ('okow activ securuty NT') bez izričite klauzule 'ili jednakovrijedno', za razliku od stavke hidroizolacije gdje je takva klauzula prisutna.",
+        "citat": "Izrada novih PVC prozora. Profil (okvir 6k,74mm bijeli),staklo izo 4+16+low-e, okow activ securuty NT"
+      }
+    ],
+    "rizik": "nizak"
+  },
+  "napomena": "Svi dokumenti čitljivo su ekstrahirani (HTML/PDF/DOCX/XLS), bez praznih ili OCR-problematičnih priloga. Zaprimljena je samo 1 ponuda (jedini ponuditelj FIGURICA GRAĐEVINARSTVO d.o.o.), a ugovorena vrijednost (108.375,00 EUR bez PDV-a) premašuje procijenjenu vrijednost (100.000,00 EUR) za 8,375%; naručitelj je ponudu prihvatio uz obrazloženje da ima osigurana financijska sredstva. Jedan ponuditelj ne dokazuje sam po sebi restriktivnost specifikacije, ali je uzet u obzir kao kontekst uz identificirane indikatore."
+}

@@ -1,0 +1,32 @@
+{
+  "postupak_id": 23624,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriteriji za odabir ponude (ENP) potpuno su matematički operacionalizirani: cijena (80 bodova) po eksplicitnoj formuli u odnosu na najnižu cijenu, jamstveni rok (20 bodova) po preciznoj tablici raspona vrijednosti i pripadajućih bodova (24-60 mjeseci). Nema prostora za subjektivnu ocjenu ni nejasnoća u načinu bodovanja.",
+      "citat": "Ponuda u kojoj je iskazan minimalni jamstveni rok (24 mjeseca) dobiva 0 bodova, ponuda u kojoj je iskazan najduži jamstveni rok (60 mjeseci) dobiva 20 bodova"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Opis predmeta nabave upućuje na Glavni projekt (opsežan tehnički dokument, GP 5/23) i detaljan stavkovni troškovnik s količinama i tehničkim opisima materijala (npr. granulacija kamenog materijala, debljine slojeva). Dovoljno konkretno za usporedivu ponudu; nije uočena prekomjerna suženost prema jednom rješenju. Manji minus jer neke stavke troškovnika (npr. 'krupno kamenje') nemaju posve precizirane dimenzije/frakciju u samom troškovniku, već se oslanjaju na Glavni projekt.",
+      "citat": "Tehnička specifikacija predmeta nabave, vrsta, kvaliteta i količina u cijelosti je iskazana u Troškovniku te Glavnom projektu rekonstrukcije pješačke staze, makadamskih puteva i izrada drvene osmatračnice"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dostupan je pun paket dokumentacije: opći podaci, kriteriji kvalitativnog odabira s detaljnim uputama o dokazivanju, kriteriji za odabir ponude, tehničke specifikacije, troškovnik, prilozi (popis radova, izjava o stručnjacima, prijedlog ugovora, rok/način/uvjeti plaćanja) te Glavni projekt. Naručitelj je i odgovorio na tri postavljena pitanja ponuditelja, dodatno razjašnjavajući stavke troškovnika. Dokumentacija omogućuje samostalnu izradu ponude bez nejasnoća.",
+      "citat": "Elektronička ponuda mora sadržavati najmanje: Uvez ponude Popunjeni eESPD obrazac (ili više njih, ako je primjenjivo) Popunjen troškovnik"
+    },
+    "prosjecna_ocjena": 4.67
+  },
+  "restriktivnost": {
+    "prisutno": true,
+    "indikatori": [
+      {
+        "opis": "Minimalni referentni prag za tehničku i stručnu sposobnost (zbrojena vrijednost ranije izvedenih radova iste ili slične vrste u tekućoj i prethodnih pet godina) iznosi 260.000,00 EUR bez PDV-a, što je gotovo jednako procijenjenoj vrijednosti cijele nabave (267.885,00 EUR bez PDV-a, tj. ~97%). Ovakav razmjerno vrlo visok referentni prag u odnosu na vrijednost nabave nesrazmjerno je strog i može neopravdano suziti krug potencijalnih ponuditelja, iako je tehnički dopušten prema ZJN 2016 jer se odnosi na kumulativ kroz šest godina, a ne na jedan ugovor.",
+        "citat": "uredno izveo radove iste ili slične predmetu nabave čija zbrojena vrijednost iznosi najmanje 260.000,00 EUR bez PDV-a"
+      }
+    ],
+    "rizik": "srednji"
+  },
+  "napomena": "Pregledane su sve raspoložive .txt datoteke u extracted/ (23 datoteke), uključujući Opće podatke, Kriterije za kvalitativni odabir, Kriterije za odabir ponude, Tehničke specifikacije, Troškovnik, Priloge 1-3, Rok/način/uvjete plaćanja, Obavijest o nadmetanju, Odgovore na pitanja te Glavni projekt (grepano za nazive marki/proizvođača - nije pronađena prilagođenost specifičnom proizvodu ili marki). Dokumentacija je kvalitetno strukturirana i potpuna; jedini uočeni rizik restriktivnosti odnosi se na visinu referentnog financijskog praga, ne na tehničke specifikacije."
+}

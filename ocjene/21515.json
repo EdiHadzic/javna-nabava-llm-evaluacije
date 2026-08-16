@@ -1,0 +1,30 @@
+{
+  "postupak_id": 21515,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij za odabir ponude (ekonomski najpovoljnija ponuda) potpuno je operacionaliziran: cijena se boduje eksplicitnom formulom C = (Cmin/Cp) * 40, a kvalitativni kriterij (specifično iskustvo ključnog stručnjaka) ima potpuno mjerljivu bodovnu ljestvicu vezanu uz broj projekata/aktivnosti (0 do 11+ projekata = 0 do 60 bodova). Nema prostora za subjektivnu diskreciju naručitelja pri bodovanju.",
+      "citat": "0 projekata i/ili aktivnosti 0 ... 11 i više projekata /ili aktivnosti 60"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Tehničke specifikacije razrađuju predmet nabave po četiri radna paketa (WP1-WP4) s konkretnim zadacima, brojčanim ciljevima (npr. najmanje 5 projekata za analizu, 20-50 poljoprivrednika na popisu, 2-3 klastera) i jasno dodijeljenom odgovornošću unutar konzorcija. Opis je dovoljno konkretan za usporedivu ponudu, no dio zadataka (npr. 'znanstveni i tehnički doprinos poboljšanju projektnih alata' u WP2) ostaje relativno općenito formuliran, što ostavlja prostor za različita tumačenja opsega rada.",
+      "citat": "Odabrani ponuditelj treba prikupiti i analizirati podatke od po najmanje 5 projekata provedenih unutar EU u sljedećim područjima..."
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dostupan je kompletan skup dokumentacije potreban za samostalnu izradu ponude: Kriteriji za kvalitativni odabir (s uputama za ESPD), Upute za ponuditelje (sadržaj ponude, način dostave, jamstva, plaćanje, žalbeni rok), Tehničke specifikacije, Kriterij za odabir ponude s bodovnom tablicom, Troškovnik (predložak), Prijedlog ugovora te obrazac Izjave o specifičnom iskustvu stručnjaka i Obrazac ovlasti za zastupanje. Sve stavke koje Upute navode kao obvezan sadržaj ponude imaju odgovarajući predložak u dokumentaciji.",
+      "citat": "Elektronička ponuda mora sadržavati najmanje: Uvez ponude Popunjeni eESPD obrazac (ili više njih, ako je primjenjivo) Popunjen troškovnik"
+    },
+    "prosjecna_ocjena": 4.67
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [
+      "Kvalitativni kriterij zahtijeva specifično iskustvo ključnog stručnjaka u transakcijama ugljičnih kredita (regulatorno ili dobrovoljno tržište) kao voditelja projekta/aktivnosti, s vrlo visokim relativnim značajem (60 od 100 bodova) - nišna specijalizacija koja može suziti krug potencijalnih stručnjaka, ali je izravno i eksplicitno obrazložena prirodom projekta (uspostava dobrovoljnog tržišta ugljičnih kredita u poljoprivredi) te nije vezana uz određenog ponuditelja, proizvod ili marku.",
+      "Nema referenci na konkretan proizvod/marku, patentirano rješenje niti nesrazmjerno visoke financijske/referentne pragove; minimalni uvjet obrazovanja stručnjaka (završen preddiplomski i diplomski sveučilišni studij) je generičan i neproporcionalno nije postavljen."
+    ],
+    "rizik": "nizak"
+  },
+  "napomena": "Ocjena temeljena na 16 pročitanih .txt datoteka u extracted/ za postupak 21515 (evidencijski broj MV2/24, AGRRA - Agencija za ruralni razvoj Zadarske županije). Troškovnik.XLSX ekstrahiran je kao prazan predložak (jedna stavka usluge s količinom 1 i cijenom 0) - to je očekivano jer se radi o priloženom obrascu dokumentacije o nabavi, a ne o ispunjenoj ponudi, stoga nije tretirano kao nedostatak. Zaprimljene su 2 ponude; postupak dodijeljen tvrtki Alcina d.o.o. (ugovorena vrijednost 27.090,00 EUR, ~37% ispod procijenjene vrijednosti od 43.000,00 EUR). Zabilježen je i jedan zahtjev za pojašnjenjem (od ponuditelja Sensum d.o.o., koji naposljetku nije bio odabran) vezan uz specifično iskustvo njihovog ključnog stručnjaka - naručitelj je prihvatio alternativni oblik dokazivanja iskustva zbog ograničenja povezanih sa sukobom interesa kod otkrivanja detalja transakcije, što ukazuje na razumnu fleksibilnost u primjeni kriterija, a ne na restriktivnost."
+}

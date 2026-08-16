@@ -1,0 +1,27 @@
+{
+  "postupak_id": 19700,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij za odabir ponude (ekonomski najpovoljnija ponuda) potpuno je mjerljiv i formuliran matematički: cijena nosi 80 bodova prema jasnoj formuli (najniža cijena = max bodova, ostale razmjerno), a kriterij kvalitete 'specifično iskustvo tehničkog stručnjaka' (20 bodova) ima eksplicitnu tablicu bodovanja za 1-7+ ranije realiziranih projekata. Osnove za isključenje i kriteriji sposobnosti gospodarskog subjekta prate standardni ESPD predložak (čl. 251.-257. ZJN2016) s jasno navedenim pravnim osnovama i načinom dokazivanja za svaku stavku.",
+      "citat": "Ponuda s najnižom cijenom dobiva 80,00 bodova, dok se ostale ponude boduju prema formuli"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 5,
+      "obrazlozenje": "Opis predmeta nabave potkrijepljen je opsežnom glavnom projektnom dokumentacijom (arhitektonski, konstruktorski, elektrotehnički i VIK projekt) te detaljnim troškovnikom po stavkama s točnim dimenzijama, materijalima, normativima i uputama na hrvatske norme (npr. HRN U M3.240/300). Opisi materijala i sustava (npr. ETICS fasadni sustav, krovna konstrukcija) generički su vezani uz tehničke karakteristike ('prema uputama odabranog proizvođača') umjesto uz konkretnu marku, što omogućuje usporedive ponude bez neopravdanog suženja kruga ponuditelja.",
+      "citat": "Rogovi su dimenzija b × d = 12 × 14 cm. Za podrožnice se koriste drvene grede poprečnog presjeka b × d = 14 × 16 cm."
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 4,
+      "obrazlozenje": "Dokumentacija je opsežna (Opći podaci, Upute za ponuditelje, Kriteriji kvalitativnog odabira, Kriteriji za odabir ponude, troškovnik, arhitektonski/konstruktorski/VIK projekt), ali s dva nedostatka: (1) elektrotehnički projekt nije bio dio izvorne dokumentacije o nabavi nego je dostavljen naknadno tek na izričit upit ponuditelja putem modula Pitanja/Pojašnjenja; (2) upute o dostavi jamstva za ozbiljnost ponude (u Obavijesti o nadmetanju i Uputama za ponuditelje) sadrže grešku 'copy-paste' — omotnica se adresira na naziv i evidencijski broj posve drugog postupka ('SANACIJA POKOSA NA PLAŽI SABUNIKE Evbr: NMV 41/24') umjesto na ovaj postupak (NMV-42/24 - Rekonstrukcija ŠRC Sabunike), što je mogući izvor zabune za ponuditelje pri predaji jamstva.",
+      "citat": "Pitanje: Poštovani, molimo Vas projekt za elektro-tehničke radove. Odgovor: Projekt Elektro tehničke radove prilažemo DON."
+    },
+    "prosjecna_ocjena": 4.67
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak"
+  },
+  "napomena": "Pročitane su sve relevantne .txt datoteke u extracted/ (opći podaci, upute za ponuditelje, kriteriji kvalitativnog odabira, kriteriji za odabir ponude, obavijest o nadmetanju, zapisnik o pregledu i ocjeni, odluka o odabiru, obavijest o dodjeli ugovora, odgovori na upite, izmjena obavijesti te uzorak troškovnika i tehničke/arhitektonske dokumentacije). Kriteriji sposobnosti gospodarskog subjekta ograničeni su na standardni upis u registar (nema dodatnih financijskih ili referentnih pragova za samu tvrtku), a bodovani kriterij iskustva tehničkog stručnjaka strukturiran je kao stupnjevana ljestvica (ne eliminatoran uvjet) na koju su oba ponuditelja jednako odgovorila s maksimalnih 20 bodova, što ne upućuje na prilagođenost specifičnom ponuditelju. Nisu pronađene reference na konkretnu marku/proizvod niti nesrazmjerni pragovi. Postupak je imao 2 valjane, konkurentne ponude; ugovorena vrijednost (436.743,54 EUR bez PDV-a) viša je od procijenjene (367.164,80 EUR)."
+}

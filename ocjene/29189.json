@@ -1,0 +1,27 @@
+{
+  "postupak_id": 29189,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij ENP raščlanjen je na Cijenu (70 bodova, egzaktna formula relativnog bodovanja) i Specifično iskustvo Stručnjaka 1 (30 bodova) s potpuno objektivnom, brojčano stupnjevanom tablicom bodovanja (0/1/2/3/4+ izvršenih usluga = 0/10/15/20/30 bodova), bez prostora za subjektivnu prosudbu povjerenstva.",
+      "citat": "Za slučaj da je broj izvršenih usluga 0 Naručitelj dodjeljuje 0 bodova. Maksimalni broj bodova koji ponuditelj može dobiti po ovom kriteriju je 30,00"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 5,
+      "obrazlozenje": "Tehničke specifikacije (Prilog 3) detaljno i sustavno opisuju sve obveze stručnog nadzora (I-VI, uključujući tjedno/mjesečno izvještavanje, koordinaciju, DNSH praćenje, obveze koordinatora ZNR) pozivom na mjerodavne zakone i pravilnike, bez ikakvog referiranja na konkretni proizvod, markicu ili patentirano rješenje koje bi umjetno suzilo krug ponuditelja.",
+      "citat": "Tjedno izvještavanje o tijeku radova koje mora sadržavati minimalno: procjenu konačnog završetka radova, procjenu konačnog koštanja radova"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dokumentacija sadrži sve dijelove potrebne za samostalnu izradu ponude (Opći podaci, Kriteriji kvalitativnog odabira, Kriteriji za odabir ponude, Upute za ponuditelje, Tehničke specifikacije, Troškovnik, Prijedlog ugovora, obrasci izjava u prilogu). Potvrda potpunosti: sve 4 zaprimljene ponude ocijenjene su u Zapisniku kao 'Cjelovito: DA'.",
+      "citat": "Popis priloga: Prilog 1: Izjava o specifičnom iskustvu Stručnjaka 1 ... Prilog 9: Izjava o tehničkoj sposobnosti (Popis izvršenih usluga)"
+    },
+    "prosjecna_ocjena": 5.0
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak"
+  },
+  "napomena": "Pročitano svih 20 .txt datoteka u extracted/ (dokumentacija o nabavi, obavijest o nadmetanju, odluka o odabiru, zapisnik o pregledu i ocjeni, prilozi). Referentni prag tehničke sposobnosti (kumulativna vrijednost izvršenih usluga >= procijenjena vrijednost nabave, max. 3 reference) proporcionalan je vrijednosti nabave (50.000 EUR) i standardan za ovu vrstu usluge. Traženi stručnjaci (5 pozicija: glavni nadzorni inženjer + 3 strukovna nadzorna inženjera + koordinator ZNR) odgovaraju zakonskim zahtjevima za nadzor građenja (ZPDUPUG) i nisu neproporcionalno suženi (dopušteno je da ista osoba pokriva više pozicija). Postupak je privukao 4 ponuditelja s rasponom cijena 27.600-39.600 EUR bez PDV-a, što ukazuje na otvorenu konkurenciju bez znakova prilagođenosti određenom ponuditelju."
+}

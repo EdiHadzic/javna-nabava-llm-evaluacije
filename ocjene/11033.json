@@ -1,0 +1,27 @@
+{
+  "postupak_id": 11033,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriteriji za odabir (ENP) precizno su definirani egzaktnom formulom za cijenu (C = Cmin/C * 90) i tablicom bodova po vremenskim intervalima za necjenovni kriterij roka odaziva na reklamaciju, uz jasne pragove (0-7:59h, 8-23:59h, 24-48h) i dokaz koji se prilaže (Izjava, Prilog 1).",
+      "citat": "Kriterij 1 – Cijena ponude sa PDV-om (C) – max. relativni značaj – 90%, max. broj bodova – 90,00"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Predmet nabave konkretiziran je u Troškovniku (točno navedene stavke: UHT mlijeko 2,8%mm, jogurt, cocktail sokovi, čokoladno mlijeko, s količinama i jedinicama mjere) i u tehničkim specifikacijama koje propisuju ambalažu, rok trajanja, temperaturu i regulatorne standarde, bez vezivanja uz konkretnu marku ili proizvođača.",
+      "citat": "Roba koja je predmet ove nabave mora biti dostavljana u propisanoj i adekvatnoj namjenskoj ambalaži (transportnoj i pojedinačnoj), pakirana u zatvorenoj ambalaži s istaknutom deklaracijom proizvoda."
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dostupan je pun set dokumentacije: Obavijest o nadmetanju, Opći podaci o postupku nabave, Kriteriji za kvalitativni odabir, Upute za ponuditelje, kriterij ENP, tehničke specifikacije, Troškovnik, te naknadno Odluka o odabiru, Zapisnik o pregledu i ocjeni i Obavijest o dodjeli ugovora - dovoljno za samostalnu izradu ponude.",
+      "citat": "Elektronička ponuda mora sadržavati najmanje: Uvez ponude, Popunjeni eESPD obrazac, Popunjen troškovnik, Vrijednosti kriterija za odabir ponude, Izjavu za bodovanje necjenovnog kriterija, Jamstvo za ozbiljnost ponude, Katalog proizvoda"
+    },
+    "prosjecna_ocjena": 4.67
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak"
+  },
+  "napomena": "Svi ključni dokumenti pročitani i sadržajni (nema praznih/OCR-gap ekstrakcija). Nema referenci na konkretnu marku/proizvođača niti nesrazmjerne financijske/referentne pragove - zahtjevi (HACCP, uzorci, jamstvo od 1.000 EUR na procijenjenu vrijednost 41.000 EUR) proporcionalni su predmetu i vrijednosti nabave. Napomena izvan skopa restriktivnosti specifikacije: naručitelj je u dokumentu 'Opći podaci o postupku nabave' proaktivno objavio podatak o sukobu interesa (član stručnog povjerenstva ujedno vlasnik obrta 'Bliss') - transparentnosno pozitivan signal, ali potencijalno relevantan za integritet postupka izvan ove rubrike."
+}

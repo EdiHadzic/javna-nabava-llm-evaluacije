@@ -1,0 +1,43 @@
+{
+  "postupak_id": 29554,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriteriji za odabir ponude su jasno i nedvosmisleno definirani. Ekonomski najpovoljnija ponuda odreĂ'uje se na temelju cijene (90 bodova) i jamstvenog roka (10 bodova). Formula za bodovanje cijene je eksplicito navedena: ponuda s najnižom cijenom dobija 90 bodova, ostale se boduju u omjeru prema najnižoj. Jamstveni rok je detaljno definiran tabelom (24 mjeseca = 0 bodova, 60 mjeseci = 10 bodova). Nema nejasnoća u kriterijima.",
+      "citat": "Ekonomski najpovoljnija ponuda utvrđuje se na temelju Cijene i kvalitete. Cijena: 90,00 bodova. Jamstveni rok: 10,00 bodova. Ponuda s najnižom cijenom dobiva 90,00 bodova..."
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 5,
+      "obrazlozenje": "Opis predmeta nabave je izuzetno detaljno razrađen. ELABORAT sadrži detaljnu analizu zatečenog stanja, laboratorijske analize žbuke, termografsko snimanje, sondažna istraživanja sa 6 sonda s fotografijama, analizu sastava FT-IR spektroskopijom, i grafičku 3D dokumentaciju. Specificira se točno gdje se nalaze oštećenja, njihov oblik i uzrok (korundirana armatica, prodor vlage, oštećenja marmornih intarzija). Ponuditelj ima dovoljno informacija za precizniju procjenu.",
+      "citat": "Krajem prosinca 2023. uslijed oštećenja stropne konstrukcije izazvanim većim prodorom vlage dogodilo se odvajanje dijela stropa...Na stropu u medaljonima vidljive su pukotine...Mramorna intarzija na západnom zidu je u najlošijem stanju s konkavnom deformacijom..."
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 4,
+      "obrazlozenje": "Dostupna je tehnička specifikacija (ELABORAT), kriteriji za odabir, obavijest o nadmetanju, obavijest o dodjeli, te prijedlog ugovora. Troškovnik je spomenut kao prilog ali sadržaj nije dostupan u ekstrahiranom tekstu. Upute za ponuditelje su dostupne. Većina ključne dokumentacije je dostupna, ali neki dodatni obrasci/formulari nisu u ekstrahiranom materijalu.",
+      "citat": "Dokumentacija o nabavi dostupna je besplatno i može joj se u potpunosti pristupiti izravno i neograničeno na https://eojn.hr/. Prilog dokumentacije: ELABORAT GRAD ZADAR i Troškovnik su sastavni dio dokumentacije o nabavi."
+    },
+    "prosjecna_ocjena": 4.67
+  },
+  "restriktivnost": {
+    "prisutno": true,
+    "indikatori": [
+      {
+        "indikator": "Koncentracija ponuditelja - samo 1 ponuda zaprimljena",
+        "rizik": "srednji",
+        "citat": "Broj zaprimljenih ponuda: 1"
+      },
+      {
+        "indikator": "Elaborat (tehnička specifikacija) izvedena od strane vanjskog konzultanta (Kvinar d.o.o.), ne od strane naručitelja",
+        "rizik": "srednji",
+        "napomena": "Iako se pobjedni ponuditelj razlikuje od tvrtke koja je radila elaborat, postoji rizik od spoznaje tehničkih detalja ili povezanosti ponuditelja s konzultantom koji je radio elaborat"
+      },
+      {
+        "indikator": "Izuzetno specifična i detaljna specifikacija vezana uz zatečeno stanje objekta",
+        "rizik": "nizak_do_srednji",
+        "napomena": "Specifikacija nije tehnički restriktivna - ona je deskriptivna (описuje što treba napraviti, ne kako), ali je toliko specifična na povijest oštećenja i stanje objekta da može obeshrabriti nove ponuditelje koji nisu već upoznati s objektom"
+      }
+    ],
+    "rizik": "srednji",
+    "napomena": "Specifikacija sama po sebi nije tehnički restriktivna i ne favorizira specifičnog ponuditelja, ali je izuzetno detaljno prilagođena posebnostima objekta (konzervatorsko-restauratorski radovi na zaštićenoj građevini). Činjenica da je zaprimljena samo jedna ponuda može biti legitimna za specijalizirane konzervatorske radove, ali je na granici ozbiljnosti. Nema eksplicitnih indikatora da je specifikacija tailored za određenog ponuditelja."
+  }
+}

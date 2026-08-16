@@ -1,0 +1,27 @@
+{
+  "postupak_id": 23703,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij odabira je ekonomski najpovoljnija ponuda s potpuno preciznom, matematički definiranom formulom za cijenu (80 bodova) i eksplicitnom bodovnom tablicom za jamstveni rok (20 bodova, s četiri jasno omeđena praga: 2/3/4/5+ godina). Nema prostora za subjektivnu ocjenu naručitelja.",
+      "citat": "Ponuda s najnižom cijenom dobiva 80,00 bodova, dok se ostale ponude boduju prema formuli"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 5,
+      "obrazlozenje": "Tehnički opis (Tekst i grafika) vrlo je detaljan i strukovno precizan (faze sanacije, klase materijala, kontrola kvalitete), ali preambula troškovnika izričito dopušta ponudu jednakovrijedne robe/materijala gdje god se navodi marka, patent ili podrijetlo, čime se izbjegava neopravdano sužavanje kruga ponuditelja unatoč visokoj razini tehničke specifičnosti.",
+      "citat": "Za sve stavke troškovnika u kojima se navodi marka (komercijalni naziv), patent, tip ili određeno podrijetlo ponuditelj može ponuditi „jednakovrijedno“ navedenom."
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 4,
+      "obrazlozenje": "Dostupan je pun standardni set dokumenata (opći podaci, kriteriji kvalitativnog odabira, kriteriji odabira ponude, upute za ponuditelje, tehnički opis, preambula troškovniku, korisnički priručnik za troškovnik, prijedlog ugovora, obavijest o nadmetanju). Jedino sama proračunska tablica troškovnika (.xls, 'bez cijena') ekstrahirana je kao prazna datoteka (0 bajtova) zbog poznatog ograničenja pipeline ekstrakcije za stariji .xls format, pa stvarni raspored stavki/količina troškovnika nije bio izravno provjerljiv iz ovog teksta, iako je njegova struktura opisana u Korisničkom priručniku i Uputama za ponuditelje.",
+      "citat": "Troškovnik se sastoji od više radnih listova (sheet-ova) koji se popunjavaju sukladno Korisničkom priručniku, koji se nalazi u privitku Dokumentacije o nabavi"
+    },
+    "prosjecna_ocjena": 4.67
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak"
+  },
+  "napomena": "Uzorna standardna dokumentacija javnog naručitelja (Hrvatske ceste d.o.o.) za mali radovni postupak (proc. vrijednost 115.000 EUR). Financijski uvjet (prosječni godišnji promet >= 115.000 EUR) i tehnički uvjet (1 referenca u vrijednosti >= procijenjene vrijednosti, 1 inženjer gradilišta s relevantnim iskustvom) proporcionalni su veličini nabave, bez naznaka prilagodbe određenom ponuditelju. Jedina manjkavost pri čitanju bila je 0-bajtna .xls datoteka troškovnika (poznato ograničenje ekstrakcije, ne stvarni nedostatak u izvornoj dokumentaciji)."
+}

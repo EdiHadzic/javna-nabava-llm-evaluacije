@@ -1,0 +1,27 @@
+{
+  "postupak_id": 17923,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriteriji za odabir ponude (cijena 90% i jamstveni rok 10%) definirani su egzaktnim matematičkim formulama s objašnjenim varijablama, uz jasno propisan minimalni jamstveni rok (24 mjeseca) i posljedicu njegovog nenavođenja ili kršenja (odbijanje ponude kao nepravilne). Kvalitativni uvjeti sposobnosti (isključenje, tehnička i stručna sposobnost) razrađeni su po pravnoj osnovi, pitanju za ESPD, dodatnom pojašnjenju i točno navedenom načinu dokazivanja za svaki podkriterij.",
+      "citat": "Ponuda s najniže ponuđenom cijenom dobiva 90 bodova, a ostale ponude se boduju prema formuli: Ymin x 90 / Yp"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 5,
+      "obrazlozenje": "Tehnička specifikacija (Obrazac 2.) detaljno propisuje volumen, materijal (PEHD), mehanizam otvaranja, dimenzije kotača, težinu, boju, natpise i pozicioniranje inventurnog broja, uz eksplicitno upućivanje na norme EN 840-3/5/6 s klauzulom 'ili jednakovrijedno' i dopuštena odstupanja (npr. ±20% na dimenzije natpisa nakon izmjene), što omogućuje usporedive ponude bez isključivanja razumnih tehničkih rješenja različitih proizvođača.",
+      "citat": "Naručitelj je pri izradi Dokumentacije o nabavi izbjegavao upućivanje na marku, izvor, patent i sl. te je sav materijal i oprema... specificiran na funkcionalan način"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dostupan je pun set dokumentacije: obavijest o nadmetanju, opći podaci, upute za ponuditelje, kriteriji za kvalitativni odabir, tehnička specifikacija, troškovnik, skica kontejnera, obrasci 1-9, odgovori na pitanja s izmjenama dokumentacije, zapisnik o pregledu i ocjeni te analiza valjanih ponuda s poimeničnim potpisima stručnog povjerenstva - omogućuje potpuno samostalnu i sljedivu izradu ponude.",
+      "citat": "Ime i prezime te potpis osoba ovlaštenih predstavnika Naručitelja koje su izvršile analizu valjanih ponuda prema kriteriju za odabir ponude"
+    },
+    "prosjecna_ocjena": 5.0
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak"
+  },
+  "napomena": "Nisu pronađene reference na određenu marku/tip proizvoda ni nesrazmjerni referentni prag (minimalna vrijednost ranijih isporuka 102.000 EUR = 50% procijenjene vrijednosti, standardna razina). Naručitelj je djelomično prihvatio zahtjeve zainteresiranih gospodarskih subjekata tijekom pojašnjenja dokumentacije (ublažio toleranciju dimenzija natpisa s ±5% na ±20%, dopustio nuđenje otvora za papir s ±5% odstupanjem) radi omogućavanja sudjelovanja većem broju ponuditelja, dok je odbio produljenje roka isporuke (30 dana) i ublažavanje penala uz obrazloženo pozivanje na operativne potrebe (turistička sezona, kapacitet skladištenja). Unatoč tome zaprimljena je samo 1 ponuda - vrijedno napomene kao kontekst za tumačenje niske konkurentnosti u 5.3., no nije dovoljno za zaključak o namjernoj restriktivnosti specifikacije s obzirom na funkcionalni, normom utemeljen opis predmeta nabave."
+}

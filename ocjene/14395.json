@@ -1,0 +1,27 @@
+{
+  "postupak_id": 14395,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriteriji za odabir ponude (cijena 90 %, jamstveni rok 10 %) potpuno su mjerljivi, s eksplicitnom matematičkom formulom bodovanja, tablicom bodova za jamstveni rok po intervalima te jasno definiranim minimalnim (6 mj.) i maksimalnim (12 mj.) dopuštenim vrijednostima nečjenovnog kriterija.",
+      "citat": "Naručitelj je ograničio najviši dozvoljeni iznos za kriterij 12,00 Naručitelj je ograničio najniži dozvoljeni iznos za kriterij 6,00"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Opis predmeta nabave (tehnička specifikacija) detaljno navodi opseg posla, korake postupka izmjene vodomjera i obveze izvršitelja (fotografiranje, evidentiranje serijskih brojeva, provjera nepropusnosti), a materijal (vodomjere, ventile) osigurava naručitelj čime se izbjegava potreba za dodatnim tehničkim specifikacijama proizvoda. Nedostaju samo detaljniji podaci o rasporedu/dinamici lokacija ili tipu okana po kojima bi se ponuditelj mogao unaprijed preciznije kalkulirati logistiku.",
+      "citat": "Posao obuhvaća preuzimanje potrebnog materijala i dokumentacije od za to određene osobe naručitelja, odlazak na teren, demontažu postojećeg i ugradnju novog ili servisiranog vodomjera"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dostupna je cjelovita dokumentacija: opći podaci, obavijest o nadmetanju, kriteriji kvalitativnog odabira i odabira ponude, tehnička specifikacija, troškovnik, upute za ponuditelje, prijedlog ugovora i propisane izjave — dovoljno za samostalnu izradu ponude bez dodatnih pojašnjenja.",
+      "citat": "Elektronička ponuda mora sadržavati najmanje: Uvez ponude Popunjeni eESPD obrazac... Popunjen troškovnik... Prijedlog ugovora... Ostali dokumenti: ...Izjava - prilog 2"
+    },
+    "prosjecna_ocjena": 4.67
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak"
+  },
+  "napomena": "Nema referenci na specifičnu marku/proizvod niti nesrazmjerne financijske/referentne pragove: tražena referenca (min. 500 zamijenjenih vodomjera) i kadrovski uvjet (2 osobe strukovnog obrazovanja vodoinstalater ili srodno) proporcionalni su opsegu nabave (10.000 kom, 365.000 EUR), a jamstvo za ozbiljnost ponude (10.000 EUR, ~2,7 % procijenjene vrijednosti) je standardnog iznosa. Zaprimljena je samo jedna ponuda (NERO obrt), no to nije samo po sebi indikator restriktivnosti specifikacije - dokumentacija ne sadrži elemente koji bi eksplicitno sužavali krug ponuditelja. Troškovnik je vrlo kratak (svega 2 stavke), ali to odgovara jednostavnoj prirodi usluge (jedinična cijena po komadu zamjene), ne ukazuje na nepotpunost."
+}

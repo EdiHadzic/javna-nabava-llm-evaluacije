@@ -1,0 +1,43 @@
+{
+  "postupak_id": 30237,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriteriji za odabir su izuzetno jasno i precizno definirani. Dokumentacija \"Kriteriji za odabir ponude\" navodi dvije dimenzije: Cijena (90 bodova) i Reciklirana ambalaža (10 bodova). Bodovanje cijene koristi jasnu matematičku formulu: ponuda s najnižom cijenom dobiva 90 bodova, ostale se boduju u omjeru prema najnižoj. Za recycled ambalažu su precizno definirane tri kategorije s točnim brojem bodova (0/5/10). Dokazi potrebni za provjeru su jasno identificirani.",
+      "citat": "Cijena ponude je 90 bodova. Reciklirana ambalaža: Ambalaža od nerecikliranog materijala - 0 bodova, Ambalaža od recikliranog materijala do 20% - 5 bodova, Ambalaža od recikliranog više od 20%-10 bodova."
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Opis predmeta nabave je dovoljno detaljno razrađen da omogući usporedbu ponuda, ali nije toliko uzak da bi nepotrebno isključio razumne alternative. Troškovnik navedava 13 specifičnih stavki s jasnim količinama i specifikacijama za svaku. Primjerice, jogurt je specifikaciran kao \"čvrsti 3,2% mm, isporuka u pakiranju od 180-200g\", a sir kao \"polutvrdi kao gauda min.45% mm (ne biljne)\". Korištenje formulacija \"kao gauda\" sugeriše da se prihvaćaju ekvivalentni proizvodi.",
+      "citat": "Jogurt čvrsti 3,2%mm, isporuka u pakiranju od 180-200g; Sir polutvrdi kao gauda min.45% mm (ne biljne) i 50% suhe tvari; Maslac I klase 20 g min 82%mm i max 16%vode"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dokumentacija je vrlo potpuna i obuhvaća sve ključne elemente potrebne za samostalnu izradu ponude. Dostupni su: Opći podaci o postupku, Upute za ponuditelje, Kriteriji za odabir, Kriteriji za kvalitativni odabir, Troškovnik s detaljnim specifikacijama, te obavijesti o nadmetanju i dodjeli. Čitava dokumentacija je organizirana logički te je besplatno dostupna na EOJN portalu. Naručitelj je jasno naveo sve uvjete plaćanja, rokove, i procedure.",
+      "citat": "Dokumentacija o nabavi dostupna je besplatno i može joj se u potpunosti pristupiti izravno i neograničeno na: https://eojn.hr/; Ponuditelj mora popuniti troškovnik i učitati ga prilikom pripreme ponude na EOJN."
+    },
+    "prosjecna_ocjena": 4.67
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [
+      {
+        "indikator": "Korištenje generičkih specifikacija umjesto marki",
+        "razina_rizika": "niska",
+        "citat": "Sir polutvrdi kao gauda - korištenje 'kao' (kao = like) omogućava ekvivalentne proizvode, ne specifičnu marku"
+      },
+      {
+        "indikator": "Specifikacije proizvodnje za kvalitetu, ne za proizvoditelja",
+        "razina_rizika": "niska",
+        "citat": "Maslac I klase 20 g min 82%mm i max 16%vode - specifikacija se fokusira na kemijski/fizički sastav, ne na proizvođača"
+      },
+      {
+        "indikator": "Nema eksplicitnih zahtjeva za certifikate ili preporučene brendove",
+        "razina_rizika": "niska",
+        "citat": "Troškovnik ne navodi specifične marke ili proizvođače, samo standarde kvalitete i količine"
+      }
+    ],
+    "rizik": "nizak"
+  },
+  "napomena": "Postupak je odličnog kvalitete s izuzetno jasnom dokumentacijom i transparentnim kriterijima. Nagrađeni ponuditelj (DUKAT d.d.) je dominantan proizvođač na hrvatskom tržištu mliječnih proizvoda, ali specifikacije ne daju znakove prilagođenosti specifičnom ponuditelju. Sve specifikacije su postavljene na razini standarda kvalitete, ne na razini marke. Otvoreni postupak s 2 zaprimljene ponude i 15% smanjenja od procijenjene vrijednosti (29,622.60 EUR vs 35,000 EUR) sugerira konkurentno tržište."
+}

@@ -1,0 +1,44 @@
+{
+  "postupak_id": 21028,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriteriji za odabir ekonomski najpovoljnije ponude potpuno su jasno definirani i mjerljivi: cijena (80 bodova) i jamstveni rok (20 bodova), oba s eksplicitnim matematičkim formulama za bodovanje, jasno propisanim minimalnim/maksimalnim vrijednostima (24-60 mjeseci, cijeli broj) i pravilom za jednako rangirane ponude.",
+      "citat": "CP = (Cmin/Cp) x 80 ... JR = (Jo/Jn) x 20 gdje je: JR – bodovi po kriteriju za jamstveni rok"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Tehnička specifikacija vrlo je detaljna i konkretna (dimenzije konzola, karakteristike monitora, opsežan popis softverskih modula, ugrađenih modela brodova i područja plovidbe za nadogradnju simulatora NTPro 5000), što omogućuje usporedivu ponudu. Detalj je opravdan jer se radi o nadogradnji postojeće, već instalirane licence, no time opis nužno postaje uzak na jedan konkretan proizvod.",
+      "citat": "Nadogradnja postojeće licence simulatora NTPro 5000 sa verzije 5.35 na verziju 6.0 u sljedećem obimu"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 4,
+      "obrazlozenje": "Dostupna je cjelovita dokumentacija (opći podaci, tehničke specifikacije, kriteriji kvalitativnog odabira, kriterij ENP, upute za ponuditelje, troškovnik) dostatna za samostalnu izradu ponude. Manji nedostatak: troškovnik svodi cijelu, opsežno specificiranu nadogradnju (monitori, konzole, softverski moduli, instalacija, obuka, dokumentacija) na jedinu stavku 'komplet', bez razrade cijene po komponentama.",
+      "citat": "1 Nadogradnja navigacijskog simulatora komplet 1 0 CIJENA PONUDE bez PDV-a: 0"
+    },
+    "prosjecna_ocjena": 4.33
+  },
+  "restriktivnost": {
+    "prisutno": true,
+    "indikatori": [
+      {
+        "opis": "Predmet nabave imenom navodi specifičan vlasnički softverski proizvod (nadogradnja postojeće licence) bez mogućnosti isporuke jednakovrijedne alternative, za razliku od klauzule o jednakovrijednosti koja vrijedi samo za norme, ne za sâm proizvod licence.",
+        "citat": "Nadogradnja softvera simulatora NTPro 5000 verzija 5.35 na verziju 6.00"
+      },
+      {
+        "opis": "Zahtijeva se ovlaštenje proizvođača za ponuditelje koji nisu sami proizvođači, čime se krug mogućih ponuditelja sužava na proizvođača ili njegove ovlaštene distributere/servisere.",
+        "citat": "Ukoliko ponuditelj nije proizvođač ponuđene robe, obavezan je dostaviti ovlaštenje proizvođača Pomorskog simulatora za nuđenje proizvoda"
+      },
+      {
+        "opis": "Traži se osoblje s certifikatom baš tog proizvođača simulatora za instalaciju, što dodatno sužava krug sposobnih ponuditelja na one povezane s konkretnim proizvođačem.",
+        "citat": "dvije (2) osobe koji posjeduju certifikat proizvođača simulatora za instalaciju predmetnog simulatora"
+      },
+      {
+        "opis": "Ishod postupka potvrđuje sužen krug ponuditelja: zaprimljena je samo jedna ponuda (od ukupno mogućih), unatoč otvorenom postupku s EU objavom.",
+        "citat": "Broj zaprimljenih ponuda: 1"
+      }
+    ],
+    "rizik": "srednji"
+  },
+  "napomena": "Pročitani su svi relevantni dokumenti u extracted/ (opći podaci, obavijest o nadmetanju, obje izmjene obavijesti, kriteriji kvalitativnog odabira, kriterij ENP, upute za ponuditelje, tehnička specifikacija, troškovnik, zapisnik/rezultati pregleda i ocjene, obavijest o dodjeli ugovora); dokumenti kaznene evidencije/poreznog duga/registra nisu bili relevantni za ocjenu transparentnosti i nisu detaljno analizirani. Restriktivnost je ovdje dijelom tehnički opravdana (radi se o nadogradnji već posjedovane licence simulatora, ne o novoj nabavi), stoga je rizik ocijenjen kao srednji, a ne visok, unatoč sole-bidder ishodu."
+}

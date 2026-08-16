@@ -1,0 +1,27 @@
+{
+  "postupak_id": 3596,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij odabira je isključivo cijena (ekonomski najpovoljnija ponuda temeljena 100% na cijeni), s eksplicitno navedenom matematičkom formulom bodovanja i pravilom za rangiranje jednako bodovanih ponuda. Nema subjektivnih ne-cjenovnih kriterija koji bi unijeli dvosmislenost u ocjenjivanje.",
+      "citat": "Ekonomski najpovoljnija ponuda utvrđuje se na temelju: Cijene ... Cijena 100,00"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Tehnička specifikacija sadrži konkretan mjesečni raspored (broj dana, broj radnih sati zaštitnog mjesta, minimalan broj djelatnika po smjeni) i detaljan popis zabranjenih radnji koje zaštitar provodi, što omogućuje usporedivu ponudu. Ocjena nije 5 jer postoji manja interna nedosljednost s dokumentom o tehničkoj/stručnoj sposobnosti (v. napomena).",
+      "citat": "Mjesec Broj dana Broj redovnih radnih sati zaštitnog mjesta ZLZ Minimalan broj djelatnika ... Kolovoz 31 496 2 2 992"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 4,
+      "obrazlozenje": "Dostupni su svi ključni dokumenti (opći podaci, tehničke specifikacije, troškovnik, uvjeti sposobnosti, upute za ponuditelje, kriteriji za odabir), a sva tri zaprimljena ponuditelja ocijenjena su kao formalno i sadržajno valjana bez zastoja u postupku zbog nejasnoća dokumentacije. Ocjena nije 5 jer dokument 'TEHNIČKA_I_STRUČNA_SPOSOBNOST' sadrži prag od 30% procijenjene vrijednosti i referencu na 'vrijednost robe', dok paralelni dokument 'Kriteriji za kvalitativni odabir gospodarskog subjekta' za isti uvjet navodi 50% - interna nedosljednost/artefakt predloška iz nabave robe, potencijalno zbunjujuća za ponuditelje.",
+      "citat": "čija zbrojena vrijednost ne smije biti manja od 30% procijenjene vrijednosti predmeta nabave. Popis sadržava vrijednost robe"
+    },
+    "prosjecna_ocjena": 4.33
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak"
+  },
+  "napomena": "Postupak je transparentno okončan s tri valjane ponude (LAV ZAŠTITA, MEDITERAN SECURITY, zajednica DALMACIJA SECURITY SERVICE/VIRTUS PROTEKTA) i rasponom cijena unutar ~25% (50.848,56-63.720,00 EUR bez PDV-a), što ukazuje na stvarnu konkurentnost bez znakova prilagodbe specifikacije određenom ponuditelju. Traženi uvjeti sposobnosti (npr. minimalno 10 djelatnika s MUP dozvolom, referenca u vrijednosti 30-50% procijenjene vrijednosti) proporcionalni su opsegu posla (do ~992 sata rada mjesečno, 2 djelatnika po smjeni). Jedina uočena mana je manja nedosljednost postotnog praga reference (30% vs 50%) između dva dokumenta, vjerojatno posljedica ponovne uporabe predloška iz nabave robe. Svih 14 izvučenih datoteka bilo je čitljivo bez OCR/ekstrakcijskih praznina."
+}

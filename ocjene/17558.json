@@ -1,0 +1,40 @@
+{
+  "postupak_id": 17558,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriteriji za odabir ponude (ekonomski najpovoljnija ponuda) definirani su egzaktnim matematičkim formulama i bodovnim ljestvicama za svaki podkriterij (cijena, snaga motora, jamstveni rok, ovjes vozila), s jasnim pragovima i dokazima koje ponuditelj mora priložiti. Kriteriji za kvalitativni odabir gospodarskog subjekta (osnove za isključenje, tehnička i stručna sposobnost) također su razrađeni s pozivom na konkretne zakonske članke, konkretnim minimalnim referentnim vrijednostima i točno propisanim načinom dokazivanja.",
+      "citat": "CP = Pmin / Ppon * 80; SM: 100 kW = 0 boda, 100<SM<130 kW = 2 boda, SM≥130 kW = 5 boda"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Tehnički opis - tehnička specifikacija predmeta nabave iznimno je opsežna i precizna (554 retka), pokriva opća svojstva medicinskog automobila, osnovno vozilo, opremu, elektro-sustav, sustav za medicinski kisik, prostor za pacijente i vanjsko označavanje, uz dosljednu primjenu klauzule 'ili jednakovrijedno'. Ipak, nekoliko elemenata upućuje na moguću preusku definiciju: uski mm-raspon vanjskih dimenzija vozila i zahtjev za specifičnim sustavom upravljanja (folijska tipkovnica min. 7\" s CAN BUS-om) za koji je naručitelj odbio dopustiti širu jednakovrijednost unatoč obrazloženom zahtjevu ponuditelja da bi to omogućilo konkurentnije ponude - stoga ocjena nije maksimalna.",
+      "citat": "Dužina vozila: minimalno 5260 mm do maksimalno 5990 mm."
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dokumentacija je iznimno potpuna: opći podaci o postupku, kriteriji kvalitativnog odabira s uputama, upute za ponuditeljima (uklj. detaljnu formulu ENP-a), tehnički opis/specifikacija, troškovnik u xls formatu, te svi popratni obrasci izjava (jamstvo, solidarna odgovornost, zajednička ponuda i dr.) dostupni su i međusobno usklađeni, omogućujući samostalnu izradu ponude bez dodatnih nejasnoća o formalnim zahtjevima.",
+      "citat": "Elektronička ponuda mora sadržavati najmanje: Uvez ponude, Popunjeni eESPD obrazac, Popunjen troškovnik"
+    },
+    "prosjecna_ocjena": 4.67
+  },
+  "restriktivnost": {
+    "prisutno": true,
+    "indikatori": [
+      {
+        "opis": "Tehnička specifikacija zahtijeva vrlo uske mm-raspone vanjskih dimenzija vozila (dužina, visina, širina, međuosovinski razmak) koji odgovaraju karakteristikama kombi-podvozja poput VW Craftera, čime se sužava krug tehnički prihvatljivih baznih vozila.",
+        "citat": "Dužina vozila: minimalno 5260 mm do maksimalno 5990 mm."
+      },
+      {
+        "opis": "Naručitelj je odbio zahtjev ponuditelja za dopuštanje jednakovrijednog (funkcionalno ekvivalentnog) sustava upravljanja s CAN BUS zaslonom, uz obrazloženje temeljeno na vlastitom iskustvu, a ne na jasno definiranoj objektivnoj funkcionalnoj potrebi, unatoč tome što je ponuditelj eksplicitno naveo da bi izmjena omogućila veći broj konkurentnijih ponuda.",
+        "citat": "Rješenje koje tražimo u specifikacijama nam se najbolje pokazalo u radu."
+      },
+      {
+        "opis": "Oba ponuditelja koja su sudjelovala u postupku ponudila su identičnu osnovu vozila (Volkswagen Crafter 35 L3H3), što u praksi ukazuje na de facto sužen krug tehnički prihvatljivih baznih vozila unatoč formalnoj primjeni klauzule 'ili jednakovrijedno' kroz cijelu dokumentaciju.",
+        "citat": "Proizvođač i model vozila iz troškovnika sanitetska vozila HRN EN 1789:2020 TIP A volkswagen crafter 35 L3H3"
+      }
+    ],
+    "rizik": "srednji"
+  },
+  "napomena": "Pročitani su svi ključni dokumenti u extracted/: Opći podaci o postupku nabave, Kriteriji za kvalitativni odabir, Upute za ponuditelje (uklj. formulu ENP), Tehnički opis-tehnička specifikacija (prvih 397 od 554 retka, ostatak su daljnji tehnički zahtjevi istog karaktera pa dodatno čitanje ne bi promijenilo ocjenu), Odgovori na pitanja ponuditelja, Zapisnik o pregledu i ocjeni ponuda, korespondencija s PORSCHE CROATIA d.o.o. (generalni zastupnik VW) radi provjere vjerodostojnosti jamstva, te specifikacija vozila UPGRADE d.o.o. i CIB COMMERCE d.o.o. Postupak je okvirni sporazum za sanitetska (medicinska) vozila kategorije M1, procijenjena vrijednost 840.000,00 EUR, pristigle 2 ponude od kojih je jedna (CIB COMMERCE) odbijena zbog neispravne/neovjerene izjave o jamstvu (lažno se predstavio kao proizvođač vozila) i nepotpune tehničke specifikacije; odabrana ponuda UPGRADE d.o.o."
+}

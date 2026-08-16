@@ -1,0 +1,65 @@
+{
+  "postupak_id": 1097,
+  "broj_pojedinacnih_runova": 2,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Oba pokretanja neovisno utvrđuju da je kriterij ekonomski najpovoljnije ponude potpuno operacionaliziran: cijena nosi 70% (P = Pn / Pr * 70), a preostalih 30% raspoređeno je na tri kvalitativna potkriterija (prosječna potrošnja vode 10%, tri jamstvena roka 5%+10%+5%), svaki s eksplicitnom matematičkom formulom, jasno propisanim minimalnim/maksimalnim dopuštenim vrijednostima (npr. minimalni jamstveni rok 24 mjeseca, najviši dopušteni unos potrošnje vode 400 l) i propisanim predloškom izjave kojom ponuditelj iskazuje brojčanu vrijednost. Bodovanje je u potpunosti mjerljivo, unaprijed provjerljivo i ne ostavlja prostora za diskrecijsku procjenu povjerenstva.",
+      "citat": "P = Pn / Pr * 70 ... GI = Gt / G1 * 5 ... Minimalni jamstveni rok je 24 mjeseca.",
+      "runovi": [
+        5,
+        5
+      ],
+      "slaganje": "puno"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Oba pokretanja neovisno dolaze do iste ocjene, ali ističu komplementarne, ne proturječne, dokaze — oboje potvrđeno izravnim uvidom u izvorni tekst. Troškovnik (preko 800 redaka) opisuje predmet nabave stavku po stavku s preciznim mjernim rasponima (protoci, tlakovi, dimenzije, kapaciteti), što omogućuje objektivnu usporedivost ponuda; naručitelj dosljedno dopušta jednakovrijedne norme/standarde umjesto pozivanja na konkretnu marku (npr. 'AISI 304 ili jednakovrijedno' ponavlja se u desecima stavki), čime je rizik neopravdanog isključenja alternativa ublažen. Istovremeno, gustoća uskih numeričkih pragova mjestimično je otišla predaleko: kod stavke 48 (kombinirani hladnjak) izvorno postavljen volumen/dimenzije nisu odgovarali nijednom modelu na tržištu prilagođenom za ugradnju ispod pulta, što je ponuditelj u fazi pitanja/odgovora eksplicitno prijavio (potvrđeno u Odgovori.html.txt) — naručitelj je zahtjev prihvatio i ispravio specifikaciju izmjenom dokumentacije prije roka za dostavu ponuda. Ocjena 4 (ne 5) odražava tu reaktivnu, premda uspješno otklonjenu, netočnost u izvornom nacrtu.",
+      "citat": "Molimo izmjenu volumena hladnjaka i ledenice kao i dozvoljene maksimalne dimenzije hladnjaka jer na tržištu ne postoje modeli sa traženim volumenom a da su predviđeni za ugradnju ispod pulta kuhinjskog mini bloka. [...] OBJAŠNJENJE/ODGOVOR: Prihvaća se.",
+      "runovi": [
+        4,
+        4
+      ],
+      "slaganje": "puno"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 4,
+      "obrazlozenje": "Runovi se ovdje sadržajno kose (run 2 tvrdi da je 'kompletan set dokumenata dostupan i međusobno usklađen', run 1 navodi konkretan gap) unatoč razlici od samo 1 boda, pa je resolver samostalno provjerio stanje datoteka u Diplomski/Postupci/1097/extracted/. Provjerom je potvrđeno da je run 1 u pravu: 'Prilozi.zip.txt' ekstrahiran je kao potpuno prazna datoteka (0 bajtova; sam izvorni Prilozi.zip na disku ima 0 bajtova), a 'Zapisnik o pregledu i ocjeni.pdf.txt' ekstrahiran je kao gotovo prazan (8 bajtova), unatoč tome što izvorni PDF na disku ima 161.507 bajtova — dakle stvarni sadržaj zapisnika o ocjeni ponuda (obrazloženje bodovanja kvalitativnih potkriterija) nije dostupan u ekstrahiranom tekstu, vjerojatno zbog neuspjele OCR/ekstrakcije skeniranog dokumenta. Ovaj gap je djelomično ublažen time što je sažetak ključnih evaluacijskih podataka (zaprimljene ponude, razlog odbijanja AnalyticPharma ponude, ugovorena vrijednost) ipak dostupan kroz zaseban dokument 'Odluka o odabiru.html.txt', pa osnovna izrada i naknadna provjera ponude nisu onemogućene. Zbog verificiranog gapa u dva dokumenta, ocjena 4 (run 1) je bolje utemeljena od run-2 tvrdnje o potpunoj usklađenosti.",
+      "citat": "(root)__Prilozi.zip.txt = 0 bajtova; (root)__Zapisnik o pregledu i ocjeni.pdf.txt = 8 bajtova (izvorni PDF 161.507 bajtova) — verificirano izravnim uvidom u extracted/ tijekom razrješavanja",
+      "runovi": [
+        4,
+        5
+      ],
+      "slaganje": "rascjep"
+    },
+    "prosjecna_ocjena": 4.33
+  },
+  "restriktivnost": {
+    "prisutno": true,
+    "indikatori": [
+      {
+        "opis": "Ponuditelj je u fazi pitanja/odgovora, nakon konzultacija s proizvođačima i dobavljačima, naveo da niz stavaka iz Grupa B) i C) troškovnika može ponuditi isključivo jedan dobavljač te zatražio podjelu nabave barem na dvije grupe (izdvajanje Grupe A, sustav za pripremu vode, od namještaja/ostale robe iz grupa B/C). Naručitelj je zahtjev odbio uz jednorečeničino obrazloženje da predmet čini 'jedinstvenu funkcionalnu cjelinu', bez detaljnijeg objašnjenja zašto tehnički i funkcionalno vrlo različiti segmenti (sustav pripreme ultra-čiste demineralizirane vode za hemodijalizu vs. medicinski/drveni namještaj) moraju ostati kod istog ponuditelja. Bundling je zadržan unatoč konkretnoj, dokumentiranoj tvrdnji o zaključavanju dijela robe na jednog dobavljača.",
+        "citat": "identifikacije niza stavaka iz Grupa B) i C) u troškovniku koje može ponuditi isključivo jedan dobavljač, predlažemo Naručitelju podjelu tendera na dvije grupe [...] Odgovor: Odbija se. Predmet nabave čini jedinstvenu funkcionalnu cjelinu.",
+        "rizik_doprinos": "srednji"
+      },
+      {
+        "opis": "Vezano uz isti nepodijeljeni predmet nabave: posebno jamstvo za prekomjernu potrošnju vode (5% vrijednosti ugovora, rok valjanosti 5 godina) obračunava se na cjelokupnu vrijednost ugovora (uključujući namještaj i ostalu opremu), iako se rizik prekomjerne potrošnje odnosi isključivo na sustav za pripremu vode (grupa A). Ponuditeljev prigovor na nesrazmjer osnovice i na neuobičajeno dug rok jamstva odbijen je bez ponuđene alternativne forme jamstva (npr. zadužnice), što dodatno opterećuje ponuditelje bez širokog portfelja i pojačava učinak nepodijeljenog predmeta nabave.",
+        "citat": "Odbija se prijedlog da se promjeni visina jamstva te da bude 5% od ugovorene vrijednosti samo grupe A) [...] Odbija se prijedlog da se gore navedeno jamstvo može alternativno dati i u drugoj formi od tražene.",
+        "rizik_doprinos": "srednji"
+      },
+      {
+        "opis": "Prvotna tehnička specifikacija stavke 'Hladnjak kombinirani' (volumen i vanjske dimenzije) bila je toliko uska da, prema navodu ponuditelja, na tržištu ne postoji odgovarajući model prilagođen za ugradnju ispod pulta — potencijalni signal specifikacije 'skrojene' prema jednom proizvodu/dobavljaču. Naručitelj je zahtjev prihvatio i ispravio prag prije roka za dostavu ponuda, pa je stvarni rizik za ovaj postupak nizak (proturjeka otklonjena), ali ilustrira nesigurnost u izvornom nacrtu specifikacije.",
+        "citat": "na tržištu ne postoje modeli sa traženim volumenom a da su predviđeni za ugradnju ispod pulta kuhinjskog mini bloka",
+        "rizik_doprinos": "nizak (otklonjeno izmjenom)"
+      }
+    ],
+    "rizik": "srednji",
+    "runovi_prisutno": [
+      true,
+      true
+    ],
+    "slaganje": "puno"
+  },
+  "napomena": "Postupak ima samo 2 zaprimljene ponude, od kojih je jedna (AnalyticPharma d.o.o.) proglašena neprihvatljivom (nedostavljeno jamstvo za ozbiljnost ponude, nepopunjen troškovnik, ne ispunjava kvalitativne uvjete), pa je odabrana jedina preostala (valjana) ponuda zajednice MEDI-LAB/PANON TRADE po ugovorenoj vrijednosti 574.449,00 EUR bez PDV-a, iznad procijenjene vrijednosti od 550.000,00 EUR (+4,4%). Nisko tržišno natjecanje (efektivno 1 valjana ponuda) konzistentno je s indikatorima restriktivnosti (odbijena podjela na grupe unatoč tvrdnji o dobavljaču s ekskluzivnim pristupom dijelu robe, te nesrazmjerna osnovica jamstva). Nisu pronađene eksplicitne reference na marku/patent u tehničkoj specifikaciji niti nesrazmjerni financijski/referentni pragovi u kriterijima kvalitativnog odabira (traženi su tek upis u registar i uzorci/fotografije/katalozi robe uz standardne ESPD osnove za isključenje). Dva ekstrahirana dokumenta (Prilozi.zip i Zapisnik o pregledu i ocjeni) sadržajno su prazna/gotovo prazna u extracted/ (v. potpunost_dokumentacije), što ograničava naknadnu provjerljivost detalja evaluacije, iako je sažetak evaluacijskih ishoda dostupan kroz Odluku o odabiru.",
+  "napomena_resolvera": "Jasnoća kriterija i restriktivnost pokazuju potpuno slaganje (puno) — oba runa neovisno prijavljuju iste konkretne nalaze (formule bodovanja; odbijena podjela na grupe), pa je resolver samo sintetizirao obrazloženja i proširio popis indikatora restriktivnosti trećim, neduplicirajućim nalazom iz run 2 (nesrazmjerna osnovica/rok jamstva), verificiranim izravnim čitanjem Odgovori.html.txt. Razina detalja opisa numerički se slaže (4/4), ali je resolver ipak provjerio jesu li dva različita obrazloženja (hladnjak-korekcija naspram jednakovrijednih normi) sadržajno kompatibilna prije proglašenja 'puno' — grep provjerom obje tvrdnje potvrđene su kao točne i komplementarne, ne proturječne, pa je slaganje 'puno' opravdano. Potpunost dokumentacije jedina je dimenzija s pravim rascjepom: iako se ocjene razlikuju za samo 1 bod (4 vs 5), obrazloženja se sadržajno kose (run 2 tvrdi potpunu usklađenost, run 1 prijavljuje konkretan gap), pa je resolver, kako propisuje protokol za dva runa, samostalno pregledao Diplomski/Postupci/1097/extracted/ umjesto da bira između tuđih ocjena. Izravnom provjerom potvrđeno je da su Prilozi.zip.txt (0 bajtova) i Zapisnik o pregledu i ocjeni.pdf.txt (8 bajtova naspram 161.507-bajtnog izvornog PDF-a) stvarno prazni/gotovo prazni, što utemeljuje run-1 ocjenu (4) kao točniju. Ukupna razina pouzdanosti finalne ocjene: visoka za jasnoću kriterija i restriktivnost, srednje-visoka za razinu detalja opisa i potpunost dokumentacije (potonja zahtijevala samostalnu verifikaciju datoteka, ali je nalaz jednoznačan)."
+}

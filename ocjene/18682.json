@@ -1,0 +1,32 @@
+{
+  "postupak_id": 18682,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriteriji za odabir ponude (ekonomski najpovoljnija ponuda) potpuno su kvantificirani i formulom vezani: cijena nosi 90 od 100 bodova prema eksplicitnoj formuli C=(Cmin/Cp)*90, a dodatno jamstveno razdoblje 10 bodova prema jasnoj tablici praga (12 mj. = 5 bodova, 24 mj. = 10 bodova). Osnove za isključenje i uvjeti sposobnosti (upis u registar, prosječni godišnji promet, popis radova) navedeni su s točnom pravnom osnovom (članci ZJN2016), pitanjem za ESPD i načinom dokazivanja za svaki podkriterij zasebno.",
+      "citat": "Valjana ponuda s najniže ponuđenom cijenom dobiva 90 bodova, a ostale ponude se boduju prema formuli: C = (Cmin/Cp) * 90"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Opis predmeta nabave razlaže zahvat u pet jasno opisanih cjelina (rampa za osobe s invaliditetom, šetnica, mul, pješčana plaža, površina za igralište) s konkretnim mjerama (širine rampe 2,0 m i 1,7 m, min. širina šetnice 3 m, duljina mula 13 m, nagib pokosa 1:15, kote +0,90/-0,60 m). Predmet je dodatno detaljno definiran cjelovitom projektnom dokumentacijom (izvedbeni i glavni projekt, građevinski/strojarski i elektrotehnički dio, opsežni troškovnici), što je razina detalja tipična i očekivana za radove ugovorene po gotovom (izvedbenom) projektu, ali istodobno ostavlja vrlo malo prostora za alternativna tehnička rješenja ponuditelja jer je rješenje već u potpunosti projektirano.",
+      "citat": "pješačka površina – šetnica - izvodi se s minimalnom širinom od 3 m, a prolazi zaleđem pješčane plaže"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dostupan je pun set dokumentacije potreban za samostalnu izradu ponude: Opći podaci o postupku nabave, Kriteriji za kvalitativni odabir gospodarskog subjekta (s ESPD uputama), Kriteriji za odabir ponude, Upute za ponuditelje, Obavijest o nadmetanju, kompletna projektna dokumentacija (Mapa 1 – građevinski/strojarski, Mapa 2 – elektrotehnički, izvedbeni projekt, ukupno preko 6 milijuna znakova izvučenog teksta) te tri odvojena troškovnika (PGO/UZP/VI, EI, rekapitulacija) i prilozi (izjava o solidarnoj odgovornosti, izjava o jamstvenom roku). Nema naznaka nedostajućih ključnih poglavlja dokumentacije.",
+      "citat": "Detaljne tehničke specifikacije se nalaze u zasebnom prilogu."
+    },
+    "prosjecna_ocjena": 4.67
+  },
+  "restriktivnost": {
+    "prisutno": true,
+    "indikatori": [
+      {
+        "opis": "Elektrotehnički projekt (Mapa 2) u tehničkom opisu rasvjetnih stupova imenuje konkretan komercijalni proizvod (LED svjetiljka 'TownTune', poznata proizvodna linija tvrtke Signify/Philips) s točno navedenim tehničkim parametrima, bez dodatka 'ili jednakovrijedno'. Za usporedbu, isti skup projektne dokumentacije na drugom mjestu (specifikacija cementa u Mapi 1) ispravno koristi formulaciju 'ili jednakovrijedno', što upućuje na nedosljednost, a ne na sustavnu praksu izbjegavanja generičke specifikacije.",
+        "citat": "Predviđeni su cijevni, vruće pocinčani rasvjetni stupovi kao tip SRS 400-1B visine 400cm, sa svjetiljkama TownTune 24.5W, 2380lm, 3000K."
+      }
+    ],
+    "rizik": "nizak"
+  },
+  "napomena": "Financijski i referentni pragovi (prosječni godišnji promet i vrijednost potvrde o izvedenim radovima, oba postavljena na 100% procijenjene vrijednosti nabave od 335.000,00 EUR) odgovaraju uobičajenoj i dopuštenoj praksi kod ZJN2016 te nisu ocijenjeni kao restriktivni. Postupak je imao 3 valjane ponude s primjetnom cjenovnom disperzijom (438.739-745.635 EUR s PDV-om), što je konzistentno s ocjenom da prilagođenost specifikacije nije značajno suzila krug ponuditelja. Zbog opsega dviju vrlo velikih PDF ekstrakcija projektne dokumentacije (Mapa 1: ~3,28 mil. znakova, izvedbeni projekt: ~2,61 mil. znakova) te nije čitano riječ-po-riječ u cijelosti, nego su ciljano pregledani sadržajno relevantni odjeljci (tehnički opis, troškovnici) i sustavno pretraženi (grep) na indikatore robnih marki/ekvivalencije radi provjere restriktivnosti; sve manje datoteke (kriteriji, upute, obavijesti, odluke, zapisnici) pročitane su u cijelosti. Troškovnik u xls formatu (Rekapitulacija) sadrži isključivo nulte vrijednosti jer je riječ o praznom predlošku dokumentacije o nabavi, ne o ispunjenoj ponudi - očekivano i ne utječe na ocjenu."
+}

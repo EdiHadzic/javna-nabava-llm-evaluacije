@@ -1,0 +1,27 @@
+{
+  "postupak_id": 4288,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriteriji za odabir ponude (cijena 90% i odaziv izvršitelja 10%) definirani su egzaktnom matematičkom formulom za cijenu i jasnom tablicom bodovanja za odaziv, bez prostora za diskrecijsko tumačenje; primjena kriterija dosljedno je prikazana i u 'Analizi valjanih ponuda'.",
+      "citat": "Ponuda s najniže ponuđenom cijenom dobiva 90 bodova, a ostale ponude se boduju prema formuli: Ymin/Yp x 90"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Tehnička specifikacija konkretno opisuje proces preuzimanja (kontejneri, vaganje na vagi naručitelja, prateći list, e-ONTO evidencija, radno vrijeme preuzimanja), dovoljno da ponuditelji mogu izraditi usporedive ponude za jednostavnu, po jedinici (toni) naplativu uslugu; opis je sažet jer je predmet nabave po prirodi jednostavan.",
+      "citat": "Tako utovaren biootpad na teretnim vozilima kojima raspolaže ponuditelj će se prije odvoza vagati na vagi kojom raspolaže Naručitelj"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dokumentacija je potpuna i međusobno konzistentna: obavijest o nadmetanju, opći podaci, kriteriji kvalitativnog odabira, kriterij za odabir ponude, tehnička specifikacija, troškovnik i svih 7 obrazaca prisutni su i sadržajno se poklapaju s naknadnom analizom ponuda i obavijesti o dodjeli.",
+      "citat": "Elektronička ponuda mora sadržavati najmanje: Uvez ponude, Popunjeni eESPD obrazac, Popunjen troškovnik"
+    },
+    "prosjecna_ocjena": 4.67
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak"
+  },
+  "napomena": "Pročitane su sve relevantne .txt datoteke iz extracted/ (obavijest o nadmetanju, kriteriji kvalitativnog odabira, upute za ponuditelje, tehnička specifikacija, kriterij za odabir ponude, troškovnik, analiza valjanih ponuda, obavijest o dodjeli ugovora, opći podaci). Uvjeti sposobnosti (min. 1 teretno vozilo, min. 2 kontejnera, reference u vrijednosti minimalno polovice procijenjene vrijednosti) proporcionalni su vrijednosti nabave (86.500 EUR) i nisu vezani uz specifičnog ponuditelja; zaprimljene su 2 ponude, obje prihvaćene kao valjane."
+}

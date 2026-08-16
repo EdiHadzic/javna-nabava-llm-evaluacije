@@ -1,0 +1,27 @@
+{
+  "postupak_id": 16683,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij odabira (ekonomski najpovoljnija ponuda) potpuno je operacionaliziran: cijena nosi 90 bodova, jamstveni rok 10 bodova, s eksplicitnim matematičkim formulama za oba parametra i tablicom bodovanja jamstvenog roka (2/3/4+ godine = 0/5/10 bodova). Kriteriji kvalitativnog odabira gospodarskog subjekta (dokument 'Kriteriji za kvalitativni odabir') detaljno navode pravnu osnovu, uvjete sposobnosti (upis u registar, popis radova s referentnim pragom vezanim uz procijenjenu vrijednost, obrazovne/stručne kvalifikacije stručnjaka) i točan način dokazivanja za svaki podkriterij. Zapisnik o pregledu i ocjeni potvrđuje da su kriteriji dosljedno i objektivno primijenjeni na sve tri ponude.",
+      "citat": "Ponuda s najnižom cijenom dobiva 90,00 bodova, dok se ostale ponude boduju prema formuli"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 5,
+      "obrazlozenje": "Opis predmeta nabave u općim podacima je sažet, ali je popraćen opsežnim izvedbenim projektom (tehnička specifikacija, cca 29.300 redaka izvučenog teksta) i detaljnim troškovnikom sa stavkama definiranim po normama (HRN EN, OTU) s mjerljivim tehničkim zahtjevima (npr. modul stišljivosti, dopuštena odstupanja ravnosti). Razina detalja omogućila je tri neovisne, međusobno usporedive ponude (COLAS, STRABAG, CESTOGRADNJA) bez prigovora na nejasnoću opisa. Dokumentacija izričito dopušta 'jednakovrijedno' rješenje gdje god bi opis mogao upućivati na marku/patent/tip, čime se izbjegava prekomjerno sužavanje kruga ponuditelja.",
+      "citat": "Sve stavke Troškovnika u kojima se možebitno traži ili navodi marka, patent, tip ili određeno podrijetlo, ponuditelj može ponuditi „jednakovrijedno“"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 4,
+      "obrazlozenje": "Dostupna dokumentacija je opsežna i uglavnom potpuna za samostalnu izradu ponude: opći podaci, kriteriji kvalitativnog odabira, kriteriji za odabir ponude, upute za ponuditelje, ostale upute s obrascima i izjavama, prijedlog ugovora, izvedbeni projekt i troškovnik. Ocjena je snižena s 5 na 4 jer su dvije priložene arhive ('Prilozi.zip' i 'Prilozi (1).zip') ekstrahirane kao potpuno prazne (0 bajtova) pa sadržaj tih priloga nije bilo moguće provjeriti - nepoznato je jesu li sadržavali dodatnu (npr. grafičku ili fotografsku) dokumentaciju bitnu za izradu ponude ili tek popratni materijal.",
+      "citat": "Elektronička ponuda mora sadržavati najmanje: Uvez ponude Popunjeni eESPD obrazac (ili više njih, ako je primjenjivo) Popunjen troškovnik"
+    },
+    "prosjecna_ocjena": 4.67
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak"
+  },
+  "napomena": "Dvije arhive priloga ('Prilozi.zip', 'Prilozi (1).zip') ekstrahirane su kao prazne datoteke (0 B) - sadržaj nepoznat, nije utjecalo na ocjenu jasnoće kriterija niti detalja opisa jer su ti aspekti u potpunosti pokriveni izvedbenim projektom i troškovnikom. Zapaženo (izvan opsega ove ocjene): procijenjena vrijednost nabave (150.000,00 EUR) drastično je niža od svih triju zaprimljenih ponuda (714.244-1.015.547 EUR bez PDV-a, tj. i najniža ponuda premašuje procjenu za ~376%); naručitelj je na izravno pitanje ponuditelja o mogućoj grešci u procjeni odgovorio da je vrijednost određena 'sukladno projektnoj dokumentaciji i osiguranim sredstvima naručitelja', bez detaljnijeg obrazloženja metodologije procjene. Ovo je opažanje o kvaliteti procjene vrijednosti, ne o jasnoći/restriktivnosti kriterija - nije uzeto u obzir pri bodovanju triju definiranih dimenzija transparentnosti niti pri ocjeni restriktivnosti, jer se ne odnosi na prilagođenost specifikacije određenom ponuditelju."
+}

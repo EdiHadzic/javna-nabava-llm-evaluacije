@@ -1,0 +1,49 @@
+{
+  "postupak_id": 200,
+  "broj_pojedinacnih_runova": 2,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij ekonomski najpovoljnije ponude (ENP) potpuno je operacionaliziran i bez prostora za subjektivnu procjenu: cijena nosi 90 bodova prema eksplicitnoj formuli B_C = 90 × min(C)/C, a jamstveni rok za otklanjanje nedostataka 10 bodova prema zatvorenoj tablici pragova (24–35 mj. = 0, 36–47 = 3, 48–59 = 7, 60–120 = 10 bodova), uz dodatno pravilo da se ponuda s jamstvenim rokom kraćim od 24 mjeseca odbija kao nepravilna, i jasno pravilo za razrješavanje jednako rangiranih ponuda (vrijeme zaprimanja). Oba pokretanja neovisno su prepoznala istu potpunu operacionalizaciju, samo su citirala različite dijelove istog kriterija (formula za cijenu vs. tablica za jamstveni rok) — obje potvrđene doslovno u izvorniku.",
+      "citat": "Ponuda s najnižom cijenom dobiva 90,00 bodova, dok se ostale ponude boduju prema formuli",
+      "runovi": [
+        5,
+        5
+      ],
+      "slaganje": "puno"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Troškovnik sadrži vrlo konkretne tehničke specifikacije po stavci (dimenzije s tolerancijom ±10%, materijali, boje, norme poput HRN EN 16121:2017 i HRN EN 3-7), a Opći podaci o postupku izričito propisuju da se svako upućivanje na marku, izvor ili normu smatra popraćenim izrazom „ili jednakovrijedno“, čime se opis ne isključuje alternativne ponuditelje. Rezultat u praksi to potvrđuje: zaprimljeno je 6 valjanih ponuda, nijedna nije isključena po kriterijima sposobnosti ili osnovama isključenja. Jedina rezerva (dosljedno prepoznata u oba pokretanja) jest ostavljena diskrecija projektanta oko stilske usklađenosti/boje pojedinih elemenata, što opravdava ocjenu 4 umjesto 5.",
+      "citat": "Svako upućivanje na određenu marku ili izvor, ili određeni proces s obilježjima proizvoda ili usluga koje pruža određeni gospodarski subjekt, ili na zaštitne znakove, patente, tipove ili određeno podrijetlo ili proizvodnju smatra se da je popraćeno izrazom „ili jednakovrijedno“",
+      "runovi": [
+        4,
+        4
+      ],
+      "slaganje": "puno"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 4,
+      "obrazlozenje": "Dostupna je opsežna dokumentacija (Opći podaci, Upute za ponuditelje, Kriteriji kvalitativnog odabira, Kriteriji za odabir ponude, detaljan Troškovnik po stavkama), dovoljna za samostalnu izradu ponude — potvrđeno time što je svih 6 zaprimljenih ponuda ocijenjeno valjanim i sukladnim prema Zapisniku o pregledu i ocjeni. Međutim, DON (Opći podaci o postupku, t. 3.1.2.) izričito upućuje na zaseban prilog s detaljnim tehničkim specifikacijama (\"drdom.pdf\") koji je ekstrahiran kao potpuno prazan (2 bajta, kontrolni znakovi) i za koji, za razliku od stvarno dupliciranih dokumenata iz postupka (Odluka o odabiru, Zapisnik o pregledu i ocjeni), ne postoji potvrđena alternativna, sadržajno ekvivalentna datoteka u priloženom manifestu — tvrdnja iz jednog od dva pokretanja da za ovaj prilog postoji \"uspješno ekstrahirana alternativna verzija\" nije potkrijepljena popisom datoteka. Budući da je Troškovnik sam po sebi vrlo detaljan i dostatan (v. razina_detalja_opisa) i budući da je ishod postupka (6/6 valjanih ponuda) neizravan pokazatelj da nedostatak ovog priloga nije stvarno onemogućio izradu ponude, ocjena ostaje visoka (4), ali ne maksimalna (5), jer se sadržaj tog specifičnog priloga ne može neovisno potvrditi.",
+      "citat": "Detaljne tehničke specifikacije se nalaze u zasebnom prilogu.",
+      "runovi": [
+        5,
+        4
+      ],
+      "slaganje": "djelomicno"
+    },
+    "prosjecna_ocjena": 4.33
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak",
+    "runovi_prisutno": [
+      false,
+      false
+    ],
+    "slaganje": "puno"
+  },
+  "napomena": "Pet od petnaest izvučenih datoteka ekstrahirano je prazno ili gotovo prazno (drdom.pdf, Odluka o odabiru _4_.pdf, Odluka o odabiru- EOJN.pdf, Prilozi uz Zapisnik.pdf, Zapinsik o pregledu i ocjeni ponuda- dom.pdf) — vjerojatno skenirani/duplicirani dokumenti s neuspjelom ekstrakcijom. Za tri od tih pet (Odluka o odabiru, Zapisnik) postoji potvrđena, sadržajno ekvivalentna alternativna datoteka (Odluka o odabiru.html, Zapisnik o pregledu i ocjeni.pdf) pa nema stvarnog gubitka informacija. Za drdom.pdf (zaseban prilog s \"detaljnim tehničkim specifikacijama\" naveden u DON-u) takva alternativa nije potvrđena, no Troškovnik sadrži vrlo detaljne specifikacije po stavci koje su u praksi bile dostatne (6/6 valjanih ponuda). Naručitelj nije tražio minimalni promet iznad dvostruke procijenjene vrijednosti nabave, dodatan pokazatelj niske restriktivnosti. Zaprimljeno je 6 valjanih ponuda u rasponu 29.228,92–46.550,20 EUR (bez PDV-a); odabrana ponuda (PRIMAT-RD d.o.o.) odstupa -2,57% od procijenjene vrijednosti.",
+  "napomena_resolvera": "Jasnoća kriterija, razina detalja opisa i restriktivnost imali su puno slaganje (identične ocjene, sadržajno kompatibilna obrazloženja) — finalne ocjene izravno preuzete, citat odabran prema preciznosti. Potpunost dokumentacije razlikovala se za 1 bod (5 vs. 4). Umjesto usrednjavanja, neovisno je pročitan izvorni tekst (Diplomski/Postupci/200/extracted/(root)__Opći podaci o postupku nabave.html.txt, t. 3.1.2., i (root)__Zapisnik o pregledu i ocjeni.pdf.txt) te popis izvučenih datoteka. Utvrđeno je da tvrdnja jednog pokretanja o postojanju \"uspješno ekstrahirane alternativne verzije\" za prilog drdom.pdf nije potkrijepljena — za razliku od Odluke o odabiru i Zapisnika, koji doista imaju alternativne, sadržajno ekvivalentne datoteke, za drdom.pdf takva alternativa ne postoji u manifestu. Stoga je preuzeta niža ocjena (4) drugog pokretanja kao bolje utemeljena na izvoru, uz zadržavanje pozitivnog konteksta da je Troškovnik samodostatan i da je ishod postupka (6/6 valjanih ponuda) posredna potvrda da nedostatak priloga nije bio praktična prepreka. Razina pouzdanosti finalne ocjene: visoka — jedino odstupanje bilo je manje (1 bod) i razriješeno je izravnom provjerom izvornika, a preostale tri dimenzije/kategorije imale su puno slaganje."
+}

@@ -1,0 +1,27 @@
+{
+  "postupak_id": 3190,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriteriji za odabir ponude (cijena 90 %, udio električne energije iz obnovljivih izvora 10 %) definirani su potpuno mjerljivo, s eksplicitnim matematičkim formulama za bodovanje, gornjim/donjim ograničenjem vrijednosti (50-100%) i jasno propisanom zadanom vrijednosti (50%) ako ponuditelj ne dostavi izjavu.",
+      "citat": "Zx = ((Zp-Z50) / (Zmax-Z50)) x 10"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Opis predmeta nabave (opskrba električnom energijom, CPV 09310000) prikladno je detaljan za ovu vrstu robe: troškovnik precizno navodi 10 obračunskih mjernih mjesta s adresama, tarifnim modelima i okvirnim godišnjim količinama, a tehnička specifikacija upućuje na mjerodavne propise o obračunu. Opis je generičan u dijelu koji se odnosi na sam predmet (jer je električna energija standardizirana roba), ali ne isključuje razumne alternative niti sužava krug ponuditelja.",
+      "citat": "Naručitelj je odredio predviđene (okvirne) količine u troškovniku."
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dostupna je cjelovita dokumentacija: opći podaci o postupku, kriteriji kvalitativnog odabira s uputama za ESPD, kriteriji za odabir ponude s formulama, upute za ponuditelje, tehnička specifikacija, troškovnik i svi obrasci potrebni za samostalnu izradu ponude bez dodatnih pojašnjenja.",
+      "citat": "Troškovnik s opisima tarifnih modela, jedinicama mjere i predviđenim (okvirnim) količinama sastavni je dio Dokumentacije"
+    },
+    "prosjecna_ocjena": 4.67
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak"
+  },
+  "napomena": "Svi ključni dokumenti (opći podaci, kriteriji kvalitativnog odabira, kriteriji za odabir ponude, upute za ponuditelje, tehnička specifikacija, troškovnik, obavijest o nadmetanju, izmjena, zapisnik o pregledu i ocjeni, obavijest o dodjeli) uspješno su ekstrahirani i čitljivi. Kriteriji za odabir gospodarskog subjekta ograničeni su na upis u registar (bez dodatnih financijskih/tehničkih pragova), što ukazuje na nisku restriktivnost, ali je moglo pridonijeti slaboj konkurenciji (zaprimljena samo 1 ponuda, od HEP-Opskrbe d.o.o.). Zahtjev za minimalno 50% udjela obnovljivih izvora energije standardna je zakonska/tržišna praksa za ovu vrstu nabave, ne procjenjuje se kao indikator prilagođenosti ponuditelju."
+}

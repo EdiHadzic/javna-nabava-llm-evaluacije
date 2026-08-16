@@ -1,0 +1,36 @@
+{
+  "postupak_id": 2205,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij za odabir ponude (ekonomski najpovoljnija ponuda) razrađen je do razine egzaktne formule s jasnim ponderima i bodovnim skalama za sve tri komponente (cijena, udaljenost isporuke, rok odaziva na reklamacije), po grupama zasebno. Uvjeti sposobnosti su proporcionalni (tehnička/stručna sposobnost = referenca u visini procijenjene vrijednosti; ekonomsko-financijska sposobnost se ne primjenjuje) i jednako navedeni za svih 9 grupa, bez diskrecijskih formulacija.",
+      "citat": "cijena – 80% → 80 bodova Udaljenost od mjesta proizvodnje do mjesta konzumacije- isporuke – 10% → 10 bodova"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Opis predmeta nabave koristi generičku CPV oznaku (15800000 - Razni prehrambeni proizvodi) za gotovo sve od 9 grupa umjesto specifičnijih CPV kodova po vrsti hrane, što je pomalo nekonzistentno (samo Grupa VI ima dodatnu, precizniju oznaku 15119000-5). No, troškovnici/specifikacije po grupi vrlo su konkretni (naziv, jedinica mjere, planirana količina, minimalna gramaža/pakiranje, zahtjevi o odsutnosti glazure/aditiva, rok trajanja, HACCP), što omogućuje usporedivu ponudu bez pretjerane uskosti - osim kod Grupe IX gdje su opisi stavaka (pakiranja, gramaže) gotovo doslovno preslikani iz specifikacije jednog proizvođača (v. restriktivnost).",
+      "citat": "Oslić filet interfolirani Hubbsi, smrznuti, ugost.pak. cca 14 do 21 kg, min.masa, 300 g/kom"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dokumentacija je opsežna i unutarnje usklađena: DoN, zaseban dokument 'Kriteriji za kvalitativni odabir' s ESPD uputama po grupi, 'Upute za ponuditelje', obavijest o nadmetanju, 9 zasebnih troškovnika s eksplicitno navedenim zahtjevima kvalitete/dokaza (HACCP, deklaracije, proizvođačke specifikacije, analitička izvješća), te potpuna naknadna dokumentacija ishoda (zapisnici o pregledu, odluka o odabiru, poništenje pojedinih grupa). Tri priložene arhive (Prilozi.zip, Prilozi (1).zip, SPECIFIKACIJE.7z) ekstrahirane su prazne (0 B), no njihov sadržaj (troškovnici/specifikacije) dostupan je zasebno kao pojedinačne datoteke, pa gubitak nije značajan za samostalnu izradu ponude.",
+      "citat": "Uz ispunjeni troškovnik/specifikaciju dostaviti proizvođačke specifikacije i deklaracije svih ponuđenih proizvoda"
+    },
+    "prosjecna_ocjena": 4.67
+  },
+  "restriktivnost": {
+    "prisutno": true,
+    "indikatori": [
+      {
+        "opis": "Tehnička specifikacija za Grupu IX (Zamrznuta riba) sastoji se od pet priloženih PDF dokumenata koji su doslovno interni 'SPECIFIKACIJA PROIZVODA' listovi jednog konkretnog proizvođača (Ledo plus d.o.o.), s njihovim internim šiframa proizvoda (npr. 8000443, 1000385, 1000728, 9000371) i točnim pakiranjima/gramažama koje se potom preslikavaju u opis stavki troškovnika (npr. 'blok 2 kg', 'ugost.pak. cca 14 do 21 kg').",
+        "citat": "Ledo plus d.o.o., Marijana Čavića 1a, 10 000 Zagreb, Hrvatska ŠIFRA I NAZIV PROIZVODA: 8000443 LIGNJA"
+      },
+      {
+        "opis": "Prema Odluci o odabiru, upravo je Ledo plus d.o.o. - proizvođač čije su interne specifikacije poslužile kao predložak tehničke specifikacije - odabran kao dobavljač za Grupu IX (Zamrznuta riba), što je klasičan obrazac negativne selekcije opisan u pogl. 3.1., iako opći kriterij jednakovrijednosti ('ili jednakovrijedno', t. 2.6. DoN) formalno ublažava rizik.",
+        "citat": "Grupa IX- Zamrznuta riba Ledo plus d.o.o."
+      }
+    ],
+    "rizik": "srednji"
+  },
+  "napomena": "Sve ključne dokumente (DoN, kriteriji, upute, troškovnici, obavijest o nadmetanju, rezultati) uspješno je pročitati; tri arhive (zip/7z) ekstrahirane su prazne, ali njihov sadržaj postoji u drugim, čitljivim datotekama pa to nije utjecalo na ocjenu. Restriktivnost je detektirana samo kod Grupe IX (riba); ostalih 8 grupa nema uočljivih indikatora prilagođenosti specifičnom ponuditelju."
+}

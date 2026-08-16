@@ -1,0 +1,27 @@
+{
+  "postupak_id": 12767,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriteriji za odabir ponude (cijena 60% i specifično iskustvo stručnjaka 40%) razrađeni su matematičkom formulom za cijenu i preciznom bodovnom tablicom za svakog od četiri stručnjaka, s jasnim pragovima broja referentnih projekata (0 do 5+) i pripadajućim brojem bodova. Kriteriji kvalitativnog odabira (promet, reference, obrazovne kvalifikacije 6 ključnih stručnjaka) također su brojčano i nedvosmisleno definirani.",
+      "citat": "C= (Cmin/Cp) x 60 ... Cmin – najniža cijena ponude ponuđene u postupku nabave, Cp – cijena ponude koja je predmet bodovanja"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 5,
+      "obrazlozenje": "Projektni zadatak (Prilog 1., 10 stranica) detaljno opisuje lokaciju (katastarske čestice), faznost gradnje, površine (GBP B1=8.829 m2, B2=203 m2), popis svih traženih mapa glavnog i izvedbenog projekta, obveze naručitelja i izvršitelja, rokove izrade (120+75 dana) i format predaje dokumentacije (pdf/doc/xls/dwg), bez pretjerane suženosti koja bi isključivala razumne tehničke pristupe.",
+      "citat": "Građevina sadržava ukupno 6 bolničkih odjela - 174 postelje (8.829,00 m2 GBP). Etažnost građevine je Po+Pr+2, visine do vijenca 11,50m, max. visine 14,90m."
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 4,
+      "obrazlozenje": "Naručitelj je ponuditeljima stavio na uvid opsežnu postojeću projektnu dokumentaciju (idejni projekti, lokacijska i građevinska dozvola, grafički prilozi, geodetski i konstrukcijski elaborati) te sve standardne priloge (prijedlog ugovora, obrasci izjava 6-13). Blago umanjeno jer je troškovnik (Prilog 2.) sveden na jednu paušalnu stavku ('izrada projektne dokumentacije, komplet, 1') bez daljnje razrade po fazama/strukama, što ponuditeljima ne daje uvid u očekivanu strukturu troška.",
+      "citat": "1.\tIzrada projektne dokumentacije (glavnog i izvedbenog projekta)\tkomplet\t1\t0\t0"
+    },
+    "prosjecna_ocjena": 4.67
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak"
+  },
+  "napomena": "Pročitano je preko 20 relevantnih dokumenata iz Postupci/12767/extracted/, uključujući Obavijest o nadmetanju, Opći podaci o postupku nabave, Kriteriji za kvalitativni odabir gospodarskog subjekta, Kriterij za odabir ponude te relativni ponder kriterija, Projektni zadatak (Prilog 1.) i Troškovnik (Prilog 2.). Dokumentacija je iznimno opsežna i kvalitetno strukturirana za postupak velike vrijednosti (EU-sufinancirani projekt, NPOO). Restriktivnost: nema referenci na točno određeni proizvod, marku ili patentirano rješenje ('jednakovrijedno' dosljedno korišteno); financijski prag (promet u 5 g. >= 445.324,84 EUR) i referentni prag (75% vrijednosti kroz do 3 usluge) razmjerni su vrijednosti i složenosti nabave; zahtjev za 6 imenovanih ključnih stručnjaka opravdan je opsegom projekta (bolnički kompleks 9.032 m2 GBP)."
+}

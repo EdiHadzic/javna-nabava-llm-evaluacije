@@ -1,0 +1,27 @@
+{
+  "postupak_id": 2231,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij ENP potpuno je operacionaliziran: cijena 90 bodova s eksplicitnom formulom (najniža cijena = max bodova), rok izvršenja 10 bodova s točnom tablicom pretvorbe dana u bodove (60/45/30 dana = 0/5/10 bodova). Nema prostora za subjektivnu ocjenu.",
+      "citat": "Ponuda s najnižom cijenom dobiva 90,00 bodova, dok se ostale ponude boduju prema formuli"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Troškovnik precizno definira vrste, dimenzije i količine (4 vrste stabala, opseg debla 14/16 cm, kontejner Clt 130, min. visina 3 m, 25 kom po vrsti) te pripremne radove (sastav supstrata, dimenzije jama), što omogućuje usporedive ponude bez isključivanja razumnih alternativa (dopuštene su 4 alternativne vrste drveća).",
+      "citat": "Celtis australis L. (Koštela), stablašica, opseg debla 14/16 cm, kontejner Clt 130, min. ukupna visina minimalno 3,00 m"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 4,
+      "obrazlozenje": "Dostupni su svi standardni dijelovi dokumentacije (opći podaci, kriteriji kvalitativnog odabira, kriteriji odabira ponude, upute za ponuditelje, troškovnik) i međusobno su konzistentni. Blaga manjkavost: dokumentacija najavljuje zaseban prilog 'tehničke specifikacije' ('Detaljne tehničke specifikacije se nalaze u zasebnom prilogu'), no u pregledanom setu tehnički zahtjevi zapravo su sadržani isključivo unutar Troškovnika, bez odvojenog dokumenta tehničke specifikacije.",
+      "citat": "Detaljne tehničke specifikacije se nalaze u zasebnom prilogu."
+    },
+    "prosjecna_ocjena": 4.33
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak"
+  },
+  "napomena": "Pročitano svih 13 .txt datoteka u extracted/. Nema referenci na točno određenu marku/patentirano rješenje niti nesrazmjerne financijske/referentne pragove - traženi referentni uvjet (1-3 ugovora kumulativne vrijednosti >= procijenjene vrijednosti nabave) proporcionalan je predmetu. Kontekstualna napomena (ne ulazi u ocjenu restriktivnosti jer nije indikator prilagođenosti specifikacije): zaprimljena je samo 1 ponuda, od ponuditelja sa sjedištem u istom (vrlo malom) mjestu kao i naručitelj (Stankovci), što je karakteristika lokalnog tržišta, a ne dokumentirana prilagodba specifikacije."
+}

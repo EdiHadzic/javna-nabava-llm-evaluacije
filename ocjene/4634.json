@@ -1,0 +1,44 @@
+{
+  "postupak_id": 4634,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij ekonomski najpovoljnije ponude precizno je operacionaliziran matematičkim formulama i bodovnim tablicama za oba pod-kriterija (cijena 85%, rok isporuke 15%), s jasnim pragovima i mjerljivim jedinicama (dani, EUR).",
+      "citat": "Do 180 dana - 15 Od 181 do 220 dana -10 Od 221 do 250 dana -5"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 3,
+      "obrazlozenje": "Tehničke specifikacije vrlo su detaljne (dimenzije, snaga motora, oprema) što olakšava usporedivost ponuda, ali uski dimenzijski rasponi i točno naveden RAL kod boje kabine ponovljen u više specifikacija mogu neopravdano suziti krug prihvatljivih ponuditelja/vozila.",
+      "citat": "boja kabine vozila: plava RAL: 5012"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dostupna je cjelovita dokumentacija: opći podaci, kriteriji kvalitativnog odabira, kriteriji odabira ponude, upute za ponuditelje, troškovnik, prijedlog ugovora, izjave (Prilog 1, 2) te tehničke specifikacije za sva 4 tipa vozila putem zasebnih .doc priloga, unatoč praznoj .rar arhivi 'Prilog 3'.",
+      "citat": "Detaljne tehničke specifikacije se nalaze u zasebnom prilogu."
+    },
+    "prosjecna_ocjena": 4.33
+  },
+  "restriktivnost": {
+    "prisutno": true,
+    "indikatori": [
+      {
+        "opis": "Identičan, neuobičajeno precizan RAL kod boje kabine naveden u tri od četiri tehničke specifikacije vozila (kamion 3500kg, kamion 3500kg s duplom kabinom, kamion kiper s dizalicom).",
+        "citat": "boja kabine vozila: plava RAL: 5012"
+      },
+      {
+        "opis": "Uzak raspon dužine vozila za dostavno vozilo-furgon (svega ~250 mm marže).",
+        "citat": "dužina vozila min 4700 mm, max: 4950 mm"
+      },
+      {
+        "opis": "Uzak raspon međuosovinskog razmaka identičan za oba tipa kamiona do 3500 kg.",
+        "citat": "međuosovinski razmak: min 3330 mm do max. 3500 mm"
+      },
+      {
+        "opis": "Samo jedna ponuda zaprimljena za nabavu procijenjene vrijednosti 400.000 EUR, u skladu sa sumnjom na usko definirane tehničke zahtjeve.",
+        "citat": "Broj zaprimljenih ponuda: 1"
+      }
+    ],
+    "rizik": "visok"
+  },
+  "napomena": "Pročitane su sve 19 tekstualnih datoteka u extracted/ osim 'Prilog 3_Tehnička specifikacija vozila.rar.txt' koja je 0 bajtova (poznat artefakt neuspješne .rar ekstrakcije prema evidenciji projekta) - sadržaj tehničkih specifikacija ipak je pokriven kroz 4 zasebne .doc datoteke po tipu vozila, pa gubitak informacija nije nastao."
+}

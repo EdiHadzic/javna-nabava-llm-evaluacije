@@ -1,0 +1,40 @@
+{
+  "postupak_id": 31948,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriteriji za odabir ponude (ENP: cijena 80 bodova, dodatni jamstveni rok 20 bodova) definirani su precizno, s eksplicitnim formulama bodovanja, gornjim/donjim granicama i postupkom u slučaju izjednačenja ponuda; ESPD kriteriji za isključenje i sposobnost također su standardno i jasno strukturirani.",
+      "citat": "Ponuda s najnižom cijenom dobiva 80,00 bodova, dok se ostale ponude boduju prema formuli, u odnosu na najbolju vrijednost."
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 2,
+      "obrazlozenje": "Iako je veći dio troškovnika standardno tehnički opisan, više stavki (posebice uredske stolice i fotelje) opisano je izrazito uskim, idiosinkratskim marketinškim jezikom koji sugerira kopiranje kataloškog opisa jednog proizvođača. Ponuditelj je izričito prigovorio da opis pogoduje točno jednom proizvođaču za čak 7 različitih stavki; naručitelj je odgovorio samo proširenjem dopuštenog odstupanja dimenzija s 1% na 5%, dok je karakterističan opisni tekst ostao gotovo nepromijenjen.",
+      "citat": "iz ovih opisa je očigledno da ste raspisali točno jednog proizvođača te da ostali ponuđači neće biti u istoj poziciji i mogućnosti javljanja na predmetno nadmetanje"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dokumentacija je vrlo potpuna: opći podaci, upute za ponuditelje, kriteriji kvalitativnog odabira, kriteriji za odabir ponude, detaljni troškovnici s općim uvjetima za obje grupe, 11 tlocrta/nacrta, prijedlog ugovora i opsežan Q&A javno su objavljeni i međusobno usklađeni nakon izmjena.",
+      "citat": "NACRT, TEHNIČKI OPIS I OPĆI UVJETI SU SASTAVNI DIO SVAKE POJEDINE STAVKE."
+    },
+    "prosjecna_ocjena": 4.0
+  },
+  "restriktivnost": {
+    "prisutno": true,
+    "indikatori": [
+      {
+        "indikator": "Ponuditelj eksplicitno navodi da opis stavke 2.16 (OG9_Stolac za ulazni prostor) pogoduje jednom ponuđaču; identičan prigovor ponovljen za sedam različitih stavki uredskih stolica/fotelja.",
+        "citat": "Opis stolice je predetaljan čime se pogoduje jednom ponuđaču. Molim da se standardizira opis stavke kako bi svi imali mogućnost ponuditi adekvatan proizvod."
+      },
+      {
+        "indikator": "Naručitelj je na prigovore odgovorio samo proširenjem dopuštenog dimenzijskog odstupanja s 1% na 5%, ali je zadržao specifičan, kataloški/marketinški opis oblika i konstrukcije koji je izvorni povod prigovora.",
+        "citat": "Konstrukcija je od svinutih okruglih čeličnih punih profila promjera 16 mm (+/- 5%). Konstrukcija je od asform čelika i plastificira se u boju po odabiru."
+      },
+      {
+        "indikator": "Naručitelj sam priznaje grešku u općim uvjetima troškovnika (1% umjesto namjeravanih 5%), što ukazuje da je izvorna razina restriktivnosti barem djelomično bila nenamjerna, ali ne objašnjava zašto su specifični oblikovni opisi zadržani.",
+        "citat": "Maksimalno odstupanje u dimenzijama od 1% navedeno u Općim uvjetima upisano je greškom. Tekst Općih uvjeta je ispravljen te je umjesto „1%“ upisano „5%“."
+      }
+    ],
+    "rizik": "srednji",
+    "napomena": "Unatoč dokumentiranoj restriktivnosti kod dijela stavki (stolice/fotelje), postupak je zaprimio relativno velik broj ponuda (8 za Grupu 1, 6 za Grupu 2), što ublažava, ali ne poništava, rizik ograničavanja tržišnog natjecanja na razini pojedinih stavki."
+  }
+}

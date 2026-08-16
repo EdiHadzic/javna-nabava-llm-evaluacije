@@ -1,0 +1,27 @@
+{
+  "postupak_id": 15036,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 4,
+      "obrazlozenje": "Jedini navedeni kriterij za odabir ponude je cijena s ponderom 100%, što je jednoznačno i izravno mjerljivo. Ocjena nije viša jer izvorna dokumentacija o nabavi (koja bi mogla sadržavati dodatne kvalifikacijske/isključne uvjete) nije dostupna u extracted/ mapi — dostupna je samo obavijest o dodjeli ugovora, koja prenosi sažetak kriterija, ne cjelovitu dokumentaciju.",
+      "citat": "Cijena                                                                                                      100,00"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 2,
+      "obrazlozenje": "Opis predmeta nabave svodi se na jednu kratku, generičku rečenicu koja se ponavlja na više mjesta u dokumentu, bez ikakvih daljnjih parametara (broj članova posade, standard smještaja, kapacitet, minimalni uvjeti kvalitete). Ne postoji tehnička specifikacija ni bilo koji drugi dokument koji bi opis dodatno konkretizirao.",
+      "citat": "Opis nabave: Smještaj posade katamarama Jadrolinije u luci Brbinj"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 1,
+      "obrazlozenje": "U extracted/ mapi nalazi se isključivo obavijest o dodjeli ugovora (rezultat postupka). Nema dokumentacije o nabavi, tehničkih uvjeta, troškovnika ni obrazaca — samostalna izrada ponude na temelju ovog jedinog dostupnog dokumenta nije moguća.",
+      "citat": "Obavijest o dodijeli ugovora"
+    },
+    "prosjecna_ocjena": 2.33
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak"
+  },
+  "napomena": "Za ovaj postupak dostupan je samo jedan dokument — obavijest o dodjeli ugovora (društvene i druge posebne usluge) — jer je riječ o pregovaračkom postupku bez prethodne objave poziva na nadmetanje (čl. 131. st. 1. t. 1. ZJN2016), pokrenutom nakon što u prethodnom otvorenom postupku (EVV 169/648-2024) nije zaprimljena nijedna prikladna ponuda; portal za takve postupke ne izlaže zasebnu dokumentaciju o nabavi kakva postoji uz otvorene postupke, pa ocjene transparentnosti iznad odražavaju ovo strukturno ograničenje izvora, ne nužno kvalitetu izvorne dokumentacije koja je prethodila. Naručitelj (Jadrolinija) zaprimio je samo 1 ponudu, a ugovor je sklopljen s lokalnim obrtom iz Brbinja — mjesto izvršenja ('luka Brbinj') je vrlo malo naselje, pa je uski krug potencijalnih ponuditelja vjerojatno posljedica same prirode usluge (smještaj vezan uz konkretnu luku pristajanja), a ne umjetno prilagođene specifikacije; u dostupnom dokumentu nema referenci na određenu marku/proizvod niti na nesrazmjerne financijske/referentne pragove, stoga je restriktivnost ocijenjena kao neprisutna, uz napomenu da se ovaj zaključak temelji na ograničenom uzorku dokumentacije."
+}

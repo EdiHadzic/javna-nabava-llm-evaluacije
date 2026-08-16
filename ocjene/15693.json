@@ -1,0 +1,27 @@
+{
+  "postupak_id": 15693,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 2,
+      "obrazlozenje": "Kriterij za odabir ponude naveden je samo imenom (\"Cijena\"), bez ikakve razrade metodologije bodovanja, pondera ili načina usporedbe ponuda. Budući da je riječ o postupku izuzetom od primjene ZJN-a dodijeljenom izravno na temelju isključivog prava (0 zaprimljenih ponuda), kriterij je formalno naveden u obavijesti, ali nije bio stvarno primijenjen niti detaljno opisan jer nije bilo konkurentskog nadmetanja.",
+      "citat": "Kriterij za odabir ponude Cijena: Naziv kriterija Cijena"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 1,
+      "obrazlozenje": "Opis predmeta nabave svodi se na jednu rečenicu bez ikakvih tehničkih ili operativnih pojedinosti (opseg usluge, broj/vrsta plovila, učestalost priveza, radno vrijeme, kadrovski ili tehnički uvjeti). Ne postoji tehnička specifikacija niti drugi prilog koji bi opis dodatno razradio.",
+      "citat": "Opis nabave: Usluga priveza i odveza u luci Tkon i Biograd na Moru"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 1,
+      "obrazlozenje": "Jedini dostupan dokument u direktoriju postupka jest \"Obavijest o dodjeli ugovora - Rezultati postupka nabave\". Ne postoji dokumentacija o nabavi, tehnička specifikacija, troškovnik, obrasci ni poziv na nadmetanje - što je dosljedno činjenici da je postupak izuzet od primjene ZJN-a i ugovor je dodijeljen izravno (pregovarački postupak bez prethodne objave, temeljem isključivog prava), bez javnog poziva na dostavu ponuda. Na temelju samo ove obavijesti nije moguće samostalno izraditi ponudu jer takav postupak (natječajna faza) u ovom slučaju nije ni proveden.",
+      "citat": "Obavijest o dodijeli ugovora Rezultati postupka nabave"
+    },
+    "prosjecna_ocjena": 1.33
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak"
+  },
+  "napomena": "Dostupan je samo jedan dokument (obavijest o dodjeli ugovora) jer je postupak izuzet od primjene Zakona o javnoj nabavi (izravna dodjela na temelju isključivog zakonskog prava, čl. 30. st. 1. t. 15. ZJN2016), s 0 zaprimljenih ponuda - nikakva natječajna dokumentacija (tehnička specifikacija, troškovnik, poziv na nadmetanje) nije ni bila javno objavljena jer konkurentni postupak nabave nije proveden. Niske ocjene transparentnosti stoga prvenstveno odražavaju prirodu i pravnu kategoriju postupka (izuzeće od ZJN-a), a ne propust naručitelja u odnosu na standardni konkurentni postupak. Nema tehničke specifikacije niti kriterija koji bi se mogli ocijeniti kao skriveno prilagođeni određenom ponuditelju; ugovaratelj (Županijska lučka uprava Zadar) dobio je posao temeljem zakonske isključivosti, a ne prilagođene specifikacije unutar konkurentnog postupka."
+}

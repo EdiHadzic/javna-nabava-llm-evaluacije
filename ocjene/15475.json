@@ -1,0 +1,27 @@
+{
+  "postupak_id": 15475,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij za odabir ponude (ekonomski najpovoljnija ponuda) u potpunosti je operacionaliziran: eksplicitna formula bodovanja za cijenu (C=NC/CP*90) i jasno, binarno pravilo bodovanja za rok isporuke (10 bodova za rok do 3 dana, 5 bodova za rok do 5 dana), s ukupnom težinom 90 %/10 %. Nema prostora za diskrecijsko tumačenje.",
+      "citat": "a) Rok isporuke do 3 dana od dana slanja narudžbe - 10 bodova, b) Rok isporuke do 5 dan od dana slanja narudžbe - 5 bodova."
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Troškovnik sadrži konkretne tehničke parametre za svaku od tri stavke (vrsta i sastav treseta, električna provodljivost s tolerancijom ±25 %, pH raspon, sadržaj gnojiva N:P:K, kod perlita opći opis) što omogućuje usporedivu ponudu. Parametri su definirani rasponima/tolerancijama (npr. ±25 %, pH 5,5-6,5) što ostavlja razumnu fleksibilnost dobavljačima, bez očitog suženja na jedan proizvod.",
+      "citat": "SUPSTRAT 70 l  - mješavina slabo razgrađenog bijelog treseta (H2-H5) i promrznutog crnog treseta.  Ekektrična provodljivost min. 40 m/s(+-25%)."
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 4,
+      "obrazlozenje": "Dostupna je puna standardna dokumentacija (opći podaci, upute za ponuditelje, kriteriji kvalitativnog odabira, kriterij za odabir ponude, troškovnik, obrasci - Izjava o roku isporuke, Ovlaštenje za zastupanje) koja omogućuje samostalnu izradu ponude. Ocjena nije 5 jer dokument 'Opći podaci' upućuje na 'zaseban prilog' s detaljnim tehničkim specifikacijama, a prilog Prilozi.zip u ekstrahiranom skupu postoji ali je prazan (0 bajtova) - sadržaj se nije mogao neovisno provjeriti, iako su ključni tehnički parametri ionako navedeni izravno u Troškovniku.",
+      "citat": "Detaljne tehničke specifikacije se nalaze u zasebnom prilogu."
+    },
+    "prosjecna_ocjena": 4.33
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak"
+  },
+  "napomena": "Tehnički opis koristi generičke, mjerljive parametre (sastav, pH, provodljivost, NPK omjeri, granice teških metala) bez reference na marku, proizvođača ili patentirano rješenje. Kriteriji za odabir gospodarskog subjekta (poglavlje 5. dokumenta 'Kriteriji za kvalitativni odabir') ograničeni su na upis u registar - nema ekonomsko-financijskih ni tehničko-stručnih uvjeta sposobnosti niti referentnih pragova, što isključuje restriktivnost putem prekomjernih uvjeta sposobnosti. Jamstvo za ozbiljnost ponude (500 EUR) razmjerno je procijenjenoj vrijednosti (44.740 EUR, ~1,1 %). Datoteka '(root)__Prilozi.zip.txt' prazna je (0 bajtova) u ekstrahiranom skupu - mogući gap u ekstrakciji arhive (dokumentirana, šira poznata limitacija pipelinea), no nije utjecao na ocjenu jer su svi za ocjenu relevantni dokumenti (kriteriji, troškovnik, upute) dostupni izvan te arhive. Postupak je zaprimio samo jednu ponudu (EURO-BROD d.o.o.), no to je pitanje tržišne konkurentnosti, ne transparentnosti dokumentacije."
+}

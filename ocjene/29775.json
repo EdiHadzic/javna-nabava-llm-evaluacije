@@ -1,0 +1,44 @@
+{
+  "postupak_id": 29775,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriteriji su jasno definirani i potpuno mjerljivi. Cijena se boduje na 90 bodova prema formuli 'najniža cijena = 90 bodova, ostale proporcionalno', a kvaliteta (odaziv na reklamaciju) na 10 bodova. Rok odaziva je precizno definiran: maksimalno 48 sati od pisanog poziva. Sve formule bodovanja su eksplicitno navedene s brojevima na 6 decimala.",
+      "citat": "Ponuda s najnižom cijenom dobiva 90,00 bodova, dok se ostale ponude boduju prema formuli. Maksimalni dopušteni rok odaziva na reklamaciju robe je 48 sata od zaprimanja pisanog poziva (fax ili mail)."
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Opis je konkretan i dovoljno detaljan. Specifikacija navodi 6 vrsta kruha sa minimalnom težinom (polubijeli min 0,7 kg, alpski min 0,4 kg, beskvasni min 0,4 kg, bavarski min 0,4 kg, bez soli min 0,4 kg, uskršnje pogače 450 g) i okvirne količine. Specifikacije su dovoljno uske da sprječavaju nejasnoće, ali nisu toliko restriktivne da isključuju razumne alternative od različitih proizvođača.",
+      "citat": "Kruh polubijeli min 0,7 kg - 95700 kom; Kruh alpski min 0,4 kg - 550 kom; Kruh beskvasni min 0,4 kg - 220 kom; Kruh bavarski min 0,4 kg - 220 kom; Kruh bez soli min 0,4 kg - 330 kom; Uskršnje pogače 450 g - 143 kom"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dokumentacija je potpuna i sveobuhvatna. Dostupne su sve potrebne datoteke: obavijest o nadmetanju, tehnička specifikacija, troškovnik, kriteriji za odabir, kriteriji za kvalitativni odabir, upute za ponuditelje, opći podaci. Sve informacije potrebne za samostalnu izradu ponude su dostupne. Nema nedostatka ključnih dokumenata.",
+      "citat": "Elektronička ponuda mora sadržavati najmanje: Uvez ponude, Popunjeni eESPD obrazac, Popunjen troškovnik, Vrijednosti kriterija za odabir ponude, Dokumentacija/dokazi za kriterije za odabir, Potpisana izjava o roku odaziva na reklamaciju, Jamstvo za ozbiljnost ponude"
+    },
+    "prosjecna_ocjena": 4.67
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [
+      {
+        "indikator": "Vrste kruha su standardne kategorije (polubijeli, alpski, beskvasni, bavarski, bez soli, uskršnje pogače)",
+        "rizik": "nizak"
+      },
+      {
+        "indikator": "Minimalne težine su standardne za industriju, ne specifične za jednog proizvođača",
+        "rizik": "nizak"
+      },
+      {
+        "indikator": "Okvirne količine su uobičajena praksa za trajne nabave",
+        "rizik": "nizak"
+      },
+      {
+        "indikator": "HACCP certifikacija je legalni standardi zahtjev prema Zakonu o hrani, ne diskriminatorna zahtjev",
+        "rizik": "nizak"
+      }
+    ],
+    "rizik": "nizak"
+  },
+  "napomena": "Procedure je bila objavljena kao otvorena nabava, ali je zaprimljena samo 1 ponuda od TVORNICA KRUHA ZADAR d.d. To vjerojatno odražava lokalnu tržišnu strukturu (jedini veći proizvedač kruha u Zadru) nego namjernu restriktivnost specifikacije. Specifikacije su standardne i ne pokazuju znakove prilagođenosti određenom ponuditelju. Dokumentacija je potpuna, kriteriji su jasni i mjerljivi."
+}

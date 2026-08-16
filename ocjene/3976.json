@@ -1,0 +1,27 @@
+{
+  "postupak_id": 3976,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij ENP potpuno je razlučen na cijenu (90 bodova) i rok isporuke (10 bodova), s eksplicitnim matematičkim formulama bodovanja, jasno definiranim minimalnim (2 dana) i maksimalnim (10 dana) dozvoljenim rokom isporuke te pravilom o odbijanju ponude izvan raspona.",
+      "citat": "Naručitelj je ograničio najviši dozvoljeni iznos za kriterij 10,00 Naručitelj je ograničio najniži dozvoljeni iznos za kriterij 2,00"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Tehnička specifikacija navodi 7 stavki higijenskih potrepština s minimalnim funkcionalnim zahtjevima (min. volumen/masa/broj listova) bez vezanja uz određenu marku, čime se omogućuje usporediva ponuda i ne isključuju alternativni proizvođači; opis je vrlo sažet (kratki dokument bez dodatnih kvalitativnih kriterija).",
+      "citat": "Sredstvo za pranje posuđa min. 450 ml 1 kom."
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 4,
+      "obrazlozenje": "Dostupan je pun standardni komplet dokumentacije EOJN-a (opći podaci, tehničke specifikacije, troškovnik, upute za ponuditelje, kriteriji kvalitativnog odabira, kriteriji za odabir ponude, obavijest o nadmetanju), a oba ponuditelja uspješno su dostavila valjane i cjelovite ponude bez navoda o nejasnoćama dokumentacije. Manji nedostatak: u ekstrahiranom Troškovniku stupac 'Naziv artikla' sadrži artefakt '#REF!' (vjerojatno slomljena formula/referenca u izvornoj xlsx datoteci), no naziv i specifikacija stavke i dalje su čitljivi u susjednom stupcu pa to nije spriječilo izradu ponude.",
+      "citat": "1.\t#REF!\tSredstvo za pranje posuđa"
+    },
+    "prosjecna_ocjena": 4.33
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak"
+  },
+  "napomena": "Pročitane su sve relevantne .txt datoteke iz extracted/ (opći podaci, kriteriji kvalitativnog odabira, kriteriji za odabir ponude, tehničke specifikacije, troškovnik, upute za ponuditelje, obavijest o nadmetanju, zapisnik o pregledu i ocjeni). Financijski prag (80.000 EUR ukupni promet kroz 3 godine, uz procijenjenu vrijednost 40.000 EUR) i referentni uvjet (1 referenca, kumulativna vrijednost >= procijenjene vrijednosti, u razdoblju od 4 godine) proporcionalni su predmetu nabave i ne ukazuju na prilagodbu određenom ponuditelju; oba stvarna ponuditelja zadovoljila su uvjete sposobnosti. Dokument 'Popratni prilozi uz Zapisnik...rar.txt' ekstrahiran je kao 0 bajtova (poznat rar-ekstrakcijski artefakt), pa naknadni prilozi zapisniku o ocjeni nisu bili dostupni za uvid, no oni su naknadni post-evaluacijski materijal, ne izvorna dokumentacija o nabavi relevantna za ocjenu transparentnosti. OCR ekstrakcija PDF zapisnika o pregledu i ocjeni sadrži znatno izobličen tekst (zamijenjeni hrvatski dijakritički znakovi), ali ostaje čitljiv i dovoljan za razumijevanje sadržaja."
+}

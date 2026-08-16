@@ -1,0 +1,43 @@
+{
+  "postupak_id": 3399,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij ENP potpuno je matematički definiran: cijena 90% s eksplicitnom formulom C=(Cmin/Cp)x90 i jamstveni rok 10% s fiksnom bodovnom tablicom po mjesecima trajanja jamstva; primjena u Zapisniku o pregledu i ocjeni u potpunosti prati najavljenu formulu bez odstupanja.",
+      "citat": "C = (Cmin / Cp) x 90"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Troškovnik je vrlo detaljan (točne dimenzije, debljine materijala, RAL boje, norme HRN EN za stolice), što uglavnom omogućuje usporedive ponude, no nekoliko stavki namještaja referira konkretne komercijalne modele bez izričite formulacije 'ili jednakovrijedno', što blago sužava opis ispod idealne razine.",
+      "citat": "Fotelja kao model OBLIQUE, dimenzija 70 X 71 cm, ukupne visine 77 cm, visine sjedala 40 cm"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 3,
+      "obrazlozenje": "Zaseban dokument tehničkih specifikacija ne postoji (upućuje izravno na Troškovnik), a na brojna opravdana pitanja ponuditelja o izvedbi regala, dimenzijama prozora za zavjese i sadržaju paušalnih stavki naručitelj je odgovorio neinformativno ('izvedba je definirana troškovnikom') te je odbio dostaviti traženi DWG nacrt prostora, ostavljajući stvarne nejasnoće za samostalnu izradu ponude.",
+      "citat": "Priloženi troškovnik je raspoloživa dokumentacija za natječaj, sve stavke troškovnika su precizno definirane kako mjerama tako i opisom"
+    },
+    "prosjecna_ocjena": 4.0
+  },
+  "restriktivnost": {
+    "prisutno": true,
+    "indikatori": [
+      {
+        "stavka": "Naslonjač/polufotelja",
+        "citat": "Fotelja kao model OBLIQUE, dimenzija 70 X 71 cm, ukupne visine 77 cm, visine sjedala 40 cm",
+        "problem": "Referenca na konkretan komercijalni model bez klauzule 'ili jednakovrijedno'"
+      },
+      {
+        "stavka": "Klub stolić",
+        "citat": "Stolić kao model OBLIQUE, dimenzija fi 70 cm, ukupne visine 40 cm, sa 4 noge",
+        "problem": "Referenca na konkretan komercijalni model bez klauzule 'ili jednakovrijedno'"
+      },
+      {
+        "stavka": "Podesivi metalni stolić",
+        "citat": "Stolić kao model ROSTRUM. Postavlja se uz naslonjače za prostor sjedenja uz staklenu stijenu",
+        "problem": "Referenca na konkretan komercijalni model bez klauzule 'ili jednakovrijedno'"
+      }
+    ],
+    "rizik": "srednji"
+  },
+  "napomena": "Tehničke specifikacije.docx sadrži samo uputu da su specifikacije u Troškovniku (52 bajta, bez vlastitog sadržaja); Prilozi.zip.txt je prazan (0 bajtova, vjerojatno neuspjela ekstrakcija arhive), pa dodatni prilozi nisu bili dostupni za ocjenu. Postupak ima samo 2 zaprimljene ponude; naznake restriktivnosti odnose se na tek 3 od ~100 stavki troškovnika i ne čine se presudnima za ishod (odabrana je jeftinija ponuda), ali predstavljaju stvaran nalaz."
+}

@@ -1,0 +1,31 @@
+{
+  "postupak_id": 10950,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriteriji za odabir ponude (cijena 80 %, specifično iskustvo stručnjaka 20 %) jasno su definirani i potpuno mjerljivi, uz eksplicitnu matematičku formulu za bodovanje cijene i tablicu s točno određenim brojem bodova po broju referentnih ugovora stručnjaka (1, 2, 3, 4 i više).",
+      "citat": "Ponuda s najniže ponuđenom cijenom dobiva 80 bodova, a ostale ponude se boduju prema formuli: CP = 80 x (Cmin/Ci)"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 5,
+      "obrazlozenje": "Opis predmeta nabave iznimno je konkretan i detaljan: sadrži dimenzije građevine, fazu/podfazu zahvata, tlocrtnu površinu, visinu, funkcionalnu namjenu pojedinih dijelova te upućivanje na projektnu dokumentaciju (idejni projekt, lokacijska i građevinska dozvola).",
+      "citat": "Terminal se u ovoj fazi dograđuje prema istoku (stajanci) kao prizemna građevina visine 12,30 m tlocrtne površine oko 3510 m², duljine oko 125 m"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dokumentacija je iznimno cjelovita: detaljni troškovnici po specijalizacijama (građevinski, čelična konstrukcija, VIK, strojarske i električne instalacije, vatrodojava, rekapitulacija), Zahtjevi naručitelja i tehničke specifikacije (FIDIC uvjeti ugovora), kriteriji kvalitativnog odabira, obrasci, prijedlog ugovora te sve izmjene/dopune i odgovori na pitanja ponuditelja, dostatni za samostalnu izradu ponude.",
+      "citat": "Detaljan troškovnik se nalazi u zasebnom prilogu – Troškovnik."
+    },
+    "prosjecna_ocjena": 5.0
+  },
+  "restriktivnost": {
+    "prisutno": true,
+    "indikatori": [
+      "Uvjet ekonomsko-financijske sposobnosti traži ukupni godišnji promet jednak ili veći od cijele procijenjene vrijednosti nabave (12.988.369,69 EUR) u svakoj od posljednje 3 financijske godine, što je vrlo visok prag postavljen na 100% vrijednosti nabave.",
+      "Referentni uvjet dopušta dokazivanje samo jednom (1) referencom radova rekonstrukcije/dogradnje zgrada javne namjene čija vrijednost mora biti jednaka ili veća od cijele procijenjene vrijednosti nabave (12.988.369,69 EUR), a uz to referentna zgrada mora biti u neprekidnoj funkciji tijekom izvođenja radova - usko definiran uvjet koji isključuje velik broj inače kvalificiranih izvođača.",
+      "Stručnjak 1 (glavni inženjer gradilišta) mora imati referencu na objektu iste ili slične tehničko-tehnološke složenosti (rekonstrukcija/dogradnja zgrade javne namjene koja je tijekom radova neprekidno obavljala svoju funkciju) da bi ostvario dodatnih 5 bodova, što dodatno sužava krug ponuditelja koji mogu ostvariti maksimalan broj bodova."
+    ],
+    "rizik": "nizak"
+  },
+  "napomena": "Pročitani su svi relevantni dokumenti u extracted/ (obavijest o nadmetanju, opći podaci, upute za ponuditelje, kriteriji za kvalitativni odabir, kriteriji za odabir ponude, zahtjevi za stručnjake, zahtjevi naručitelja i tehničke specifikacije, odluka o odabiru, obavijest o dodjeli ugovora). Riječ je o vrlo kompleksnom sektorskom postupku (rekonstrukcija putničkog terminala Zračne luke Zadar, FIDIC ugovorni uvjeti) s iznimno opsežnom i profesionalno strukturiranom dokumentacijom. Iako su financijski i referentni pragovi postavljeni na 100% procijenjene vrijednosti (što je na gornjoj granici uobičajene prakse), zaprimljeno je 5 valjanih ponuda, a 4 su odbijene isključivo zbog cijene koja premašuje osigurana sredstva naručitelja (ne zbog nezadovoljavanja uvjeta sposobnosti), što upućuje na to da pragovi u praksi nisu djelovali kao stvarna prepreka konkurentnosti - stoga je rizik ocijenjen kao nizak unatoč prisutnosti formalnih indikatora."
+}

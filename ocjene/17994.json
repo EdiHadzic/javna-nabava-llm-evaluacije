@@ -1,0 +1,27 @@
+{
+  "postupak_id": 17994,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij za odabir ponude (ekonomski najpovoljnija ponuda) potpuno je operacionaliziran: cijena nosi 90 bodova prema eksplicitnoj formuli CP=(CPmin/CPpon)x90, a jamstveni rok 10 bodova prema jasnoj tablici pragova (24/25-47/48-60 mjeseci = 0/5/10 bodova), uz definiran tie-break i broj decimala zaokruživanja.",
+      "citat": "Bodovi za svaki od kriterija računa se na šest decimala, zaokruživanjem na više."
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 5,
+      "obrazlozenje": "Opis predmeta nabave vrlo je konkretan (CPV, lokacija po katastarskoj čestici, rok izvršenja, opsežan troškovnik s detaljnim stavkama i tehničkim normativima OTU), a istovremeno ne isključuje razumne alternative jer je za sve stavke s markom/tipom eksplicitno dopušteno nuditi jednakovrijedno rješenje.",
+      "citat": "gospodarski subjekt može ponuditi „ili jednakovrijedno“ traženom ili navedenom"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dostupna je cjelovita dokumentacija za samostalnu izradu ponude: opći podaci, kriteriji kvalitativnog odabira s ESPD uputama, kriteriji za odabir ponude, upute za ponuditelje, detaljan troškovnik (izvedbeni projekt s procjenom troškova gradnje), predložak izjave o jamstvenom roku i prijedlog ugovora; sve besplatno i bez ograničenja dostupno.",
+      "citat": "Dokumentacija o nabavi se ne naplaćuje te se može preuzeti u cijelosti na internetskoj stranici"
+    },
+    "prosjecna_ocjena": 5.0
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak"
+  },
+  "napomena": "Pregledani svi tekstualni dokumenti u extracted/ osim vrlo opsežnog Izvedbeni projekt.pdf.txt (8.782 retka, procjena troškova gradnje/troškovnik), koji je zbog opsega pretražen ciljano (grep na 'proizvođač', 'marka', 'tip', 'ili jednakovrijedno') umjesto potpunog čitanja; pronađene su samo generičke tehničke odrednice (klase betona, čelika i sl.), bez upućivanja na specifičnu marku/proizvođača ili nesrazmjerne pragove sposobnosti. Referentni uvjet tehničke sposobnosti (min. jedan ugovor u visini procijenjene vrijednosti nabave) proporcionalan je i standardan za radove."
+}

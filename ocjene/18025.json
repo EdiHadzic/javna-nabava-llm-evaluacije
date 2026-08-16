@@ -1,0 +1,40 @@
+{
+  "postupak_id": 18025,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij za odabir ponude (ekonomski najpovoljnija ponuda) potpuno je operacionaliziran: cijena nosi 90 % s eksplicitnom formulom, jamstveni rok za otklanjanje nedostataka nosi 10 % s eksplicitnom formulom, propisan je minimalni jamstveni rok (12 mjeseci) ispod kojeg se ponuda odbacuje, te pravilo za slučaj izjednačenih ponuda (ranije zaprimljena ponuda). Sve numeričke vrijednosti i formule dostupne su i u zasebnom dokumentu 'Podaci o numeričkim vrijednostima kriterija'.",
+      "citat": "P = Pn / Pr * 90"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 2,
+      "obrazlozenje": "Opis predmeta nabave (troškovnik) sadrži izrazito velik broj vrlo preciznih brojčanih pragova za dimenzije, kutove regulacije i broj memorijskih pozicija operacijskog stola, u kombinaciji koja djeluje kao prepisana specifikacija jednog konkretnog komercijalnog proizvoda. Jedan od gospodarskih subjekata je u fazi pitanja/pojašnjenja formalno prigovorio upravo na ovu okolnost (v. restriktivnost niže), što snažno ukazuje da razina detalja premašuje ono što je nužno za usporedivost ponuda i graniči s isključivanjem razumnih alternativa.",
+      "citat": "Duljina centralne ploče min. 950 mm ( donja sekcija leđa + sjedna ploča)"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 4,
+      "obrazlozenje": "Dostupna je cjelovita dokumentacija potrebna za samostalnu izradu ponude: opći podaci, obavijest o nadmetanju, upute za ponuditelje, kriteriji za kvalitativni odabir, troškovnik s tehničkim specifikacijama, obrazac numeričkih vrijednosti kriterija i prijedlog ugovora. U praksi su dva gospodarska subjekta uspješno pripremila i dostavila ponude. Jedini nedostatak je prazan ekstrahiran sadržaj datoteke 'Prilozi.zip' (0 bajtova, nepoznat sadržaj), zbog čega ocjena nije 5.",
+      "citat": "Elektronička ponuda mora sadržavati najmanje: Uvez ponude Popunjeni eESPD obrazac"
+    },
+    "prosjecna_ocjena": 3.67
+  },
+  "restriktivnost": {
+    "prisutno": true,
+    "indikatori": [
+      {
+        "opis": "Gospodarski subjekt je u odgovorima na dokumentaciju formalno prigovorio da je tehnička specifikacija opisana na način koji može zadovoljiti samo jednog ponuditelja/proizvođača, uz najavu prijave državnim institucijama (tužiteljstvo, USKOK) i medijima; naručitelj nije proveo novo istraživanje tržišta niti izmijenio specifikaciju, nego je prigovor odbio bez dodatnog obrazloženja.",
+        "citat": "opisana na način koji može zadovoljiti samo jedan ponuditelj odnosno proizvođač"
+      },
+      {
+        "opis": "Tehnička specifikacija sadrži velik broj vrlo preciznih, istovremeno zadanih brojčanih pragova (dimenzije u mm, kutovi regulacije, broj memoriranih položaja), tipičnih za kataložnu specifikaciju jednog konkretnog proizvoda, a ne za funkcionalni opis koji dopušta više jednakovrijednih rješenja.",
+        "citat": "ukupnu abdukciju min. 75°, duljine min. 750 mm"
+      },
+      {
+        "opis": "Naručiteljev odgovor na prigovor svodi se na paušalnu tvrdnju o jasnoći opisa, bez supstancijalne provjere tržišta ili obrazloženja zašto navedeni pragovi ne isključuju druge proizvođače.",
+        "citat": "Naručitelj je detaljno i cjelovito opisao predmet nabave, jasno, razumljivo i nedvojbeno specificirao tražene karakteristike"
+      }
+    ],
+    "rizik": "visok"
+  },
+  "napomena": "Pročitane su sve .txt datoteke u extracted/ (14 s tekstualnim sadržajem). 'Prilozi.zip.txt' je prazan (0 bajtova) pa je nepoznat njegov sadržaj; 'Tehničke specifikacije .docx.txt' sadrži samo uputu da su tehničke specifikacije zapravo u troškovniku, što je i potvrđeno (troškovnik je uspješno ekstrahiran i sadržajno bogat). Postupak je posebno relevantan jer sadrži izravan, dokumentiran prigovor gospodarskog subjekta na prilagođenost specifikacije, što je rijedak i snažan signal za restriktivnost u odnosu na većinu postupaka gdje se takav rizik mora zaključivati isključivo iz same specifikacije."
+}

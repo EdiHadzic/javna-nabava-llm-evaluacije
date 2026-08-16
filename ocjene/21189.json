@@ -1,0 +1,27 @@
+{
+  "postupak_id": 21189,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij za odabir ponude (ekonomski najpovoljnija ponuda) potpuno je operacionaliziran: cijena nosi 90 bodova s eksplicitnom matematičkom formulom razmjernom najnižoj cijeni, a duljina jamstvenog roka nosi 10 bodova prema jasnoj tablici pragova (0/3/5/8/10 bodova za pojedine raspone mjeseci). Naručitelj je odabrao automatsko rangiranje, čime je subjektivna prosudba u bodovanju svedena na minimum. Zapisnik o pregledu i ocjeni potvrđuje da je metoda dosljedno primijenjena na svih 6 ponuda.",
+      "citat": "Ponuda s najnižom cijenom dobiva 90,00 bodova, dok se ostale ponude boduju prema formuli"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 3,
+      "obrazlozenje": "Troškovnik je za većinu stavki vrlo detaljan (razrađen po pojedinačnim dionicama/ulicama s točnim količinama u m/m²/m³/kom, pozivanjem na HRN norme i tehničke propise). Međutim, dokument 'Odgovori' sadrži izravnu pritužbu ponuditelja da su stavke 1.4. (uklanjanje prometne signalizacije) i 5.3. (postavljanje postojeće prometne regulacije) opisane paušalno ('obračun komplet') na način suprotan članku 200. ZJN-a (zahtjev jasnoće i usporedivosti ponuda), jer nedostaje konkretna količina vertikalne/horizontalne signalizacije. Naručiteljev odgovor nije otklonio nejasnoću navođenjem točnih količina, već je samo uputio na grafički dio projekta dostupan putem vanjske poveznice. To je konkretan, dokumentiran slučaj nedovoljne konkretizacije opisa predmeta nabave za dio stavki.",
+      "citat": "Stavke opisane na ovakav način u suprotnosti s člankom 200., Zakona o javnoj nabavi, koji ukazuje da dokumentacija o nabavi mora biti jasna, razumljiva"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 4,
+      "obrazlozenje": "Dostupna dokumentacija (Opći podaci, Upute za ponuditelje, Kriteriji za kvalitativni odabir, Kriteriji za odabir ponude, Troškovnik) je opsežna, međusobno usklađena i dostatna za samostalnu izradu ponude bez očitih praznina u administrativnom dijelu. Troškovnik eksplicitno navodi da je izrađen na razini glavnog/izvedbenog projekta. Ipak, dio priloga ('Prilozi.7z') ekstrahiran je kao prazna datoteka (0 bajtova) pa se njegov sadržaj nije mogao pregledati u ovoj ocjeni, a tehničke specifikacije i grafički dio projekta (nacrti, GIS/DOF situacija) izričito su izdvojeni 'u zasebnom prilogu' i dijelom su dostavljani naknadno putem vanjskih poveznica (Google Drive) tijekom faze pitanja/odgovora, što ukazuje da dio tehničke dokumentacije nije bio odmah cjelovito dostupan uz osnovnu dokumentaciju o nabavi.",
+      "citat": "Razina projektne dokumentacije na osnovu koje je izrađen ovaj troškovnik radova je glavni/izvedbeni projekt."
+    },
+    "prosjecna_ocjena": 4.0
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak"
+  },
+  "napomena": "Sadržaj priloga 'Prilozi.7z' ekstrahiran je kao prazna (0-bajtna) datoteka pa nije bio dostupan za ocjenu (poznati, dokumentirani gap ekstrakcijskog pipelinea za pojedine 7z/rar arhive - v. CLAUDE.md, limitacija #7). Tehnička specifikacija i grafički dio projekta referenciraju se u tekstu, ali detaljni nacrti dijelom su dostavljeni tek naknadno putem vanjskih Google Drive poveznica u sklopu odgovora na pitanja, izvan opsega ekstrahiranog teksta. Uvjeti sposobnosti (financijski prag jamstva 15.000 EUR na procijenjenu vrijednost 536.000 EUR, jedan referentni posao u vrijednosti pola procijenjene vrijednosti, jedan stručnjak - inženjer gradilišta sa standardnim uvjetima struke) ne pokazuju znakove nesrazmjernosti; postupak je privukao 6 ponuda, što je relativno visoka razina konkurencije za radove ove vrijednosti."
+}

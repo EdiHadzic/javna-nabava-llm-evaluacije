@@ -1,0 +1,27 @@
+{
+  "postupak_id": 33277,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij odabira ponude je ekonomski najpovoljnija ponuda s dva jasno ponderirana i matematički definirana potkriterija (cijena i dodatni jamstveni rok), uključno s formulama bodovanja, min/max granicama i postupkom za slučaj izostanka podatka. Kvalitativni uvjeti sposobnosti navedeni su s konkretnim, mjerljivim pragovima i točno propisanim načinom dokazivanja.",
+      "citat": "Cijena 80,00 ... Duljina trajanja dodatnog jamstvenog roka za otklanjanje nedostataka 20,00 ... Jamstveni rok moguće je iskazivati isključivo cijelim brojem"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Opis predmeta oslanja se na opsežan Glavni projekt (3 mape) i detaljan troškovnik (431 stavka). Naručitelj eksplicitno razgraničava što NIJE predmet nabave, što povećava preciznost. Samostalni dokument 'Tehničke specifikacije' je generički predložak koji samo upućuje na troškovnik/projekt.",
+      "citat": "Predmet nabave nisu radovi koji se odnose na vodovod iz MAPE 2 te radovi automatizacije, digitalizacije i praćenja parametara, odnosno MAPA 4. Glavnog projekta."
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dostupan je pun standardni komplet: opći podaci, kriteriji kvalitativnog odabira, kriteriji za odabir ponude, upute za ponuditelje, tehničke specifikacije, troškovnik, prijedlog ugovora, obrazac ovlasti za zastupanje, građevinska dozvola, obavijest o nadmetanju te potpuni zapisnik o pregledu i ocjeni ponuda.",
+      "citat": "MAPA 1 - građevinski projekt - Projekt prometnice ... MAPA 2 građevinski projekt - Projekt vodovoda i odvodnje ... MAPA 3 elektrotehnički projekt - Projekt javne rasvjete i DTK kanalizacije"
+    },
+    "prosjecna_ocjena": 4.67
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak",
+    "napomena": "Klauzula 'ili jednakovrijedno' dosljedno je primijenjena kroz cijeli troškovnik. Specifikacija LED rasvjete je detaljna, ali izvedbeno/funkcionalna, s praznim poljima za naziv proizvođača/marke koje popunjava ponuditelj. Referentni prag razmjeran je procijenjenoj vrijednosti."
+  }
+}

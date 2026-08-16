@@ -1,0 +1,44 @@
+{
+  "postupak_id": 5930,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij za odabir ponude (ENP) potpuno je operacionaliziran: cijena 85 bodova, rok isporuke 15 bodova, s eksplicitnim matematičkim formulama za oba parametra, jasnim rasponom dopuštenih vrijednosti (1-250 dana) i tablicom bodovanja po intervalima za necjenovni kriterij. Nema prostora za diskrecijsku ocjenu naručitelja.",
+      "citat": "C= NC/CP *85"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 2,
+      "obrazlozenje": "Tehnička specifikacija je vrlo detaljna (25 stavki), ali kombinira izrazito uske gornje granice dimenzija (dužina/visina/širina) s minimalnim zahtjevima za motor i specifičnom bojom kabine, čime opis prelazi iz funkcionalne specifikacije u usko definiran profil vozila koji odgovara ograničenom broju modela na tržištu - v. i restriktivnost niže.",
+      "citat": "dužina vozila: max. 3700 mm"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dostupna je kompletna dokumentacija potrebna za samostalnu izradu ponude: Opći podaci, Upute za ponuditelje, Kriteriji za odabir gospodarskog subjekta i ponude, Tehnička specifikacija, Troškovnik te svi obrasci priloga (Izjava o roku isporuke, Izjava o mjerama ograničavanja, Prijedlog ugovora). Popis obveznog sadržaja ponude eksplicitno je naveden.",
+      "citat": "Elektronička ponuda mora sadržavati najmanje: Uvez ponude Popunjeni eESPD obrazac"
+    },
+    "prosjecna_ocjena": 4.0
+  },
+  "restriktivnost": {
+    "prisutno": true,
+    "indikatori": [
+      {
+        "opis": "Izrazito uske gornje granice vanjskih dimenzija vozila (dužina, visina, širina) svode broj tehnički prihvatljivih modela na tržištu na uzak segment malih gradskih vozila.",
+        "citat": "dužina vozila: max. 3700 mm visina vozila: max. 1650 mm Širina vozila: max. 1620 mm"
+      },
+      {
+        "opis": "Zahtjev za minimalno 4-cilindrični redni benzinski motor u kombinaciji s tako malim dimenzijama neuobičajen je za segment (većina modernih malih vozila te veličine tvornički ima 3-cilindrične motore), što dodatno sužava krug sukladnih ponuda.",
+        "citat": "motor:  benzinski min 4 cilindra u liniji smješten ispod prednjeg poklopca"
+      },
+      {
+        "opis": "Zahtjev za točno određenu boju kabine (siva metalik) nije objektivno povezan s funkcionalnom potrebom naručitelja (vodoopskrbno poduzeće) i djeluje kao dodatni, neopravdan kriterij sužavanja ponude.",
+        "citat": "boja kabine vozila: siva (metalik)"
+      },
+      {
+        "opis": "Zahtjev za tvorničku kombinaciju benzin+UNP (plin) pogon dodatno smanjuje broj modela koji zadovoljavaju uz već postavljena ograničenja dimenzija i motora.",
+        "citat": "pogonsko gorivo: benzin i plin - UNP (u kombinaciji)"
+      }
+    ],
+    "rizik": "srednji"
+  },
+  "napomena": "Pročitane su sve relevantne datoteke iz extracted/ (14 tekstualnih dokumenata, jedan zip prilog ekstrahiran je prazan - 0 bajtova, ali njegov sadržaj vjerojatno duplicira već pojedinačno priložene priloge 1-4 i troškovnik). Zaprimljena je samo jedna ponuda (Erste & Steiermärkische S-Leasing d.o.o.), što je konzistentno s uočenom uskom tehničkom specifikacijom, no ne dokazuje namjeru - nijedna konkretna marka/model vozila nije izravno navedena u dokumentaciji."
+}

@@ -1,0 +1,30 @@
+{
+  "postupak_id": 27897,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij ENP (cijena 90 %, jamstveni rok za otklanjanje nedostataka 10 %) potpuno je operacionaliziran: dane su eksplicitne formule bodovanja za oba parametra, jedinica mjere, dopušteni raspon vrijednosti (min 24, maks 60 mjeseci) i pravilo za rangiranje jednako bodovanih ponuda. Kriterij je potpuno mjerljiv, bez prostora za diskrecijsko tumačenje.",
+      "citat": "Minimalno trajanje jamstvenog roka je 24 mjeseca. Ukoliko gospodarski subjekt ponudi rok kraći od 24 mjeseca, ponuda će se smatrati nevaljanom te će se ista odbiti."
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Troškovnik sadrži vrlo detaljne, tehnički precizne stavke (norme, dimenzije, materijali, klase otpornosti) koje omogućuju usporedivu ponudu, uz dosljedno navedenu klauzulu 'ili jednakovrijedno' za stavke gdje se spominje marka/tip/patent. Ocjena nije 5 jer nekoliko stavki (grijanje/hlađenje, multi-split klima uređaji, v. restriktivnost niže) prelazi razinu funkcionalnog opisa i ulazi u opis specifičnih zaštićenih/patentiranih tehnologija jednog proizvođača, što narušava neutralnost opisa iako formalna klauzula jednakovrijednosti postoji.",
+      "citat": "Vrata otpornosti na požar EI230-C-Sm klasificirana prema normi HRN EN 13501-2 ili jednakovrijedno i ispitana na otpornost na požar prema normi HRN EN 1634-1 ili jednakovrijedno."
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dostupan je pun set dokumentacije potreban za samostalnu izradu ponude: Opći podaci, Kriteriji za odabir ponude, Kriteriji za kvalitativni odabir (s ESPD uputama), Tehničke specifikacije (poveznica na projektnu dokumentaciju), detaljan Ukupni troškovnik, Upute za ponuditelje (jamstva, rokovi, način dostave, plaćanje) i Prijedlog ugovora. Faza dodjele (Zapisnik o pregledu i ocjeni, Odluka o odabiru) također je potpuno dokumentirana.",
+      "citat": "Elektronička ponuda mora sadržavati najmanje: Uvez ponude, Popunjeni eESPD obrazac, Popunjen troškovnik... Jamstvo za ozbiljnost ponude u iznosu (EUR): 34.600,00"
+    },
+    "prosjecna_ocjena": 4.67
+  },
+  "restriktivnost": {
+    "prisutno": true,
+    "indikatori": [
+      "Stavka troškovnika 1.03 (profesionalna unutarnja zidna jedinica multi-split sustava) opisuje 'patentiranu Flash Streamer tehnologiju' po nazivu, funkciju 'Heat Boost' te konkretan, brošurski učinak ('do 99.97% nakon 3 sata ozračivanja' za uklanjanje SARS-CoV-2) — riječ je o eksplicitno imenovanoj, zaštićenoj tehnologiji koja praktički odgovara samo jednom proizvođaču/liniji proizvoda, unatoč postojanju opće klauzule jednakovrijednosti u dokumentu 'Tehničke specifikacije' (t. 3.1.2.).",
+      "Stavke 1.04-1.07 opisuju 'Bluevolution klasu' i 'Coanda efekt' - nazive koji odgovaraju marketinškoj terminologiji specifičnog proizvođača klima-uređaja, a ne generičkim tehničkim parametrima (npr. protok zraka, COP, razina buke), što otežava objektivno dokazivanje jednakovrijednosti drugog proizvođača."
+    ],
+    "rizik": "srednji"
+  },
+  "napomena": "Sve relevantne .txt datoteke iz extracted/ pročitane (Opći podaci, Kriteriji za odabir ponude, Kriteriji za kvalitativni odabir, Tehničke specifikacije, Upute za ponuditelje, Ukupni troškovnik, Prijedlog ugovora, Obavijest o nadmetanju, Zapisnik o pregledu i ocjeni, Odluka o odabiru i prateći dokazni dokumenti). Dokument 'Tehničke specifikacije O-G-S-563_24.docx' sam po sebi je samo poveznica/naslovnica (409 B) - stvarni tehnički opis nalazi se u Ukupnom troškovniku, koji je i pregledan. Restriktivnost je ograničena na uski segment (klima-uređaji, ~5 od >700 stavki) unutar inače vrlo opsežnog projekta rekonstrukcije zgrade; opća klauzula 'ili jednakovrijedno' postoji na razini dokumentacije, što ublažava, ali ne uklanja u potpunosti rizik negativne selekcije jer je referentna tehnologija eksplicitno imenovana kao patentirana. Postupak je zaprimio samo 2 ponude (DELTRON d.o.o., RELIANCE d.o.o.), obje ocijenjene valjanima i sukladnima tehničkim specifikacijama - nema izravnog dokaza da je uočena restriktivna stavka utjecala na broj ponuditelja, no to nije isključeno."
+}

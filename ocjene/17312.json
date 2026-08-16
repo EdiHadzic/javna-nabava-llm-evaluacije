@@ -1,0 +1,40 @@
+{
+  "postupak_id": 17312,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij za odabir ponude (ENP) potpuno je operacionaliziran: cijena 90 bodova i jamstveni rok 10 bodova, s eksplicitnim matematičkim formulama za oba parametra, jasnim minimalnim pragom jamstva (12 mjeseci, ispod čega se ponuda odbacuje) i pravilom za razrješavanje jednako rangiranih ponuda. Kriteriji kvalitativnog odabira gospodarskog subjekta (osnove za isključenje, upis u registar, tehnička sposobnost) detaljno su razrađeni po člancima ZJN2016 uz precizno naveden način dokazivanja za svaki podkriterij.",
+      "citat": "Ponuda s najnižom cijenom dobiva 90,00 bodova, dok se ostale ponude boduju prema formuli"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 3,
+      "obrazlozenje": "Opis predmeta nabave (troškovnik) izrazito je precizan - dimenzije u milimetrima, debljine materijala, klase okova - što dobro omogućuje usporedivost ponuda. Međutim, tehnička specifikacija imenuje konkretan zaštićeni proizvod (Kerrock) i konkretne marke okova (Blum i Grass) bez izvorno navedene klauzule 'ili jednakovrijedno'; alternativni materijal (Corian) naveden je tek naknadno kroz odgovor na upit ponuditelja, a ne u izvornoj dokumentaciji. Time je razina detalja na granici između korisne preciznosti i nepotrebnog suženja na određenu marku.",
+      "citat": "Radna ploča Kerrock, od jednog komada bez spoja, debljina min 18 mm (Kerrock puni profil ploče)"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dostupan je pun set dokumenata potreban za samostalnu izradu ponude: opći podaci o postupku, kriteriji kvalitativnog odabira s uputama za ESPD, kriteriji za odabir ponude s formulama, upute za ponuditelje s odredbama o jamstvima, troškovnik s detaljnim stavkama i prijedlog ugovora. Iako je datoteka 'Tehnička specifikacija.docx' sama po sebi svedena na jednu rečenicu-uputnicu, stvarna tehnička specifikacija u cijelosti je sadržana u prilogu Troškovnik, tako da dokumentacija u cjelini ne nedostaje.",
+      "citat": "Dokumentacija o nabavi se ne naplaćuje te se može preuzeti u cijelosti na internetskoj stranici"
+    },
+    "prosjecna_ocjena": 4.33
+  },
+  "restriktivnost": {
+    "prisutno": true,
+    "indikatori": [
+      {
+        "opis": "Radna ploha specificirana isključivo pod zaštićenim trgovačkim nazivom materijala (Kerrock) u izvornoj tehničkoj specifikaciji/troškovniku, bez klauzule 'ili jednakovrijedno'.",
+        "citat": "Radna ploča Kerrock, od jednog komada bez spoja, debljina min 18 mm (Kerrock puni profil ploče)"
+      },
+      {
+        "opis": "Okov namještaja ograničen na dvije imenovane marke bez izraza jednakovrijednosti u izvornoj dokumentaciji.",
+        "citat": "Sav okov klasa Blum i Grass softclose, ladice metalne sa ugrađenim softclose sustavom"
+      },
+      {
+        "opis": "Alternativni materijal (Corian) uz Kerrock naveden je tek naknadno, kroz odgovor na upit zainteresiranog gospodarskog subjekta, a ne u izvornoj dokumentaciji o nabavi - što potvrđuje da je izvorni opis bio uži nego što je nužno.",
+        "citat": "Ponuditelji osim Kerrock-a mogu nuditi i radne plohe iz materijala tipa Corian"
+      }
+    ],
+    "rizik": "srednji"
+  },
+  "napomena": "Sve relevantne .txt datoteke iz extracted/ pročitane (12 sadržajnih dokumenata; 'Prilozi.zip.txt' prazan/0 bajtova - sadržaj arhive nije bio dostupan za ocjenu). Restriktivnost je stvarno prisutna (imenovanje marke bez 'ili jednakovrijedno'), ali rizik je ublažen time što je za dio komponenti (iverica) već izvorno ponuđen izbor od dvije marke (Egger ili FunderMax), naručitelj je naknadno kroz Q&A eksplicitno otvorio alternativu (Corian), a u postupku su stvarno zaprimljene 4 ponude od različitih gospodarskih subjekata, od kojih su 2 proglašene valjanima i konkurentnima (M.T.F. d.o.o. i PROKLIMA - TIM d.o.o.), što upućuje da praktični učinak suženja na tržišno natjecanje nije bio presudan u ovom slučaju."
+}

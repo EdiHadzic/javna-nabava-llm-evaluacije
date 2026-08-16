@@ -1,0 +1,30 @@
+{
+  "postupak_id": 19303,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 4,
+      "obrazlozenje": "Kriteriji za odabir ponude (ENP) matematički su precizno definirani za svih 16 grupa: cijena 80 bodova po formuli C=Cmin/Cpon*80, zaštita okoliša do 10 bodova po tablici udaljenosti (km) s jasnim rasponima, FSC certifikat binarno DA/NE = 10/0 bodova. Ipak, izvorna dokumentacija sadržavala je dvije stvarne nejasnoće koje su zahtijevale naknadno pojašnjenje putem modula Pitanja/Pojašnjenja: (1) neusklađenost maksimalne udaljenosti (120 km u Obavijesti o nadmetanju nasuprot 100 km u troškovnicima), (2) nejasan odnos između ENPlus-A1 certifikata (uvjet tehničke sposobnosti) i FSC certifikata (kriterij odabira ponude), koje su ponuditelji morali izrijekom pitati. Oboje je razriješeno jasnim odgovorima naručitelja prije roka za dostavu ponuda.",
+      "citat": "u tekstu natječaja navedena je maksimalna udaljenost... u iznosu od 120 km, no u troškovnicima je navedeno 100 km"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Opis predmeta nabave (Prilog 6 - Tehničke specifikacije) definira pelet upućivanjem na priznate norme (ISO 17225-2:2021, EN plus A1), s konkretnim mjerljivim parametrima (vlažnost <10%, pepeo ≤0,7%), što omogućuje usporedivost ponuda bez vezivanja uz određenog proizvođača. Dokumentacija izrijekom dopušta jednakovrijedna rješenja (čl. 211. st. 2. ZJN), što širi krug potencijalnih ponuditelja. Sam tekst tehničke specifikacije ipak je vrlo sažet (svega nekoliko rečenica po prilogu, bez detaljnijeg opisa pakiranja, granulacije, kalorijske vrijednosti izvan referenciranih normi), pa razina detalja ovisi uglavnom o vanjskim normama, a ne o samom opisu naručitelja.",
+      "citat": "sukladno standardima ISO 17225-2:2021 i EN plus A1 ili jednakovrijednima"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dokumentacija je opsežna i cjelovita: Obavijest o nadmetanju (25 str.), Kriteriji za kvalitativni odabir gospodarskog subjekta s detaljnim ESPD uputama, Kriteriji/Prilog 4 za odabir ponude s potpunim formulama i bodovnim tablicama za svih 16 grupa, Prilog 5 - Odredbe o okvirnom sporazumu, Prilog 6 - Tehničke specifikacije, zasebni troškovnici po grupama, Upute za ponuditelje, izjave (Prilog 1-3) i objavljeni Odgovori na upite ponuditelja. Sve informacije potrebne za samostalnu izradu ponude (rokovi, jamstva, kriteriji, tehnički uvjeti, mjesto/uvjeti isporuke, ugovorne kazne) prisutne su i međusobno konzistentne (nakon ispravka uočene neusklađenosti km).",
+      "citat": "Detaljan troškovnik se nalazi u zasebnom prilogu – Troškovnik. ... Detaljne tehničke specifikacije se nalaze u zasebnom prilogu."
+    },
+    "prosjecna_ocjena": 4.33
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [
+      "FSC certifikat proizvođača peleta kao dodatni (ne obvezni) kriterij vrijedan 10/100 bodova - jedna od više mogućih shema certifikacije održivog gospodarenja šumama (uz npr. PEFC), no naručitelj je u Odgovorima izrijekom potvrdio da posjedovanje FSC certifikata 'nije obavezno za ovaj postupak nabave', pa ne isključuje ponuditelje bez njega, samo umanjuje bodove za 10%.",
+      "Kriterij zaštite okoliša boduje ponuditelje prema udaljenosti skladišta od sjedišta pojedine UŠP (do 120 km), što blago favorizira regionalno bliže dobavljače, ali je objektivno mjerljivo (HAK karta), primjenjuje se jednako na sve grupe/županije i obrazloženo je legitimnim ekološkim ciljem (manje transporta/emisija), a ne vezano uz određenog ponuditelja."
+    ],
+    "rizik": "nizak"
+  },
+  "napomena": "Postupak je podijeljen u 16 grupa (okvirni sporazumi po Upravama šuma podružnicama), s barem 9 različitih gospodarskih subjekata vidljivih iz priložene APD dokumentacije (MUNDUS VIRIDIS, ENERGY PEL, PIB EXTRA, PPS GALEKOVIĆ, RST-PELLETS, ŠIŠARKA, PILANA VRATA, MODERATOR, CELIAS), što ukazuje na stvarnu konkurenciju bez znakova prilagodbe specifikacije jednom ponuditelju. Za Grupu 14 (UŠP Split) postupak je poništen jer nije pristigla nijedna ponuda (čl. 298. st. 1. t. 7. ZJN) - ne ukazuje na restriktivnost, moguće samo mala procijenjena vrijednost (9.000 EUR) uz nespecificiranu lokaciju odudaralo je od interesa ponuditelja. Tehničke specifikacije oslanjaju se gotovo isključivo na vanjske norme (ISO/EN plus) umjesto detaljnog vlastitog opisa, što je ocijenjeno kao dovoljno za usporedivost ponuda, ali ograničava dubinu izvorne dokumentacije naručitelja."
+}

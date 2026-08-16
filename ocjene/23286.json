@@ -1,0 +1,27 @@
+{
+  "postupak_id": 23286,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij odabira je ekonomski najpovoljnija ponuda s eksplicitno navedenim relativnim značajem (cijena 90 %, rok isporuke 10 %), preciznom formulom bodovanja i jasno omeđenim rasponom dopuštenih vrijednosti za ne-cjenovni kriterij (rok isporuke 24-72 sata, cijeli broj sati). Identično i dosljedno definirano za sve tri grupe predmeta nabave.",
+      "citat": "Naručitelj je ograničio najviši dozvoljeni iznos za kriterij 72,00 Naručitelj je ograničio najniži dozvoljeni iznos za kriterij 24,00"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Troškovnik sadrži konkretne stavke s mjerljivim specifikacijama za većinu artikala (sastav, postotak aktivne tvari, dimenzije, gramaža), no dio stavki (npr. 'Univerzalno sredstvo za čišćenje podova 1/1', 'Metla sirkova - velika') opisan je vrlo generički bez preciznih tehničkih parametara. Naknadno pitanje ponuditelja o jedinici mjere za tri stavke grupe 3 ukazuje na manju nejasnoću u interpretaciji troškovnika, razriješenu kroz modul Pitanja/Pojašnjenja.",
+      "citat": "Toaletni papir u roli 2 sloja, s perforacijom, boja: bijela, min. dimenzija listića 90*110 mm, sastav 100% celuloza, min.br.listića 140"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dostupan je pun standardni set dokumentacije: opći podaci o postupku, kriteriji kvalitativnog odabira gospodarskog subjekta (s pravnim osnovama, ESPD uputama i načinom dokazivanja), kriteriji za odabir ponude s formulama bodovanja, upute za ponuditelje s detaljnim odredbama o jamstvima, roku, plaćanju i žalbi, te zaseban troškovnik za svaku od tri grupe. Objavljen je i odgovor naručitelja na postavljeno pitanje ponuditelja.",
+      "citat": "Detaljan troškovnik se nalazi u zasebnom prilogu – Troškovnik."
+    },
+    "prosjecna_ocjena": 4.67
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak"
+  },
+  "napomena": "Dokument 'Teh. specifikacije.docx' sadrži samo uputu da su tehničke specifikacije određene u troškovniku (namjerno preusmjeravanje, ne artefakt ekstrakcije/pipeline-gap) - stvarne specifikacije nalaze se u tri xlsx troškovnika koja su pročitana i uzeta u obzir. Referentni uvjet tehničke sposobnosti (isporuke u vrijednosti barem jednake procijenjenoj vrijednosti grupe u tekućoj i tri prethodne godine) proporcionalan je i standardan, bez naznaka nesrazmjernosti ili vezanosti uz određenog ponuditelja."
+}

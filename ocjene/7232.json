@@ -1,0 +1,27 @@
+{
+  "postupak_id": 7232,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriteriji za odabir ponude (ENP) potpuno su jasno i mjerljivo definirani: cijena nosi 90 bodova, udio električne energije iz obnovljivih izvora 10 bodova, uz eksplicitne matematičke formule za bodovanje, minimalni prag (50%) i postupak kod izjednačenih ponuda (ranije zaprimljena ponuda).",
+      "citat": "Ponuda s najnižom cijenom dobiva 90,00 bodova, dok se ostale ponude boduju prema formuli"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Opis predmeta nabave sam po sebi je kratak, no operacionalizira se kroz vrlo detaljan troškovnik s preko 160 pojedinačnih mjernih mjesta (naziv, adresa, tarifni model, okvirna VT/NT potrošnja), što omogućuje potpuno usporedive ponude. Zaseban dokument 'Tehničke specifikacije' svodi se na jednu rečenicu koja upućuje na troškovnik.",
+      "citat": "Tehničke specifikacije definirane su Troškovnikom."
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dostupna je cjelovita dokumentacija potrebna za samostalnu izradu ponude: opći podaci o postupku, kriteriji kvalitativnog odabira s uputama, kriteriji za odabir ponude s formulama, upute za ponuditelje, popunjeni troškovnik i prazni predlošci obrazaca (Prilog I i II) koje ponuditelj treba ispuniti.",
+      "citat": "Elektronička ponuda mora sadržavati najmanje: Uvez ponude Popunjeni eESPD obrazac (ili više njih, ako je primjenjivo) Popunjen troškovnik"
+    },
+    "prosjecna_ocjena": 4.67
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak"
+  },
+  "napomena": "Nema referenci na točno određeni proizvod, marku ili patentirano rješenje. Referentni uvjet (2-4 ugovora o opskrbi električnom energijom u posljednje 3-4 godine, ukupne vrijednosti barem jednake procijenjenoj vrijednosti nabave) proporcionalan je vrijednosti i predmetu nabave. Financijski uvjet (račun bez blokade dulje od 7/10 dana u posljednjih 6 mjeseci) standardan je i ne isključuje razumne alternative. Dokument 'Izjave.pdf' sadrži naknadno (post-dodjela) potpisane izjave odabranog ponuditelja (HEP Opskrba d.o.o.) te nije korišten kao dokaz o (ne)restriktivnosti izvorne dokumentacije, samo kao kontekst."
+}

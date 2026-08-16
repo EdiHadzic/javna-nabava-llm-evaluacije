@@ -1,0 +1,41 @@
+{
+  "postupak_id": 29992,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriteriji za odabir su eksplicitno i detaljno definirani. Za sve tri grupe nabave identični kriteriji: Cijena (90 bodova) i Rok isporuke (10 bodova). Sve mjere su kvantitativne, objektive i mjerljive. Bodovna formula je jasno iskazana: min(C)/C × 90 za cijenu, specifični vremenski pragovi za isporuku (do 2 dana=10 bodova, do 5 dana=5 bodova, do 7 dana=1 bod).",
+      "citat": "Ekonomski najpovoljnija ponuda utvrđuje se na temelju Cijene i kvalitete. Najniža ponuđena cijena ostvarit će maksimalan broj bodova (90), ostale ponude boduju se prema formuli."
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Predmet nabave je jasno kategoriziran (ortopedski implantati - kuk i meniski), s CPV kodom 33183100 i procijenjenim vrijednostima po grupama (EUR 50k, 75k, 53k). Mjesto izvršenja i trajanje ugovora su specificirani. Međutim, detaljne tehničke specifikacije i konkretne karakteristike proizvoda nalaze se u zasebnom prilogu (Troškovnik u xls formatu) koji nisu dostupni u ekstrahiranom tekstu, što čini puni pregled detalja nemoguć iz dostupne dokumentacije.",
+      "citat": "Detaljne tehničke specifikacije se nalaze u zasebnom prilogu. CPV oznaka: 33183100 Ortopedski implantati. Mjesto izvršenja: Bolnička ljekarna - Specijalna bolnica za ortopediju Biograd na Moru."
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 4,
+      "obrazlozenje": "Dokumentacija je u velikoj mjeri potpuna. Dostupni su: opći podaci, kriteriji odabira, kvalitativni kriteriji, upute za ponuditelje, zahtjevi za CE certifikaciju, obrazac ugovora, izjave o roku isporuke i ustupanju instrumentarija. Međutim, detaljne tehničke specifikacije i konkretni popis proizvoda u troškovniku nisu dostupni u ekstrahiranom obliku, što potencijalno može otežati samostalnu izradu ponude bez pristupa originalnim xls datotekama.",
+      "citat": "Dokumentacija o nabavi se ne naplaćuje te se može preuzeti u cijelosti. Troškovnik je objavljen kao zaseban dokument u prilogu DON-e u nestandardiziranom obliku u xls formatu kako bi se mogao ispunjavati elektronički."
+    },
+    "prosjecna_ocjena": 4.33
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [
+      {
+        "indikator": "Zahtjev za ustupanjem instrumentarija",
+        "opis": "Ponuditelji moraju ustupiti instrumentarij bez naknade, što je redovna obveza za medicinske implante, ali nije specifično namijenjeno pojedinom ponuditelju",
+        "rizik": "nizak",
+        "citat": "Ponuditelj/i koji budu odabrani obvezuju se na dostavu/ustupanja instrumentarija za ugradnju ugradbenih materijala"
+      },
+      {
+        "indikator": "Referencije - popis prethodnih isporuka",
+        "opis": "Zahtjev da gospodarski subjekt dokaže iskustvo putem popisa glavnih isporuka iz 2021-2024, s minimalnom vrijednosti jednakom procijenjenom vrijednosti grupe(a)",
+        "rizik": "nizak",
+        "citat": "Gospodarski subjekt mora dokazati da je u 2024. i tijekom tri godine koje joj prethode uredno izvršio jedan ili više ugovora čiji zbrojeni iznos mora biti najmanje jednak procijenjnoj vrijednosti nabave"
+      }
+    ],
+    "rizik": "nizak",
+    "napomena": "Pregledom rezultata dodjele vidljivo je da su 2 ponude zaprimljene za svaku grupu i da su 3 različita ponuditelja (LIMA, J&J, INEL) dodijeljena različitim grupama. Nema znakova prilagođenosti specifikacije posebnom ponuditelju. Svi zahtjevi (CE sertifikacija, referencije, opremanje instrumentarijem) primjenjuju se na sve ponuditelje podjednako."
+  },
+  "napomena": "Detaljne tehničke specifikacije nisu dostupne u ekstrahiranom tekstu (nalazi se u xls prilogu Troškovnika). Evaluacija transparentnosti bazira se na dostupnom dijelu dokumentacije. Proces je transparentan u pogledu kriterija i selekcije ponuditelja; tri različita ponuditelja su odabrana za tri grupe, što ukazuje na konkurentnu, nerestriktivnu nabavu."
+}

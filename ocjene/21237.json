@@ -1,0 +1,36 @@
+{
+  "postupak_id": 21237,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 4,
+      "obrazlozenje": "Kriteriji za odabir ponude (ekonomski najpovoljnija ponuda: cijena 90 bodova + duljina jamstvenog roka 10 bodova) vrlo su precizno definirani, s eksplicitnim formulama i tablicom bodovanja po rasponima mjeseci. Međutim, dokument 'Kriteriji za kvalitativni odabir gospodarskog subjekta' (točka 5.2.1.3.) sadrži predloškom preuzetu grešku - referencira 'izvršenje usluga' i 'popis usluga' iako je predmet nabave radovi, što je stvarno zbunilo ponuditelja i izazvalo više krugova zahtjeva za pojašnjenjem tijekom ocjene ponuda oko toga što se priznaje kao odgovarajuća referenca.",
+      "citat": "Za potrebe dokazivanja minimalne razine tehničke i stručne sposobnosti za izvršenje usluga Ponuditelj mora dokazati da je... uredno pružio"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Opis predmeta nabave je konkretan i mjerljiv (točne dimenzije tribine i ploče, lokacija, CPV oznaka, trajanje ugovora), a detaljne tehničke specifikacije i troškovnik dostavljeni su kao zasebni prilozi koji su stvarno prisutni u dokumentaciji (Mapa 1 - Građevinski projekt, Mapa 2 - Elektrotehnički projekt, s nacrtima i tehničkim opisom). Troškovnik sadrži razrađene stavke po fazama radova (rušenje, zemljani, betonski, armirački, montažerski, elektrotehnički radovi).",
+      "citat": "Na mjestu uklonjene armiranobetonske tribine postavit će se montažno demontažna tribina dimenzija 13,20 m x 3,75 m."
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 4,
+      "obrazlozenje": "Dostupan je pun i unutarnje konzistentan skup dokumenata potreban za samostalnu izradu ponude: Opći podaci o postupku, Upute za ponuditelje, Kriteriji za odabir ponude, Kriteriji za kvalitativni odabir gospodarskog subjekta, upute za ESPD, glavni projekt u dvije mape s troškovnikom. Dokumentacija je dovoljna za izradu ponude bez dodatnih izvora. Umanjeno zbog spomenute terminološke greške u kvalifikacijskim kriterijima (usluge/radovi) koja je narušila jasnoću i zahtijevala naknadna pojašnjenja tijekom postupka.",
+      "citat": "Detaljne tehničke specifikacije se nalaze u zasebnom prilogu. ... Detaljan troškovnik se nalazi u zasebnom prilogu – Troškovnik."
+    },
+    "prosjecna_ocjena": 4.0
+  },
+  "restriktivnost": {
+    "prisutno": true,
+    "indikatori": [
+      {
+        "opis": "Tehnička specifikacija reflektora za rasvjetne stupove (troškovnik, stavka VI.16) opisana je iznimno precizno - specifičan kod optike, specifičan kod boje kućišta proizvođača, egzaktni raspon snage i svjetlosnog toka, maksimalne dimenzije i težina - bez ikakve klauzule o dopuštenosti jednakovrijednog proizvoda u tekstu troškovnika, što je tehnika koja može de facto suziti krug prihvatljivih ponuditelja na jednog proizvođača a da mu se ime izravno ne navede.",
+        "citat": "optika PL43, kućište metalik sive boje DB702S izrađeno od tlačnog lijevanog aluminija... svjetlosni tok minimalno 133840 lm"
+      },
+      {
+        "opis": "Dimenzije i težina reflektora navedene su s preciznošću do milimetra/desetinke kilograma kao gornja granica, što je neuobičajena razina detalja za funkcionalnu specifikaciju rasvjetnog tijela i sužava krug tehnički usklađenih proizvoda.",
+        "citat": "Dimenzije maksimalno 975x730x115 mm, težina maksimalno 33,9 kg. Bočna površina maksimalno 0,11m²."
+      }
+    ],
+    "rizik": "srednji"
+  },
+  "napomena": "Postupak ima opsežnu i dobro sačuvanu dokumentaciju (28 datoteka u extracted/, uključujući pune glavne projekte s nacrtima, cijeli tijek pojašnjenja ponude i obavijest o dodjeli). Dvije priložene arhive (Prilozi.7z, Prilozi.zip) ekstrahirane su kao prazne (0 bajtova) pa njihov sadržaj nije mogao biti uzet u obzir pri ocjeni - moguće da su sadržavale dodatne priloge, no glavna dokumentacija (projekti, troškovnik, upute, kriteriji) je potpuna i dovoljna za ocjenu."
+}

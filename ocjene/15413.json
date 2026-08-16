@@ -1,0 +1,27 @@
+{
+  "postupak_id": 15413,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriteriji za odabir ekonomski najpovoljnije ponude (cijena 40, iskustvo stručnjaka 30, jamstveni rok 30) potpuno su mjerljivi i operacionalizirani egzaktnim formulama i bodovnim tablicama, bez prostora za diskrecijsku ocjenu. Iskustvo stručnjaka boduje se po jasnoj tablici broja referenci (0-4+), a jamstveni rok po tablici dodatnih godina (3.-5. godina). Kriteriji kvalitativnog odabira (registracija, promet, popis radova, kvalifikacije stručnjaka) također su detaljno razrađeni s pravnom osnovom, načinom dokazivanja i konkretnim pragovima.",
+      "citat": "C= (Cmin/Cp) x 40 ... Broj referenci: 0 - 0 bodova, 1 - 5 bodova, 2 - 10 bodova, 3 - 20 bodova, 4 ili više - 30 bodova"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 5,
+      "obrazlozenje": "Opis predmeta nabave (rekonstrukcija i adaptacija zapadnog krila bolnice za lječilišni turizam) vrlo je konkretan i opsežan, uz detaljan opis namjene svake etaže, popratnih sadržaja i usklađenosti s propisima o zdravstvenom turizmu. Predmet je dodatno potkrijepljen s devet zasebnih projektnih elaborata (arhitektura, konstrukcija, elektroinstalacije, strojarstvo, vodovod i kanalizacija, vertikalni transport, vatrodojava, fotonaponska elektrana, fizika/akustika) i troškovnikom s izričitom klauzulom o dopuštenosti jednakovrijednih rješenja, čime je opis i precizan i ne isključuje razumne alternative.",
+      "citat": "U prizemlju se formira novi vanjski ulaz u zapadno krilo... Zadnja etaža (3. kat) se uređuje tako da služi kao terasa (sunčalište) korisnika."
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 4,
+      "obrazlozenje": "Dostupna je gotovo cjelokupna dokumentacija potrebna za samostalnu izradu ponude: opći podaci, obavijest o nadmetanju, kriteriji kvalitativnog odabira, upute za ponuditelje, kriteriji za odabir ponude, troškovnik, tehnički elaborati, akt za građenje, energetska iskaznica i obrasci 1-6. Umanjenje ocjene zbog dvije prazne ekstrakcije koje bi mogle sadržavati dodatne priloge: 'PRIJEDLOG UGOVORA.rtf.txt' (0 bajtova) i 'Prilozi.7z.txt' (0 bajtova, arhiva koju pipeline nije uspio raspakirati) - nije moguće potvrditi jesu li ti prilozi bili sadržajno prazni ili je riječ o poznatom ekstrakcijskom propustu (v. CLAUDE.md limitacija o .7z/.rar arhivama).",
+      "citat": "Elektronička ponuda mora sadržavati najmanje: Uvez ponude, Popunjeni eESPD obrazac, Popunjen troškovnik"
+    },
+    "prosjecna_ocjena": 4.67
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak"
+  },
+  "napomena": "Pročitani su svi ključni dokumenti dokumentacije o nabavi (obavijest o nadmetanju, opći podaci, kriteriji kvalitativnog odabira, kriteriji/upute za odabir ponude, upute za ponuditelje) te zapisnik o pregledu i ocjeni i obavijest o dodjeli ugovora radi konteksta o stvarnoj provedbi. Nije pronađen niti jedan indikator prilagođenosti specifikacije određenom ponuditelju: financijski prag (ukupni promet >= procijenjena vrijednost, 3 godine), referentni prag (radovi >= procijenjena vrijednost, do 3 reference, 5 godina) i prag iskustva stručnjaka (min. 1.000.000 EUR po projektu, naspram procijenjene vrijednosti od 2.209.238,53 EUR) proporcionalni su i standardni za ovu vrstu i vrijednost nabave; grep pretraga troškovnika (428 KB) nije otkrila upućivanja na marke/patente/tipove specifičnih proizvođača, samo generičke građevinske termine (marka morta, tip A/B hidrantski priključci). Zapisnik o pregledu i ocjeni pokazuje robusnu, nepristranu provedbu (naručitelj je samoinicijativno kontaktirao tri vanjska naručitelja radi provjere referenci stručnjaka te odbio priznati reference koje nisu odgovarale traženom tipu iskustva), što dodatno potkrepljuje ocjenu transparentnosti. Dva postupka javne nabave sudionika (2 ponude), oba prihvatljiva i cjelovita. Devet opsežnih tehničkih PDF elaborata (arhitektura, konstrukcija itd., pojedinačno i do 7 MB) nisu pojedinačno pregledani riječ-po-riječ zbog opsega, ali sažetak/uvodni dio i sadržaj troškovnika potvrđuju njihovu relevantnost i detaljnost."
+}

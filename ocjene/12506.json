@@ -1,0 +1,27 @@
+{
+  "postupak_id": 12506,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij ENP (cijena 75 % + 6 kvalitativnih pokazatelja 25 %) razrađen je zasebnim dokumentom s eksplicitnim matematičkim formulama za svaki pojedini kriterij, minimalnim i maksimalnim dopuštenim vrijednostima, primjerima izračuna i pravilom za slučaj izjednačenih ponuda (ranije zaprimljena ponuda). Mjerljivost i ponovljivost bodovanja su potpune.",
+      "citat": "Bodovi za svaki od kriterija računa se na šest decimala, zaokruživanjem na više."
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 5,
+      "obrazlozenje": "Tehničke specifikacije (35 stranica) precizno i kvantificirano definiraju svaki osigurani rizik (npr. brzina vjetra za pojam 'oluja') te obveze osiguratelja, bez upućivanja na konkretnog proizvođača/markicu opreme ili patentirano rješenje - opis je generičan i primjenjiv na svakog licenciranog osiguratelja, čime omogućuje usporedive ponude bez neopravdanog suženja kruga ponuditelja.",
+      "citat": "Olujom se smatra vjetar brzine 17,2 m/s, odnosno 62 km/h (8 stupnjeva prema Beaufortovoj ljestvici) ili više na osiguranom području."
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dostupna je cjelovita dokumentacija potrebna za samostalnu izradu ponude: Opći podaci, Upute za ponuditelje, Kriteriji za kvalitativni odabir (s ESPD uputama i načinom dokazivanja za svaku osnovu isključenja/sposobnost), Kriteriji za odabir ponude, Tehničke specifikacije i strukturirani Troškovnik u xlsx formatu s formulama. Naručitelj je uredno odgovorio i na naknadni zahtjev za pojašnjenjem/izmjenom troškovnika prije roka za dostavu ponuda.",
+      "citat": "Elektronička ponuda mora sadržavati najmanje: Uvez ponude Popunjeni eESPD obrazac (ili više njih, ako je primjenjivo) Popunjen troškovnik"
+    },
+    "prosjecna_ocjena": 5.0
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak"
+  },
+  "napomena": "Pročitani su svi relevantni dokumenti u extracted/ (Opći podaci, Upute za ponuditelje, Kriteriji za kvalitativni odabir, Kriteriji za odabir ponude, Tehničke specifikacije, Odgovori, Zapisnik o pregledu i ocjeni). Uvjet tehničke i stručne sposobnosti (min. 110.000 EUR referenci u 4 godine, naspram procijenjene vrijednosti 235.000 EUR za 24 mjeseca) proporcionalan je i ne djeluje restriktivno. Naveden je i transparentno obrazložen jedan sukob interesa (KEKI SERVIS, vlasnik član stručnog povjerenstva) koji se odnosi na djelatnost nepovezanu s predmetom nabave (usluge čišćenja/poliranja brodova, ne osiguranje) - nema naznaka utjecaja na ovaj postupak. Zaprimljene su 3 ponude (Croatia osiguranje, HOK-osiguranje, Adriatic osiguranje), što ukazuje na stvarnu konkurentnost unatoč detaljnoj specifikaciji."
+}

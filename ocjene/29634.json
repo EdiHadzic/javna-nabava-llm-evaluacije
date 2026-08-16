@@ -1,0 +1,46 @@
+{
+  "postupak_id": 29634,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriteriji za odabir su vrlo jasno i precizno definirani. Cijena (90 bodova) i rok isporuke (10 bodova) su mjerljivi s točnom formulom za bodovanje. Rok isporuke ima detaljnu tablicu s jasnim pragovima: do 5 dana je prihvatljivo, preko 5 dana čini ponudu tehnički neodgovarajućom. Svaki parametar je kvantifikabilan i nedvosmislen.",
+      "citat": "Ponude za koje rok isporuke za proizvod bude veći od 5 dana smatrat će se tehnički neodgovarajućim i neće se smatrati prihvatljivim. Ponuda s najnižom cijenom dobiva 90,00 bodova."
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Opis predmeta nabave je detaljno definirane s konkretnim zahtjevima: tri kategorije spremnika (400L/500kg, 40L/50kg, 20L/25kg), precizne kemijske specifikacije (min 99,8% klor, maks 0,02% vode), tri specifične lokacije s godišnjom potrošnjom, zahtjevi za iskrcaj i postavljanje, skladišnu zalihu minimalno 2.000 kg. Dovoljan je detalj za usporedive ponude, bez arbitrarne restriktivnosti.",
+      "citat": "Čistoća ukapljenog plinovitog klora mora biti: - minimalni sadržaj klora: 99,8% vol, - maksimalni sadržaj vode: 0,02% mase. Godišnja potrošnja cca. 11.000 kg klora (CP Dolac), cca. 5.000 kg (CP Jezerce)."
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 4,
+      "obrazlozenje": "Dostupna je sveobuhvatna dokumentacija: tehnička specifikacija s troškovnikom, upute za ponuditelje s jasnim procedurnim koracima, kriteriji za odabir s formulama, kriteriji za kvalitativni odabir (reference, tehnički stručnjaci), opći podaci o postupku, informacije o jamstvima i plaćanju. Ponuditelji jasno znaju što trebaju dostaviti i kako se čine prosudbe.",
+      "citat": "Dokumentacija o nabavi se ne naplaćuje te se može preuzeti u cijelosti na internetskoj stranici. Elektronička ponuda mora sadržavati najmanje: Uvez ponude, Popunjeni eESPD obrazac, Popunjen troškovnik, Vrijednosti kriterija za odabir."
+    },
+    "prosjecna_ocjena": 4.33
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [
+      {
+        "indikator": "Zahtjev za vozila s hidrauličnom rampom",
+        "opis": "Vozilo mora biti opremljeno hidrauličnom rampom dovoljne nosivosti za iskrcaj 500 kg cilindra ili palete s 10 cilindara od 50 kg",
+        "rizik": "tehnički opravdan - potreban za sigurnu manipulaciju s opasnima kemikalijama, ne indeks prilagođenosti određenom ponuditelju",
+        "citat": "Obveza ponuditelja je da isporuku klora na objekte vrši vozilom koje je opremljeno hidrauličnom rampom dovoljne nosivosti"
+      },
+      {
+        "indikator": "Zahtjev za 3 tehnička stručnjaka s certifikatima",
+        "opis": "Ponuditelj mora raspolagati minimalno 3 tehnička stručnjaka s uvjerenjem za rad s otrovima, od kojih najmanje jedan ovlašteni za rad s opasnim kemikalijama",
+        "rizik": "tehnički opravdan - sigurnost pri rukovanju tekućim klorom, но ograničava ponuditelje na one s relevantnom stručnošću",
+        "citat": "Gospodarski subjekt mora dokazati da raspolaže s minimalno 3 tehnička stručnjaka koji imaju uvjerenje za rad s otrovima"
+      },
+      {
+        "indikator": "Zahtjev za prethodnu iskustvo",
+        "opis": "Minimalno jedna isporuka robe vrijednosti najmanje 75.000 EUR u odnosnim ili sličnim vrstama tijekom 2024. i 3 godine prije",
+        "rizik": "umjeren - zahtjev je razumno postavljen u odnosu na ukupnu vrijednost nabave (EUR 150.000), pokazuje iskustvo, ne prilagođenost specifičnom ponuditelju",
+        "citat": "Gospodarski subjekt mora dokazati da je u 2024. godini i tijekom 3 godine koje joj prethode uredno izvršio najmanje jednu isporuku robe čija je vrijednost najmanje 75.000,00 eura"
+      }
+    ],
+    "rizik": "nizak"
+  },
+  "napomena": "Procedura pokazuje visoku razinu transparentnosti. Zahtjevi za specijalizirane resurse (tehnički stručnjaci, opremljeni vozila, iskustvo s hazmatnim proizvodima) opravdani su prirodom proizvoda (tekući klor - otrovna kemikalija) i sigurnosnim razmatranjima, a ne prilagođenosti određenom ponuditelju. Dokumentacija je detaljno razrađena i dostupna u cijelosti. Kriteriji su jasni i mjerljivi."
+}

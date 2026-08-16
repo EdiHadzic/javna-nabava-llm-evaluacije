@@ -1,0 +1,27 @@
+{
+  "postupak_id": 14937,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij odabira (ekonomski najpovoljnija ponuda) potpuno je operacionaliziran matematičkom formulom za cijenu (80 bodova) i preciznom bodovnom ljestvicom za jamstveni rok (20 bodova), uz jasno definirane pragove eliminacije (jamstveni rok < 3 god. ili kilometraža < 100.000 km = odbijena ponuda). Ne ostavlja prostor za subjektivnu ocjenu.",
+      "citat": "Ponuda s najnižom cijenom dobiva 80 bodova, a ostale ponude se boduju prema formuli: C=(Cmin/Cpp)x80"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Tehnička specifikacija (Prilog 1) vrlo je detaljna i mjerljiva (snaga motora, zapremnina, dimenzije vozila i putničkog prostora, oprema), što omogućuje izravnu usporedivost ponuda. Detalj je na granici uže specifikacije (uske dimenzijske tolerancije), ali dopušta alternative gdje je to razumno (npr. dopuštena je naknadna ugradnja ovjesa uz potvrdu proizvođača, a kod sigurnosne opreme koriste se klauzule 'ili jednakovrijedno'), pa se ne ocjenjuje kao potpuno otvorena ni kao ekstremno uska.",
+      "citat": "Dužina: max. 5460 mm Širina: max. 2100 mm Visina: max. 2000 mm Međuosovinski razmak: min. 3500 mm"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dokumentacija je potpuna i interno dosljedna: opći podaci, kriteriji kvalitativnog odabira s ESPD uputama, upute za ponuditelje, detaljna tehnička specifikacija, troškovnik i obrazac izjave o jamstvenom roku dostupni su kao zasebni prilozi te se međusobno ne kontriraju. Popis obveznog sadržaja ponude je eksplicitan i omogućuje samostalnu izradu ponude bez dodatnih pojašnjenja (jedino je naknadno traženo upotpunjavanje ESPD obrasca, što je uobičajena administrativna dopuna, a ne posljedica nepotpune dokumentacije naručitelja).",
+      "citat": "Elektronička ponuda mora sadržavati najmanje: Uvez ponude Popunjeni eESPD obrazac (ili više njih, ako je primjenjivo) Popunjen troškovnik"
+    },
+    "prosjecna_ocjena": 4.67
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak"
+  },
+  "napomena": "Pročitane su sve relevantne .txt datoteke iz extracted/ (Obavijest o nadmetanju, Opći podaci, Kriteriji za kvalitativni odabir, Upute za ponuditelje, Kriterij za odabir ponude, Tehnička specifikacija, Prilog 1, Troškovnik, Prilog 2, Zahtjev za upotpunjavanje, Zapisnik o pregledu i ocjeni, Obavijest o dodjeli ugovora, Odluka o odabiru). Tehnička specifikacija ne sadrži reference na konkretnu marku/model ni patentirano rješenje, a financijsko jamstvo (1.000 EUR, ~2,8% procijenjene vrijednosti) nije nesrazmjerno. Zaprimljena je samo jedna ponuda (Grand Auto d.o.o.), što je uobičajeno za ovu nišnu kategoriju vozila (kombi 8+1, M1) i samo po sebi nije dovoljan pokazatelj prilagođenosti specifikacije, stoga nije uračunato kao indikator restriktivnosti."
+}

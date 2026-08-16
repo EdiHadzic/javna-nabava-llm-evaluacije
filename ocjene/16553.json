@@ -1,0 +1,27 @@
+{
+  "postupak_id": 16553,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij ENP je posve precizno operacionaliziran: cijena (90 bodova) i dodatno trajanje jamstva za otklanjanje nedostataka (10 bodova), s eksplicitnim matematičkim formulama, minimalnim/maksimalnim vrijednostima (min. 2 god., ispod čega se ponuda odbija) i zaokruživanjem na šest decimala. Zapisnik o pregledu i ocjeni ponuda pokazuje da je bodovanje sva četiri ponuditelja izvedeno dosljedno prema najavljenoj formuli, bez naknadnog diskrecijskog odstupanja.",
+      "citat": "Ponuda s najnižom cijenom dobiva 90,00 bodova, dok se ostale ponude boduju prema formuli"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 5,
+      "obrazlozenje": "Opis predmeta nabave u osnovnoj dokumentaciji je sažet, ali upućuje na cjeloviti izvedbeni projekt (mapa 1/1, ožujak 2024., proj. br. 46/2024 IZ) koji sadrži tehnički opis, geodetske podloge, konstrukciju kolnika/staze i detaljan troškovnik sa stavkama definiranim po normama (OTU, HRN EN 13108-1). Razina tehničke razrade omogućuje ponuditeljima izradu usporedivih ponuda bez da propisuje jedinstveno, neproporcionalno usko rješenje.",
+      "citat": "Izvedbenim projektom predviđena je izgradnja biciklističke staze ukupne širine 1,50 m (1,00 m biciklistički trak + 0.50 m zaštitni pojas)"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dostupan je pun skup dokumenata potreban za samostalnu izradu ponude: opći podaci, upute za ponuditelje, kriteriji kvalitativnog odabira i odabira ponude, troškovnik bez cijena, te kompletan izvedbeni projekt s tehničkim opisom i normativnim referencama. Nakon dodjele dostupni su i zapisnik o pregledu i ocjeni, odluka o odabiru, obavijest o dodjeli i ažurirani popratni dokumenti (potvrde, izvadak iz sudskog registra), čime je cijeli tijek postupka sljediv.",
+      "citat": "RAZINA RAZRADE: IZVEDBENI PROJEKT"
+    },
+    "prosjecna_ocjena": 5.0
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak"
+  },
+  "napomena": "Pročitani su svi dokumenti u extracted/ (12 datoteka), uključujući vrlo opsežan izvedbeni projekt (17.173 redaka, tehnički dio + troškovnik). Troškovnik i tehnički opis pozivaju se isključivo na generičke tehničke norme (OTU IGH 2001., HRN EN 13108-1, Tehnički propis za asfaltne kolnike NN 48/21) i klase materijala, bez ijedne reference na konkretnu marku, proizvođača ili patentirano rješenje. Uvjet tehničke sposobnosti (najviše 2 potvrde uredno izvedenih radova u ukupnoj vrijednosti barem jednakoj procijenjenoj vrijednosti nabave, 71.000 EUR) proporcionalan je predmetu i vrijednosti nabave te ne djeluje isključujuće - svi zaprimljeni ponuditelji (4) ocijenjeni su sposobnima i valjanima."
+}

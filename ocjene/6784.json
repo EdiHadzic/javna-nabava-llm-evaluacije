@@ -1,0 +1,27 @@
+{
+  "postupak_id": 6784,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij ENP potpuno je operacionaliziran: cijena 90 bodova, jamstveni rok 10 bodova, s eksplicitnom formulom za cijenu i tablicom bodovanja jamstvenog roka po rasponima (24-24=0 bod, 25-36=2 boda, ..., 85-120=10 bodova), uz jasno definirane gornju/donju granicu vrijednosti kriterija i pravilo za izjednačene ponude (ranije zaprimljena ponuda).",
+      "citat": "Bodovi za svaki od kriterija računa se na šest decimala, zaokruživanjem na više."
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 5,
+      "obrazlozenje": "Tehnička specifikacija vrlo je konkretna (nazivne snage, naponi, grupa spoja, tolerancije zagrijavanja, mase, dimenzije, gubici prema EU uredbi o ekodizajnu, zahtjevi ispitivanja) uz pozivanje na skup harmoniziranih normi (HRN EN 60076 serija i dr.), a naručitelj eksplicitno dopušta jednakovrijedne norme i rješenja, čime se opis ne svodi na isključivo jednog ponuditelja/proizvod.",
+      "citat": "Izrada po drugim normama odnosno po drugim odredbama iz tehničke regulative koja osigurava iste ili bolje karakteristike i/ili kvalitetu također će biti prihvaćena."
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dostupna je cjelovita dokumentacija za samostalnu izradu ponude: opći podaci, upute za ponuditelje, kriteriji za odabir i kvalitativni odabir, tehnička specifikacija s tablicom tehničkih podataka, troškovnik, prijedlog ugovora, izjava o integritetu, te naknadno obavijest o nadmetanju, odluka o odabiru, obavijest o dodjeli i zapisnik o pregledu i ocjeni ponuda - svi dokumenti čitljivi i međusobno usklađeni.",
+      "citat": "Ponuditelj je dužan u svojoj ponudi priložiti dokumente kojima dokazuje sukladnost ponuđene robe sa zahtjevima u pogledu opisa predmeta nabave i tehničke specifikacije"
+    },
+    "prosjecna_ocjena": 5.0
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak"
+  },
+  "napomena": "Sva ključna dokumentacija dostupna je i čitljiva; 'Prilozi.zip.txt' je prazan, ali vjerojatno je riječ o duplikatu već zasebno dostupnih priloga (tehnička specifikacija, troškovnik, tablica tehničkih podataka), pa ne utječe na potpunost ocjene. Nisu pronađeni indikatori restriktivnosti (nema referenci na konkretnu marku/patentirano rješenje; referentni uvjet - min. 1 isporuka u vrijednosti procijenjene vrijednosti nabave - standardan je i proporcionalan; tehnički zahtjevi temelje se na EU uredbi o ekodizajnu i harmoniziranim normama uz izričito dopuštene jednakovrijednosti). Napomena za kontekst: zaprimljena je samo 1 ponuda unatoč otvorenom postupku, no to nije potkrijepljeno tekstualnim indikatorom restriktivnosti u dokumentaciji."
+}

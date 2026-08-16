@@ -1,0 +1,27 @@
+{
+  "postupak_id": 9014,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij odabira ponude (ekonomski najpovoljnija ponuda) razrađen je u posebnom prilogu s eksplicitnim formulama i bodovnim tablicama za sva tri podkriterija (cijena 90%, specifično iskustvo ključnih stručnjaka 5%, trajanje jamstvenog roka 5%), uključujući egzaktnu matematičku formulu za cijenu i diskretne bodovne pragove za jamstveni rok. Kriteriji za kvalitativni odabir gospodarskog subjekta (financijska sposobnost, tehnička i stručna sposobnost, ISO norme) navedeni su s točnim brojčanim pragovima i načinom dokazivanja. Jedina nejasnoća (dvostruko bodovanje iste osobe u dvije funkcije) razriješena je jasno kroz modul Pitanja/Pojašnjenja prije roka za dostavu ponuda.",
+      "citat": "C = Cmin / Cpon * 90 ... Maksimalan broj bodova koji se može ostvariti po kriteriju Trajanje jamstvenog roka je 5 bodova."
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Opis predmeta nabave vrlo je konkretan i potkrijepljen s 9 mapa projektne dokumentacije (arhitektonski, konstrukcijski, strojarski, elektro, dizala) te detaljnim troškovnikom (SDFJ_GP_BOQ). Međutim, u modulu Odgovori vidljivo je da je izvorni troškovnik na više mjesta ostavljao specifikacije nedovoljno definiranima za samostalnu izradu ponude bez dodatnog pojašnjenja (npr. sadržaj stavke antenske instalacije, oprema razvodnog ormarića, dimenzije klupčice, značenje stavke 'spremnik UNP'), što je zahtijevalo naknadna pojašnjenja naručitelja prije podnošenja ponuda. Opis nije preuzak da isključuje razumne alternative (predmet je vezan uz izvedbu prema već izrađenom glavnom projektu, što je uobičajeno za građevinske radove), ali inicijalna razina detalja troškovnika nije bila potpuna bez Q&A kruga.",
+      "citat": "Molimo detaljniju specifikaciju za opremu iz stavke 1. ... Molimo pojašnjenje na što se stavka točno odnosi."
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 4,
+      "obrazlozenje": "Dokumentacija o nabavi sadrži sve standardne dijelove (opći podaci, kriteriji kvalitativnog odabira, kriterij odabira ponude, upute za ponuditelje, troškovnik, punu projektnu dokumentaciju). Ipak, najmanje šest zasebnih pitanja gospodarskih subjekata u modulu Odgovori odnosilo se na nedostajuće ili proturječne podatke u troškovniku (elektroinstalacije, plinska instalacija, kamene klupčice, dimenzije bojlera), a naručitelj je čak morao produžiti rok za dostavu ponuda jer odgovori nisu bili objavljeni pravovremeno u zakonskom roku od šest dana prije isteka roka za dostavu ponuda. To ukazuje na to da izvorna dokumentacija sama za sebe nije bila u potpunosti dostatna za samostalnu izradu ponude bez dodatnih pojašnjenja naručitelja.",
+      "citat": "Obzirom da je naručitelj tek danas (11.06.2024.) odgovorio na pravodobna pitanja... rok je produžen do 21.06.2024."
+    },
+    "prosjecna_ocjena": 4.33
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak"
+  },
+  "napomena": "Ocjena temeljena na čitanju svih ključnih dokumenata dokumentacije o nabavi (Opći podaci, Kriteriji za kvalitativni odabir, Kriterij za odabir ponude, Obavijest o nadmetanju, Upute za ponuditelje, Odgovori). Devet mapa projektno-tehničke dokumentacije (arhitektonski, konstrukcijski, strojarski, elektro, dizala projekt) i troškovnik u XLSX formatu (svi vrlo veliki, 130KB-4,4MB izvučenog teksta, uglavnom tehnički nacrti/troškovničke stavke) nisu pojedinačno čitani riječ po riječ zbog opsega, ali njihovo postojanje i sadržajna struktura potvrđeni su kroz reference u glavnim dokumentima i kroz konkretna pitanja/odgovore koji citiraju njihov sadržaj. Financijski i referentni pragovi (ukupni promet i kumulativna vrijednost referentnih radova jednaki procijenjenoj vrijednosti nabave) odgovaraju zakonski dopuštenom maksimumu za radove ove vrijednosti (7,3 mil. EUR) i nisu ocijenjeni kao neproporcionalni ili usmjereni na određenog ponuditelja."
+}

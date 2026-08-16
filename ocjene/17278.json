@@ -1,0 +1,33 @@
+{
+  "postupak_id": 17278,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriteriji za odabir ponude (cijena 90 % i jamstveni rok za otklanjanje nedostataka 10 %) definirani su egzaktnim matematičkim formulama za bodovanje, s jasno propisanim minimalnim (24 mjeseca) i maksimalnim (60 mjeseci) dopuštenim iznosom za necjenovni kriterij te pravilom za rangiranje jednako bodovanih ponuda. Nema prostora za subjektivnu ocjenu povjerenstva.",
+      "citat": "Minimalni jamstveni rok za otklanjanje nedostataka iznosi 24 mjeseca... Ako ponuditelj nudi jamstveni rok kraći od 24 mjeseca, Naručitelj će takvu ponudu odbiti kao nepravilnu."
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Opis predmeta nabave u osnovnoj dokumentaciji je sažet, ali upućuje na opsežan zaseban prilog (troškovnik) koji sadrži vrlo konkretne, mjerljive tehničke specifikacije (dimenzije do mm, minimalne mase, razredi izloženosti betona i sl.) za svaku stavku radova i opreme, što omogućuje usporedive ponude. Opis eksplicitno isključuje pretjerano uzak zahtjev (dizajniranje sprava nije predmet nabave, traže se 'tipski predgotovljeni proizvodi iz serijske proizvodnje'), a za tehničke norme izričito je dopušteno nuđenje jednakovrijednih rješenja. Ocjena nije 5 jer opis u glavnom dokumentu samostalno ne bi bio dovoljan bez uvida u troškovnik.",
+      "citat": "Potrebno je dobaviti i ugraditi tipske predgotovljene proizvode iz serijske proizvodnje proizvođača, prema parametrima definiranim u projektnoj dokumentaciji."
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dostupna je cjelovita dokumentacija za samostalnu izradu ponude: Opći podaci, Upute za ponuditelje, Kriteriji za odabir ponude, Kriteriji za kvalitativni odabir gospodarskog subjekta, detaljan stavkovni troškovnik te opsežna projektna dokumentacija (arhitektonski projekt Mapa M1 i elektrotehnički projekt Mapa M2, obje s više desetaka stranica sadržaja). Upute za ponuditelje precizno navode obvezni sadržaj elektroničke ponude.",
+      "citat": "Elektronička ponuda mora sadržavati najmanje: Uvez ponude, Popunjeni eESPD obrazac (ili više njih, ako je primjenjivo), Popunjen troškovnik"
+    },
+    "prosjecna_ocjena": 4.67
+  },
+  "restriktivnost": {
+    "prisutno": true,
+    "indikatori": [
+      {
+        "opis": "Stavke opreme za vanjski fitnes u troškovniku navedene su pod specifičnim, prepoznatljivim komercijalnim nazivima proizvoda (npr. 'MINI FITNESS SET TWIST', 'PARALELNA PREČA', 'BOČNA NJIHALICA') uz vrlo uske tehnička parametre (točne maksimalne dimenzije do milimetra, minimalna masa proizvoda), što je karakteristično za parametriziranje prema katalogu jednog proizvođača opreme za urbanu opremu. Za razliku od dijela troškovnika koji se poziva na norme (gdje je izrijekom dopušteno 'ili jednakovrijedno'), za ove stavke opreme klauzula o jednakovrijednosti nije ponovljena eksplicitno uz svaku stavku.",
+        "citat": "MINI FITNESS SET TWIST ... Max. dimenzije (DxŠxV): 1605 x 745 x 1160 mm Masa: min 71 kg"
+      }
+    ],
+    "rizik": "nizak",
+    "napomena_o_riziku": "Iako su parametri opreme uski, opći uvjet iz čl. 211. ZJN 2016 (naveden u dokumentaciji) formalno dopušta dokazivanje jednakovrijednosti bilo kojim prikladnim sredstvom za cijeli predmet nabave, ne samo za stavke s izričitim pozivom na normu. Praktični ishod postupka ne upućuje na stvarno sužavanje tržišnog natjecanja: zaprimljene su 4 valjane ponude, sve od malih i srednjih poduzetnika, stoga je procijenjeni rizik nizak."
+  },
+  "napomena": "Svih 17 pročitanih .txt datoteka u extracted/ bilo je sadržajno (nijedna nije prazna ili gotovo prazna); dvije velike skenirane projektne mape (Arhitektonski projekt M1, Projekt elektroinstalacija M2) uspješno su OCR-ane i čitljive. Jedina gotovo prazna datoteka ('Odgovori na zahtjeve upotpunjavanja ponude.pdf.txt', 52 bajta) odnosi se na post-podnošenje komunikaciju s odabranim ponuditeljem, ne na osnovnu dokumentaciju o nabavi, i nije utjecala na ocjenu."
+}

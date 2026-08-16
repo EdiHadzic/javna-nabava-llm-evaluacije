@@ -1,0 +1,27 @@
+{
+  "postupak_id": 3257,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij ENP eksplicitno je razrađen zasebnim dokumentom s točnim matematičkim formulama za oba parametra (cijena i jamstveni rok), uključujući tablicu bodovanja po rasponima vrijednosti i pravilo za rješavanje jednakog rangiranja ponuda.",
+      "citat": "Ponuda s najnižom cijenom dobiva 70,00 bodova, dok se ostale ponude boduju prema formuli"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Tehnička specifikacija (Prilog I) za svih 5 stavki (4 vrste kanti + komposter) navodi mjerljive, konkretne karakteristike (zapremina, materijal, norme EN 840, dimenzije kotača, debljina zida, raspon temperatura) uz dosljednu formulaciju 'ili jednakovrijedno', što omogućuje usporedivost bez isključivanja alternativnih dobavljača.",
+      "citat": "Kotači: gumirani, promjera min. 200 mm sa metalnom osovinom koja je elektrolitski cinčana ili jednakovrijedno zaštićena, s konusnim završetcima"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dokumentacija sadrži sve elemente potrebne za samostalnu izradu ponude: opće podatke, kriterije kvalitativnog odabira s ESPD uputama, kriterije odabira ponude s formulama, tehničku specifikaciju, troškovnik, prijedlog ugovora i uzorak ovlaštenja; naknadna pojašnjenja naručitelja (dva zahtjeva ponuditelja GRADATIN) pokazuju da je proces pojašnjenja funkcionirao uredno.",
+      "citat": "Elektronička ponuda mora sadržavati najmanje: Uvez ponude, Popunjeni eESPD obrazac, Popunjen troškovnik"
+    },
+    "prosjecna_ocjena": 4.67
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak"
+  },
+  "napomena": "Tehničke norme (EN 840-1/5/6) su opće europske industrijske norme za spremnike otpada, ne referenca na specifičnog proizvođača, a dokumentacija dosljedno dopušta 'jednakovrijedno' rješenje. Zaprimljene su 4 ponude (od 4 MSP-a), što ukazuje na razumnu razinu tržišnog natjecanja za postupak male vrijednosti robe. Naveden je i popis gospodarskih subjekata u sukobu interesa (1 tvrtka) kao standardna zakonska obveza transparentnosti, ne kao indikator restriktivnosti. Sva relevantna dokumentacija (tehnička specifikacija, troškovnik, kriteriji, upute) bila je čitljiva i potpuna."
+}

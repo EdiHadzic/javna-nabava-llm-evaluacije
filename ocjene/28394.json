@@ -1,0 +1,27 @@
+{
+  "postupak_id": 28394,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij ENP posve je operacionaliziran matematičkom formulom za cijenu (90 od 100 bodova) i binarnim, nedvosmislenim uvjetom za drugi kriterij (posjedovanje važeće police osiguranja putnika, 10 bodova ili 0 bodova). Definirano je i pravilo za slučaj izjednačenih ponuda (redoslijed zaprimanja). Nema prostora za diskrecijsku ili subjektivnu ocjenu.",
+      "citat": "CP = (Cmin/Cp) x 90 ... Postojanje važeće police osiguranja putnika nosi 10 bodova. Ponuda s nevažećom ili nepostojećom policom osiguranja ocijenit će se s 0 bodova."
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 2,
+      "obrazlozenje": "Zasebni dokument 'Teh. specifikacije' sadrži samo jednu rečenicu koja upućuje na troškovnik, bez ikakvih tehničkih zahtjeva o vozilima (kapacitet, starost, standard emisija), vozačima ili točnim vremenima polazaka. Troškovnik navodi relacije i okvirni broj mjesečnih markica, ali dinamiku vožnje opisuje samo neodređeno ('više puta na dan'), bez konkretnog voznog reda po smjenama koji bi ponuditelju omogućio precizno planiranje resursa.",
+      "citat": "Tehnička specifikacija predmeta nabave određena je u troškovniku koji je prilog ove dokumentacije za nadmetanje."
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 3,
+      "obrazlozenje": "Administrativni dio dokumentacije (opći podaci, upute za ponuditelje, kriteriji kvalitativnog odabira, ESPD upute, obrazac troškovnika) je formalno cjelovit i standardan. Nedostaju, međutim, operativni detalji nužni za samostalnu i preciznu izradu ponude (točan vozni red po relacijama i smjenama, zahtjevi za tip/kapacitet vozila), što ponuditelja ostavlja da se oslanja na vlastito poznavanje lokalnih prilika (otoci Ugljan/Pašman) umjesto na dokumentaciju.",
+      "citat": "Svaka od navedenih relacija vozi se više puta na dan i za svaku od navedenih relacija treba biti uključena gradska/prigradska karta za grad Zadar. Zbog višesmjenskog rada, u isto vrijeme potrebno je više linija u isto vrijeme"
+    },
+    "prosjecna_ocjena": 3.33
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak"
+  },
+  "napomena": "Pročitane su sve dostupne .txt datoteke u extracted/ (dokumentacija o nabavi, obavijest o nadmetanju, kriteriji kvalitativnog odabira, zapisnik o pregledu i ocjeni, odluka o odabiru te prateći dokazni dokumenti). Zaprimljena je samo 1 ponuda (LIBURNIJA d.o.o., Zadar), a NUTS/opis predmeta upućuju na usko lokalno tržište (prijevoz na otocima Ugljanu i Pašmanu) čime se niska konkurencija objašnjava geografskom nišom, a ne uočenim restriktivnim uvjetima u dokumentaciji (referentni uvjet ograničen je na iznos jednak procijenjenoj vrijednosti, standardno; nema markiranih proizvoda niti nesrazmjernih pragova). Ugovorena vrijednost bez PDV-a (130.853,70 EUR) niža je od procijenjene (140.000,00 EUR)."
+}

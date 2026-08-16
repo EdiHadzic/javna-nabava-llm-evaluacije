@@ -1,0 +1,30 @@
+{
+  "postupak_id": 18178,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriteriji za odabir ponude (cijena 90%, dužina plovila 10%) potpuno su jasno definirani egzaktnom matematičkom formulom za oba potkriterija, uz razrađenu bodovnu ljestvicu za dužinu plovila i eksplicitno obrazloženje razloga korištenja kriterija kvalitete. Nema prostora za dvosmislenost u primjeni.",
+      "citat": "CP = Pmin/Ppon * 90"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Tehnički opis vrlo je konkretan (16 označenih da/ne karakteristika plovila: dužina, širina, brzina, oznaka sanitetskog prijevoza, oprema za bolesnika, sigurnosni pojasevi, izolacija, aparat za gašenje itd.), što omogućuje izravnu usporedivost ponuda. Ocjena nije 5 jer specifikacija dijelom prelazi u operativni detalj (npr. zahtjev da plovilo bude stacionirano upravo u mjestu Preko) koji ide dalje od čistog opisa predmeta nabave prema uvjetu izvršenja vezanom uz lokaciju.",
+      "citat": "Plovilo mora imati oznaku \"sanitetski prijevoz\" i znak crvenog križa na pramcu"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dostupna je cjelovita dokumentacija za samostalnu izradu ponude: Opći podaci, Obavijest o nadmetanju, Kriteriji za kvalitativni odabir (s detaljnim uputama o ESPD-u i načinu dokazivanja), Upute za ponuditelje, Tehnički opis, Troškovnik i Formula za određivanje ekonomski najpovoljnije ponude. Naknadni dokumenti (Zapisnik o pregledu i ocjeni, Odluka o odabiru, Obavijest o dodjeli ugovora) potvrđuju da je jedini ponuditelj uspio sastaviti potpunu i valjanu ponudu bez zahtjeva za dopunom.",
+      "citat": "Detaljan troškovnik se nalazi u zasebnom prilogu – Troškovnik."
+    },
+    "prosjecna_ocjena": 4.67
+  },
+  "restriktivnost": {
+    "prisutno": true,
+    "indikatori": [
+      "Tehnički opis sadrži zahtjev da ponuđeno plovilo bude stacionirano upravo u mjestu Preko na otoku Ugljanu (citat: 'Ponuđeno plovilo biti će stacionirano u Preku na otoku Ugljanu.'), a ne šire na području otoka Ugljana/Pašmana odakle se obavlja prijevoz. Ovaj zahtjev geografski se podudara sa sjedištem jedinog ponuditelja i odabranog ugovaratelja (OBALA I PARKOVI d.o.o., Trg hrvatske nezavisnosti 2, 23273 Preko), što je indikator moguće prilagođenosti specifikacije lokalno poznatom subjektu, iako je zahtjev i operativno objašnjiv potrebom brzog odgovora za hitne prijevoze.",
+      "Zaprimljena je samo jedna ponuda u otvorenom postupku (citat iz Obavijesti o dodjeli ugovora: 'Broj zaprimljenih ponuda: 1'), što je u skladu s uskom geografskom specifikacijom i sugerira nizak stupanj tržišnog natjecanja za ovu uslugu."
+    ],
+    "rizik": "srednji"
+  },
+  "napomena": "Pročitane su sve sadržajne .txt datoteke u extracted/ direktoriju (14 s tekstualnim sadržajem). Šest datoteka je prazno (5 IMG_*.jpg fotografija plovila i jedna izjave.rar arhiva) te jedan Prilozi.zip - prazne ekstrakcije ne utječu na ocjenu jer se radi o fotografijama/pomoćnim obrascima, a sav ključni sadržaj (opis predmeta, kriteriji, troškovnik, zapisnik, odluka) dostupan je i čitljiv. Bodovna formula za dužinu plovila i minimalni prag od 8m primijenjeni su dosljedno u Zapisniku o pregledu i ocjeni (ponuđena dužina 9,98 m, 5 bodova)."
+}

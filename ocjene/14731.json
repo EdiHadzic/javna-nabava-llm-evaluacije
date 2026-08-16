@@ -1,0 +1,36 @@
+{
+  "postupak_id": 14731,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriteriji za odabir ponude (ENP) definirani su zasebno za svih 6 grupa, potpuno formulaično: cijena 70 bodova (formula B_C = 70 × min(C)/C), jamstveni rok za otklanjanje nedostataka 30 bodova prema eksplicitnoj tablici raspona mjeseci (0 bodova za 24 mjeseca do 30 bodova za 60+ mjeseci), uz jasno navedeno pravilo za jednako rangirane ponude (vrijeme zaprimanja). Mjerljivost i provjerljivost su vrlo visoke.",
+      "citat": "Ekonomski najpovoljnija ponuda utvrđuje se na temelju Cijene i kvalitete."
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Opis predmeta nabave po grupama vrlo je precizan preko troškovnika (npr. Grupa 4: 141+ stavki s jediničnim mjerama, količinama i detaljnim tehničkim opisom svake pozicije radova, uklj. norme HRN i uvjet 'ili jednakovrijedno'). Međutim, sama narativna 'Tehnička specifikacija' dostupna je u izvučenom korpusu samo kao poveznica na vanjski preuzimljivi paket (nije tekstualno prisutna), a iz Odgovora na upit vidljivo je da sheme stolarije nisu dio glavnog projekta te se ponuditelj upućuje da lokaciju obiđe sam - manji, ali stvaran informacijski jaz za ponuditelje.",
+      "citat": "Sheme stolarije nisu sastavni dio glavnih projekata već izvedbenih projekata. Ponuditelj... ima mogućnost obići predmetne lokacije."
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 4,
+      "obrazlozenje": "Dostupan je pun standardni paket ESPD-relevantne dokumentacije (Kriteriji kvalitativnog odabira, Kriteriji za odabir ponude, Obavijest o nadmetanju, Opći podaci o postupku, Upute za ponuditelje, detaljni troškovnici za svih 6 grupa, Odgovori na upite, Obavijest o dodjeli/poništenju). Nedostaje, međutim, tekstualni sadržaj same 'Tehničke specifikacije' (u izvučenom korpusu prisutan je samo poveznički stub prema vanjskom paketu za preuzimanje), čime samostalna izrada ponude iz ovog korpusa nije u potpunosti moguća bez tog vanjskog dokumenta.",
+      "citat": "Link za preuzimanje tehničkih specifikacija za sve grupe predmeta nabave: O-G-S-440/24 Radovi"
+    },
+    "prosjecna_ocjena": 4.33
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [
+      {
+        "opis": "Dokumentacija eksplicitno i sustavno dopušta jednakovrijedne proizvode za sve stavke troškovnika u kojima se navodi marka, patent, tip ili podrijetlo, čime se smanjuje rizik zatvaranja tržišta prema jednom ponuditelju/proizvođaču.",
+        "citat": "gospodarski subjekt može ponuditi „ili jednakovrijedno“ traženom ili navedenom"
+      },
+      {
+        "opis": "Minimalni prag prosječnog godišnjeg prometa i minimalna vrijednost referentnih radova postavljeni su točno u visini procijenjene vrijednosti grupe koja se nudi (1x, ne viši multiplikator), što je uobičajena i proporcionalna razina za ovu vrstu i opseg radova, a ne nerazmjerno visok prag.",
+        "citat": "mora biti u minimalnom iznosu procijenjene vrijednosti nabave za grupu predmeta nabave koju nudi"
+      }
+    ],
+    "rizik": "nizak"
+  },
+  "napomena": "Postupak je podijeljen u 6 grupa (energetska obnova 6 višestambenih zgrada, NPOO financiranje); ponuditelj može ponuditi sve grupe, ali biti odabran u najviše 3. Grupa 4 (Gračac, N. Tesle 30,32) na kraju nije ugovorena (isključenje ponuditelja/odbijanje ponuda, čl. 298. st. 1. t. 8. ZJN2016) - to ne utječe na ocjenu transparentnosti same dokumentacije. Datoteke nazvane 'Grupa X_...docx' u extracted/ ispostavile su se kao predložak ugovora, ne tehnički opis; stvarna tehnička razrada dostupna je kroz opsežne troškovnike (xlsx), dok je posebna 'Tehnička specifikacija' u portalu samo poveznica na vanjski preuzimljivi paket koji nije tekstualno ekstrahiran u ovom korpusu."
+}

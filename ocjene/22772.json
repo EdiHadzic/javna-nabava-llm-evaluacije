@@ -1,0 +1,27 @@
+{
+  "postupak_id": 22772,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij za odabir ponude u potpunosti je operacionaliziran kroz nacionalnu Uredbu (NN 31/14): svaki tehnički element (brzina, udobnost, starost broda, iskustvo brodara, održavanje) ima točno propisan broj bodova, a cijena/kvaliteta ponderirani su 50:50 uz eksplicitne matematičke formule za izračun tehničkih i ekonomsko-financijskih bodova. Nema prostora za diskrecijsko/nejasno ocjenjivanje.",
+      "citat": "1. tehnički kriteriji 50%; 2. ekonomsko-financijski kriteriji 50%. Najpovoljnijim ponuditeljem smatrat će se brodar koji... ostvari najveći broj bodova."
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 5,
+      "obrazlozenje": "Predmet nabave (obavljanje javne usluge na trajektnoj liniji) opisan je vrlo konkretno: točna udaljenost relacije, minimalna brzina, maksimalno vrijeme putovanja, minimalni kapacitet broda, očekivani broj putnika/vozila godišnje, učestalost polazaka po sezonama i primjer reda plovidbe. Razina detalja omogućuje usporedivu ponudu bez neopravdanog suženja na jedan tip broda (dopušteno je 5 kategorija brodova prema tipu linije).",
+      "citat": "Minimalna brzina u liniji: 11.0 čvorova; Maksimalno vrijeme trajanja putovanja u jednom smjeru: 01 h i 35 min; Minimalni kapacitet broda: 100 vozila/500 putnika"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dostupan je pun set dokumenata: Dio I (opći podaci, tehnički uvjeti), Dio II (upute za ponuditelje), zaseban dokument kriterija za kvalitativni odabir, zaseban dokument formule bodovanja (Uredba NN 31/14), troškovnik, Program državne potpore (SGEI) s detaljnom financijskom projekcijom prihoda/troškova, te objavljeni odgovori naručitelja na pitanje ponuditelja tijekom postupka. Ništa bitno ne nedostaje za samostalnu izradu ponude.",
+      "citat": "Detaljni uvjeti koje ponuditelj mora ispuniti, kao i potrebni dokazi koje treba dostaviti te razlozi isključenja ponuditelja navode se u dokumentaciji za nadmetanje i odgovarajućoj obavijesti."
+    },
+    "prosjecna_ocjena": 5.0
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak"
+  },
+  "napomena": "Postupak je dodjela ugovora o javnoj usluzi (PSO/SGEI) za državnu trajektnu liniju 434 Brbinj-Zadar, s procijenjenom vrijednosti 20.004.955,16 EUR i jednom zaprimljenom ponudom (Jadrolinija, ugovorena vrijednost 11.883.555,66 EUR bez PDV-a). Riječ je o visoko standardiziranom, zakonski propisanom obliku natječaja (Uredba NN 31/14) koji se primjenjuje jednako na sve državne obalne linije, što objašnjava vrlo visoke ocjene transparentnosti - dokumentacija u velikoj mjeri preslikava zakonski predložak, a ne bespoke specifikaciju naručitelja. Tehnički i financijski pragovi (jamstva 20.000/70.000/100.000 EUR) proporcionalni su vrijednosti od cca 20 mil. EUR i propisani izravno Uredbom, ne ad hoc od strane naručitelja; nema referenci na određeni proizvod/marku. Jedini upitni element - uvjet dosadašnjeg iskustva brodara - izrijekom je uvjetovan formulacijom 'u slučajevima prethodnog iskustva', pa ne djeluje kao apsolutna prepreka novom ulazniku. Samo 1 zaprimljena ponuda vjerojatnije je posljedica strukturnih barijera ulaska na tržište državnih trajektnih linija (kapitalni zahtjevi, postojeća flota) nego prilagođenosti specifikacije određenom ponuditelju. Ovaj postupak pripada skupini od 6 ugovora o trajektnim linijama/PSO iz uzorka koji dominiraju HHI vrijednosti u sektoru usluga (v. CLAUDE.md, 5.3.) - relevantno za interpretaciju rezultata u 5.2., jer visoka transparentnost i nizak rizik restriktivnosti ovdje ne znače nužno visoku konkurentnost tržišta."
+}

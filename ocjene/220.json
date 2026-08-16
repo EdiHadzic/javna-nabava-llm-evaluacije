@@ -1,0 +1,49 @@
+{
+  "postupak_id": 220,
+  "broj_pojedinacnih_runova": 2,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij odabira (ekonomski najpovoljnija ponuda) u potpunosti je matematički eksplicitan za oba parametra: cijena nosi 90% s formulom CP=(Cmin/Cpon)*90, a jamstveni rok za otklanjanje nedostataka 10% s formulom JR=(Jo/Jn)*10, dodatno konkretiziranom tablicom bodova po godinama trajanja jamstva (2 godine = 0, 3 godine = 5, 4 godine = 10 bodova). Definirano je i jasno pravilo za razrješenje jednako rangiranih ponuda (raniji primitak ponude). Ne ostavlja se prostor za diskrecijsko tumačenje.",
+      "citat": "JR = (Jo/Jn) * 10 ... Trajanje jamstva u godinama: 2 godine 0, 3 godine 5, 4 godine 10",
+      "runovi": [
+        5,
+        5
+      ],
+      "slaganje": "puno"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 5,
+      "obrazlozenje": "Predmet nabave (izgradnja servisne prometnice, CPV 45233120) razrađen je kroz opsežan Glavni projekt (tehnička specifikacija) i detaljan Troškovnik čije su stavke definirane prema Općim tehničkim uvjetima za radove na cestama (OTU, Zagreb 2001.) s točnim količinama, jedinicama mjere i tehničkim zahtjevima (npr. zbijenost tla, debljine slojeva, vrste asfaltnih mješavina). Dokumentacija izričito dopušta ponudu 'jednakovrijednog' rješenja svugdje gdje se spominje marka, patent, tip ili podrijetlo, čime se opis drži konkretnim bez sužavanja na jednog ponuditelja ili proizvod.",
+      "citat": "Za sve stavke Troškovnika u kojima se možebitno traži ili navodi marka, patent, tip ili određeno podrijetlo, ponuditelj može ponuditi „jednakovrijedno“ traženom ili navedenom.",
+      "runovi": [
+        5,
+        5
+      ],
+      "slaganje": "puno"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dostupan je pun standardni set dokumenata besplatno i u cijelosti: Dokumentacija o nabavi (DON) s prijedlogom ugovora i obrascima, Opći podaci o postupku nabave, Kriteriji za kvalitativni odabir gospodarskog subjekta, Kriteriji za odabir ponude, Upute za ponuditelje te detaljan troškovnik (dionice OS A i OS B) s tehničkim opisima svake stavke. Sve informacije potrebne za samostalnu izradu ponude (jamstva, rokovi, način plaćanja, uvjeti sposobnosti, popis priloga ponude) navedene su iscrpno i konzistentno kroz sve dokumente; postupak je rezultirao s 8 zaprimljenih i formalno valjanih ponuda, uključujući velike izvođače, bez naznaka nejasnoća u dokumentaciji.",
+      "citat": "Ponuditelji kreiraju ponudu u EOJN koja sadrži sljedeće: ispunjeni Ponudbeni list ... ispunjeni Troškovnik ... ispunjeni ESPD obrazac ... izjava o duljini jamstvenog roka ... ovjeren Prijedlog ugovora",
+      "runovi": [
+        5,
+        5
+      ],
+      "slaganje": "puno"
+    },
+    "prosjecna_ocjena": 5.0
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak",
+    "runovi_prisutno": [
+      false,
+      false
+    ],
+    "slaganje": "puno"
+  },
+  "napomena": "Dvije priložene arhive (GPpolicnik.rar, Prilozi.zip) ekstrahirane su kao prazne (0 bajtova), potvrđeno izravnim uvidom u extracted/ (nepodržan format arhive u ekstrakcijskom pipelineu), no to nije utjecalo na ocjenu jer su svi ključni dokumenti (DON, Upute za ponuditelje, Kriteriji za kvalitativni odabir, Kriteriji za odabir ponude, Troškovnik, Opći podaci o postupku nabave) uspješno ekstrahirani u punom tekstu. DON je uspješno ekstrahiran unatoč .doc formatu (98.691 bajtova teksta). Referentni uvjeti (1 rad u visini procijenjene vrijednosti ili 2 čiji zbroj to doseže unutar 5 godina; 1 inženjer gradilišta s iskustvom na 2 slična gradilišta) proporcionalni su procijenjenoj vrijednosti nabave (2.600.822,12 EUR) i ne prelaze uobičajenu razinu za radove ove veličine.",
+  "napomena_resolvera": "Oba runa neovisno su se u potpunosti složila na sve tri dimenzije transparentnosti (5/5/5) i na restriktivnost (oba prisutno: false), uz sadržajno kompatibilna obrazloženja i citate koji se međusobno nadopunjuju (run 2 daje detaljniju tehničku razradu troškovnika i eksplicitno navodi razloge niske restriktivnosti). Nije bilo numeričkog ni sadržajnog razilaženja te stoga nije bilo potrebe za samostalnim, nezavisnim ponovnim čitanjem izvornog teksta radi razrješenja spora (nema rascjepa) — jedina provjera izvan runova bio je uvid u popis datoteka u extracted/ radi potvrde napomene o praznim arhivama, što se poklopilo s navodima oba runa. Razina pouzdanosti finalne ocjene: visoka."
+}

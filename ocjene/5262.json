@@ -1,0 +1,40 @@
+{
+  "postupak_id": 5262,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij za odabir ponude (ekonomski najpovoljnija ponuda) potpuno je jasno i matematički precizno definiran za sve tri grupe: cijena nosi 90% s eksplicitnom formulom, a rok isporuke 10% prema jasnoj bodovnoj skali s tri raspona (0-12h, 12,01-24h, 24,01-36h) i maksimalno dopuštenim rokom nakon kojeg se ponuda ne razmatra.",
+      "citat": "Isporuka u roku od 0 do 12 sati: 10 bodova; Isporuka u roku od 12,01 do 24 sata: 5 bodova; Isporuka u roku od 24,01 do 36 sati: 0 bodova"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 3,
+      "obrazlozenje": "Troškovnik navodi aktivnu tvar/naziv lijeka, oblik, volumen pakiranja i planiranu godišnju količinu za svaku stavku, što je dovoljno za usporedivu ponudu. Međutim, u Grupi 2 i Grupi 3 opisi stavki sadrže zaštićene trgovačke nazive pakiranja specifičnih proizvođača (\"viaflo\" - Baxter, \"ecoflac\" - B. Braun) bez naznake \"ili jednakovrijedno\", čime opis prelazi iz generičkog u proizvođački specifičan, što je i predmet primjedbe jednog ponuditelja za Grupu 1 (v. restriktivnost).",
+      "citat": "Fiziološka otopina viaflo 500 ml / Fiziološka otopina boca ecoflac 500 ml"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 4,
+      "obrazlozenje": "Dostupna je gotovo cjelovita dokumentacija za samostalnu izradu ponude: Opći podaci o postupku, Upute za ponuditelje, Kriteriji za kvalitativni odabir, Kriterij za odabir ponude s formulom, troškovnici po grupama i Prijedlog ugovora. Manjak: zasebna datoteka 'Tehničke specifikacije.docx' sadrži samo jednu rečenicu upute da su specifikacije dio troškovnika, umjesto da ih sadrži izravno (iako su same tehničke informacije stvarno prisutne u troškovniku, pa nedostatak nije suštinski nego formalne prirode).",
+      "citat": "Tehničke specifikacije za predmet nabave su sastavni dio troškovnika."
+    },
+    "prosjecna_ocjena": 4.0
+  },
+  "restriktivnost": {
+    "prisutno": true,
+    "indikatori": [
+      {
+        "opis": "Ponuditelj je putem modula Pitanja/Pojašnjenja zatražio izdvajanje 13 stavki iz Grupe 1 u posebnu grupu jer su, prema njegovim navodima, dostupne za distribuciju samo jednom veletrgovcu/drogeriji (indikacija sužavanja kruga mogućih ponuditelja na tržišnu ekskluzivnost pojedinog distributera), a naručitelj je zahtjev odbio i ponudio samo mogućnost zajedničke ponude kao rješenje.",
+        "citat": "Molimo Vas da iz GRUPE 1 stavke 1,3,7,10,12,13,14,18,19,20,30,35, I 37 izuzmete u posebnu grupu s obzirom da su stavke dostupne za distribuciju samo jednoj drogeriji. Odgovor: Ne prihvaća se."
+      },
+      {
+        "opis": "Opisi stavki u troškovnicima Grupe 2 i Grupe 3 koriste zaštićene trgovačke nazive pakiranja pojedinih proizvođača (Baxter Viaflo, B. Braun Ecoflac) bez dodatka 'ili jednakovrijedno', čime se opis predmeta nabave veže uz konkretnog proizvođača ambalažnog sustava umjesto generičkog opisa.",
+        "citat": "boca ecoflac 500 ml / viaflo 500 ml"
+      },
+      {
+        "opis": "Grupu 3, čiji troškovnik dosljedno koristi naziv pakiranja 'ecoflac' (zaštićeni naziv B. Braun), dobila je upravo tvrtka B. Braun Adria d.o.o. - okolnost koja je u skladu s pretpostavkom da je opis stavki mogao suziti krug realno konkurentnih ponuditelja, iako sama po sebi nije dokaz namjere.",
+        "citat": "6.3.2. Ugovaratelj - B. Braun Adria d.o.o."
+      }
+    ],
+    "rizik": "visok"
+  },
+  "napomena": "Pročitane su sve relevantne .txt datoteke u extracted/ direktoriju (17 dokumenata sa sadržajem); tri priložene .zip arhive ('Prilozi.zip', 'Prilozi _1_.zip', 'Prilozi _2_.zip') ekstrahirane su kao prazne (0 bajtova) - poznata limitacija ekstrakcijskog pipelinea, nisu mogle biti uzete u obzir. Postupak je podijeljen u 3 grupe (Lijekovi 1. dio), sve tri dodijeljene, s po 2-3 zaprimljene ponude; jedan ponuditelj (AnalyticPharma d.o.o.) odbijen je u sve tri grupe jer troškovnici nisu sadržavali vidljivu cijenu."
+}

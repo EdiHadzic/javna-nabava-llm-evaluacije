@@ -1,0 +1,36 @@
+{
+  "postupak_id": 2037,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 4,
+      "obrazlozenje": "Kriterij za odabir ponude je jednoznačno definiran i mjerljiv (cijena, značaj 100%), ali s obzirom da je postupak pregovarački bez prethodne objave s jednim unaprijed određenim ponuditeljem, kriterij je formalne, a ne stvarne selekcijske naravi.",
+      "citat": "Cijena ... 100,00"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 1,
+      "obrazlozenje": "Opis predmeta nabave svodi se na ponavljanje naziva postupka s tipfelerom, bez ikakvih podataka o opsegu usluge, konkretnim aktivnostima održavanja, razini tehničke podrške, opsegu sati ili SLA parametrima.",
+      "citat": "Opis nabave: Održavanjea GIS-a i tehnička podrška"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 1,
+      "obrazlozenje": "U extracted/ folderu dostupna je isključivo Obavijest o dodjeli ugovora; nema tehničke specifikacije, troškovnika, kvalifikacijskih uvjeta niti obavijesti o nadmetanju na temelju kojih bi se mogla samostalno izraditi usporediva ponuda.",
+      "citat": "1. Naručitelj ... 6. Dodjela ugovora"
+    },
+    "prosjecna_ocjena": 2.0
+  },
+  "restriktivnost": {
+    "prisutno": true,
+    "indikatori": [
+      {
+        "indikator": "Postupak dodijeljen izravno unaprijed određenom ponuditelju (jedina zaprimljena ponuda) pozivom na zaštitu isključivih prava intelektualnog vlasništva, čime je konkurencija strukturno u potpunosti isključena.",
+        "citat": "Predmetnu uslugu može pružiti samo autor programa, jer jedini poznaje model i relacije baze podataka, dok bi drugi gospodarski subjekti narušili ispravno funkcioniranje i rad geografskog informacijskog sustava."
+      },
+      {
+        "indikator": "Pravna osnova izričito je pregovarački postupak bez prethodne objave temeljem zaštite isključivih prava (čl. 131. st. 1. t. 2. podt. c) ZJN2016), a zaprimljena je samo jedna ponuda.",
+        "citat": "Vrsta postupka: Pregovarački postupak bez prethodne objave poziva na nadmetanje"
+      }
+    ],
+    "rizik": "visok"
+  },
+  "napomena": "Extracted/ folder za ovaj postupak sadrži samo jednu datoteku (Obavijest o dodjeli ugovora - sektorski), bez dokumentacije o nabavi, tehničke specifikacije ili kriterija za kvalitativni odabir. Ocjena dimenzija transparentnosti stoga se temelji isključivo na sadržaju te obavijesti; niska ocjena potpunosti dokumentacije dijelom je posljedica same prirode postupka (pregovarački bez prethodne objave, jedan ponuditelj), a ne nužno propusta u prikupljanju."
+}

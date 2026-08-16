@@ -1,0 +1,27 @@
+{
+  "postupak_id": 30445,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriteriji za odabir ponude (ENP) potpuno su formalizirani matematičkom formulom: cijena nosi 90% (C=NC/CO x 90) i rok isporuke 10% s eksplicitnom tablicom bodova po danu isporuke. Nema prostora za diskrecijsku ili nejasnu ocjenu ponuda.",
+      "citat": "ROK ISPORUKE U DANIMA Broj bodova 1 dan 10 2 dana 5 3 dana 1"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Predmet nabave (tri vrste naftnih derivata) opisan je konkretnim okvirnim količinama po stavci u troškovniku i referencom na obvezujuće norme kvalitete (Uredba o kvaliteti tekućih naftnih goriva, HRN EN ISO/IEC 17025/17020), što omogućuje usporedivu ponudu bez sužavanja kruga ponuditelja. Tehnička specifikacija je vrlo kratka jer je riječ o standardiziranoj robi, pa nije potreban veći stupanj detalja.",
+      "citat": "LOŽ ULJE EKSTRA LAKO LIT 50000 ... EURODIZEL BS LIT 4300 ... EUROSUPER 95 LIT 450"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dostupan je pun set dokumenata potreban za samostalnu izradu ponude: Opći podaci, Tehnička specifikacija, Troškovnik, Kriteriji za kvalitativni odabir (s ESPD uputama), Kriterij za odabir ponude, Upute za ponuditelje i obrazac Izjave o roku isporuke — svi međusobno konzistentni.",
+      "citat": "Detaljan troškovnik se nalazi u zasebnom prilogu – Troškovnik."
+    },
+    "prosjecna_ocjena": 4.67
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak",
+    "napomena": "Tehnički uvjeti kvalitete proizlaze izravno iz nacionalne Uredbe o kvaliteti tekućih naftnih goriva, ne iz specifikacije naručitelja. Uvjet tehničke sposobnosti (1 referenca u visini procijenjene vrijednosti) razmjeran je i uobičajen. Nema referenci na marku/proizvođača; zaprimljene 2 valjane ponude."
+  }
+}

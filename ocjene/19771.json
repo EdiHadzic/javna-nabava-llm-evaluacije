@@ -1,0 +1,31 @@
+{
+  "postupak_id": 19771,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij za odabir ponude (ekonomski najpovoljnija ponuda) precizno je operacionaliziran: cijena nosi 80 bodova s eksplicitnom formulom (najniža cijena = maksimalni bodovi, ostale razmjerno), a kvaliteta (rok isporuke) nosi 20 bodova prema jasnoj bodovnoj tablici s tri praga. Kvalitativni uvjeti sposobnosti (osnove za isključenje, upis u registar) navedeni su s pravnom osnovom, konkretnim pitanjem gospodarskom subjektu i točnim načinom dokazivanja za svaki kriterij.",
+      "citat": "1 10 dana 20,00 - 2 11 do 25 dana 10,00 - 3 26 do 40 dana 0,00"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 2,
+      "obrazlozenje": "Tehnička specifikacija iznimno je detaljna (70 stavki s milimetarskim tolerancijama za dimenzije, kutove zakretanja, kapacitete spremnika i sl.), no sadrži zahtjev koji nerazmjerno sužava krug ponuditelja: isključivo benzinski motor, bez mogućnosti dizelske jednakovrijedne alternative. Ponuditelj je izričito zatražio izmjenu pozivajući se na čl. 206. st. 2. ZJN2016 (jednak pristup, zabrana neopravdanih prepreka tržišnom natjecanju), a naručitelj je zahtjev odbio bez ikakvog obrazloženja. Kombinacija vrlo uske specifikacije i odbijenog razumnog prijedloga za proširenje kruga ponuditelja upućuje na opis koji je predetaljan/prekomjerno restriktivan, a ne samo precizan.",
+      "citat": "Poštovani, tražimo isključivo benzinski motor. Lijep pozdrav"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 4,
+      "obrazlozenje": "Dostupni su svi ključni dokumenti za samostalnu izradu ponude: opći podaci o postupku, upute za ponuditelje, kriteriji za kvalitativni odabir gospodarskog subjekta (s ESPD uputama), kriteriji za odabir ponude, tehnička specifikacija i troškovnik (predložak za popunjavanje). Napomena: prilog 'Prilozi.zip' na disku je izvorno prazan (0 bajtova) - poznati artefakt neuspjelog preuzimanja s portala, ne stvaran nedostatak sadržaja, budući da su tehnička specifikacija i troškovnik dostupni kao zasebne datoteke.",
+      "citat": "Elektronička ponuda mora sadržavati najmanje: Uvez ponude Popunjeni eESPD obrazac (ili više njih, ako je primjenjivo) Popunjen troškovnik"
+    },
+    "prosjecna_ocjena": 3.67
+  },
+  "restriktivnost": {
+    "prisutno": true,
+    "indikatori": [
+      "Tehnička specifikacija zahtijeva isključivo benzinski motor (t. 1.2.), bez mogućnosti dizelske jednakovrijedne alternative iste snage, unatoč tome što je ponuditelj u fazi pitanja/pojašnjenja predložio izmjenu uz obrazloženje o jednakoj funkcionalnosti i nižoj potrošnji goriva, pozivajući se na načela tržišnog natjecanja, jednakog tretmana i zabrane diskriminacije iz ZJN2016 - naručitelj je zahtjev odbio bez obrazloženja ('tražimo isključivo benzinski motor').",
+      "Tehnička specifikacija sadrži oko 70 stavki s vrlo uskim, milimetarski/litarski određenim rasponima (npr. unutarnji zakretni radius maksimalno 950 mm, međuosovinski razmak 1.300-1.450 mm, spremnik otpada 650-750 litara, posipač 200-250 litara), što je karakteristično za specifikaciju usklađenu s jednim konkretnim komercijalnim modelom multifunkcionalnog radnog stroja, a ne s funkcionalnim/generičkim opisom predmeta nabave.",
+      "Ishod postupka potvrđuje rizik: zaprimljena je samo jedna ponuda (TECHNO WIN MACHINE d.o.o.) unatoč procijenjenoj vrijednosti od 70.000,00 EUR koja bi trebala privući više ponuditelja komunalnih vozila na otvorenom tržištu."
+    ],
+    "rizik": "visok"
+  },
+  "napomena": "Pročitane su sve relevantne .txt datoteke iz extracted/ (opći podaci, obavijest o nadmetanju, izmjena obavijesti, kriteriji kvalitativnog odabira, kriteriji za odabir ponude, upute za ponuditelje, tehnička specifikacija, troškovnik, odgovori na pitanja, zapisnik o pregledu i ocjeni, odluka o odabiru, obavijest o dodjeli ugovora). Prilog 'Prilozi.zip' prazan je već u izvornoj arhivi na disku (0 bajtova) - ne utječe na ocjenu jer su tehnička specifikacija i troškovnik dostupni kao zasebni, potpuni dokumenti. Postupak je posebno ilustrativan slučaj za restriktivnost jer sadrži izravan, dokumentiran zahtjev ponuditelja za proširenjem tehničke specifikacije (s pozivom na zakonske odredbe o tržišnom natjecanju) koji je naručitelj odbio bez obrazloženja, nakon čega je zaprimljena samo jedna ponuda."
+}

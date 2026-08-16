@@ -1,0 +1,40 @@
+{
+  "postupak_id": 31977,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij ENP potpuno je operacionaliziran: cijena 90 bodova (formula relativnog odstupanja od najniže cijene), jamstveni rok 10 bodova s eksplicitnom tablicom bodovanja po intervalima (24-84 mjeseca) i jasno definiranim min/max granicama.",
+      "citat": "Naručitelj je ograničio najviši dozvoljeni iznos za kriterij 84,00 Naručitelj je ograničio najniži dozvoljeni iznos za kriterij 24,00"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Tehnička specifikacija za ključne stavke iznimno je detaljna, s mjerljivim parametrima, normama i tablicama tehničkih podataka. Ipak, velik dio od 93 stavki troškovnika opisan je uz naziv konkretnog proizvođača/tipa (npr. CROALBA, GAMALUX, VAILLANT, GEWISS, ELKALEX), što nešto smanjuje opću preciznost, iako je uz svaku takvu stavku dodano 'ili jednakovrijedan proizvod'.",
+      "citat": "Sila isklapanja Foff: maksimalno 15 N Sila uklapanja Fon: makismalno 20 N Nazivni podnosivi udarni napon Uimp: 6 kV ili bolje"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dokumentacija je cjelovita za samostalnu izradu ponude: opći podaci, kriteriji kvalitativnog odabira sa svim ESPD podkriterijima, kriteriji za odabir ponude, tehnička specifikacija s tablicom tehničkih podataka, troškovnik, upute za ponuditelje, prijedlog okvirnog sporazuma i izjava o integritetu.",
+      "citat": "Elektronička ponuda mora sadržavati najmanje: Uvez ponude Popunjeni eESPD obrazac ... Popunjen troškovnik"
+    },
+    "prosjecna_ocjena": 4.67
+  },
+  "restriktivnost": {
+    "prisutno": true,
+    "indikatori": [
+      {
+        "indikator": "Više stavki troškovnika navodi konkretnog proizvođača/tip proizvoda (uz dodatak 'ili jednakovrijedan proizvod'), dopušteno prema čl. 209. st. 2. ZJN 2016, uz izričito prihvaćanje jednakovrijednosti.",
+        "rizik": "nizak"
+      },
+      {
+        "indikator": "Za više stavki traži se katalog s markiranim proizvodom i potvrda autentičnosti - dodatni administrativni teret, ali proporcionalan tehničkoj prirodi predmeta.",
+        "rizik": "nizak"
+      },
+      {
+        "indikator": "Referentni prag (min. 124.000 EUR kumulativno) iznosi 50% procijenjene vrijednosti - unutar uobičajenog, ne očito nesrazmjernog raspona.",
+        "rizik": "nizak"
+      }
+    ],
+    "rizik": "nizak",
+    "napomena": "Naručitelj je prihvatio predloženu izmjenu tehničkog parametra na zahtjev zainteresiranog GS-a tijekom postupka pojašnjenja, što ukazuje na otvorenost prema alternativnim proizvođačima. Zaprimljena je samo 1 ponuda, empirijski signal niske konkurentnosti, ne nužno uzrokovan restriktivnošću specifikacije."
+  }
+}

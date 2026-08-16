@@ -1,0 +1,27 @@
+{
+  "postupak_id": 4810,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij odabira (ekonomski najpovoljnija ponuda) potpuno je operacionaliziran matematičkim formulama za oba potkriterija (cijena 90 bodova, udio obnovljive energije 10 bodova), s jasno definiranim varijablama, načinom dokazivanja i pravilom za jednako rangirane ponude. Nema prostora za subjektivnu ili nejasnu primjenu.",
+      "citat": "CP = (Cmin/Cp) x 90"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Predmet nabave (opskrba električnom energijom) generičan je i standardiziran, a tehnički uvjeti (tarifni modeli, obračunsko razdoblje, obračunski elementi) jasno su opisani pozivom na važeće propise. Kvantitativna razrada je vrlo konkretna kroz troškovnik (37 mjernih mjesta s okvirnim količinama po tarifnom modelu), no sam dokument 'Tehničke specifikacije' je kratak i uglavnom upućuje na vanjske pravilnike umjesto da ih sažima.",
+      "citat": "Obračunsko razdoblje za opskrbu električnom energijom iznosi 30+/-3 dana."
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dostupan je pun standardni set dokumentacije potreban za samostalnu izradu ponude: opći podaci, kriteriji kvalitativnog odabira, kriterij odabira ponude s formulama, tehničke specifikacije, troškovnik s popisom mjernih mjesta, prijedlog okvirnog sporazuma, upute za ponuditelje te odgovor naručitelja na postavljeno pitanje. Nema naznaka nedostajućih priloga ili nekonzistentnosti.",
+      "citat": "Elektronička ponuda mora sadržavati najmanje: Uvez ponude Popunjeni eESPD obrazac (ili više njih, ako je primjenjivo) Popunjen troškovnik"
+    },
+    "prosjecna_ocjena": 4.67
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak"
+  },
+  "napomena": "Svi ključni dokumenti (Opći podaci, Kriteriji kvalitativnog odabira, Kriterij za odabir ponude, Tehničke specifikacije, Troškovnik, Upute za ponuditelje, Prijedlog okvirnog sporazuma, Odgovori) uspješno su ekstrahirani i čitljivi bez vidljivih OCR/formatiranje problema. Referentni uvjet (2 isporuke u zbroju ≥ procijenjena vrijednost) i jamstvo za ozbiljnost ponude (35.000 EUR na 1.171.500 EUR, ~3%) proporcionalni su predmetu i vrijednosti nabave; zahtjev za HERA dozvolom opskrbljivača propisan je zakonom i ne sužava tržišno natjecanje na jednog ponuditelja. Jedini spor (zahtjev ponuditelja za skraćenjem roka valjanosti ponude sa 120 dana) odbijen je bez detaljnog obrazloženja, ali se ne odnosi na prilagođenost specifikacije određenom ponuditelju."
+}

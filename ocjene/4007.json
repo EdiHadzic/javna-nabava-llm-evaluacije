@@ -1,0 +1,27 @@
+{
+  "postupak_id": 4007,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 4,
+      "obrazlozenje": "Kriterij kvalitete ('Specifično iskustvo stručnjaka', 40%) operacionaliziran je preko konkretnih, provjerljivih elemenata (broj izrađenih glavnih projekata, faza projektne dokumentacije, vrsta zahvata izgradnja/rekonstrukcija/dogradnja, namjena objekta javna/društvena) - vidljivo iz preciznosti zahtjeva za pojašnjenjem upućenih trima ponuditeljima gdje se provjerava upravo ispunjenje tih mjerljivih elemenata. Sama metodologija bodovanja (dokument s detaljnim pragovima) nije među izvučenim datotekama, pa je ocjena dijelom posredna.",
+      "citat": "obzirom da je dokumentacijom o nabavi propisano kako će se bodovati broj izrađenih glavnih projekata"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 3,
+      "obrazlozenje": "Opis predmeta nabave u Obavijesti o nadmetanju i izmjenama je vrlo generički (jedna rečenica, ponovljena bez razrade). Naknadna izmjena dodaje tablicu omjera neto/bruto površina 'sukladno pitanjima zainteresiranih gospodarskih subjekata', što upućuje na to da je izvorni opis ostavljao prostora za nejasnoće koje su ponuditelji sami morali razriješiti upitima prije roka. Sama tehnička specifikacija/troškovnik nije prisutna među izvučenim datotekama za izravnu provjeru.",
+      "citat": "Naručitelj u Opis predmeta nabave-Tehničke specifikacije dodaje tablicu u kojoj je iskazana procjena odnosa netto i bruto površina, sukladno pitanjima"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 3,
+      "obrazlozenje": "Zapisnik o pregledu i ocjeni ponuda navodi da su sve zaprimljene ponude (7 od 7) u potpunosti udovoljile zahtjevima opisa predmeta nabave i tehničkih specifikacija/troškovnika, bez odbijenih ponuda po toj osnovi - što posredno upućuje na dostatnu dokumentaciju. Međutim, sama Dokumentacija o nabavi (tehnička specifikacija, troškovnik, obrasci) nije prisutna među izvučenim .txt datotekama u extracted/ folderu - dostupni su samo obavijesti, zapisnici, odluka i korespondencija oko pojašnjenja - pa se potpunost ne može izravno provjeriti iz sadržaja same dokumentacije.",
+      "citat": "ponuditelji ponudili sve sukladno traženjima Naručitelja u Dokumentaciji o nabavi i u Troškovniku te... ponude u potpunosti ispunjavaju zahtjeve"
+    },
+    "prosjecna_ocjena": 3.33
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak"
+  },
+  "napomena": "Ključna limitacija: extracted/ folder za ovaj postupak ne sadrži samu Dokumentaciju o nabavi (tehničku specifikaciju, troškovnik, obrasce) - samo Obavijest o nadmetanju, 4 izmjene, Zapisnike o pregledu i ocjeni (2 verzije + posebna 'Projektno tehnička'), Odluku o odabiru, i korespondenciju o pojašnjenju životopisa triju ponuditelja (od 7 ukupno). Ocjene razina_detalja_opisa i potpunost_dokumentacije stoga su dijelom posredne. Kriteriji odabira: Cijena 60% / Specifično iskustvo stručnjaka 40%; 7 valjanih ponuda, pobjednik ORGANIZACIJA ZA PLANIRANJE I ARHITEKTURU d.o.o. sa 100/100 bodova. Nema indikatora prilagođenosti specifičnom ponuditelju - kriteriji (broj glavnih projekata, tip zahvata, namjena objekta) proporcionalni su predmetu (projektiranje dječjeg vrtića) i vrijednosti nabave (74.324,78 EUR). Napomena o kvaliteti podataka: datoteka '(root)__Obavijest za dobrovoljnu ex ante transparentnost.pdf.txt' u ovom folderu sadrži potpuno nepovezan postupak (Grad Zadar, 'Održavanje morskih orgulja', MN 110-6/24, pregovarački postupak bez prethodne objave) - očito pogrešno razvrstana datoteka tijekom prikupljanja/ekstrakcije, nije korištena u ovoj ocjeni i vrijedi provjeriti razmjer takvog miješanja folder-sadržaja u ostatku uzorka."
+}

@@ -1,0 +1,44 @@
+{
+  "postupak_id": 31054,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij ENP potpuno je operacionaliziran matematičkim formulama (P = Pl/Pt * 90 za cijenu, tablica bodovanja za rok odaziva s tri praga: 4h=10, 6h=5, 8h=1 bod), s jasnim omjerom 90:10 i objavljenim redoslijedom rangiranja u slučaju izjednačenja bodova.",
+      "citat": "B=P+O ... Rok odziva 4 sata od prijave kvara 10 ... Rok odziva 8 sata od prijave kvara 1"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 3,
+      "obrazlozenje": "Tehnički opis izrazito je detaljan (17 stranica specifikacija po tipu preklopnika/opreme), ali dva zahtjeva izravno vežu novu nabavu uz postojeću robnu marku bez alternative ('jednakovrijedno' klauzula izostaje kod ta dva zahtjeva), što snižava ocjenu jer opis prelazi iz funkcionalnog u brand-specifičan.",
+      "citat": "U potpunosti kompatibilno kao i postojeći MSP portal (Meraki dashboard)."
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dostupna je cjelovita dokumentacija: opći podaci, kriteriji kvalitativnog odabira s uputama za ESPD, detaljne tehničke specifikacije za svih 16 stavki opreme i 2 usluge, kriterij odabira, izjava o roku odaziva, troškovnik i upute za ponuditelje.",
+      "citat": "Elektronička ponuda mora sadržavati najmanje: Uvez ponude, Popunjeni eESPD obrazac, Popunjen troškovnik, Vrijednosti kriterija za odabir ponude"
+    },
+    "prosjecna_ocjena": 4.33
+  },
+  "restriktivnost": {
+    "prisutno": true,
+    "indikatori": [
+      {
+        "indikator": "Bežična pristupna točka mora biti u potpunosti kompatibilna s postojećim upravljačkim sustavom u oblaku 'Meraki dashboard' (Cisco Meraki), bez klauzule 'ili jednakovrijedno' — praktički isključuje sve dobavljače opreme koji nisu Cisco Meraki.",
+        "citat": "U potpunosti kompatibilno kao i postojeći MSP portal (Meraki dashboard)."
+      },
+      {
+        "indikator": "25G mrežna kartica mora biti u potpunosti kompatibilna s postojećim poslužiteljem konkretne marke i modela (Cisco UCS C220 M7), bez alternative.",
+        "citat": "U potpunosti kompatibilno sa postojećim poslužiteljem Cisco UCS C220 M7"
+      },
+      {
+        "indikator": "Zahtjev za tehničko-stručnu sposobnost traži veći broj zaposlenika s konkretnim, imenovanim proizvođačkim certifikatima (Cisco CCIE/CCNP), kumulativno postavlja vrlo visok prag koji mali broj ponuditelja može zadovoljiti.",
+        "citat": "Gospodarski subjekt mora raspolagati s najmanje 4 (četiri) osobe koje posjeduju navedeni certifikat."
+      },
+      {
+        "indikator": "Zaprimljena je samo jedna ponuda (KING ICT d.o.o.), koja je i odabrana s maksimalnim brojem bodova bez konkurencije.",
+        "citat": "1 KING ICT d.o.o. ... Zamjena mrežne infrastrukture 03.01.2025 09:07:27"
+      }
+    ],
+    "rizik": "srednji",
+    "napomena": "Restriktivnost je djelomično objektivno opravdana potrebom kompatibilnosti s postojećom (vlasničkom) infrastrukturom naručitelja (Cisco/Meraki), legitiman razlog kod zamjene/nadogradnje postojećeg sustava, no izostanak klauzule 'ili jednakovrijedno' i visok kumulativni prag certificiranog osoblja sužavaju krug ponuditelja, konzistentno s ishodom od samo jedne zaprimljene ponude."
+  }
+}

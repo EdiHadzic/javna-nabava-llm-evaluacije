@@ -1,0 +1,36 @@
+{
+  "postupak_id": 22730,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 4,
+      "obrazlozenje": "Kriterij za odabir ponude jasno je i jednoznačno naveden kao isključivo cijena s ponderom 100%, što je mjerljivo i nedvosmisleno, no radi se o minimalnom, jednoretcnom navodu bez daljnjeg obrazloženja metode ocjenjivanja (razumljivo s obzirom na to da je riječ o pregovaračkom postupku s jednim ponuditeljem).",
+      "citat": "Cijena 100,00"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 2,
+      "obrazlozenje": "Opis predmeta nabave svodi se na ponovljeni naslov postupka bez ikakve tehničke specifikacije, opsega radova ili tehničkih zahtjeva koji bi omogućili usporedivu ponudu; jedina dostupna 'dokumentacija' je obavijest o dodjeli ugovora, ne stvarna specifikacija predmeta nabave.",
+      "citat": "Opis nabave: Remontni radovi i montaža crpke-turbine AG1 u RHE Velebit"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 1,
+      "obrazlozenje": "Nema dostupne dokumentacije o nabavi za samostalnu izradu ponude (tehnički uvjeti, troškovnik, obrasci) - mape 'Dokumentacija o nabavi' i 'Odluka o odabiru' na disku su prazne. Dostupna je isključivo naknadno objavljena obavijest o dodjeli ugovora, što je posljedica same prirode postupka (pregovarački bez prethodne objave), ali onemogućuje ocjenu potpunosti stvarne natječajne dokumentacije.",
+      "citat": "Naručitelj sklapa s odabranim ponuditeljem ugovor o javnoj nabavi."
+    },
+    "prosjecna_ocjena": 2.33
+  },
+  "restriktivnost": {
+    "prisutno": true,
+    "indikatori": [
+      {
+        "opis": "Postupak je pregovarački bez prethodne objave poziva na nadmetanje, obrazložen izravnom vezom s prethodnim ugovorom istog gospodarskog subjekta (kontinuitet posla), a ne isključivo tehničkom nemogućnošću izvođenja od strane drugih subjekata - odabir je eksplicitno vezan uz jednog imenovanog ponuditelja.",
+        "citat": "isti gospodarski subjekt, ZRE Katowice, već je izvršio te radove. S tehničkog aspekta, opravdano je povjeriti i montažu turbine istom subjektu"
+      },
+      {
+        "opis": "Zaprimljena je samo jedna ponuda, dosljedno s time da je postupak vođen bez javnog nadmetanja i upućen samo jednom (već odabranom) gospodarskom subjektu.",
+        "citat": "Broj zaprimljenih ponuda: 1"
+      }
+    ],
+    "rizik": "srednji"
+  },
+  "napomena": "Za postupak 22730 na disku postoje samo dvije identične kopije obavijesti o dodjeli ugovora (iz mapa Objave i Ugovori); mape 'Dokumentacija o nabavi' i 'Odluka o odabiru' su prazne jer se radi o pregovaračkom postupku bez prethodne objave poziva na nadmetanje (iznimna žurnost zbog kvara opreme u RHE Velebit) - stoga ne postoji stvarna tehnička specifikacija ni dokumentacija o nabavi za ocjenu, samo tekst obrazloženja odabira postupka i dodjele ugovora. Ocjene transparentnosti stoga prvenstveno odražavaju odsutnost objavljene natječajne dokumentacije svojstvenu ovom tipu postupka, a ne nužno namjernu netransparentnost naručitelja."
+}

@@ -1,0 +1,32 @@
+{
+  "postupak_id": 23776,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 4,
+      "obrazlozenje": "Kriteriji za odabir ponude (ekonomski najpovoljnija ponuda, 50% cijena/ekonomsko-financijski elementi i 50% tehnički elementi) u potpunosti su operacionalizirani kroz precizne bodovne tablice i matematičke formule preuzete izravno iz Uredbe o uvjetima i vrednovanju kriterija za davanje koncesije i sklapanje ugovora o javnoj usluzi za obavljanje javnog prijevoza u linijskom obalnom pomorskom prometu (NN 31/14), uz zaseban prilog 'Kriterij za odabir ponuda (ručno rangiranje)' s bodovima po svakom tehničkom podelementu (starost broda, brzina, kapacitet, iskustvo brodara itd.). Ocjena nije 5 jer je dokumentacija u početku bila nejasna/kontradiktorna na više mjesta koje su gospodarski subjekti eksplicitno osporili u fazi pitanja i pojašnjenja (npr. prividna kontradikcija između 100+100=200 bodova iz Uredbe i 50%+50%=100 bodova iz Uputa za ponuditelje, te kontradikcija oko trajanja ugovora 6 vs. 10 godina) - naručitelj je te nejasnoće otklonio tek naknadnim pojašnjenjima i izmjenama dokumentacije, što ukazuje na to da izvorna dokumentacija nije bila potpuno jasna i nedvojbena bez dodatnih intervencija.",
+      "citat": "Kriteriji za odabir su 50% cijena odnosno ekonomsko – financijski elementi sukladno Uredbi (članci 6.,7., 8. i 9.) i 50% tehnički elementi sukladno Uredbi"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 5,
+      "obrazlozenje": "Opis predmeta nabave iznimno je detaljan i tehnički precizan: navedene su sve luke pristajanja s duljinom i dubinom operativne obale, minimalna brzina održavanja linije, minimalni kapacitet broda po sezonama, očekivani godišnji broj putnika i prijeđenih nautičkih milja, maksimalni rok uvođenja zamjenskog broda, potpuni primjeri reda plovidbe za izvansezonu i sezonu za svaku od 10 godina trajanja ugovora, te daljinar s udaljenostima i vremenima plovidbe između svake luke. Razina detalja omogućuje izradu potpuno usporedivih ponuda bez nepotrebnog suženja kruga potencijalnih ponuditelja (svaki brodar koji ispunjava objektivne tehničke/sigurnosne standarde može ponuditi bilo koji odgovarajući brod).",
+      "citat": "MINIMALNI KAPACITET BRODA: 250 putnika u izvansezoni 250 putnika u niskoj sezoni 250 putnika u visokoj sezoni"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 4,
+      "obrazlozenje": "Dokumentacija je opsežna i sadrži sve nužne sastavnice za samostalnu izradu ponude: Dio I. (tehnički uvjeti, redovi plovidbe, cjenik), Dio II. (opći uvjeti, kriteriji isključenja i sposobnosti), Upute za ponuditelje, poseban dokument s formulama bodovanja, troškovnik (Obrasci 1-4 po godinama), ESPD upute, izjave i Program državne potpore za SGEI naknadu. Ocjena nije 5 jer je iz opsežnog niza objavljenih Pitanja i odgovora vidljivo da je izvorna verzija sadržavala stvarne unutarnje nedosljednosti (npr. proturječne odredbe o trajanju ugovora u točkama 3.1.5./3.1.6., nejasnoća oko obveze prilagodbe reda plovidbe brzini zamjenskog broda) koje su zahtijevale višekratna pojašnjenja i formalnu izmjenu dokumentacije tijekom postupka, a ne samo jednokratno objavljeno pojašnjenje.",
+      "citat": "Naručitelj ažurira točke 3.1.5. i 3.1.6. predmetnog dokumenta."
+    },
+    "prosjecna_ocjena": 4.33
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [
+      {
+        "opis": "Naručitelj je izričito odbio prijedlog gospodarskog subjekta da se dopusti podnošenje varijanti ponude (više brodova po liniji), zadržavajući pravilo da se ponuda za liniju može temeljiti samo na jednom osnovnom brodu (osim ako ponuditelj sam odluči ponuditi više brodova, što je dopušteno). Ovo ograničava broj ponuda koje isti brodar može konkurentno podnijeti na više paralelnih linija, no radi se o dosljednoj primjeni nacionalnog pravnog okvira (čl. 281. ZJN2016) i standardnoj praksi ovog naručitelja na svim linijama, a ne o zahtjevu skrojenom prema tehničkim karakteristikama određenog broda ili ponuditelja - stoga se ne ocjenjuje kao prisutna restriktivnost prema jednom ponuditelju, nego kao opća, unaprijed transparentno navedena i pravno utemeljena strukturna značajka natječaja.",
+        "citat": "Kako varijante ponuda nisu i neće biti omogućene, to nije moguće podnijeti više različitih ponuda (sa više različitih brodova) na istoj liniji."
+      }
+    ],
+    "rizik": "nizak"
+  },
+  "napomena": "Postupak se odnosi na dodjelu ugovora o obavljanju javne usluge (PSO) linijskog pomorskog prijevoza na državnoj brzobrodskoj liniji, s naknadom u obliku državne potpore za SGEI (Program državne potpore priložen dokumentaciji). Kriteriji odabira u cijelosti su determinirani nacionalnom Uredbom (NN 31/14), što objektivno smanjuje diskrecijski prostor naručitelja za prilagodbu specifikacije određenom ponuditelju, ali istovremeno objašnjava zašto je pristigla samo jedna ponuda (Jadrolinija) - tržište za ovu vrstu usluge strukturno je usko (mali broj brodara s odgovarajućim brzim brodovima), što je ograničenje tržišta, a ne dokumentacije. Pročitani su svi dostupni .txt dokumenti u extracted/ direktoriju (Opći podaci, Kriteriji kvalitativnog odabira, Kriterij za odabir ponuda/ručno rangiranje, Upute za ponuditelje, Dokumentacija za nadmetanje Dio I i Dio II, Troškovnik, Odgovori na pitanja, Obavijesti, Odluka o odabiru i Zapisnik o pregledu i ocjeni ponuda); jedna priložena datoteka (Prilozi.zip) ekstrahirana je kao prazna (0 bajtova), no radi se o dodatnim prilozima uz odluku o odabiru koji nisu bili presudni za ocjenu transparentnosti same natječajne dokumentacije."
+}

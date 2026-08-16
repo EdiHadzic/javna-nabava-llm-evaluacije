@@ -1,0 +1,32 @@
+{
+  "postupak_id": 24180,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij odabira je ekonomski najpovoljnija ponuda s dva parametra (cijena 70 bodova, trajanje jamstva za otklanjanje nedostataka 30 bodova), oba potpuno mjerljiva i formulom eksplicitno definirana u zasebnom dokumentu 'Kriteriji za odabir ponude'. Za necjenovni kriterij naznačene su i gornja/donja granična vrijednost (24-60 mjeseci), čime je izračun bodova posve predvidiv unaprijed za svakog ponuditelja.",
+      "citat": "Naručitelj je ograničio najviši dozvoljeni iznos za kriterij 60,00 Naručitelj je ograničio najniži dozvoljeni iznos za kriterij 24,00"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Opći opis predmeta u obavijesti o nadmetanju je sažet (jedna rečenica), no stvarna razina detalja postiže se kroz opsežan stavkovni troškovnik (6 skupina radova, svaka stavka s materijalom, dimenzijama, klasama betona i načinom obračuna) i puni glavni arhitektonski projekt. Opis je dovoljno konkretan za usporedivu ponudu; jedina manja zamjerka je oslanjanje na markicu gotovog proizvoda za antistres podlogu, ublaženo eksplicitnim kriterijima jednakovrijednosti.",
+      "citat": "Tabla od melamina ili sigurnosnog kaljenog stakla minimalne debljine 10mm i dimenzija 180x105cm ojačana sa čeličnim okvirom, odmak 165cm."
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 4,
+      "obrazlozenje": "Dostupna je gotovo cjelovita dokumentacija: opći podaci, upute za ponuditelje, kriteriji kvalitativnog odabira i odabira ponude, detaljan troškovnik, puni glavni arhitektonski projekt, izjave o sukladnosti s prostornim planom/ZOG-om te izvadak iz zemljišne knjige. Naručitelj je uredno odgovorio na postavljeno pitanje i sukladno tome izmijenio troškovnik. Minus jedan bod jer je zasebna arhiva 'Projektna dokumentacija.7z' ekstrahirana kao prazna (0 bajtova), pa nije moguće potvrditi sadržava li dodatnu, samostalno nužnu dokumentaciju.",
+      "citat": "Detaljan troškovnik se nalazi u zasebnom prilogu – Troškovnik."
+    },
+    "prosjecna_ocjena": 4.33
+  },
+  "restriktivnost": {
+    "prisutno": true,
+    "indikatori": [
+      {
+        "opis": "Tehnička specifikacija antistres poda za dječje igralište upućuje na konkretan tržišni proizvod (marku), iako je uz njega naveden i izričit kriterij jednakovrijednosti (vodopropusnost, UV stabilnost, otpornost na udar prema normi), što je u skladu sa ZJN-om dopušteno i značajno ublažava rizik isključivosti prema jednom ponuditelju.",
+        "citat": "Sustav kao Herculan SR Safescape play ili jednakovrijedno. Kriterij za ocjenu jednakovrijednosti: - pod mora biti vodopropustan - UV stabilan"
+      }
+    ],
+    "rizik": "nizak"
+  },
+  "napomena": "Pročitane su sve relevantne .txt datoteke u extracted/ (17 sadržajnih dokumenata); dvije arhivske datoteke ('Projektna dokumentacija.7z' i 'Prilozi.zip') ekstrahirane su kao prazne (0 bajtova) pa njihov sadržaj nije mogao biti uzet u obzir. Zapisnik o pregledu i ocjeni ponuda potvrđuje da je postupak proveden transparentno: 3 zaprimljene ponude, jasna primjena kriterija, ispravak računske greške dokumentiran i prihvaćen od ponuditelja, obrazloženje odabira jasno navedeno."
+}

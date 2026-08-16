@@ -1,0 +1,27 @@
+{
+  "postupak_id": 28133,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij ENP potpuno je operacionaliziran: cijena nosi 90 bodova s eksplicitnom formulom (najniža cijena = max bodova, ostale razmjerno), a udio OIE 10 bodova s jasnim pragom (min. 50%) i formulom linearnog bodovanja između najniže i najviše ponuđene vrijednosti. Nema dvosmislenosti u načinu izračuna niti u dokazima (PRILOG II).",
+      "citat": "Ponuda s najnižom cijenom dobiva 90,00 bodova, dok se ostale ponude boduju prema formuli"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 5,
+      "obrazlozenje": "Predmet nabave (opskrba električnom energijom za 64 mjerna mjesta) opisan je do razine pojedinačnog mjernog mjesta s adresom i tarifnim modelom, uz ukupnu okvirnu godišnju potrošnju razloženu po tarifnim modelima (VT/NT, ukupno 873.300 kWh) u troškovniku, što omogućuje potpuno usporedive ponude bez sužavanja kruga mogućih ponuditelja.",
+      "citat": "Redni broj Šifra MM Naziv mjernog mjesta Adresa mjernog mjesta Tarifni model"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dostupan je pun standardni set dokumentacije: opći podaci, upute za ponuditelje, kriteriji kvalitativnog odabira (ESPD, isključenja, tehnička sposobnost), kriteriji za odabir ponude, troškovnik i tehničke specifikacije (identičan sadržaj popisa mjernih mjesta) te obrasci PRILOG I i PRILOG II za jamstvo podrijetla i udio OIE. Sve potrebno za samostalnu izradu ponude je prisutno.",
+      "citat": "Ponuditelj mora popuniti troškovnik i učitati ga prilikom pripreme ponude na EOJN."
+    },
+    "prosjecna_ocjena": 5.0
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak"
+  },
+  "napomena": "Referentni uvjet (minimalno jedna izvršena isporuka pojedinačne vrijednosti bez PDV-a u visini procijenjene vrijednosti nabave, tj. 126.000 EUR) proporcionalan je vrijednosti postupka i standardan za ovu vrstu nabave, nije ocijenjen kao nesrazmjeran. Prag udjela OIE od min. 50% nije vezan za određenog ponuditelja/marku. Zaprimljena je samo 1 ponuda (HEP-Opskrba d.o.o.) - vjerojatno odraz strukture tržišta opskrbe električnom energijom za male, geografski raspršene javne potrošače, a ne dokumentacijske restriktivnosti. Svi relevantni dokumenti u extracted/ pročitani i čitljivi (bez OCR/prazan-tekst problema)."
+}

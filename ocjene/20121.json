@@ -1,0 +1,36 @@
+{
+  "postupak_id": 20121,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriteriji za odabir ponude (ENP) potpuno su jasno definirani i mjerljivi: cijena nosi 90 bodova s eksplicitnom formulom razmjernog bodovanja prema najnižoj cijeni, a rok izvršenja ugovora nosi 10 bodova prema jasnoj tablici pragova (30/60/90 dana). Nema prostora za diskrecijsku ili nejasnu ocjenu.",
+      "citat": "Za rok isporuke do 30 dana dodjeljuje se maksimalni broj bodova za ovaj kriterij u iznosu od 10,00 bodova."
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Tehnička specifikacija vrlo je konkretna i omogućuje usporedivu ponudu (snaga motora, obujam, opterećenje osovina, dimenzije sanduka, oprema kabine i sl.), uz jasnu obveznu tablicu DA/NE + karakteristike. Ocjena nije 5 jer su neke stavke (vrsta ovjesa, vrsta kočionog sustava) određene usko na jedan konkretan tip rješenja, a naručitelj je izričito odbio zahtjev ponuditelja da se te stavke prošire na više tehnički jednakovrijednih alternativa, što opis čini nešto užim nego što bi bilo nužno za funkcionalnost vozila.",
+      "citat": "Naručitelj ne prihvaća tražene izmjene jer traženo ne udovoljava boljoj funkcionalnosti vozila koju naručitelj traži."
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dostupan je pun set dokumenata potreban za samostalnu izradu ponude: Opći podaci o postupku, Upute za ponuditelje (uvjeti jamstva, način dostave, plaćanje, ESPD upute), Kriteriji za kvalitativni odabir gospodarskog subjekta, Kriteriji za odabir ponude s formulama, Tehničke specifikacije (uključujući ispravljenu I. izmjenu), Troškovnik i Prijedlog ugovora. Dokumentacija je unutarnje konzistentna i cjelovita.",
+      "citat": "Elektronička ponuda mora sadržavati najmanje: Uvez ponude Popunjeni eESPD obrazac (ili više njih, ako je primjenjivo) Popunjen troškovnik"
+    },
+    "prosjecna_ocjena": 4.67
+  },
+  "restriktivnost": {
+    "prisutno": true,
+    "indikatori": [
+      {
+        "opis": "Gospodarski subjekt je u fazi pojašnjenja zatražio proširenje tehničke specifikacije ovjesa i kočionog sustava na više tehnički usporedivih rješenja (parabolični gibnjevi ili nezavisni ovjes, pneumatski ili hidraulični kočioni sustav s diskovima), no naručitelj je zahtjev odbio bez detaljnog tehničkog obrazloženja zašto šire rješenje ne bi udovoljilo funkcionalnosti, i zadržao usku, jednoznačno određenu specifikaciju (neovisni ovjes s torzionom šipkom, hidraulički dvokružni kočioni sustav).",
+        "citat": "Naručitelj ne prihvaća tražene izmjene jer traženo ne udovoljava boljoj funkcionalnosti vozila koju naručitelj traži."
+      },
+      {
+        "opis": "Zaprimljena je samo jedna ponuda (BENUSSI d.o.o.), koja je ujedno i odabrana kao ekonomski najpovoljnija — nema konkurencije koja bi potvrdila da usko definirana specifikacija ne isključuje razumne alternative na tržištu.",
+        "citat": "Broj zaprimljenih ponuda: 1"
+      }
+    ],
+    "rizik": "srednji"
+  },
+  "napomena": "Dokumentacija je opsežna i čitljiva (17 tekstualnih datoteka, uključujući izmjenu tehničke specifikacije, zapisnik o pregledu i ocjeni te obavijest o dodjeli); dva PDF zapisnika o pregledu i ocjeni (Zapisnik o pregledu i ocjeni.pdf i Zapisnik o pregledu i ocjeni ponuda 53-24.pdf) sadrže OCR artefakte (izobličena slova, npr. 'ffiENtJ$Sl' umjesto 'BENUSSI') no sadržajno su čitljivi i međusobno konzistentni te ne utječu na ocjenu. Prilozi.zip.txt je prazan (0 bajtova) — vjerojatno duplikat već dostupnih priloga u drugim formatima, nije bio presudan za ocjenu."
+}

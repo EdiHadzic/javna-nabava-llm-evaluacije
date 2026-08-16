@@ -1,0 +1,40 @@
+{
+  "postupak_id": 16055,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriteriji za odabir ponude (ekonomski najpovoljnija ponuda) potpuno su jasno definirani i mjerljivi: cijena nosi 90 bodova, rok isporuke 10 bodova, uz eksplicitnu matematičku formulu bodovanja i definirane gornju (72 sata) i donju (24 sata) granicu za kriterij roka isporuke. Nema dvosmislenosti u načinu izračuna niti prostora za subjektivnu ocjenu.",
+      "citat": "Cijena 90,00 ... Rok isporuke 10,00 ... Naručitelj je ograničio najviši dozvoljeni iznos za kriterij 72,00 ... najniži ... 24,00"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Opis predmeta nabave dan je kroz vrlo detaljan troškovnik s 53 stavke prehrambenih proizvoda, uz konkretne kvantificirane zahtjeve (nutritivne vrijednosti, postotni udio sastojaka, raspon pakiranja, količine). Razina detalja je visoka i omogućuje usporedivu ponudu. Ocjena nije 5 jer se velik broj stavki oslanja na referentnu robnu marku (najčešće 'Podravka') kao mjerilo kvalitete umjesto isključivo na neovisne tehničke parametre, što unosi određenu subjektivnost u prosudbu 'jednakovrijednosti'.",
+      "citat": "Đuveč, pasterizirano povrće, kao Podravka ili \"jednakovrijedno\", 100 gr proizvoda sadrži min. en. vrijednost 141 kJ/44 kcal, pakiranje od 2,5 kg do 5 kg"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 4,
+      "obrazlozenje": "Dostupna je puna dokumentacija potrebna za samostalnu izradu ponude: opći podaci o postupku, upute za ponuditelje, kriteriji kvalitativnog odabira gospodarskog subjekta, kriteriji za odabir ponude i detaljan troškovnik koji ujedno služi kao tehnička specifikacija. Ocjena nije 5 jer je zaseban dokument 'TEHNIČKE SPECIFIKACIJE.docx' svega jedna rečenica-preusmjerenje na troškovnik (bez dodatne razrade), a prilog 'prilozi.zip' ekstrahiran je kao potpuno prazna datoteka (0 bajtova) pa nije bilo moguće provjeriti je li sadržavao dodatne obrasce ili priloge.",
+      "citat": "TEHNIČKE SPECIFIKACIJE NALAZE SE U TROŠKOVNIKU"
+    },
+    "prosjecna_ocjena": 4.33
+  },
+  "restriktivnost": {
+    "prisutno": true,
+    "indikatori": [
+      {
+        "opis": "Velika većina od 53 stavki troškovnika referira se na konkretnu, imenovanu tržišno dominantnu robnu marku (najčešće 'Podravka', ali i 'Vegeta', 'Zlato polje', 'Kraš Express', 'Lino lada duo', 'Zvijezda', 'Divka', 'Knajp') kao mjerilo kvalitete, iako je uz svaku naveden dodatak 'ili jednakovrijedno' čime je formalno udovoljeno članku 210. ZJN2016.",
+        "citat": "Šampinjoni rezani, sterilizirani, kao Podravka ili \"jednakovrijedno\" ... Začin na bazi suhog povrća kao Vegeta ili \"jednakovrijedno\" ... Kavovina, kao Divka ili \"jednakovrijedno\""
+      },
+      {
+        "opis": "Za stavke gdje se marka ne navodi, dokaz jednakovrijednosti prepušten je široj, manje objektivnoj prosudbi naručitelja (deklaracije ili 'dr. odgovarajući dokaz'), što u kombinaciji s brojnošću referenci na jednu dominantnu marku otvara prostor za suptilno favoriziranje dobavljača koji tu marku distribuiraju.",
+        "citat": "Za sve stavke Troškovnika u kojima u Troškovniku nije naveden naziv proizvoda ili proizvođač, potrebno je dostaviti deklaracije prehrambenih proizvoda koji se nude, ili dr. odgovarajući dokaz"
+      },
+      {
+        "opis": "Postupak je zaprimio samo jednu ponudu, što je konzistentno s (ali samo po sebi ne dokazuje) ograničavajući učinak specifikacije na krug potencijalnih ponuditelja.",
+        "citat": "Broj zaprimljenih ponuda: 1"
+      }
+    ],
+    "rizik": "srednji"
+  },
+  "napomena": "Pročitano svih 9 sadržajnih .txt datoteka u extracted/ (deseta, prilozi.zip.txt, prazna je - 0 bajtova, vjerojatno neuspjela ekstrakcija arhive pa sadržaj priloga nije bilo moguće provjeriti). Dokument 'TEHNIČKE SPECIFIKACIJE.docx' sadrži samo uputnicu na troškovnik, ne stvarni nedostatak sadržaja. Postupak ima potpuno izdvojen AwardInfo (1 ponuda, BROSS TRADE d.o.o., ugovoreno 41.548,60 EUR naspram procijenjenih 45.000,00 EUR)."
+}

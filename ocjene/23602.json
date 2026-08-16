@@ -1,0 +1,27 @@
+{
+  "postupak_id": 23602,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij za odabir (ekonomski najpovoljnija ponuda) potpuno je operacionaliziran: cijena nosi 90 od 100 bodova, udio električne energije iz obnovljivih izvora 10 bodova, uz eksplicitne matematičke formule bodovanja za oba parametra (linearna interpolacija prema najboljoj/najlošijoj ponuđenoj vrijednosti) navedene u zasebnom dokumentu 'Kriteriji za odabir ponude'. Kriteriji su u potpunosti mjerljivi i ne ostavljaju prostor za diskrecijsku ocjenu.",
+      "citat": "Ponuda s najnižom cijenom dobiva 90,00 bodova, dok se ostale ponude boduju prema formuli"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Predmet nabave (opskrba električnom energijom za 15 obračunskih mjesta) konkretiziran je preko troškovnika koji navodi točne okvirne količine po tarifnim modelima (crveni/bijeli/plavi, VT/NT kWh) i lokacije mjernih mjesta, što omogućuje usporedivu ponudu. Međutim, zasebno najavljeni dokument 'Tehničke specifikacije' sadržajno je tek duplikat popisa mjernih mjesta iz Privitka 1 troškovnika i ne donosi dodatnu tehničku razradu izvan količinskih podataka - najavljena 'detaljnost' djelomično je formalna.",
+      "citat": "Detaljne tehničke specifikacije se nalaze u zasebnom prilogu."
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 4,
+      "obrazlozenje": "Dostupan je pun standardni set dokumentacije: opći podaci, upute za ponuditelje, kriteriji kvalitativnog odabira s ESPD uputama, kriteriji za odabir ponude s formulama, troškovnik i prilozi (izjave o jamstvu podrijetla i udjelu obnovljivih izvora) - dovoljno za samostalnu izradu ponude. Ocjena nije 5 jer je izvorno objavljen pogrešan troškovnik (s dodatnim listom za dvogodišnje razdoblje umjesto jednogodišnjeg), što je zahtijevalo naknadni ispravak putem obavijesti o izmjeni - manji administrativni propust, iako transparentno i pravodobno otklonjen prije roka za dostavu ponuda.",
+      "citat": "Prilikom objave troškovnika greškom je učitan troškovnik s dodatnim listom u excel tablici ( na 2 godine ). Isti se poništava"
+    },
+    "prosjecna_ocjena": 4.33
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak"
+  },
+  "napomena": "Svi ključni dokumenti dostupni i čitljivi (HTML/PDF/ODT/XLS ekstrakcija bez OCR problema). Referentni uvjet tehničke sposobnosti (najmanje jedan istovrsni ugovor u visini procijenjene vrijednosti nabave) postavljen je na zakonski maksimalno dopuštenu, proporcionalnu razinu, ne prekoračuje je. Zahtjev minimalnog udjela električne energije iz obnovljivih izvora od 50% naveden je kao kvalitativni/bodovni kriterij (10 od 100 bodova), ne kao eliminacijski uvjet, i uobičajen je za sektorske naručitelje - nije ocijenjen kao indikator prilagođenosti određenom ponuditelju. Zaprimljena je samo jedna ponuda (HEP-Opskrba d.o.o., nacionalni opskrbljivač), odabrana po cijeni 20% nižoj od procijenjene vrijednosti - nizak broj ponuda sam po sebi nije korišten kao dokaz restriktivnosti bez konkretnog tekstualnog indikatora u dokumentaciji."
+}

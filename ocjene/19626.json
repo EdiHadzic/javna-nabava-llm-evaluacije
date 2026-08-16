@@ -1,0 +1,36 @@
+{
+  "postupak_id": 19626,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 2,
+      "obrazlozenje": "Rubrika 'Kriteriji za ocjenjivanje projekata' u Obavijesti o projektnom natječaju te sastav ocjenjivačkog suda navedeni su samo kao prazni naslovi tablica, bez ijednog ispunjenog retka. Jedino obrazloženje stvarnog odabira u Zapisniku o pregledu i ocjeni ponuda je paušalno ('najpovoljnija ponuda'), bez razrade pondera cijene/kvalitete, bodovnih pragova ili drugih mjerljivih potkriterija.",
+      "citat": "Obrazloženje razloga za odabira: najpovoljnija ponuda"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Tehnička specifikacija u troškovniku ('PODACI O PREDMETU NABAVE') navodi konkretne mjerljive parametre uređaja: dnevni kapacitet, dimenzije, metodu obrade (aerobna digestija), materijal oplate, vrstu upravljačkog sučelja i težinu, uz min/maks raspone koji u načelu dopuštaju usporedivost ponuda različitih proizvođača. Ocjena nije 5 jer su pojedini rasponi (kapacitet, težina) vrlo uski, što graniči s prekomjernim sužavanjem opisa predmeta nabave.",
+      "citat": "Dnevni kapacitet obrade otpada min. 300 kg, maksimalno 310 kg"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 3,
+      "obrazlozenje": "Dostupni su osnovni dokumenti postupka (obavijest o natječaju, upute za ponuditelje, troškovnik/tehnička specifikacija, zapisnik o pregledu i ocjeni, odluka o odabiru, rezultati natječaja), no arhiva 'Prilozi.zip' koja bi vjerojatno sadržavala dodatne obrasce ili priloge ekstrahirana je kao potpuno prazna datoteka (0 bajtova), pa nije moguće utvrditi jesu li ponuditeljima nedostajali dodatni prilozi potrebni za samostalnu izradu ponude. I sam zapisnik navodi da uz njega nema popisa priloga.",
+      "citat": "Popis priloga: -"
+    },
+    "prosjecna_ocjena": 3.0
+  },
+  "restriktivnost": {
+    "prisutno": true,
+    "indikatori": [
+      {
+        "opis": "Dnevni kapacitet obrade otpada zadan u vrlo uskom rasponu od svega 10 kg, što je neuobičajeno usko za opis zahtijevanog kapaciteta uređaja i može upućivati na prilagodbu specifikaciji konkretnog modela na tržištu.",
+        "citat": "Dnevni kapacitet obrade otpada min. 300 kg, maksimalno 310 kg"
+      },
+      {
+        "opis": "Težina uređaja zadana u iznimno uskom rasponu od svega 6 kg (479-485 kg), što je klasičan obrazac sužavanja tehničke specifikacije na točno određeni proizvod/model.",
+        "citat": "Težina min 479kg, maksimalno  485 kg"
+      }
+    ],
+    "rizik": "srednji"
+  },
+  "napomena": "Riječ je o projektnom natječaju (Direktiva 2014/24/EU), ne o klasičnom otvorenom postupku, pa dio uobičajene dokumentacije (npr. detaljni uvjeti sposobnosti) ovdje strukturno izostaje jer priroda postupka to ne zahtijeva. Arhiva 'Prilozi.zip' ekstrahirana je prazna (0 bajtova) - moguć gubitak sadržaja pri ekstrakciji, ne nužno stvarni izostanak priloga u izvornoj dokumentaciji. Raspon širine u retku dimenzija ('97' do '1007' mm) izgleda kao mogući OCR/izvorni tipfeler te nije tretiran kao pokazatelj restriktivnosti. Na natječaj su unatoč uskim tehničkim rasponima pristigle dvije ponude različitih gospodarskih subjekata, što ublažava (ali ne isključuje) rizik stvarnog ograničavanja tržišnog natjecanja."
+}

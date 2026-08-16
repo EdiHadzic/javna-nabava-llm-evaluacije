@@ -1,0 +1,27 @@
+{
+  "postupak_id": 11125,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriteriji za odabir ponude (cijena 90% + vrijeme odaziva na intervenciju 10%) definirani su zasebnim dokumentom s eksplicitnim matematičkim formulama za svih 7 grupa, uključujući gornju granicu prihvatljivosti (48 sati) iznad koje se ponuda odbija kao neprihvatljiva. Kriterij je potpuno mjerljiv i objektivno primjenjiv bez prostora za diskrecijsko tumačenje.",
+      "citat": "Maksimalno dopušteno vrijeme odaziva na intervenciju je 48 sati. Ponude koje imaju vrijeme odaziva veće od 48 sati biti će odbijene kao neprihvatljive."
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Opći opis predmeta nabave u dokumentu 'Opći podaci' je generički i ponavlja se identično za svih 7 grupa, ali stvarna razina detalja predmeta nabave nalazi se u troškovnicima (Prilog 4) koji sadrže desetke pojedinačno opisanih stavki radova s jedinicama mjere i okvirnim količinama (npr. detaljan opis rušenja zidova, iskopa, žbukanja, izolacije). Ocjena nije 5 jer je riječ o ugovoru za tekuće/investicijsko održavanje 'po potrebi' pa su količine izričito okvirne i stvarni opseg posla ovisi o budućim, unaprijed nepoznatim intervencijama - inherentna neodređenost tipična za ovakav tip ugovora, ne nedostatak dokumentacije.",
+      "citat": "Količine navedene u specifikaciji su okvirne, a stvarna realizacija će ovisiti o potrebi Naručitelja."
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dostupna je cjelovita dokumentacija za samostalnu izradu ponude po svih 7 grupa: opći podaci, upute za ponuditelje (uvjeti jamstva, rokovi, način dostave), kriteriji za kvalitativni odabir gospodarskog subjekta, kriteriji za odabir ponude s formulama, tehnička specifikacija, sedam zasebnih troškovnika po grupama, prijedlog ugovora i obrazac izjave o vremenu odaziva. Svi prilozi navedeni kao obvezni sastojci ponude stvarno su prisutni u izvučenom tekstu.",
+      "citat": "Elektronička ponuda za svaku ponuđenu grupu mora sadržavati najmanje: Uvez ponude, Popunjeni eESPD obrazac..., Popunjen troškovnik..."
+    },
+    "prosjecna_ocjena": 4.67
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak"
+  },
+  "napomena": "Nabava je podijeljena u 7 grupa (građevinski, obrtnički, instalaterski radovi); dokumentacija je za sve grupe strukturno identična i cjelovita. Kriteriji za odabir gospodarskog subjekta (kvalitativni odabir) su minimalni - traži se isključivo upis u sudski/obrtni/strukovni registar, bez financijskih pragova, referenci ili tehničkih certifikata, što ukazuje na nisku (a ne visoku) razinu ulaznih barijera. Pretraga cjelokupnog izvučenog teksta na uobičajene indikatore prilagođenosti ponuditelju (marke, modeli, ISO certifikati, nesrazmjerni financijski/referentni pragovi) nije pronašla ništa relevantno - jedini pogoci ('proizvođač' u kontekstu uputa za ugradnju materijala i jamstva opreme) standardna su strukovna praksa, ne tailoring. Grupa 5 (Instalaterski radovi - vodoinstalacije) naknadno je poništena jer nije pristigla nijedna ponuda (Odluka o poništenju, čl. 298. st. 1. t. 7. ZJN2016) - to je tržišni ishod, ne posljedica nejasne ili nepotpune dokumentacije te grupe, koja je bila jednako strukturirana kao ostalih 6."
+}

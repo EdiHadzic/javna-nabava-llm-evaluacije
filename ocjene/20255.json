@@ -1,0 +1,27 @@
+{
+  "postupak_id": 20255,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij za odabir ponude (ekonomski najpovoljnija ponuda) matematički je precizno definiran za sve grupe: cijena 90% s eksplicitnom formulom (P = Pn/Pr*90), rok isporuke 10% s potpuno određenom bodovnom ljestvicom po intervalima sati, uz jasan maksimalni dopušteni rok (36 h) iznad kojeg se ponuda ne razmatra. Kriteriji su identični za svih 8 grupa i ne ostavljaju prostor za subjektivnu ocjenu.",
+      "citat": "Isporuka u roku od 0 do 12 sati: 10 bodova Isporuka u roku od 12,01 do 24 sata: 5 bodova Isporuka u roku od 24,01 do 36 sati: 0 bodova"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 3,
+      "obrazlozenje": "Razina detalja izrazito varira između grupa. Zaseban dokument 'Tehničke specifikacije' sadrži samo jednu rečenicu koja upućuje natrag na troškovnik, bez ikakvog dodatnog sadržaja. Troškovnik grupe 1 navodi stavke gotovo bez tehničkog opisa (samo naziv i interni broj, npr. 'Adapter koljenasti'), dok troškovnik grupe 2 za jedinu stavku daje vrlo detaljnu tehničku specifikaciju (volumen, materijal, dimenzije igle). Ta nedosljednost između grupa unutar istog postupka snižava opću razinu detalja opisa predmeta nabave.",
+      "citat": "1\tAdapter koljenasti (852352)\tkom\t2"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 4,
+      "obrazlozenje": "Dostupan je standardni, cjelovit paket dokumentacije: opći podaci, obavijest o nadmetanju, kriteriji za kvalitativni odabir gospodarskog subjekta (s uputama o ESPD-u i dokazivanju), kriterij za odabir ponude s formulom, obrazac ponude (Prilog 1), troškovnik po grupi (Prilog 5) i prijedlog ugovora, dostatni za samostalnu izradu ponude. Manjak je jedino to što najavljeni zaseban dokument tehničkih specifikacija ne sadrži stvaran sadržaj već je prazna referenca na troškovnik, pa se stvarna tehnička informacija oslanja isključivo na (nejednako detaljan) troškovnik i dostavu uzoraka/kataloga.",
+      "citat": "Detaljne tehničke specifikacije se nalaze u zasebnom prilogu."
+    },
+    "prosjecna_ocjena": 4.0
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak"
+  },
+  "napomena": "Nema referenci na točno određeni proizvod, marku ili patentirano rješenje koje bi naručitelj propisao kao obvezno - stupac 'Kataloški broj proizvođača / Zaštićeno ime' u troškovniku grupe 2 namijenjen je gospodarskom subjektu da upiše podatke o ponuđenom proizvodu, ne predstavlja zahtjev naručitelja za određenom markom. Nisu pronađeni financijski/referentni pragovi (npr. minimalni godišnji promet, broj ranije izvršenih ugovora) niti u Uputama za ponuditelje niti u Kriterijima za kvalitativni odabir - traženi uvjeti sposobnosti ograničeni su na standardne osnove za isključenje (ESPD), upis u registar i dostavu uzoraka/kataloga radi dokazivanja sukladnosti sa specifikacijom, što je proporcionalno predmetu nabave (medicinski potrošni materijal, procijenjena vrijednost 52.100,00 EUR podijeljena u 8 malih grupa). Postupak je podijeljen u 8 grupa. Prvotna obavijest o nadmetanju poništena je prije roka za dostavu ponuda (čl. 298. st. 1. t. 2. ZJN2016 - saznanje da bi dokumentacija bila sadržajno bitno drukčija da su okolnosti bile ranije poznate) i ponovno objavljena; nakon otvaranja ponuda dodatno su poništene grupa 2 (nije preostala valjana ponuda nakon isključenja) i grupa 4 (isti razlog kao prvotno poništenje cijelog postupka). Ocjena u ovom izvještaju odnosi se na finalnu, važeću verziju dokumentacije dostupnu u 'extracted/' direktoriju. Grupa 1 i grupa 4 nemaju dokument 'Zapisnik o pregledu i ocjeni' jer su poništene prije/tijekom postupka pregleda ponuda; za grupe 3, 5, 6, 7 i 8 postoji Odluka o odabiru s obrazloženjem odabira. Svi pročitani dokumenti bili su čitljivi tekstualni ekstrakti (bez OCR/prazan-sadržaj problema) osim manjih poteškoća u OCR ekstrakciji dva PDF dokumenta o poništenju (iskrivljeni dijakritici, npr. 'poniStenje' umjesto 'poništenje') koji nisu utjecali na razumijevanje sadržaja."
+}

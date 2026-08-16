@@ -1,0 +1,37 @@
+{
+  "postupak_id": 13135,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij za odabir ponude (ekonomski najpovoljnija ponuda) potpuno je operacionaliziran: cijena 90% i jamstveni rok za otklanjanje nedostataka 10%, uz eksplicitne matematičke formule za oba potkriterija, definiran minimum (12 mjeseci jamstva, ispod čega se ponuda odbacuje) i pravilo za rangiranje jednako bodovanih ponuda (ranije zaprimljena ponuda). Nema prostora za subjektivnu ocjenu.",
+      "citat": "P = Pn / Pr * 90 ... Maksimalan broj od 90 bodova dodijelit će se ponudi s najnižom cijenom."
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Opis predmeta nabave iznimno je detaljan (33+ pojedinačne minimalne tehničke karakteristike za UZV konzolu, dodatne stavke za sonde, periferne uređaje i mogućnosti buduće nadogradnje), što omogućuje jasnu usporedivost ponuda. Istovremeno, razina preciznosti pojedinih parametara (npr. točan broj procesnih kanala, točni kutovi skeniranja) svjedoči o vrlo uskoj specifikaciji koja se približava opisu jednog konkretnog komercijalnog modela, što djelomično narušava ravnotežu 'dovoljno konkretno vs. ne isključivo za jednog ponuditelja' (v. restriktivnost niže).",
+      "citat": "Tvorbenik ultrazvučnog snopa (beamformer) s min. 10.800.000 procesnih kanala."
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dostupan je pun set dokumenata potreban za samostalnu izradu ponude: Opći podaci o postupku, Kriteriji za kvalitativni odabir (s ESPD uputama), Upute za ponuditelje (način dostave, jamstva, kriterij odabira s formulama), detaljan Troškovnik s tehničkim specifikacijama, obrazac za numeričke vrijednosti kriterija te Prijedlog ugovora. Dokumentacija je interno konzistentna (tehnička specifikacija upućuje na troškovnik, koji je doista priložen i sadržajan). Jedina praznina je 'Prilozi.zip' koji je ekstrahiran kao potpuno prazan (0 bajtova) pa njegov sadržaj nije bilo moguće provjeriti - vjerojatno tehnički artefakt ekstrakcije/preuzimanja arhive, ne nužno izostanak stvarnog sadržaja, budući da su svi ključni dokumenti (troškovnik, kriteriji, upute) prisutni izvan te arhive.",
+      "citat": "Detaljan troškovnik se nalazi u zasebnom prilogu – Troškovnik."
+    },
+    "prosjecna_ocjena": 4.67
+  },
+  "restriktivnost": {
+    "prisutno": true,
+    "indikatori": [
+      {
+        "opis": "Tehnička specifikacija sadrži niz vrlo precizno numerički definiranih parametara (npr. točan broj procesnih kanala tvorbenika snopa, točni kutovi volumnog skeniranja, točna dinamika sustava u dB) koji nadilaze uobičajenu razinu 'minimalnih' zahtjeva i nalikuju prepisivanju specifikacije jednog konkretnog komercijalnog modela uređaja - klasičan obrazac prikrivenog spec-matchinga bez izravnog navođenja marke.",
+        "citat": "Dinamički raspon sustava: min. 390 dB. ... Kut volumnog skeniranja u 3D prikazu min. 186° x 120°."
+      },
+      {
+        "opis": "Zahtijevaju se vrlo specifične, imenovane funkcionalnosti/algoritmi (npr. 'STIC' prostorno-vremenska korelacija, klasifikacijski sustavi po točno navedenim standardima IOTA/IETA i ESHRE/ESGE/ASRM) koje ne posjeduju svi proizvođači UZV uređaja, što sužava krug potencijalnih ponuditelja na one koji nude specifične zaštićene tehnologije.",
+        "citat": "Aplikacija za rekonstrukciju i evaluaciju srca fetusa u 3D prikazu prostorno-vremenskom korelacijom slike (\"STIC\")."
+      }
+    ],
+    "rizik": "srednji",
+    "napomena_restriktivnost": "Rizik je ublažen činjenicom da su zaprimljene 2 ponude i da odbijena ponuda (AnalyticPharma d.o.o.) nije odbijena zbog neispunjavanja tehničke specifikacije nego zbog formalnog razloga (nije popunjena niti jedna stavka troškovnika, ponuda proglašena nepravilnom/neprihvatljivom/neprikladnom) - stoga nije moguće sa sigurnošću utvrditi da je specifikacija de facto isključila konkurenciju, no razina detaljne numeričke preciznosti ostaje objektivni indikator povišenog rizika prilagođenosti specifikaciji jednom dobavljaču/modelu."
+  },
+  "napomena": "Postupak 41-NMV-24 (Opća bolnica Zadar, 4D UZV uređaj za patologiju trudnoće, CPV 33112000, procijenjena vrijednost 80.000,00 EUR). Pročitano svih 12 sadržajnih .txt datoteka u extracted/ (Kriteriji za kvalitativni odabir, Obavijest o nadmetanju, Upute za ponuditelje, Tehničke specifikacije, Troškovnik, Podaci o numeričkim vrijednostima kriterija, Opći podaci o postupku nabave, Prijedlog ugovora, Odluka o odabiru x2, Zapisnik o pregledu i ocjeni x2, Obavijest o dodjeli ugovora); 'Prilozi.zip.txt' prazan (0 bajtova) i nije korišten u ocjeni. Postupak dovršen dodjelom ugovora tvrtki MEDICOM d.o.o. (76.780,00 EUR bez PDV-a, -4,03% od procijenjene vrijednosti), 2 zaprimljene ponude, 1 valjana."
+}

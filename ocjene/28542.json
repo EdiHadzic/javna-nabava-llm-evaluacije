@@ -1,0 +1,36 @@
+{
+  "postupak_id": 28542,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij ENP potpuno je operacionaliziran zasebnim dokumentom s eksplicitnim ponderima (cijena 80, jamstveni rok 20), točnom matematičkom formulom bodovanja, tablicom bodova po godinama jamstva i pravilom za slučaj izjednačenih ponuda. Zapisnik o ocjeni pokazuje da je metoda dosljedno i provjerljivo primijenjena na svih 6 ponuda.",
+      "citat": "Ponuda s najnižom cijenom dobiva 80,00 bodova... Maksimalni broj bodova koji ponuditelj može dobiti po ovom kriteriju je 20,00"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Predmet je opisan vrlo konkretno (lokacija, duljina zone radova, CPV oznake, tehnički elaborati o prometu i elektroinstalacijama, troškovnik s korisničkim priručnikom). Ipak, dio podataka o javnoj rasvjeti (dwg situacija, elektrotehnički projekt/1-polna shema) nedostajao je u početnoj objavi te je dopunjen tek naknadno kroz pitanja/odgovore, što ukazuje na inicijalnu nepotpunost opisa te stavke.",
+      "citat": "Zahvat u prostoru su građevinski radovi rekonstrukcije postojećeg četverokrakog raskrižja... u novo raskrižje s kružnim tokom prometa, u općini Murvica sjeveroistočno od grada Zadra"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 4,
+      "obrazlozenje": "Dokumentacija je opsežna i sadrži sve standardne dijelove (opći podaci, kriteriji, ESPD upute, prijedlog ugovora, tehnički elaborati, troškovnik). Naručitelj je responzivno dopunjavao nedostajuće priloge (situacija, Mapa 5 elektroinstalacija, dwg) tijekom postupka. Manji minus: prilog 'DC8_Murvica_bez cijena.xls' i 'Situacija_JR_Murvica.dwg' ekstrahirani su prazni (nečitljiv/nepodržan format), pa se njihov sadržaj ne može neovisno provjeriti iz ovog uzorka.",
+      "citat": "1. Dostavlja se situacija. 2. Dostavlja se Mapa 5 (elektrotehničke instalacije)."
+    },
+    "prosjecna_ocjena": 4.33
+  },
+  "restriktivnost": {
+    "prisutno": true,
+    "indikatori": [
+      {
+        "opis": "Troškovnička stavka 7.1.2.8 referira konkretan komercijalni tip proizvoda bez vidljive napomene 'ili jednakovrijedno' u dostupnom tekstu, što je jedan od klasičnih pokazatelja prilagodbe specifikacije određenom ponuditelju.",
+        "citat": "Kabelski razvodni ormar tip kao \"TEP\" RRP 01/1 od armiranog poliestera u protuplakatnoj izvedbi opremljen prema shemi iz glavnog projekta"
+      },
+      {
+        "opis": "Minimalna vrijednost referentnog ugovora za tehničku sposobnost (1.300.000 EUR) iznosi gotovo punu procijenjenu vrijednost nabave (1.355.000 EUR, ~96%), što je na gornjoj granici uobičajene proporcionalnosti takvih uvjeta.",
+        "citat": "čija je vrijednost najmanje jednaka 1.300.000,00 (eura bez PDV-a)"
+      }
+    ],
+    "rizik": "nizak"
+  },
+  "napomena": "Pročitane su sve dostupne .txt datoteke iz extracted/ osim vrlo velike 'Tekst i grafika Rotor Murvica.pdf.txt' (22,8 MB, OCR tehničkog nacrta) koja nije bila nužna za ocjenu transparentnosti/restriktivnosti. Dva priloga ('...bez cijena.xls', '...Situacija_JR_Murvica.dwg') ekstrahirana su kao prazna zbog poznatih ograničenja pipeline-a. Unatoč identificiranim indikatorima restriktivnosti, postupak je privukao 6 valjanih, kvalificiranih ponuda sa širokim rasponom cijena (915.330–1.345.501 EUR bez PDV-a), što upućuje da indikatori nisu imali značajan isključujući učinak na tržišno natjecanje u ovom slučaju."
+}

@@ -1,0 +1,27 @@
+{
+  "postupak_id": 6947,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriteriji za odabir gospodarskog subjekta strukturirani su po standardnom ESPD obrascu s jasnom pravnom osnovom, konkretnim mjerljivim pragovima (min. jedan ugovor iste/slične vrste radova u vrijednosti od najmanje 400.000,00 EUR, jedan inženjer gradilišta građevinske struke, točno pobrojana strojna oprema s minimalnim brojem i masom/kapacitetom) i preciznim načinom dokazivanja za svaku stavku. Kriterij za odabir ponude (cijena 80 %, jamstveni rok 20 %) definiran je matematičkom formulom bez prostora za tumačenje.",
+      "citat": "Gospodarski subjekt u eESPD obrascu navodi popis izvedenih radova koji mora sadržavati najmanje jedan ugovor o izvođenju istih ili sličnih radova, minimalne vrijednosti 400.000,00 eura."
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Zaseban dokument 'Tehnička specifikacija' sveden je na jednu rečenicu koja upućuje na troškovnik, no sâm troškovnik sadrži 19 detaljno opisanih stavki (vrste asfaltnih slojeva AC 11/AC 16/AC 22, debljine slojeva, način ugradnje, zbijenost, obračunske jedinice i okvirne količine za dvogodišnje razdoblje), što u praksi omogućuje usporedivu ponudu. Opis lokacije izvođenja naveden je na razini gradova/općina i postotnog omjera, bez preciznijeg rasporeda po ulicama, što je razumljivo s obzirom na okvirni (poziv-po-potrebi) karakter nabave.",
+      "citat": "Nabava,  doprema  i ugradba  habajućeg  asfaltnog sloja AC 11 surf (BIT  50/70)  AG4 M4 u debljini  5 cm... Obračun  po m2 izvedenog asfaltnog sloja."
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 4,
+      "obrazlozenje": "Dostupna je gotovo cjelovita dokumentacija potrebna za samostalnu izradu ponude: opći podaci, kriteriji kvalitativnog odabira, upute za ponuditelje, troškovnik, prijedlog okvirnog sporazuma te prilozi (izjava o jamstvenom roku, izjava o sankcijama EU, kriterij za odabir ponude s formulom bodovanja). Ocjena nije 5 jer je zaseban prilog 'Tehnička specifikacija' praktički prazan/stub dokument (sadržaj je premješten isključivo u troškovnik), a prilog 'Prilozi.zip' ekstrahiran je kao potpuno prazna datoteka (0 bajtova) pa nije moguće utvrditi je li sadržavao dodatne, potencijalno relevantne priloge.",
+      "citat": "Tehnička specifikacija iskazana je pripadajućim troškovnikom"
+    },
+    "prosjecna_ocjena": 4.33
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak"
+  },
+  "napomena": "Nema naznaka prilagodbe specifikacije određenom ponuditelju (nema referenci na markice/patentirana rješenja), a financijski/referentni pragovi (min. 400.000 EUR referenca naspram procijenjene vrijednosti od 1.200.000 EUR, tj. ~33 %) proporcionalni su vrijednosti nabave. Zamjetno je da je zaprimljena samo jedna ponuda (CESTE ZADARSKE ŽUPANIJE d.o.o., u vrijednosti 1.199.450 EUR, tj. 99,95 % procijenjene vrijednosti) unatoč otvorenom postupku i relativno standardnim uvjetima sposobnosti — to je vjerojatnije odraz uske lokalne ponude izvođača asfalterskih radova u Zadarskoj županiji nego posljedica restriktivnosti dokumentacije, ali se ne može isključiti bez dodatnih podataka o tržištu. Dokument 'Tehnička specifikacija.docx' i prazna arhiva 'Prilozi.zip' blago snizuju ocjenu potpunosti dokumentacije."
+}

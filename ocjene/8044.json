@@ -1,0 +1,36 @@
+{
+  "postupak_id": 8044,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriteriji za odabir ponude (cijena 90%, jamstveni rok za otklanjanje nedostataka 10%) navedeni su s eksplicitnim matematičkim formulama za bodovanje, definiranim maksimalnim brojem bodova i minimalnim pragom (12 mjeseci) ispod kojeg se ponuda odbacuje. Nema prostora za diskrecijsku ili nejasnu ocjenu.",
+      "citat": "P = Pn / Pr * 90 ... G = Gt / G1 * 10 ... Ponude u kojima je iskazan jamstveni rok kraći od 12 mjeseci bit će odbačene."
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Troškovnik detaljno opisuje svaku komponentu endoskopskog stupa i kirurških instrumenata (dimenzije u mm, kutovi, materijal), što omogućuje usporedivu ponudu, no razina preciznosti (npr. točan promjer i kut svakog instrumenta) ostavlja malo prostora za alternativna, funkcionalno jednakovrijedna rješenja bez formulacije 'ili jednakovrijedno'.",
+      "citat": "Retraktor, dvostruki zavšetak, širina ruba 3mm x kut 0°, 15° x dužina 300mm"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dostupna je puna dokumentacija potrebna za samostalnu izradu ponude: Opći podaci, Upute za ponuditelje s popisom obveznih sastojaka ponude, Kriteriji kvalitativnog odabira s ESPD uputama, detaljan troškovnik, obrazac za numeričke vrijednosti kriterija te predložak jamstva. Sve komponente međusobno su usklađene i upućuju jedna na drugu.",
+      "citat": "Elektronička ponuda mora sadržavati najmanje: Uvez ponude, Popunjeni eESPD obrazac, Popunjen troškovnik, Vrijednosti kriterija za odabir ponude, Jamstvo za ozbiljnost ponude..."
+    },
+    "prosjecna_ocjena": 4.67
+  },
+  "restriktivnost": {
+    "prisutno": true,
+    "indikatori": [
+      {
+        "opis": "Troškovnik navodi izrazito precizne tehničke karakteristike velikog broja pojedinačnih kirurških instrumenata (promjeri, kutovi, duljine na razini milimetara i stupnjeva) bez formulacije 'ili jednakovrijedno', što je obrazac tipičan za prepisivanje specifikacija iz kataloga određenog proizvođača.",
+        "citat": "Dijetlo, zakrivljeno, širina ruba 5mm (zakrivljeno 15°) ... Instrument za otkidanje kosti, rub širine 2mm dužine 220mm kut 110°"
+      },
+      {
+        "opis": "Stručno povjerenstvo u Zapisniku o pregledu i ocjeni ponuda izričito navodi dugogodišnji odnos s odabranim ponuditeljem kao dio obrazloženja, što upućuje na mogući inkumbentski učinak, iako formalno nije korišteno kao kriterij za odabir.",
+        "citat": "ponuditelj s kojim se namjerava sklopiti ugovor je dugogodišnji dobavljač OB Zadar kao naručitelja i sve sklopljene ugovore do sada je uredno izvršavao i izvršava"
+      }
+    ],
+    "rizik": "srednji"
+  },
+  "napomena": "Pročitano svih 11 dostupnih .txt datoteka u extracted/ (obavijest o nadmetanju, kriteriji kvalitativnog odabira, upute za ponuditelje, tehničke specifikacije, troškovnik, opći podaci, podaci o numeričkim vrijednostima kriterija, odluka o odabiru, obavijest o dodjeli ugovora, zapisnik o pregledu i ocjeni, jamstvo). Sve datoteke sadržajno su čitljive i potpune (nema praznih/OCR-neuspjelih ekstrakcija). Postupak je imao 2 ponuditelja; jedan je odbijen iz formalnih razloga (nedostavljeno jamstvo, nepopunjen troškovnik), ne zbog neispunjavanja tehničke specifikacije, pa se restriktivnost tehničkog opisa ne može potvrditi kroz stvarno isključenje ponuditelja na temelju specifikacije."
+}

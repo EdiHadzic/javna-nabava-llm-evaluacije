@@ -1,0 +1,30 @@
+{
+  "postupak_id": 13550,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij odabira ponude (ekonomski najpovoljnija ponuda) potpuno je operacionaliziran matematičkim formulama za sva tri podkriterija (cijena, rok isporuke, rok trajanja/valjanosti) s eksplicitnim relativnim značajem i maksimalnim brojem bodova, jednako za svih 5 grupa predmeta nabave. Nema prostora za subjektivnu ocjenu.",
+      "citat": "C = C1 / Cpo x 80 ... Cijena ponude 80% 80, Rok isporuke 10% 10, Rok trajanja/valjanosti 10% 10"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Opis predmeta nabave vrlo je konkretan: troškovnik-tehnička specifikacija po grupi sadrži poimeničan popis dijagnostičkih testova/reagensa s okvirnim količinama i tablicu tehničkih karakteristika (DA/NE potvrda). Detalj je visok i usporediv, ali opis je sustavno uvjetovan kompatibilnošću s točno određenim, već posjedovanim uređajem (BD MAX) bez naznake 'ili jednakovrijedno', što opis sužava na ekosustav jednog aparata umjesto na funkcionalne zahtjeve.",
+      "citat": "Testovi moraju biti kompatibilni BD MAX aparatu koji je vlasništvo ustanove. Za testove mora postojati validirani protokol na BD MAX aparatu."
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dostupan je pun set dokumenata potreban za samostalnu izradu ponude: Opći podaci o postupku, Upute za ponuditelje, Kriteriji za kvalitativni odabir gospodarskog subjekta (ESPD upute po osnovama isključenja i sposobnosti), Kriterij za odabir ponude, troškovnik-tehnička specifikacija za svih 5 grupa, prijedlog ugovora, obrazac ovlasti za prisustvovanje i prilog o prihvaćanju općih uvjeta. Nema naznaka nedostajućih ili praznih ključnih dokumenata (prilozi .zip su prazni, ali sadržajno dupliciraju već dostupne pojedinačne .doc/.pdf priloge).",
+      "citat": "Dokumentacija o nabavi Dio I - Opći podaci o postupku nabave ... Dio II – Upute za ponuditelje"
+    },
+    "prosjecna_ocjena": 4.67
+  },
+  "restriktivnost": {
+    "prisutno": true,
+    "indikatori": [
+      "Zahtjev kompatibilnosti sa specifičnim, imenovanim komercijalnim uređajem (BD MAX) ponavlja se kroz sve dokumente i sve 5 grupa, bez formulacije 'ili jednakovrijedno': 'Svaka grupa ovog predmeta nabave mora biti kompatibilna s aparatom BD MAX koji je u vlasništvu Zavoda za javno zdravstvo Zadar.'",
+      "Dodatni uvjet vezan uz isti uređaj: 'Za testove/reagense mora postojati validirani protokol na BD MAX aparatu.' — ovime se krug potencijalnih ponuditelja sužava na distributere reagensa/potrošnog materijala kompatibilnog s tim točno određenim aparatom."
+    ],
+    "rizik": "srednji"
+  },
+  "napomena": "Pročitani su svi relevantni .txt dokumenti iz extracted/ (opći podaci, upute za ponuditelje, kriteriji kvalitativnog odabira, kriterij odabira ponude, troškovnik-tehnička specifikacija za svih 5 grupa, odluke o odabiru, obavijest o dodjeli, zapisnici o pregledu i ocjeni). Četiri .zip priloga ekstrahirana su prazna (0 bajtova) — vjerojatno tehnički artefakt ekstrakcije jer se isti sadržaj (troškovnici, prilozi) nalazi dostupan u pojedinačnim .doc/.pdf/.docx datotekama, pa to nije utjecalo na ocjenu. Brand-specifičan zahtjev (BD MAX) formalno je klasičan indikator restriktivnosti, no ublažen je time što je riječ o već posjedovanoj opremi naručitelja (zdravstvena ustanova, zatvoreni sustav potrošnog materijala) te što je u praksi zaprimljeno 2-3 ponude po grupi od različitih distributera (Hospitalija trgovina, Axon lab), što ukazuje na postojanje konkurencije unatoč formalnoj uskosti specifikacije."
+}

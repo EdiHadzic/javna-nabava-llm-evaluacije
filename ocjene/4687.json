@@ -1,0 +1,27 @@
+{
+  "postupak_id": 4687,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij je ekonomski najpovoljnija ponuda s jasno razdvojenom cijenom (90 bodova) i jednim mjerljivim, unaprijed tabliranim ne-cjenovnim kriterijem (specifično iskustvo stručnjaka u km cjevovoda, 10 bodova), s eksplicitnom formulom bodovanja cijene i propisanim dokazima (potvrde druge ugovorne strane sa svim traženim podacima).",
+      "citat": "2 - 4 km 3,00 - 4 4 - 6 km 5,00 - 5 6 - 8 km 7,00 - 6 6 - 10 km 9,00 - 7 više od 10 km 10,00"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 5,
+      "obrazlozenje": "Opis predmeta nabave po obje grupe sadrži konkretne, mjerljive količine (duljina kolektora u km, broj kućnih priključaka, broj crpnih stanica, CPV oznake, FIDIC uvjeti ugovora), a pritom tehničke specifikacije eksplicitno ne upućuju na marku/proizvođača/patent i sustavno prate svaku eventualnu referencu na normu izrazom 'ili jednakovrijedno', čime se opis ne sužava na jednog ponuditelja.",
+      "citat": "izgradnju 21 kolektora duljine 5,47 km cjevovoda - izgradnju 223 sekundarnih (kućnih) priključaka"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dostupna je puna standardna FIDIC dokumentacijska struktura (Knjige 1-5: upute i obrasci, ugovorna dokumentacija, zahtjevi naručitelja, troškovnik, nacrti), uz zasebne dokumente kriterija kvalitativnog odabira i kriterija za odabir ponude te objavljene odgovore na upite ponuditelja tijekom postupka - dovoljno za samostalnu izradu ponude bez dodatnih pojašnjenja.",
+      "citat": "Knjiga 1 UPUTE PONUDITELJIMA I OBRASCI Knjiga 2 UGOVORNA DOKUMENTACIJA Knjiga 3 ZAHTJEVI NARUČITELJA Knjiga 4 TROŠKOVNIK Knjiga 5 NACRTI"
+    },
+    "prosjecna_ocjena": 5.0
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak"
+  },
+  "napomena": "Traženi minimalni godišnji promet (3 godine, iznos jednak procijenjenoj vrijednosti nabave) i referentna vrijednost izvedenih radova (min. 1.500.000 EUR naspram procijenjenih 4.490.786,90/4.106.512,68 EUR po grupi) proporcionalni su predmetu i standardni za ovu vrstu ugovora; nema referenci na marku, patent ili nesrazmjerne pragove. Naručitelj transparentno objavljuje i popis gospodarskih subjekata s kojima je u sukobu interesa (KOTAR NET d.o.o.). Pročitane su sve relevantne .txt datoteke iz extracted/ (dokumentacija o nabavi, kriteriji, troškovnik, tehnički zahtjevi, odluka o odabiru, obavijest o dodjeli); jedan ponuditelj odbijen je zbog računske pogreške u troškovniku, što nije vezano uz restriktivnost specifikacije."
+}

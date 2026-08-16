@@ -1,0 +1,27 @@
+{
+  "postupak_id": 15498,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriteriji za odabir ponude (cijena 60 bodova, kvaliteta 40 bodova) su matematički precizno definirani, s eksplicitnim formulama za izračun bodova za cijenu i tablicom bodovanja iskustva stručnjaka (0-5+ projekata = 0-40 bodova, linearno po koraku od 10). Nema prostora za subjektivnu procjenu naručitelja.",
+      "citat": "Ponuda s najnižom cijenom dobiva 60,00 bodova, dok se ostale ponude boduju prema formuli"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 5,
+      "obrazlozenje": "Opis predmeta nabave (stručni nadzor i koordinator ZNR II nad izgradnjom dječjeg vrtića) vrlo je konkretan: navedene su sve mape glavnog i izvedbenog projekta, primjenjivi zakoni i pravilnici, te opsežan, taksativno nabrojan popis obveza nadzornog inženjera (svakodnevni nadzor, ovjera građevinske knjige/dnevnika, tjedna/mjesečna izvješća, DNSH praćenje i dr.) u zasebnom dokumentu Tehničke specifikacije.",
+      "citat": "Usluge stručnog nadzora podrazumijevaju svakodnevne provjere gradilišta s ciljem utvrđivanja kvalitete izvođenja radova"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 4,
+      "obrazlozenje": "Dokumentacija je opsežna i međusobno usklađena: Opći podaci, Upute za ponuditelje, Kriteriji kvalitativnog odabira, Kriteriji za odabir ponude, Tehničke specifikacije, Uvjeti sukladno posebnim propisima, Prijedlog ugovora, Troškovnik te potpuna projektna dokumentacija (glavni i izvedbeni projekt po strukama) svi su prisutni i sadržajno bogati. Umanjeno s 5 na 4 jer su dva arhivska priloga (MAPE_4_5_6_7.rar, MAPE_8_9.rar) ekstrahirana kao 0 bajtova, pa se njihov sadržaj nije mogao izravno provjeriti u ovom pregledu.",
+      "citat": "Detaljan troškovnik se nalazi u zasebnom prilogu – Troškovnik."
+    },
+    "prosjecna_ocjena": 4.67
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak"
+  },
+  "napomena": "Predmet nabave je usluga (stručni nadzor), pa nema referenci na konkretne proizvode/marke. Prag iskustva stručnjaka (projekti ≥1.500.000 EUR) proporcionalan je stvarnoj vrijednosti radova koji se nadziru (2.058.147,34 EUR bez PDV-a prema Tehničkim specifikacijama), a ne vrijednosti ove nabave usluge (36.800 EUR) - nije ocijenjeno restriktivnim jer se odnosi na razmjer posla koji stručnjak stvarno nadzire. Dva .rar priloga (MAPE_4_5_6_7.rar, MAPE_8_9.rar) ekstrahirana su kao 0 bajtova (poznat propust ekstrakcije arhiva), no sadržaj odgovarajućih mapa projekta (strojarski, elektrotehnički i dr.) dostupan je kroz zasebne PDF datoteke u istom direktoriju, pa gubitak nije bio presudan za ocjenu."
+}
