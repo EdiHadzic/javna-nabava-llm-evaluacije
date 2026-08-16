@@ -1,0 +1,27 @@
+{
+  "postupak_id": 24181,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij za odabir ponude (ekonomski najpovoljnija ponuda) razložen je na dva potpuno kvantificirana podkriterija s jasnim relativnim značajem (Cijena 90, Jamstveni rok 10) i eksplicitnim matematičkim formulama za bodovanje svakog od njih, uključujući postupanje kod jednakog rangiranja i minimalni prag za jamstveni rok.",
+      "citat": "Cijena 90,00 ... Jamstveni rok 10,00 ... Naručitelj je ograničio najniži dozvoljeni iznos za kriterij 12,00"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Tehnička specifikacija (26 stavki) precizno opisuje tražena svojstva stroja (dimenzije, kapacitet spremnika, brzinu, nagib, itd.) pretežno kroz min./max. raspone, a ne kroz fiksne vrijednosti, čime se ostavlja prostor za usporedive alternative; dokumentacija izričito dopušta ponudu jednakovrijednih karakteristika uz obrazloženje u stupcu 'Opis'. Ipak, velik broj vrlo specifičnih tehničkih zahtjeva (npr. točne dimenzijske granice, kapacitet baterije) ostavlja određeni prostor za suženje kruga ponuditelja koji tu opremu mogu ponuditi.",
+      "citat": "Ukupna duljina stroja 1900 mm - 2.200 mm ... U slučaju da ponuditelj nudi jednakovrijedne karakteristike ... jednakovrijedno se nudi na način da se ... upišu karakteristike ponuđenog predmeta nabave"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dostupna je cjelovita dokumentacija potrebna za samostalnu izradu ponude: opći podaci o postupku, upute za ponuditelje (uključujući jamstva, rokove, način dostave), kriteriji za kvalitativni odabir gospodarskog subjekta s ESPD uputama, kriteriji za odabir ponude s formulama bodovanja, tehničke specifikacije, troškovnik i propisani prilozi (izjava o nepostojanju zabrane). Sve stavke potrebne za pripremu ponude su prisutne i međusobno konzistentne.",
+      "citat": "Elektronička ponuda mora sadržavati najmanje: Uvez ponude, Popunjeni eESPD obrazac, Popunjen troškovnik, Vrijednosti kriterija za odabir ponude"
+    },
+    "prosjecna_ocjena": 4.67
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak"
+  },
+  "napomena": "Pročitani su svi relevantni dokumenti iz extracted/ (opći podaci, upute za ponuditelje, kriteriji kvalitativnog odabira, kriteriji za odabir ponude, tehničke specifikacije, troškovnik, prilog o nepostojanju zabrane, obavijest o nadmetanju, obavijest o dodjeli ugovora, zapisnik o pregledu i ocjeni ponude). Tehnička specifikacija ne sadrži reference na točno određenu marku/tip niti patentirano rješenje (marka/tip je polje koje popunjava sam ponuditelj), a referentni uvjet (1 isporuka u vrijednosti procijenjene vrijednosti unutar zadnje 3 godine) proporcionalan je vrijednosti nabave (40.000 EUR) pa nije ocijenjen kao restriktivan. Zaprimljena je samo 1 ponuda (COMLAND d.o.o.) - moguća posljedica uskog tržišta dobavljača ove specifične opreme (električne komunalne čistilice), a ne dokaza specifikacijske prilagodbe iz teksta dokumentacije; tijekom pregleda ponude naručitelj je zatražio i dobio ispravljene/upotpunjene tehničke specifikacije od ponuditelja (standardni postupak upotpunjavanja dokumentacije), što ne utječe na ocjenu jasnoće izvorne dokumentacije."
+}

@@ -1,0 +1,27 @@
+{
+  "postupak_id": 22706,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij odabira je ekonomski najpovoljnija ponuda s dva jasno definirana i u potpunosti mjerljiva potkriterija (cijena 90 %, dužina jamstvenog roka 10 %), uz eksplicitnu matematičku formulu za bodovanje cijene i tablicu bodova za jamstveni rok (2-6+ godina). Način izračuna ukupne ocjene i pravilo za jednako rangirane ponude također su precizno opisani.",
+      "citat": "broj bodova = najniža cijena ponude / cijena ponude * 90"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 5,
+      "obrazlozenje": "Predmet nabave opisan je iznimno detaljno kroz cjeloviti Glavni projekt (tehnički opis, analiza oštećenja, program kontrole kvalitete) i troškovnik s pojedinačno razrađenim stavkama (dimenzije, materijali, mehanička svojstva kamena, tehnologija ugradnje), a pritom se dosljedno koristi klauzula 'ili jednakovrijedno' čime se ne isključuju razumne alternative.",
+      "citat": "Prostorna masa ≥ 2,5 t/m3, poroznost ≤ 6,5% i upijanje vode ≤ 2,0 %. Srednja vrijednost čvrstoće na pritisak ≥ 130 MN/m2"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dostupan je pun skup dokumenata potreban za samostalnu izradu ponude: Opći podaci o postupku, Upute za ponuditelje, Kriteriji za odabir ponude, Kriteriji za kvalitativni odabir gospodarskog subjekta s uputama, obrasci (uklj. izjave i popis radova), tehnička specifikacija (Glavni projekt) i detaljan troškovnik. Svi dokumenti su međusobno konzistentni i upućuju jedni na druge.",
+      "citat": "Dokumentacija o nabavi se ne naplaćuje te se može preuzeti u cijelosti na internetskoj stranici"
+    },
+    "prosjecna_ocjena": 5.0
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak"
+  },
+  "napomena": "Pročitani su svi relevantni dokumenti u extracted/ (Opći podaci, Kriteriji za odabir ponude, Kriteriji za kvalitativni odabir, Upute za ponuditelje, Glavni projekt/tehnički opis, troškovnik). Jedini spomen konkretne marke ('proizvođač FARO') odnosi se na opremu (3D laserski skener) kojom je projektant izradio snimak postojećeg stanja prije javne nabave, a ne na zahtjev prema ponuditelju - stoga nije tretiran kao indikator restriktivnosti. Zahtjevi kvalitativne sposobnosti (max. 2 referentna rada u visini procijenjene vrijednosti, 1 inženjer gradilišta) proporcionalni su vrijednosti i vrsti nabave (189.582,90 EUR, radovi sanacije obale)."
+}

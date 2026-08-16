@@ -1,0 +1,48 @@
+{
+  "postupak_id": 21461,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriteriji za odabir ponude vrlo su precizno operacionalizirani za obje grupe: cijena (90%) i vrijeme odaziva na popravak (10%) definirani su eksplicitnim matematičkim formulama, tablicom raspona vrijednosti i pripadajućih bodova, gornjom i donjom granicom prihvatljivosti (48h / 1h) te pravilom za slučaj izjednačenja ponuda (ranije zaprimljena ponuda pobjeđuje). Ništa nije prepušteno diskrecijskoj ocjeni povjerenstva.",
+      "citat": "Naručitelj je ograničio najviši dozvoljeni iznos za kriterij 48,00 Naručitelj je ograničio najniži dozvoljeni iznos za kriterij 1,00"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 3,
+      "obrazlozenje": "Sam opseg usluge vrlo je konkretno određen kroz troškovnik (poimenični popis svakog uređaja s proizvođačem, tipom, serijskim brojem i godinom proizvodnje), što omogućuje potpuno usporedive ponude. Međutim, predmet nabave unaprijed je strukturiran u dvije grupe imenovane isključivo po nazivima proizvođača opreme, a ne po funkcionalnom opisu usluge servisa, čime je opis po definiciji uzak i unaprijed isključuje bilo koga tko ne servisira baš te marke.",
+      "citat": "2. grupa: FUJIFILM; Natus; DWL; HOLOGIC (SUPERSONIC)"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 4,
+      "obrazlozenje": "Dokumentacija sadrži sve standardne sastavnice DON-a potrebne za samostalnu izradu ponude: opće podatke, upute za ponuditelje, kriterije kvalitativnog odabira, kriterije za odabir ponude, troškovnike po grupama, obrazac za ocjenjivanje kriterija kvalitete i prijedloge ugovora po grupama. Zaseban dokument 'Tehničke specifikacije' sadrži samo jednu rečenicu, ali to je namjerno upućivanje na troškovnik kao jedini i dostatan izvor specifikacije, a ne stvaran nedostatak dokumentacije.",
+      "citat": "Tehničke specifikacije predmeta nabave su sadržane u samom troškovniku predmeta nabave koji je sastavni dio DON-a."
+    },
+    "prosjecna_ocjena": 4.0
+  },
+  "restriktivnost": {
+    "prisutno": true,
+    "indikatori": [
+      {
+        "opis": "Grupa 1 predmeta nabave imenovana je izravno i isključivo po nazivu jednog proizvođača medicinske opreme, umjesto po funkcionalnom opisu usluge servisiranja.",
+        "citat": "1. grupa: OLYMPUS"
+      },
+      {
+        "opis": "Grupa 2 predmeta nabave jednako je imenovana po nazivima četiri konkretna proizvođača opreme.",
+        "citat": "2. grupa: FUJIFILM; Natus; DWL; HOLOGIC (SUPERSONIC)"
+      },
+      {
+        "opis": "Za grupu 1 naručitelj eksplicitno traži dokaz ovlaštenja izdan od strane samog proizvođača opreme (OLYMPUS) da je ponuditelj ovlašten za izvršenje usluge servisa - uvjet koji po prirodi stvari mogu ispuniti samo službeno ovlašteni serviseri/podružnice tog proizvođača, a ne bilo koji tehnički osposobljen gospodarski subjekt.",
+        "citat": "OVLAST izdana od strane proizvođača opreme OLYMPUS da je ponuditelj ovlašten za izvršenje predmeta nabave"
+      },
+      {
+        "opis": "Identičan zahtjev za ovlaštenjem proizvođača postavljen je i za grupu 2, za sve četiri navedene marke zajedno.",
+        "citat": "OVLAST izdana od strane proizvođača opreme FUJIFILM; Natus; DWL; HOLOGIC (SUPERSONIC) da je ponuditelj ovlašten za izvršenje predmeta nabave"
+      },
+      {
+        "opis": "Ishod postupka potvrđuje praktični učinak navedenih uvjeta: za obje grupe zaprimljena je točno jedna ponuda (Olympus Czech Group za grupu 1, MEDIAL d.o.o. za grupu 2), odnosno nije bilo stvarnog nadmetanja ni u jednoj grupi.",
+        "citat": "Broj zaprimljenih ponuda: 1"
+      }
+    ],
+    "rizik": "srednji"
+  },
+  "napomena": "Svi relevantni dokumenti u extracted/ bili su čitljivi i sadržajno potpuni (HTML dijelovi DON-a te PDF zapisnici/odluke/obavijesti), osim samostalnog dokumenta 'Tehničke specifikacije' koji je namjerno svediv na jednu uputnu rečenicu. Restriktivnost ovdje ima jasnu objektivnu podlogu - riječ je o servisnom održavanju već instalirane, postojeće bolničke opreme točno određenih proizvođača, gdje je ograničavanje na ovlaštene servisere uobičajena i u pravilu opravdana praksa (jamstvo, originalni dijelovi, sigurnost medicinskih uređaja), a ne o proizvoljnom favoriziranju bez razloga. Ipak, kombinacija imenovanja grupa po marki + obveznog dokaza ovlaštenja proizvođača + ishoda s točno jednim ponuditeljem po grupi predstavlja prepoznatljiv obrazac sužavanja tržišnog natjecanja koji zaslužuje eksplicitnu napomenu u 5.2. kao posebna kategorija (nabave servisa/održavanja postojeće opreme) različita od slučajeva neopravdanog favoriziranja bez tehničke nužnosti."
+}

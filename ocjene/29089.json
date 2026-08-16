@@ -1,0 +1,27 @@
+{
+  "postupak_id": 29089,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij odabira je ekonomski najpovoljnija ponuda s jasnom raspodjelom pondera (cijena 70, kvaliteta 30) i eksplicitnom, potpuno mjerljivom bodovnom tablicom za nefinancijski kriterij (broj referentnih usluga nadzora glavnog nadzornog inženjera), uz definirane dokaze i sankciju (0 bodova) ako dokaz izostane.",
+      "citat": "5 izvršenih usluga 30,00"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Opis predmeta nabave (usluga stručnog nadzora i koordinatora II) konkretno navodi opseg poslova (nadzor svih građevinskih/obrtničkih radova, koordinacija ZNR, izvještavanje, primopredaja), oslanjajući se na opsežnu priloženu projektnu dokumentaciju radova koji se nadziru; nešto je generičan u pogledu kvantificiranih očekivanja (npr. broj obilazaka/sati), pa nije ocijenjen maksimalnom ocjenom.",
+      "citat": "Uslugom stalnog stručnog nadzora u fazi izvođenja radova potrebno je obuhvatiti nadzor nad izvođenjem svih građevinskih i obrtničkih radova"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dokumentacija je iznimno cjelovita: uz standardne dijelove (Opći podaci, Tehničke specifikacije, Troškovnik, Kriteriji kvalitativnog odabira, Kriteriji za odabir ponude, Upute za ponuditelje, Prijedlog ugovora) priložena je i opsežna izvorna projektna dokumentacija radova (glavni/izvedbeni projekti, situacije, detalji) koja ponuditeljima omogućuje potpun uvid u opseg nadzora bez dodatnih upita.",
+      "citat": "Projektna dokumentacija koja je potrebna za sastavljanje ponude stavlja se na raspolaganje ponuditeljima neograničeno putem EOJN RH"
+    },
+    "prosjecna_ocjena": 4.67
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak"
+  },
+  "napomena": "Postupak je usluga stručnog nadzora (CPV 71247000), ne radovi; većina od ~60 .txt datoteka u extracted/ su prilozi izvorne projektne dokumentacije radova koji se nadziru (mape, situacije, detalji), pročitane su reprezentativno kao kontekst, dok su svi ključni natječajni dokumenti (Opći podaci, Tehničke specifikacije, Troškovnik, oba Kriterija dokumenta, Upute za ponuditelje, Obavijest o nadmetanju, Odluka o odabiru, Obavijest o dodjeli) pročitani u cijelosti. Zaprimljene su 4 ponude, 3 od MSP-a; jedna je odbijena zbog neispunjavanja jasno definiranog uvjeta tehničke sposobnosti (nedovoljna vrijednost referentnih usluga), što ukazuje na standardan, ne diskriminatoran uvjet. Jedna datoteka (JR-rekonstrukcija ulice...dwg.txt) je 0 bajtova zbog poznatog DWG ograničenja ekstrakcijskog pipelinea, bez utjecaja na ocjenu jer nije riječ o natječajnom dokumentu."
+}

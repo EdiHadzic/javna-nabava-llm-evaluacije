@@ -1,0 +1,40 @@
+{
+  "postupak_id": 10243,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 3,
+      "obrazlozenje": "Kriterij za odabir ponude jasno je naveden kao isključivo cijena (100% značaj), no dokument ne sadrži nikakvo dodatno pojašnjenje načina bodovanja niti podkriterija, jer se radi o pregovaračkom postupku bez prethodne objave gdje je zaprimljena samo jedna ponuda pa je vrednovanje formalnost, ne stvarni kompetitivni mehanizam.",
+      "citat": "Kriterij za odabir ponude Cijena: Naziv kriterija Značaj Cijena 100,00"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 3,
+      "obrazlozenje": "Opis predmeta nabave navodi tri konkretne kategorije usluga (redovno održavanje, adaptivno održavanje/nadogradnje, korisnička podrška uz definiran mjesečni fond od 40 sati), što je umjereno konkretno, ali bez tehničke specifikacije, popisa modula sustava ili mjerljivih razina usluge (SLA) koja bi omogućila neovisnu, usporedivu ponudu trećoj strani.",
+      "citat": "Usluga korisničke podrške i savjetovanja za aplikaciju u mjesečnom iznosu od 40 čovjek sati"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 1,
+      "obrazlozenje": "Jedini dostupan dokument u extracted/ je sama obavijest o dodjeli ugovora; nema tehničke specifikacije, troškovnika, uvjeta sposobnosti niti obrazaca dokumentacije o nabavi. To je dijelom posljedica same prirode postupka (pregovarački bez prethodne objave, nema javne dokumentacije za treće ponuditelje), ali s gledišta vanjskog promatrača/mogućeg konkurenta dokumentacija je krajnje nepotpuna.",
+      "citat": "Naručitelj sklapa s odabranim ponuditeljem ugovor o javnoj nabavi."
+    },
+    "prosjecna_ocjena": 2.33
+  },
+  "restriktivnost": {
+    "prisutno": true,
+    "indikatori": [
+      {
+        "opis": "Ugovor je dodijeljen bez ikakvog javnog nadmetanja, izravno pregovaračkim postupkom bez prethodne objave, temeljem isključivih autorskih/vlasničkih prava jednog gospodarskog subjekta nad proizvodom, čime je unaprijed isključena svaka mogućnost konkurencije drugih ponuditelja.",
+        "citat": "Tvrtka INFOSISTEM d.d. kao autor i proizvođač PosIS informacijskog sustava jedini je ovlašteni gospodarski subjekt za poslove razvoja, implementacije, održavanje i potrebnih nadogradnji"
+      },
+      {
+        "opis": "Pravna osnova za odabir postupka izričito se poziva na zaštitu isključivih prava, uključujući prava intelektualnog vlasništva, što je strukturni, a ne slučajni oblik ograničavanja tržišnog natjecanja (vendor lock-in).",
+        "citat": "zbog zaštite isključivih prava, uključujući prava intelektualnog vlasništva"
+      },
+      {
+        "opis": "Kao izravna posljedica sole-source opravdanja, zaprimljena je samo jedna ponuda, od istog subjekta s kojim se pregovaralo.",
+        "citat": "Broj zaprimljenih ponuda: 1"
+      }
+    ],
+    "rizik": "visok"
+  },
+  "napomena": "U direktoriju extracted/ postoji samo jedna datoteka - obavijest o dodjeli ugovora (nema zasebne dokumentacije o nabavi, tehničke specifikacije ni troškovnika), što je dijelom očekivano s obzirom na to da je riječ o pregovaračkom postupku bez prethodne objave poziva na nadmetanje (sole-source zbog isključivih autorskih prava), pa nije postojala javna natječajna dokumentacija namijenjena više ponuditelja. Ocjene transparentnosti stoga odražavaju ono što je objavljeno u samoj obavijesti, ne cjelovit skup natječajne dokumentacije."
+}

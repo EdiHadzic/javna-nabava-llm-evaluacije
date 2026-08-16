@@ -1,0 +1,27 @@
+{
+  "postupak_id": 10189,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij odabira je ekonomski najpovoljnija ponuda s potpuno eksplicitnim, matematički definiranim potkriterijima (cijena 90%, rok odaziva na reklamaciju 10%) i formulama za izračun bodova za svaki potkriterij, uključujući tretman nedostavljene izjave.",
+      "citat": "C = Cmin/Cp * 90 ... RO = (Rmin/Rp) x 10"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Troškovnik navodi 9 konkretnih stavki pekarskih proizvoda s minimalnim težinama i očekivanim godišnjim količinama, a tehnička specifikacija upućuje na mjerljive zakonske standarde kvalitete hrane umjesto proizvoljnih zahtjeva; opis nije toliko uzak da isključuje razumne alternative (nema markih/patentiranih proizvoda).",
+      "citat": "CROISANT ČOKOLADA, težina min. 75 gr. ... KRAFNA MARELICA, težina min. 80 gr."
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 4,
+      "obrazlozenje": "Dostupna je gotovo cjelovita dokumentacija za samostalnu izradu ponude: kriteriji kvalitativnog odabira s uputama za ESPD, upute za ponuditelje, tehnička specifikacija, troškovnik, kriterij ENP, obavijest o nadmetanju i obavijest o dodjeli. Jedina praznina je arhiva 'Stanovi 2024 - APD.rar' čiji je izvučeni tekst prazan (0 bajtova) unatoč nenultoj izvornoj arhivi - poznati, dosad nedijagnosticirani propust .rar ekstrakcije u pipelineu (v. CLAUDE.md, limitacija #7), ne stvarni nedostatak u objavljenoj dokumentaciji naručitelja.",
+      "citat": "Detaljne tehničke specifikacije se nalaze u zasebnom prilogu."
+    },
+    "prosjecna_ocjena": 4.33
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak"
+  },
+  "napomena": "Nema referenci na specifičnu marku/proizvođača niti patentirano rješenje; referentni uvjet tehničke sposobnosti (isporuka u vrijednosti minimalno jednakoj procijenjenoj vrijednosti nabave, unutar 4 godine) postavljen je na standardnoj, ne nesrazmjernoj razini. Datoteka 'Stanovi 2024 - APD.rar.txt' ekstrahirana je kao prazna (0 bajtova) iako je izvorna .rar arhiva nenulte veličine - poznat, još neriješen propust ekstrakcije (v. CLAUDE.md limitacija #7, popis od ~29 pogođenih postupaka uključuje 10189), tretirano kao artefakt ekstrakcije, ne kao stvarni nedostatak transparentnosti naručitelja. Svih ostalih 22 .txt datoteke u extracted/ imaju sadržajan tekst i pokrivaju sve ključne faze postupka (dokumentacija, kriteriji, nadmetanje, dodjela)."
+}

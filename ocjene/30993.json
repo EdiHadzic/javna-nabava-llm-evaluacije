@@ -1,0 +1,27 @@
+{
+  "postupak_id": 30993,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij ENP (cijena + kvaliteta) potpuno je operacionaliziran: eksplicitne težine, formule bodovanja za svaki podkriterij i tablice s brojem bodova po pragovima iskustva stručnjaka. Nema dvosmislenosti u načinu izračuna.",
+      "citat": "Cijena 65,00; Jamčeni godišnji operativni troškovi UPOV-a 20,00; Specifično iskustvo Stručnjaka 1/2/6 po 5,00"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 5,
+      "obrazlozenje": "Opis predmeta vrlo je konkretan (kapacitet 10.000 ES, II. stupanj pročišćavanja, FIDIC Žuta knjiga, 7 faznih obveza izvođača), potkrijepljen opsežnim tehničkim specifikacijama (Prilog 3, ~695 KB teksta) s konkretnim inženjerskim zahtjevima po sustavima, a da pritom nije nerazmjerno uzak.",
+      "citat": "Predmet nabave je projektiranje i izgradnja uređaja za pročišćavanje otpadnih voda UPOV Preko Kali kapaciteta 10.000 ES, II. stupnja pročišćavanja"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 4,
+      "obrazlozenje": "Troškovnik, tehnički uvjeti, prijedlog ugovora i upute za ponuditelje dostupni su u cijelosti unutar EOJN dokumentacije. Jedan prilog (Podaci za projektiranje i nacrti, Prilog 10) zbog veličine nije objavljen na EOJN-u nego je hostan na vanjskoj poveznici Naručitelja — transparentno navedeno i obrazloženo, ali formalno umanjuje jedinstvenost dokumentacijskog paketa.",
+      "citat": "Zbog opsežnosti dokumenata i tehničkih razloga dokument Podaci za projektiranje i nacrti (Prilog 10) ne objavljuje se u EOJN RH, već je javno dostupan na sljedećoj poveznici"
+    },
+    "prosjecna_ocjena": 4.67
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak",
+    "napomena": "Pretraga tehničkih specifikacija na reference na marke/tipove/proizvođače ne otkriva insistiranje na konkretnom proizvodu; upute o tehničkim specifikacijama izričito propisuju da se svaka referenca na normu/marku smatra popraćenom izrazom 'ili jednakovrijedno'. Referentni pragovi iskustva stručnjaka izričito su obrazloženi kao produženi rok radi šireg tržišnog natjecanja (čl. 268. st. 4. ZJN 2016)."
+  }
+}

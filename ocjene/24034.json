@@ -1,0 +1,36 @@
+{
+  "postupak_id": 24034,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij za odabir ponude (ekonomski najpovoljnija ponuda) razložen je na dvije potpuno mjerljive komponente s eksplicitnim matematičkim formulama, maksimalnim brojem bodova po komponenti i jasnim pragom prihvatljivosti (minimalni jamstveni rok), bez prostora za subjektivnu ocjenu.",
+      "citat": "P = Pn / Pr * 90 ... G = Gt / G1 * 10 ... Minimalni jamstveni rok je 12 mjeseca."
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Opis predmeta nabave iznimno je detaljan i tehnički precizan (29 podtočaka minimalnih karakteristika s konkretnim brojčanim pragovima), što omogućuje potpuno usporedive ponude, ali dio pragova (npr. točno određen broj kanala tvorbenika) formuliran je s neuobičajenom preciznošću koja graniči s uskim opisom - v. restriktivnost.",
+      "citat": "Digitalni tvorbenik ultrazvučnog snopa (beamformer) s min. 970.000 kanala. Dinamički raspon uređaja min. 400 dB."
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dostupan je pun set dokumenata potreban za samostalnu izradu ponude: opći podaci, kriteriji kvalitativnog odabira s uputama za ESPD, upute za ponuditelje, troškovnik s ugrađenom tehničkom specifikacijom, podaci o numeričkim vrijednostima kriterija te prijedlog ugovora - svi međusobno konzistentni (isti evidencijski broj, iznosi, rokovi).",
+      "citat": "Tehničke specifikacije predmeta nabave su sadržane u samom troškovniku predmeta nabave koji je sastavni dio DON-a."
+    },
+    "prosjecna_ocjena": 4.67
+  },
+  "restriktivnost": {
+    "prisutno": true,
+    "indikatori": [
+      {
+        "opis": "Neuobičajeno precizan brojčani prag za tvorbenik ultrazvučnog snopa (970.000 kanala, a ne okrugla vrijednost poput 1.000.000), tipičan obrazac za specifikaciju 'skrojenu' prema točno određenom komercijalnom modelu bez izričitog navođenja marke.",
+        "citat": "Digitalni tvorbenik ultrazvučnog snopa (beamformer) s min. 970.000 kanala."
+      },
+      {
+        "opis": "Kombinacija uskih gornjih granica za masu i potrošnju uređaja (istovremeno ne veća od 5,5 kg i ne veća od 180 VA) sužava krug tehnički prihvatljivih uređaja na uzak segment tržišta prijenosnih UZV uređaja.",
+        "citat": "Masa konzole s integriranom baterijom ne veća od 5,5 kg radi lakšeg prenošenja unutar bolnice. Potrošnja uređaja ne veća od 180 VA."
+      }
+    ],
+    "rizik": "srednji"
+  },
+  "napomena": "Pročitane su sve relevantne datoteke iz extracted/ (opći podaci, kriteriji kvalitativnog odabira, upute za ponuditelje, troškovnik s tehničkim specifikacijama, podaci o numeričkim vrijednostima kriterija, obavijest o nadmetanju, zapisnik o pregledu i ocjeni, odluka o odabiru, obavijest o dodjeli). Nema naznaka OCR/ekstrakcijskih praznina - sve datoteke sadrže smislen, potpun tekst. Postupak je imao 2 zaprimljene ponude, od kojih je jedna (AnalyticPharma d.o.o.) odbijena kao nepravilna (nedostavljeno jamstvo za ozbiljnost ponude, neispunjen troškovnik) - restriktivnost tehničke specifikacije nije bila izravan uzrok isključenja te ponude, ali ostaje relevantna za širu ocjenu jer je moguće da je unaprijed suzila krug potencijalnih ponuditelja."
+}

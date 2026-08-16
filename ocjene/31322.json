@@ -1,0 +1,27 @@
+{
+  "postupak_id": 31322,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij ENP potpuno je operacionaliziran: eksplicitni ponderi (cijena 80, jamstveni rok 20), potpune matematičke formule bodovanja, jedinica mjere i format unosa za jamstveni rok, minimalni prag (24 mjeseca) i pravilo za jednako rangirane ponude.",
+      "citat": "Ponuda s najnižom cijenom dobiva 80,00 bodova, dok se ostale ponude boduju prema formuli"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Opis predmeta u 'Opći podaci' je sažet, ali potkrijepljen opsežnom tehničkom dokumentacijom (Glavni projekt + 4 projektne mape + 4 usklađena troškovnika). Tehničke stavke dosljedno koriste klauzulu 'ili jednakovrijedno' uz spomen konkretnih normi/proizvoda, što omogućuje usporedivost ponuda bez nepotrebnog suženja kruga ponuditelja.",
+      "citat": "U građevini će biti smještene dvije svlačionice sa sanitarnim prostorima, dva wc-a, te uredski prostor za učitelja."
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Kompletan skup: opći podaci, kriteriji odabira ponude, kriteriji kvalitativnog odabira s uputama za ESPD, upute za ponuditelje, glavni projekt, 4 projektne mape i 4 troškovnika, obrazac za jamstveni rok. Sve stavke potrebne za samostalnu izradu ponude prisutne su i međusobno usklađene.",
+      "citat": "Elektronička ponuda mora sadržavati najmanje: Uvez ponude, Popunjeni eESPD obrazac, Popunjen troškovnik, Vrijednosti kriterija za odabir ponude"
+    },
+    "prosjecna_ocjena": 4.67
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak",
+    "napomena": "Reference za tehničku sposobnost (5 ugovora, kumulativna vrijednost minimalno u visini procijenjene vrijednosti nabave, u zadnjih 5 godina) proporcionalne su vrijednosti nabave (137.000 EUR). Spomeni konkretnih proizvoda/normi u troškovniku dosljedno su popraćeni klauzulom jednakovrijednosti."
+  }
+}

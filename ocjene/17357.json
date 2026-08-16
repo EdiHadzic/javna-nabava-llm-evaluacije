@@ -1,0 +1,36 @@
+{
+  "postupak_id": 17357,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij za odabir (ekonomski najpovoljnija ponuda) potpuno je razrađen: cijena nosi 90 bodova a rok isporuke 10 bodova, uz precizne matematičke formule (C=Cmin/Cp*90; RI=Rmin/Rp*10) i jasno definirane granice roka isporuke (min. 24h, maks. 72h). Formula je dodatno objašnjena u zasebnom dokumentu 'Kriterij za odabir ENP'. Nema prostora za subjektivnu interpretaciju.",
+      "citat": "C = Cmin/Cp * 90 ... RI = (Rmin/Rp) x 10, gdje je Rmin – najkraće vrijeme isporuke, Rp – vrijeme isporuke iz ponude"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Troškovnik sadrži 186 stavki s jedinicama mjere, količinama i, za velik broj stavki, konkretnim nutritivnim/tehničkim specifikacijama. Međutim, prva verzija dokumentacije nije bila dovoljno precizna: naručitelj je morao izdati izmjenu (Izmjena 1, 20.08.2024.) izričito zbog nedovoljno opisanih tehničkih specifikacija pojedinih stavki, uz uklanjanje/izmjenu težine na 18+ stavki, što ukazuje na početnu manjkavost razine detalja.",
+      "citat": "Razlozi izmjena: Nedovoljno opisane tehničke specifikacije pojedinih troškovničkih stavki"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 4,
+      "obrazlozenje": "Dostupan je pun set dokumenata potreban za samostalnu izradu ponude: Opći podaci o postupku, Upute za ponuditelje, Tehničke specifikacije, Troškovnik, Kriteriji za kvalitativni odabir gospodarskog subjekta te zaseban dokument s formulom ENP. Ipak, dokumentacija je tijekom postupka morala biti triput mijenjana (nedovoljne specifikacije, produženje roka, uklanjanje dupliciranih stavki u troškovniku), što ukazuje da izvorna verzija nije bila u potpunosti dovršena/provjerena prije objave.",
+      "citat": "Elektronička ponuda mora sadržavati najmanje: Uvez ponude, Popunjeni eESPD obrazac, Popunjen troškovnik, Izjava o ponuđenom roku isporuke, Jamstvo za ozbiljnost ponude"
+    },
+    "prosjecna_ocjena": 4.33
+  },
+  "restriktivnost": {
+    "prisutno": true,
+    "indikatori": [
+      {
+        "opis": "Vrlo velik broj stavki troškovnika (procjena: 50+ od 186) referira konkretnu komercijalnu marku ili proizvođača (npr. Barilla, Kraš, Podravka, Dr. Oetker, Vegeta, Nutella, Franck, Maraska, dr. Schaer, Ekozona, Mulino Bianco, K. Marić). Svaka referenca je popraćena klauzulom 'ili jednakovrijedno/slično', što je zakonski dopušteno (čl. 200. ZJN2016), ali učestalost i preciznost referenci mogu u praksi otežati dokazivanje jednakovrijednosti manjim/alternativnim dobavljačima.",
+        "citat": "BARILLA TAGLIATELLE ŠPINAT 500 g ILI jednakovrijedno, min. energetska vrijednost 1521 kJ/359 kcal, masti 2 g, ugljikohidrati 71,2, sušeni špinat min 1,8%"
+      },
+      {
+        "opis": "Kod pojedinih stavki tehnička specifikacija je definirana gotovo identično nutritivnom profilu jednog konkretnog komercijalnog proizvoda (do decimale u energetskoj vrijednosti i udjelu masti), što funkcionalno sužava krug proizvoda koji formalno zadovoljavaju 'jednakovrijedno', čak i uz prisutnost te klauzule.",
+        "citat": "Margarin namaz kao Omegol ili \"jednakovrijedan\" 225 g. Energetska vrijednost: 2183 kJ / 531 kcal Masti: 59,0 g"
+      }
+    ],
+    "rizik": "srednji"
+  },
+  "napomena": "Pročitani su svi relevantni dokumenti u extracted/ (Obavijest o nadmetanju, Opći podaci, Upute za ponuditelje, Kriteriji za kvalitativni odabir, Tehničke specifikacije, Kriterij za odabir ENP, Troškovnik, tri Izmjene dokumentacije, Zapisnik o pregledu i ocjeni ponuda te Obavijest o dodjeli ugovora). Dokumentacija je čitljiva i potpuna nakon triju izmjena; jedina prazna datoteka je 'APD.rar.txt' (0 bajtova, poznati artefakt neuspjele .rar ekstrakcije), no sadržaj te arhive nije bio ključan za ocjenu jer su svi zahtjevi za dokazivanje sposobnosti (ESPD, popis isporuka, uzorci/deklaracije) opisani u dostupnim tekstualnim dokumentima. Postupak je zaprimio samo 1 ponudu (BROSS TRADE d.o.o.), ugovorena vrijednost 51.567,78 EUR naspram procijenjenih 67.109,28 EUR (-23,2%)."
+}

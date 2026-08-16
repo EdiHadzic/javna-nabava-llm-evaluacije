@@ -1,0 +1,27 @@
+{
+  "postupak_id": 11112,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij odabira je ekonomski najpovoljnija ponuda s eksplicitno definiranim, potpuno mjerljivim potkriterijima (cijena 70 bodova, dodatni jamstveni rok 30 bodova) i preciznim matematičkim formulama za bodovanje objavljenim u zasebnom dokumentu 'Kriteriji za odabir ponude' te ponovljenim u Obavijesti o nadmetanju i Uputama za ponuditelje. Zapisnik o pregledu i ocjeni potvrđuje da je formula dosljedno primijenjena na obje ponude.",
+      "citat": "C = (Cmin/Cp) * 70 ... J = (Jp/Jn) * 30 ... T = C + J"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 5,
+      "obrazlozenje": "Predmet nabave (izgradnja dječjeg vrtića) opisan je kroz kompletan Glavni projekt (9 imenovanih mapa: arhitektonski, fizika zgrade, konstrukcija, strojarski grijanje/hlađenje/ventilacija, vodovod i odvodnja, tehnologija kuhinje, dojava požara, zaštita na radu, elektrotehnika), Izvedbeni projekt i detaljan stavkovni troškovnik. Razina detalja znatno nadmašuje minimum potreban za usporedivu ponudu, bez naznaka umjetnog suženja na jednog ponuditelja.",
+      "citat": "Glavni projekt... sastoji se od sljedećih mapa: MAPA 1. Arhitektonski projekt... MAPA 9: Elektrotehnički projekt"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 4,
+      "obrazlozenje": "Dostupna je gotovo sva ključna dokumentacija za samostalnu izradu ponude: tehničke specifikacije, kriteriji kvalitativnog odabira s uputama o načinu dokazivanja, troškovnik (xlsx), prijedlog ugovora, potpuni arhitektonski/konstrukcijski/strojarski/elektro projekti te zapisnik o pregledu i ocjeni. Umanjenje ocjene s 5 na 4 zbog dvije arhive (MAPE_4_5_6_7.rar, MAPE_8_9.rar) koje su ekstrahirane kao prazne datoteke (0 bajtova) - poznati, dokumentirani limitirajući artefakt pipeline ekstrakcije (v. CLAUDE.md limitacija #7), a ne stvaran propust naručitelja u objavi dokumentacije; dio tog sadržaja (npr. strojarski projekt vodovoda/odvodnje, elaborat zaštite na radu) vjerojatno je dostupan i u drugim, uspješno ekstrahiranim PDF prilozima.",
+      "citat": "Detaljan troškovnik se nalazi u zasebnom prilogu – Troškovnik... Detaljne tehničke specifikacije se nalaze u zasebnom prilogu."
+    },
+    "prosjecna_ocjena": 4.67
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak"
+  },
+  "napomena": "Dokumentacija dosljedno sadrži standardnu klauzulu 'ili jednakovrijedno' za sve upute na marku/patent/tip (čl. 210. st. 3. i čl. 209./212. ZJN 2016), bez identificiranih referenci na konkretan proizvod ili neproporcionalnih pragova sposobnosti (traženih 1.500.000 EUR referenci ≈ 86% procijenjene vrijednosti od 1.752.000 EUR, unutar uobičajene prakse za građevinske radove). Naručitelj je transparentno u dokumentaciji objavio postojanje sukoba interesa s tvrtkom Andiva j.d.o.o. (direktorica je članica stručnog povjerenstva), no ta tvrtka nije sudjelovala kao ponuditelj u ovom postupku (pristigle su samo dvije ponude: RELIANCE d.o.o. i odabrani PE-VLA-KU SHPK, albanska tvrtka s podružnicom u Zagrebu), pa okolnost nije utjecala na odabir. Dva priložena rješenja DKOM-a (RJESENJE DKOM I i II) NISU žalbe na ovaj postupak, već su pravni presedani iz posve drugih, ranijih postupaka (Hrvatske ceste d.o.o. 2020., Osječko-baranjska županija 2018.) koje je naručitelj priložio kao pravno obrazloženje odluke o odabiru ponude čija cijena (2.058.147,34 EUR) prelazi procijenjenu vrijednost (1.752.000,00 EUR) za 17,5% - odabir je proveden temeljem čl. 298. st. 1. t. 9. ZJN 2016 (osiguranje dodatnih sredstava), ne poništenjem postupka. Nizak broj ponuda (2) za nabavu ove vrijednosti nije nužno posljedica restriktivnosti specifikacije, ali je vrijedan spomena kao kontekst za 5.3. analizu konkurentnosti."
+}

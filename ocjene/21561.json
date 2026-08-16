@@ -1,0 +1,40 @@
+{
+  "postupak_id": 21561,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriteriji za odabir ekonomski najpovoljnije ponude su precizno definirani i u potpunosti mjerljivi: cijena (90 bodova) po jasnoj matematičkoj formuli (C = CN/CP*90) i vrijeme odaziva na popravak (10 bodova) s eksplicitnom bodovnom tablicom po satnim intervalima, uz jasno definiranu granicu neprihvatljivosti ponude (preko 48 sati).",
+      "citat": "1. do 24 sata po zaprimljenom pozivu 10 2. od 25 do 36 sati po zaprimljenom pozivu 5 3. od 37 do 48 sati po zaprimljenom pozivu 0"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 3,
+      "obrazlozenje": "Formalni opis predmeta nabave u DON-u je generički (svodi se na ponavljanje naziva nabave), a zaseban dokument 'Tehničke specifikacije' je prazan stub koji upućuje isključivo na troškovnik; troškovnik pak navodi samo popis 6 uređaja (proizvođač/tip/serijski broj) bez brojčano izraženih zahtjeva servisa. Detaljniji opis opsega usluge ('Total Care': min. 1 preventivni servis godišnje, zamjena dijelova, obuka osoblja i sl.) nalazi se tek u Prijedlogu ugovora, a ne u samoj tehničkoj dokumentaciji nabave, što ukazuje na umjereno nizu razinu strukturirane specifikacije unatoč funkcionalnoj razumljivosti predmeta.",
+      "citat": "Tehničke specifikacije predmeta nabave su sadržane u samom troškovniku predmeta nabave koji je sastavni dio DON-a."
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 4,
+      "obrazlozenje": "Dostupna je cjelovita procesna dokumentacija potrebna za izradu ponude: Opći podaci, Upute za ponuditelje, Kriteriji kvalitativnog odabira, Kriteriji/obrazac za odabir ponude, Troškovnik i Prijedlog ugovora, te naknadno Zapisnik o pregledu i ocjeni i Odluka o odabiru. Dvije priložene arhive ('Prilozi.zip' i 'Prilozi (1).zip') su na disku 0 bajtova (neuspjelo preuzimanje), pa nije moguće utvrditi jesu li sadržavale dodatnu dokumentaciju - ne postoji izravan dokaz da je time izgubljen sadržaj presudan za izradu ponude, ali unosi neizvjesnost.",
+      "citat": "Elektronička ponuda mora sadržavati najmanje: Uvez ponude Popunjeni eESPD obrazac... Popunjen troškovnik... Prijedlog ugovora"
+    },
+    "prosjecna_ocjena": 4.0
+  },
+  "restriktivnost": {
+    "prisutno": true,
+    "indikatori": [
+      {
+        "opis": "Predmet nabave i sam naziv postupka eksplicitno su vezani uz konkretnog proizvođača opreme (GE Healthcare), a ne uz generičku funkcionalnu potrebu servisiranja radiološke opreme.",
+        "citat": "11-NMV-24 - Usluga servisnog održavanja radioloških uređaja GE healthcare"
+      },
+      {
+        "opis": "Ponuditelj mora dostaviti ovlast proizvođača da je ovlašten za izvršenje predmeta nabave, čime je krug potencijalnih ponuditelja sveden praktički na ovlaštene distributere/servisere jednog proizvođača.",
+        "citat": "OVLAST izdana od strane proizvođača opreme GE healthcare da je ponuditelj ovlašten za izvršenje predmeta nabave koji je naveden u troškovniku"
+      },
+      {
+        "opis": "Rezultat postupka potvrđuje nisku razinu tržišnog natjecanja - zaprimljena je samo jedna ponuda.",
+        "citat": "Broj zaprimljenih ponuda: 1"
+      }
+    ],
+    "rizik": "srednji"
+  },
+  "napomena": "Zahtjev za ovlaštenjem proizvođača djelomično je objektivno opravdan činjenicom da naručitelj već posjeduje uređaje marke GE Healthcare (servis vezan uz postojeću, već nabavljenu opremu, uobičajeno za medicinsku tehniku), no i dalje predstavlja stvaran barijeru ulasku konkurenciji, potkrijepljenu time da je zaprimljena samo jedna ponuda. Dvije priložene arhive ('Prilozi.zip', 'Prilozi (1).zip') su izvorno 0-bajtne datoteke na disku (neuspjelo preuzimanje s portala, ne artefakt ekstrakcije), pa njihov sadržaj nije bilo moguće ocijeniti."
+}

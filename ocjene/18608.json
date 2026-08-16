@@ -1,0 +1,27 @@
+{
+  "postupak_id": 18608,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij za odabir (ENP) potpuno je operacionaliziran: cijena 90% s eksplicitnom formulom C=(Cmin/Cp)x90, kvaliteta 10% (jamstveni rok na izvedene radove) s formulom J=(Jo/Jn)*10, jasno definiranim minimalnim (24 mj., 0 bodova) i maksimalnim (60 mj., 10 bodova) rasponom te pravilom za slučaj izjednačenih ponuda. Cijeli izračun ponovljen je i u Zapisniku o pregledu i ocjeni (C=90, JR=10, ENP=100), što potvrđuje da je kriterij primijenjen točno kako je najavljen.",
+      "citat": "C= (Cmin/Cp) x 90 ... J= (Jo/Jn) *10"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 5,
+      "obrazlozenje": "Predmet nabave (sanacija lukobrana u luci Poljana) opisan je pozivom na cjeloviti glavni projekt ovlaštenog inženjera s detaljnim troškovnikom po stavkama (opis rada, jedinica mjere, količina) za svaku fazu radova (pripremni radovi, iskopi, betonski radovi i dr.), što omogućuje izradu usporedivih ponuda. Specifikacija je site-specific za konkretnu građevinu, što je uobičajeno i nužno za radove, a ne poduzeta radi neopravdanog isključivanja ponuditelja.",
+      "citat": "TROŠKOVNIK RADOVA - SANACIJA MULA U POLJANI ... Obračun po m3 uklonjenog i odvezenog materijala"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dostupna je puna dokumentacija potrebna za samostalnu izradu ponude: Opći podaci o postupku, Kriteriji za kvalitativni odabir (s ESPD uputama), Upute za ponuditelje, Obavijest o nadmetanju, detaljan troškovnik, glavni projekt (tehnička specifikacija), prijedlog ugovora i obrazac izjave o jamstvenom roku. Jedina prazna datoteka u direktoriju ('APD Kali gradnja.rar') odnosi se na naknadno dostavljenu dokumentaciju odabranog ponuditelja nakon dodjele ugovora, a ne na dokumentaciju o nabavi koju je naručitelj stavio na raspolaganje ponuditeljima, pa ne umanjuje potpunost za potrebe izrade ponude.",
+      "citat": "Elektronička ponuda mora sadržavati najmanje: Uvez ponude, Popunjeni eESPD obrazac, Popunjen troškovnik..."
+    },
+    "prosjecna_ocjena": 5.0
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak"
+  },
+  "napomena": "Pročitani svi relevantni .txt dokumenti u extracted/ (obavijest o nadmetanju, kriteriji za kvalitativni odabir, opći podaci, upute za ponuditelje, kriterij za odabir ENP, troškovnik, glavni projekt, obavijest o dodjeli ugovora, zapisnik o pregledu i ocjeni). Referentni uvjet (minimalno jedan izvršeni posao vrijednosti barem u visini procijenjene vrijednosti nabave) proporcionalan je i uobičajen za radove, nije prekomjeran. Pretraga glavnog projekta (305 KB, tehnička specifikacija) na markice/proizvođače/patentirana rješenja nije pronašla indikatore prilagođenosti određenom ponuditelju - reference na 'proizvođača' su generičke (certifikati, deklaracije sukladnosti), ne imenuju konkretan proizvod ili dobavljača. Zaprimljena je samo 1 ponuda (KALI GRADNJA d.o.o., odabran s maksimalnih 100 bodova), što je uobičajeno za lokalne radove ove veličine i ne ukazuje samo po sebi na restriktivnost dokumentacije."
+}

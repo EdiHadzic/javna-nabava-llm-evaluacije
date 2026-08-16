@@ -1,0 +1,27 @@
+{
+  "postupak_id": 4825,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij odabira (ekonomski najpovoljnija ponuda) potpuno je matematički definiran: cijena 90% bodova prema eksplicitnoj formuli te dodatni kriterij iskustva stručnjaka 10% bodova prema jasnoj tablici (0/1/2/3/4 usluge = 0/2/4/8/10 bodova). Nema prostora za diskrecijsko ocjenjivanje.",
+      "citat": "C = (Cmin/Cp) x 90"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Tehnička specifikacija vrlo je detaljna (opis poslova nadzora i koordinatora ZNR, lokacija, rokovi, dokumentacija). Međutim, izvorna verzija ostavljala je stvarnu prazninu oko formiranja cijene stavke 2 troškovnika jer varijanta obrade otpada (R ili D postupak) nije bila poznata u trenutku izrade ponude, što je zahtijevalo produljenje roka za gotovo 8 mjeseci i 11 izmjena dokumentacije.",
+      "citat": "Nejasno je na koji način ponuditelj u ovom postupku može formirati cijenu za stavku 2 Troškovnika budući nije definirano koja će varijanta obrade otpadne troske biti odabrana"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 4,
+      "obrazlozenje": "Dostupan je cjelovit set dokumenata: tehnička specifikacija, kriteriji kvalitativnog odabira, kriterij za odabir ponude, troškovnik, ostale napomene (plaćanje, ugovorna kazna, GDPR, oslanjanje na sposobnost). Naručitelj je uredno odgovarao na sva pitanja ponuditelja (opsežan dokument Odgovori), iako je broj naknadnih izmjena (11) upućuje na to da dokumentacija u prvoj verziji nije bila posve samodostatna.",
+      "citat": "Detaljan opis poslova stručnog nadzora naveden je u točki 2.5.2. i 2.5.2.1. dokumenta \"Tehničke specifikacije\""
+    },
+    "prosjecna_ocjena": 4.33
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak"
+  },
+  "napomena": "Analizirani su svi ključni dokumenti u extracted/ (tehnička specifikacija, kriteriji kvalitativnog odabira, kriterij za odabir ponude, troškovnik, ostale napomene, obavijest o nadmetanju, odgovori na pitanja, odluka o odabiru, popis usluga i kvalifikacija ponuditelja). Jedini indikativni element bio je uvjet tehničke sposobnosti iz t. 5.3.1.4. koji je u jednoj fazi postupka sužen (samo nadzor nad građevinama za gospodarenje otpadom), ali je nakon prigovora ponuditelja naručitelj proširio uvjet upravo radi omogućavanja šireg tržišnog natjecanja - stoga se ne tretira kao trajna restriktivnost. Prag financijskog prometa (200.000 EUR) razmjeran je procijenjenoj vrijednosti (400.000 EUR)."
+}

@@ -1,0 +1,29 @@
+{
+  "postupak_id": 7858,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij ekonomski najpovoljnije ponude (cijena 90 %, jamstveni rok 10 %) precizno je definiran zasebnim dokumentom 'Kriteriji za odabir ponude' s eksplicitnim matematičkim formulama bodovanja za oba kriterija, jedinicom mjere (godina), dopuštenim rasponom (min 2, maks 5 godina) i pravilom za jednako rangirane ponude (vrijeme zaprimanja).",
+      "citat": "Ponuda s najnižom cijenom dobiva 90,00 bodova... Naručitelj je ograničio najviši dozvoljeni iznos za kriterij 5,00 Naručitelj je ograničio najniži dozvoljeni iznos za kriterij 2,00"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Opis predmeta nabave iznimno je detaljan (izvedbeni arhitektonski projekt s tlocrtima i shemama namještaja, opsežan troškovnik po stavkama s dimenzijama, materijalima i tehničkim karakteristikama). Ipak, jedna stavka troškovnika (metalni ormar) prvotno je sadržavala nepotrebno usko definiranu visinu od 200 cm i tehničke elemente (varena izvedba, nosivost stupova) koje je gospodarski subjekt u fazi pitanja/odgovora označio kao potencijalno isključujuće za konkurenciju; naručitelj je zahtjev prihvatio i opis ublažio prije roka za dostavu ponuda, što pokazuje i inicijalnu manjkavost i naknadnu korektivnu transparentnost.",
+      "citat": "Traženje da se nudi 200 cm je eventualno pogodovanje potencijalno samo jednom ponuđaču... Ovim putem Naručitelj odgovara kako prihvaća prijedlog gospodarskog subjekta"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dostupan je pun set dokumentacije potreban za samostalnu izradu ponude: opći podaci o postupku, upute za ponuditeljima, kriteriji kvalitativnog odabira s detaljnim ESPD uputama i načinom dokazivanja, kriteriji za odabir ponude, prijedlog ugovora, cjelovita projektna dokumentacija i troškovnik, obrasci (Prilog I i II), te objavljeni odgovori na pitanja i naknadne izmjene dokumentacije. Sve faze postupka (nadmetanje, izmjene, odluka o odabiru, zapisnik o pregledu i ocjeni, obavijest o dodjeli, izmjena ugovora) dokumentirane su i dostupne.",
+      "citat": "Elektronička ponuda mora sadržavati najmanje: Uvez ponude Popunjeni eESPD obrazac... Popunjen troškovnik"
+    },
+    "prosjecna_ocjena": 4.67
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [
+      "U izvornoj verziji troškovnika (stavka 6.3, Arhiv) zahtijevana je specifična visina metalnog ormara od 200 cm te 'čvrsta varena izvedba', što je gospodarski subjekt u pitanju naveo kao potencijalno pogodovanje samo jednom ponuđaču s obzirom na to da su na hrvatskom tržištu uobičajeni ormari visine 195 cm i montažne (sklopive), a ne varene konstrukcije. Naručitelj je zahtjev u cijelosti prihvatio i prije roka za dostavu ponuda izmijenio opis u raspon 195-200 cm, uklonio zahtjev za varenom izvedbom te standardizirao boju (RAL 7035) umjesto neodređenog 'sivo'."
+    ],
+    "rizik": "nizak"
+  },
+  "napomena": "Pročitane su sve .txt datoteke u extracted/ (30 dokumenata): Obavijest o nadmetanju, Kriteriji za odabir ponude, Kriteriji za kvalitativni odabir, Opći podaci o postupku nabave, Upute za ponuditelje, Odgovori (pitanja/objašnjenja), Odluka o odabiru (html i pdf), Obavijest o dodjeli ugovora, Obavijest o izmjeni ugovora, Prijedlog Ugovora, Zapisnik o pregledu i ocjeni (dvije verzije), Prilog 3 dokumenti (kaznena evidencija, porezni dug, izvadak iz registra), Prilozi Zapisnika, projektna dokumentacija (7375 redaka, arhitektonski projekt namještaja i opreme) i troškovnik (xlsx, 246 KB). Dokumentacija je kvalitetna i potpuna; jedini identificirani nedostatak (potencijalno restriktivna specifikacija metalnog ormara) transparentno je otkriven i otklonjen kroz standardni postupak pitanja/odgovora prije isteka roka za dostavu ponuda, što je uzeto u obzir kao snižavajući faktor za dimenziju 'razina_detalja_opisa', ali ne i kao trajna restriktivnost jer je korigirana prije podnošenja ponuda (4 ponude zaprimljene, sve od malih i srednjih poduzeća, sve ocijenjene valjanima)."
+}

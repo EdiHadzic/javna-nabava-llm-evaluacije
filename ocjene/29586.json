@@ -1,0 +1,27 @@
+{
+  "postupak_id": 29586,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriteriji su jasno i objektivno definirani. Cijena (90%) i udaljenost benzinske postaje (10%) su eksplicitno navedeni s detaljnim formulama za bodovanje. Za cijenu: ponuda s najmanjom cijenom dobiva 90 bodova, ostale se boduju prema formuli. Za udaljenost: do 3 km = 10 bodova, do 6 km = 5 bodova, više od 6 km = 0 bodova. Sve je mjerljivo i nema interpretativne nedoumice.",
+      "citat": "Ekonomski najpovoljnija ponuda utvrđuje se na temelju Cijene i kvalitete. Cijena: 90,00 Udaljenost benzinske postaje od sjedišta društva Naručitelja: 10,00"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Predmet nabave je dovoljno detaljno opisan: isporuka diesel goriva (30.000 litara) na benzinskim postajama putem bezgotovinskih kartica, kvaliteta Eurodiesel BS ili ekvivalentna. Opis omogućava usporedive ponude, ali korištenje termina 'ili jednakovrijedno' čini ga diskretno fleksibilnim bez da bude toliko uzak da isključuje razumne alternative.",
+      "citat": "Dizelsko gorivo Eurodiesel BS ili jednakovrijedno gorivo iste kvalitete. Litra. 30000. Isporuka diesel goriva na benzinskim postajama ponuditelja na području Republike Hrvatske putem bezgotovinskih kartica"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dostupna je cjelovita dokumentacija: obavijest o nadmetanju, opći podaci o postupku, kriteriji za odabir ponude, kriteriji kvalitativnog odabira, upute za ponuditelje, troškovnik, i obavijest o dodjeli ugovora. Svi potrebni elementi za samostalnu izradu ponude su prisutni, uključujući ESPD obrazac, referentne zahtjeve i dokazne dokumente.",
+      "citat": "Dokumentacija o nabavi dostupna je besplatno i može joj se u potpunosti pristupiti izravno i neograničeno na: https://eojn.hr/"
+    },
+    "prosjecna_ocjena": 4.67
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak"
+  },
+  "napomena": "Postupak je veoma transparentan s jasnim kriterijima i potpunom dokumentacijom. Kriterij udaljenosti benzinske postaje ima minimalno zawužavajući potencijal, ali je transparentan i primjenjuje se jednako na sve ponuditelje. Izraz 'ili jednakovrijedno' u specifikaciji goriva ne isključuje razumne alternative. Nema indikatora prilagođenosti specifičnom ponuditelju. Pobjednica INA d.d. je velika nacionalna naftna kompanija koja očekivano ima infrastrukturu za isporuku na cijeloj županiji."
+}

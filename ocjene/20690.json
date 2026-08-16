@@ -1,0 +1,53 @@
+{
+  "postupak_id": 20690,
+  "broj_pojedinacnih_runova": 3,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Sva tri pokretanja se u potpunosti slažu: kriterij ekonomski najpovoljnije ponude potpuno je operacionaliziran (cijena 90 bodova, jamstveni rok 10 bodova) s eksplicitnom matematičkom formulom i unaprijed fiksiranom ljestvicom bodova za jamstveni rok (12/18/24 mjeseca), a kriteriji kvalitativnog odabira gospodarskog subjekta razrađeni su po pravnoj osnovi i načinu dokazivanja. Bodovanje je time potpuno predvidivo za sve ponuditelje.",
+      "citat": "12 mjeseci = 0 bodova 18 mjeseci = 5 bodova 24 mjeseca i više= 10 bodova",
+      "runovi": [
+        5,
+        5,
+        5
+      ],
+      "slaganje": "puno"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Sva tri pokretanja identično ocjenjuju: tehnička specifikacija iznimno je detaljna i mjerljiva za svaki artikl (sirovinski sastav, površinska masa, gustoća niti, prekidna sila, otpornost na habanje, dimenzijske promjene s definiranim dozvoljenim odstupanjima ±3-5%), što omogućuje objektivnu usporedbu i provjeru ponuda (jedan ponuditelj stvarno je odbijen zbog neusklađenosti laboratorijskih rezultata sa specifikacijom). Uske tolerancije graniče s gornjom granicom konkretnosti, ali parametri odgovaraju generičkim tekstilnim standardima ostvarivim kod više proizvođača, bez upućivanja na konkretnu marku/patentirano rješenje.",
+      "citat": "SIROVINSKI SASTAV 70% pamuk 30% poliamid ± 3 VEZ ripstop (kvadrat 7 ± 1 mm x 7 ± 1 mm) POVRŠINSKA MASA 155 ± 5% PREKIDNA SILA - dužina/širina (N) 740/450 min",
+      "runovi": [
+        4,
+        4,
+        4
+      ],
+      "slaganje": "puno"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dva pokretanja (5, 5) i jedno odstupajuće (4) slažu se da je dostupna cjelovita jezgrena dokumentacija za samostalnu izradu ponude (opći podaci, upute za ponuditelje, kriteriji kvalitativnog odabira, kriteriji za odabir ponude s formulama, puna tehnička specifikacija, troškovnik po stavkama, prijedlog ugovora). Odstupajuće pokretanje (run 1) svoju nižu ocjenu temelji na nekoliko naknadnih administrativnih PDF-ova ekstrahiranih gotovo prazno. Neovisna provjera direktorija extracted/ potvrđuje da su dva od tih dokumenata (Odluka o odabiru, Zapisnik o pregledu i ocjeni) doista prazna kao .pdf.txt, ali imaju potpuno čitljive HTML/alternativne inačice u istoj mapi (Odluka o odabiru.html.txt - 3026 bajtova; Zapisnik o pregledu i ocjeni.pdf.txt - 14679 bajtova), što potvrđuje argument iz run 2/run 3 da manjkavost tih pojedinačnih datoteka nije stvarni gubitak informacije. Jedina zaista nedostupna stavka (Potvrde za stavke 1-8 troškovnika, 8 bajtova, bez duplikata) je naknadno dostavljena potvrda odabranog ponuditelja, a ne dio dokumentacije potrebne sudionicima za izradu ponude, pa ne umanjuje ocjenu potpunosti natječajne dokumentacije.",
+      "citat": "Elektronička ponuda mora sadržavati najmanje: Uvez ponude, Popunjeni eESPD obrazac, Popunjen troškovnik",
+      "runovi": [
+        4,
+        5,
+        5
+      ],
+      "slaganje": "djelomicno"
+    },
+    "prosjecna_ocjena": 4.67
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak",
+    "runovi_prisutno": [
+      false,
+      false,
+      false
+    ],
+    "slaganje": "puno"
+  },
+  "napomena": "Jezgrena natječajna dokumentacija (tehnička specifikacija .odt, troškovnik .doc, upute za ponuditelje, kriteriji) uspješno je i sadržajno ekstrahirana. Nekoliko naknadnih/administrativnih priloga (Odluka o odabiru.pdf, Zapisnik o pregledu i ocjeni ponuda.pdf, Prihvat ispravka računske pogreške.pdf) ekstrahirano je prazno ili gotovo prazno, no sadržaj većine njih dostupan je putem paralelnih HTML inačica u istoj mapi extracted/ (potvrđeno izravnim uvidom u direktorij), pa to nije umanjilo stvarnu potpunost dokumentacije za sudionike. Jedina stvarno nedostupna stavka (Potvrde za stavke 1-8 troškovnika) odnosi se na naknadno dostavljenu potvrdu odabranog ponuditelja, ne na dio dokumentacije objavljene za izradu ponude. Nema referenci na konkretnu marku/proizvođača niti nesrazmjernih pragova; zahtjev za certifikatima sukladnosti proporcionalan je predmetu nabave (zaštitna radna odjeća).",
+  "napomena_resolvera": "Jasnoća kriterija i razina detalja opisa imaju puno slaganje sva tri pokretanja i brojčano (identične ocjene 5 i 4) i sadržajno (ista argumentacija o operacionaliziranim bodovima odnosno detaljnoj ali generičkoj tehničkoj specifikaciji) - preuzete izravno. Potpunost dokumentacije imala je djelomično slaganje (4 vs 5 vs 5): budući da odstupajuće pokretanje (run 1) nije imalo jači ili konkretniji citat od druga dva, a njegov navedeni razlog za nižu ocjenu (prazni administrativni PDF-ovi) izričito je preispitan izravnim uvidom u Diplomski/Postupci/20690/extracted/ te se pokazao djelomično neutemeljenim (dva od tri sporna dokumenta imaju potpuno čitljive HTML duplikate u istoj mapi), prevagnula je bolje utemeljena i verificirana ocjena 5 iz run 2/run 3. Restriktivnost ima puno slaganje (sva tri: false/nizak, bez ijednog indikatora u bilo kojem pokretanju). Ukupna pouzdanost finalne ocjene: visoka - dvije od tri dimenzije transparentnosti i restriktivnost imaju puno slaganje, a jedino djelomično slaganje razriješeno je nezavisnom provjerom izvornih ekstrahiranih datoteka, ne mehaničkim usrednjavanjem."
+}

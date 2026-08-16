@@ -1,0 +1,27 @@
+{
+  "postupak_id": 2588,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij ENP raščlanjen je na dvije komponente s eksplicitnim matematičkim formulama, maksimalnim bodovima i pravilom za slučaj izjednačenja, što ostavlja minimalan prostor za subjektivnu ocjenu.",
+      "citat": "C = Cmin / Cp x 60 ... 90 – maksimalni broj bodova"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 2,
+      "obrazlozenje": "Tehnička specifikacija upućuje isključivo na Troškovnik, koji sadrži samo jednu stavku (relacija i okvirna količina u m3) bez ikakvih tehničkih parametara broda-vodonosca, dinamike isporuke ili standarda kvalitete; jedini tehnički zahtjev u cijeloj dokumentaciji formuliran je neodređeno.",
+      "citat": "brod-vodonosac mora biti opremljen pumpom za pitku vodu odgovarajuće snage i kapaciteta te dovoljnih količina-dužina cijevi"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 4,
+      "obrazlozenje": "Skup dokumenata je proceduralno potpun (opći podaci, kriteriji kvalitativnog odabira, upute za ponuditelje, obrasci 1-6, prijedlog ugovora, obavijest o nadmetanju) i omogućuje samostalnu pripremu ponude po administrativnoj strani; nedostaje samo dublja tehnička razrada (v. razina_detalja_opisa) koja bi mogla izazvati naknadna pitanja/pojašnjenja.",
+      "citat": "Elektronička ponuda mora sadržavati najmanje: Uvez ponude, Popunjeni eESPD obrazac, Popunjen troškovnik"
+    },
+    "prosjecna_ocjena": 3.67
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak"
+  },
+  "napomena": "Uvjet reference (najmanje jedan ugovor u vrijednosti polovice procijenjene vrijednosti nabave) i jamstvo za ozbiljnost ponude (7.000 EUR, ~2,9% procijenjene vrijednosti) proporcionalni su vrijednosti postupka (243.000 EUR) i ne ukazuju na prilagođenost određenom ponuditelju. Zaprimljena je samo jedna ponuda (MEDITERAN 2000 d.o.o.), no dokumentacija ne sadrži indikatore prilagođenosti specifičnom ponuditelju - vjerojatnije objašnjenje je uska tržišna ponuda za nišnu uslugu prijevoza vode brodom vodonoscem na otoke. Pročitane su sve .txt datoteke iz extracted/ mape (19 datoteka); nijedna nije bila prazna ili nečitljiva."
+}

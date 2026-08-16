@@ -1,0 +1,31 @@
+{
+  "postupak_id": 17654,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriteriji za odabir ponude (cijena 90 % i trajanje jamstvenog roka 10 %) definirani su potpuno jasno i u potpunosti mjerljivo, uz eksplicitne matematičke formule i bodovnu tablicu. Cijena se boduje formulom C = Cmin/Cpon*90, a trajanje jamstvenog roka bodovnom ljestvicom u rasponima mjeseci (0-24 = 0 bodova, do 48 i više = 5 bodova, uz maksimalnih 10 % značaja). Definirani su i dokazi (Izjava o trajanju jamstvenog roka) te posljedica nedostavljanja (smatra se minimalnim ponuđenim rokom) i posljedica ponude kraćeg roka od minimalnog (odbijanje ponude kao nepravilne). Nema prostora za diskrecijsku ili nejasnu ocjenu.",
+      "citat": "C = Cmin / Cpon * 90"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Opis predmeta nabave vrlo je konkretan i oslanja se na potpunu projektnu dokumentaciju (Glavni projekt, Izvedbeni projekt, Grafička situacija nadmorskih radova), s detaljnim troškovnikom koji navodi dimenzije, klase betona, frakcije materijala i norme za gotovo sve stavke. Međutim, u fazi postavljanja pitanja gospodarski subjekt je ukazao da stavka 3.5 troškovnika (opločnici od bijelog betona) nije sadržavala točne dimenzije kocke, nego uputu da se dogovaraju naknadno s investiteljem, što je naručitelj priznao kao osnovan prigovor i ispravio izmjenom troškovnika prije roka za dostavu ponuda. To pokazuje da je opis pretežno detaljan, ali nije bio besprijekoran u prvotnoj verziji.",
+      "citat": "širine i dužine u dogovoru s investitorom"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 4,
+      "obrazlozenje": "Dokumentacija o nabavi sadrži sve dijelove potrebne za samostalnu izradu ponude: Opće podatke, Upute za ponuditelje, Kriterije za kvalitativni odabir gospodarskog subjekta, Kriterije za odabir ponude, cjeloviti troškovnik (podijeljen po grupama radova s rekapitulacijom) i opsežnu projektnu dokumentaciju (glavni i izvedbeni projekt, elektroprojekt, tehnički opis, grafički prilozi). Naručitelj je omogućio i uvid u projektnu dokumentaciju na terenu. Jedan nedostatak u troškovniku (stavka 3.5) otkriven je i otklonjen kroz mehanizam pitanja/pojašnjenja (Odgovori) prije isteka roka, a rok za dostavu ponuda je sukladno tome produžen, što je sustav ispravno amortizirao.",
+      "citat": "Detaljan troškovnik se nalazi u zasebnom prilogu – Troškovnik."
+    },
+    "prosjecna_ocjena": 4.33
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [
+      "Troškovnik i tehnički opis na nekoliko mjesta navode konkretne proizvode/tipove (npr. zaštitni premaz 'SEAFLOOR 100', kit 'SIKA PRO 2HP', separator masti i ulja 'ACO OLEOPASS C NS6/60 ST1200 D400', rasvjetni stup tipa 'ORS-CK/3 Omega'), no za stavke troškovnika Dokumentacija o nabavi eksplicitno i opće dopušta ponuditi 'ili jednakovrijedno' uz dokaz jednakovrijednosti, čime se rizik isključivanja drugih ponuditelja bitno smanjuje.",
+      "Financijski prag (ukupni godišnji promet) i tehnički referentni prag (vrijednost izvedenih radova) postavljeni su na iznos jednak procijenjenoj vrijednosti nabave (219.921,16 EUR), što je uobičajena i proporcionalna razina, ne nesrazmjerno visoka.",
+      "U postupku je zaprimljeno 4 ponude od različitih gospodarskih subjekata (SUB MISSION, STIPČEVIĆ, CIBO PROMET, MINIGRADNJA) iz različitih dijelova Hrvatske, što ukazuje na stvarnu tržišnu dostupnost predmeta nabave, a ne na prilagođenost jednom unaprijed određenom ponuditelju."
+    ],
+    "rizik": "nizak"
+  },
+  "napomena": "Pročitani su svi relevantni dokumenti iz extracted/ direktorija: Opći podaci o postupku nabave, Obavijest o nadmetanju (i njezina izmjena), Kriteriji za kvalitativni odabir gospodarskog subjekta, Upute za ponuditelje, Kriteriji za odabir ponude te relativni ponder kriterija, Odgovori (pitanja/pojašnjenja), troškovnik (xls) te tehnički opis i grafički prilozi glavnog/izvedbenog projekta. Zapisnik o pregledu i ocjeni ponuda korišten je samo radi konteksta (broj i identitet ponuditelja), ne kao temelj ocjene transparentnosti/restriktivnosti. Dio grafičkih priloga (npr. GLAVNI PROJEKT_A4/A5/A6/A7, Thumbs.db) ekstrahiran je kao prazan ili gotovo prazan tekst (vjerojatno slikovni/CAD sadržaj bez teksta), ali se ne čini da sadrže informacije presudne za ocjenu tri dimenzije transparentnosti jer je isti sadržaj dupliciran u opsežnom Tehničkom opisu i Troškovniku."
+}

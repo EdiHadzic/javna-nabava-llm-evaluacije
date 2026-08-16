@@ -1,0 +1,49 @@
+{
+  "postupak_id": 1404,
+  "broj_pojedinacnih_runova": 2,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Oba pokretanja neovisno utvrđuju da je kriterij za odabir ponude (ekonomski najpovoljnija ponuda) potpuno operacionaliziran: cijena nosi 90% pondera prema eksplicitnoj matematičkoj formuli, a rok plaćanja 10% pondera prema jasnoj stupnjevanoj tablici bodovanja (0/5/10 bodova ovisno o broju dana). Podaci se dosljedno ponavljaju kroz Obavijest o nadmetanju, Upute za ponuditelje i Kriterije za odabir ponude, bez prostora za diskrecijsku ili nejasnu ocjenu.",
+      "citat": "C = (Cmin/Cp) x 90 ... 15 dana = 0 bodova, od 16 do 29 dana = 5 bodova, 30 ili više dana = 10 bodova",
+      "runovi": [
+        5,
+        5
+      ],
+      "slaganje": "puno"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Oba pokretanja slažu se da je sam tekstualni opis predmeta nabave generički (zakonski standardiziran komoditet - opskrba električnom energijom), no da Troškovnik i Tehničke specifikacije to nadoknađuju konkretnim, mjerljivim podacima: točno imenovana mjerna mjesta s adresama, tarifni modeli (VT/NT/SN) i okvirne godišnje količine po lokaciji, što omogućuje izravno usporedive ponude. Time je opis dovoljan za samostalnu izradu ponude, ali i minimalan u odnosu na maksimalnu razinu detalja.",
+      "citat": "GRADSKA KNJIŽNICA STJEPANA RADIĆA 11/B, 23000 ZADAR Crveni VT (kWh) 104000 NT (kWh) 24000 SN (kW) 500",
+      "runovi": [
+        4,
+        4
+      ],
+      "slaganje": "puno"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Oba pokretanja potvrđuju dostupnost punog i međusobno konzistentnog seta dokumentacije potrebne za samostalnu izradu ponude: kriteriji kvalitativnog odabira (s uputama o ESPD-u), kriteriji za odabir ponude, tehničke specifikacije, popunjen troškovnik s konkretnim mjernim mjestima i upute za ponuditelje s jasno navedenim minimalnim sadržajem elektroničke ponude.",
+      "citat": "Elektronička ponuda mora sadržavati najmanje: Uvez ponude Popunjeni eESPD obrazac (ili više njih, ako je primjenjivo) Popunjen troškovnik",
+      "runovi": [
+        5,
+        5
+      ],
+      "slaganje": "puno"
+    },
+    "prosjecna_ocjena": 4.67
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak",
+    "runovi_prisutno": [
+      false,
+      false
+    ],
+    "slaganje": "puno"
+  },
+  "napomena": "Dva priloga (potpisana 'ODLUKA O ODABIRU_POTPISANA.pdf' i potpisani 'ZAPISNIK O PREGLEDU I OCJENI PONUDA_POTPISAN.pdf') ekstrahirana su prazna (2 i 7 bajtova, vjerojatno skenirani potpisani PDF-ovi bez teksta pogodnog za ekstrakciju) - to su duplikatne verzije dokumenata koji su u punom tekstu dostupni u nepotpisanom/HTML obliku (Odluka o odabiru.html, Zapisnik o pregledu i ocjeni.pdf), pa nema stvarnog gubitka informacija relevantnih za ocjenu. Jedini uvjet sposobnosti izvan standardnih ESPD osnova (dozvola HERA-e za opskrbu električnom energijom, odnosno upis u odgovarajući registar) zakonski je propisan za sve opskrbljivače i nije nesrazmjeran predmetu nabave. Zaprimljena je samo jedna ponuda (HEP-Opskrba d.o.o.), no oba pokretanja to pripisuju strukturi tržišta opskrbe električnom energijom u RH, a ne posljedici restriktivne specifikacije u dokumentaciji.",
+  "napomena_resolvera": "Potpuno slaganje (slaganje: puno) na sve tri dimenzije transparentnosti (5/4/5 u oba runa) i na restriktivnost (oba false/nizak) - nije bilo potrebno samostalno čitanje izvornog teksta iz Postupci/1404/extracted/, budući da nije postojao rascjep koji bi to zahtijevao. Finalni obrazloženja sintetiziraju argumentaciju oba pokretanja; citati su preuzeti od pokretanja s preciznijim/izravnijim navodom (run_2 za jasnoća_kriterija i razina_detalja_opisa, run_1 za potpunost_dokumentacije). Razina pouzdanosti finalne ocjene: visoka."
+}

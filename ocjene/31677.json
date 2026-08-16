@@ -1,0 +1,36 @@
+{
+  "postupak_id": 31677,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij za odabir ponude (ekonomski najpovoljnija ponuda) potpuno je operacionaliziran matematičkim formulama za oba pod-kriterija (cijena 90% i jamstveni rok 10%), s jasno definiranim rasponima (min. 2, maks. 5 godina jamstva) i pravilima za granične slučajeve.",
+      "citat": "C= (Cmin/Cp) x 90 ... JR= (Jo/Jn) x 10 ... U = C+JR"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Predmet nabave (rasvjetni stupovi, konzole, sidrene košare, LED svjetiljke) opisan je vrlo precizno u troškovniku i tehničkoj specifikaciji. Visoka razina detalja olakšava usporedivost ponuda, ali tehnička specifikacija svjetiljke polazi od doslovno imenovanog komercijalnog proizvoda kao referentnog modela, što graniči s prekomjernom suženošću opisa.",
+      "citat": "Armoni mini Marex elektrostroj ste-s 3.7 2m 52w da 3000k spd cl2 01 graphit, ukupne snage sistema do maksimalno 52W ili jednakovrijednim ili boljim karakteristikama"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dostupan je pun set dokumenata potreban za samostalnu izradu ponude: opći podaci, kriteriji kvalitativnog odabira, kriteriji za odabir ponude, upute za ponuditelje, detaljan troškovnik s količinama, tehnička specifikacija svjetiljke i vizualne ilustracije.",
+      "citat": "Detaljan opis predmeta nabave naveden je u troškovniku i vizualnim ilustracijama koje se nalaze u prilogu Dokumentacije o nabavi."
+    },
+    "prosjecna_ocjena": 4.67
+  },
+  "restriktivnost": {
+    "prisutno": true,
+    "indikatori": [
+      {
+        "indikator": "Tehnička specifikacija LED urbane svjetiljke počinje imenovanjem konkretnog komercijalnog proizvoda/modela kao referentnog standarda, uz klauzulu 'ili jednakovrijedno' koja je formalno pravno usklađena, ali funkcionalno može sužavati krug potencijalnih ponuditelja.",
+        "citat": "Armoni mini Marex elektrostroj ste-s 3.7 2m 52w da 3000k spd cl2 01 graphit"
+      },
+      {
+        "indikator": "Zahtijevane dimenzije svjetiljke navedene su s preciznošću koja odgovara točno imenovanom referentnom proizvodu, što u kombinaciji s ostalim vrlo uskim parametrima otežava dokazivanje jednakovrijednosti alternativnih proizvoda.",
+        "citat": "dimenzije: fi 550x205mm"
+      }
+    ],
+    "rizik": "srednji",
+    "napomena": "Restriktivnost je ocijenjena kao srednji, a ne visok rizik jer je klauzula 'ili jednakovrijedno' eksplicitno prisutna i primjenjuje se standardni ZJN mehanizam dokazivanja jednakovrijednosti."
+  }
+}

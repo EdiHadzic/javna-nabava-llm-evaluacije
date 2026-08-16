@@ -1,0 +1,48 @@
+{
+  "postupak_id": 22634,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij ekonomski najpovoljnije ponude jasno je definiran kroz dva mjerljiva pokazatelja (cijena 90 bodova, jamstveni rok 10 bodova), s preciznom matematičkom formulom za bodovanje cijene i eksplicitnom tablicom raspona/bodova za jamstveni rok. Definirano je i pravilo za rješavanje izjednačenih ponuda (ranije zaprimljena ponuda).",
+      "citat": "Fi = (NC / CP) x 90 pri čemu su: Fi– broj bodova ponude za cijenu, CP – cijena ponude, NC - najniža cijena od svih pristiglih ponuda"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 2,
+      "obrazlozenje": "Tehnička specifikacija (Prilog 2) sadrži preko 70 vrlo uskih, konkretnih zahtjeva (točne mjere, snage, kapacitete i konstrukcijske detalje hidrauličkog sustava i mehanizma stražnjih vrata) koji nadilaze razinu funkcionalnog opisa potrebnu za usporedivost ponuda. Kombinacija uskih raspona dimenzija i vrlo specifičnih konstrukcijskih rješenja (broj i položaj hidrauličkih cilindara, način zabravljivanja vrata) ukazuje na mogućnost da opis odgovara konkretnom proizvodu jednog proizvođača, čime se sužava krug razumnih alternativa (v. restriktivnost niže).",
+      "citat": "duljina max 7700 mm - širina max 2400 mm (bez retrovizora) - visina max 3200 mm"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 4,
+      "obrazlozenje": "Dostupna je dokumentacija dostatna za samostalnu izradu ponude: opći podaci o postupku, kriteriji kvalitativnog odabira gospodarskog subjekta, kriteriji za odabir ponude, upute za ponuditelje, detaljna tehnička specifikacija, troškovnik te obrasci priloga (izjava o jamstvenom roku, izjava o prezentaciji vozila). Manji nedostatak: prilog 'Prilozi.zip' ekstrahiran je kao prazna datoteka (0 B), pa njegov sadržaj nije bilo moguće provjeriti, što ostavlja manju nesigurnost oko potpunosti popratne dokumentacije.",
+      "citat": "Detaljne tehničke specifikacije se nalaze u zasebnom prilogu. ... Detaljan troškovnik se nalazi u zasebnom prilogu – Troškovnik."
+    },
+    "prosjecna_ocjena": 3.67
+  },
+  "restriktivnost": {
+    "prisutno": true,
+    "indikatori": [
+      {
+        "opis": "Vrlo uski raspon dopuštenih vanjskih dimenzija vozila (samo gornje granice, bez donjih), tipično svojstvo modela specifičnog proizvođača komunalnih vozila.",
+        "citat": "duljina max 7700 mm - širina max 2400 mm (bez retrovizora) - visina max 3200 mm"
+      },
+      {
+        "opis": "Iznimno detaljan opis konstrukcije hidrauličkog sustava za sabijanje otpada (broj, raspored i način rada cilindara), koji opisuje konkretno inženjersko rješenje, a ne funkcionalni zahtjev.",
+        "citat": "U istresnom koritu nalaze se samo dva hidraulična cilindra, i to od rotacione potisne ploče za brže sabijanje otpada, bez dodatnih poluga"
+      },
+      {
+        "opis": "Specifičan mehanizam zabravljivanja stražnjih vrata opisan do razine konstrukcijskog detalja.",
+        "citat": "Zadnja vrata koso nagnuta i naslonjena na spremnik otpada te se kod zatvaranja (spuštanja) automatski zabravljuju kukama"
+      },
+      {
+        "opis": "Uske gornje/donje granice za tehničke parametre podvozja (nosivost osovina, snaga motora, obujam motora, okretni moment, osovinski razmak) koje zajedno sužavaju krug prihvatljivih modela.",
+        "citat": "Snaga motora min. 185 kW ... Radni obujam max. 6800 ccm ... Okretni moment max. 850 Nm ... Osovinski razmak max: 3700 mm"
+      },
+      {
+        "opis": "Zaprimljena je samo jedna ponuda, što je konzistentno s (ali samo po sebi ne dokazuje) mogućom prilagođenošću specifikacije ograničenom krugu ponuditelja/proizvoda.",
+        "citat": "Broj zaprimljenih ponuda: 1"
+      }
+    ],
+    "rizik": "srednji"
+  },
+  "napomena": "Pročitane su sve dostupne .txt datoteke u extracted/ (14 datoteka): opći podaci o postupku, kriteriji kvalitativnog odabira GS, kriteriji za odabir ponude, upute za ponuditelje, tehnička specifikacija (Prilog 2), troškovnik, prilozi 1 i 3 (izjave), obavijest o nadmetanju, obavijest o dodjeli ugovora, dva zapisnika o pregledu i ocjeni te dvije verzije odluke o odabiru (html i pdf, sadržajno identične). Jedina datoteka bez sadržaja je 'Prilozi.zip.txt' (0 B) - nepoznato što je izvorno sadržavala. Nema eksplicitnog navođenja marke/modela ili patentiranog rješenja niti nerazmjernih financijskih/referentnih pragova (traženi 1 referentni posao u visini procijenjene vrijednosti i jamstvo od 3% procijenjene vrijednosti su uobičajeni); rizik restriktivnosti proizlazi isključivo iz razine tehničke specifikacije predmeta nabave."
+}

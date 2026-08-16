@@ -1,0 +1,36 @@
+{
+  "postupak_id": 15149,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij ENP potpuno je operacionaliziran: cijena nosi 90 bodova, jamstveni rok 10 bodova, s eksplicitnom formulom za bodovanje cijene (relativno odstupanje od najniže cijene) i potpuno determinističkom tablicom bodovanja jamstvenog roka (6 razreda, od 0 do 10 bodova po mjesecima trajanja jamstva). Nema opisnih/subjektivnih potkriterija niti prostora za diskrecijsku ocjenu povjerenstva.",
+      "citat": "Bodovi za svaki od kriterija računa se na šest decimala, zaokruživanjem na više."
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Tehnička specifikacija iznimno je detaljna (tri tablice s ukupno preko 85 tehničkih parametara po terminalu polja - hardverski, softverski i komunikacijski zahtjevi s referencama na HRN EN/IEC norme), što omogućuje potpuno usporedive ponude. Ocjena nije 5 jer razina detalja graniči s uskoćom: dokumentacija dosljedno dopušta izradu 'ili jednakovrijedno' u odnosu na norme, ali Troškovnik dodatno navodi točan komercijalni tip/kataloški kod proizvođača (ABB) za sve tri stavke, što unosi element suženosti opisane u nastavku (restriktivnost).",
+      "citat": "Terminal polja mora minimalno biti u mogućnosti mjeriti dolje navedene veličine uz mogućnost podešavanja mrtvih zona mjerenja"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 4,
+      "obrazlozenje": "Dostupan je pun skup dokumenata potreban za samostalnu izradu ponude: Opći podaci, Upute za ponuditelje, Kriteriji za odabir ponude, Kriteriji za kvalitativni odabir gospodarskog subjekta, Tehnička specifikacija, Troškovnik, Prijedlog ugovora, Izjava o integritetu, Izjava o jamstvenom roku, uz naknadno objavljene Zapisnik o pregledu i ocjeni, Odluku o odabiru i Obavijest o dodjeli ugovora. Ocjena nije 5 jer je 'Prilozi.zip' ekstrahiran kao prazna (0 B) datoteka pa sadržaj tog priloga nije bilo moguće provjeriti iz raspoložive dokumentacije.",
+      "citat": "Dokumentacija o nabavi se ne naplaćuje te se može preuzeti u cijelosti na internetskoj stranici"
+    },
+    "prosjecna_ocjena": 4.33
+  },
+  "restriktivnost": {
+    "prisutno": true,
+    "indikatori": [
+      {
+        "opis": "Troškovnik za sve tri stavke navodi točan komercijalni tip/kataloški kod jednog proizvođača (ABB) umjesto isključivo funkcionalno-tehničkog opisa, iako je formalno dodano 'ili jednakovrijedan'.",
+        "citat": "Tip: ABB REF620 NBFNAANNNGAMBNN11G ili jednakovrijedan"
+      },
+      {
+        "opis": "Naručitelj izričito zabranjuje kombiniranje proizvođača/varijanti unutar iste stavke troškovnika, što dodatno sužava prostor za alternativna rješenja unutar pojedine stavke.",
+        "citat": "Za stavku Troškovnika dopušteno je nuditi robu samo jednog proizvođača i jedan tip proizvoda/robe. Nuđenje alternativnih proizvođača, varijanti ili inačica specificirane robe nije dopušteno."
+      }
+    ],
+    "rizik": "srednji"
+  },
+  "napomena": "Dokumentacija je opsežna i interno dosljedna (Opći podaci, Upute za ponuditelje, Kriteriji za odabir/kvalitativni odabir, Tehnička specifikacija, Troškovnik, Prijedlog ugovora, Zapisnik o pregledu, Odluka o odabiru i Obavijest o dodjeli međusobno se ne kose). Jedini nedostatak je prazan 'Prilozi.zip' (0 B nakon ekstrakcije), čiji sadržaj nije bilo moguće ocijeniti. Postupak sektorskog naručitelja (HEP-ODS) s vrlo visoko specificiranom tehničkom robom (releji/terminali polja) - visoka razina detalja je ovdje dijelom inherentna prirodi predmeta nabave, a ne nužno znak namjerne restriktivnosti. Rizik restriktivnosti ublažen je time što je jednakovrijednost izričito dopuštena i operacionalizirana (dokazivanje tehničkom dokumentacijom proizvođača ili izvještajem priznatog tijela, pozivom na čl. 209. st. 2. ZJN), a stvarni ishod postupka pokazuje funkcionalnu konkurenciju: zaprimljene su 3 ponude, a ugovor je sklopljen s malim/srednjim poduzetnikom (ŠARE d.o.o.) po cijeni 5,4% nižoj od procijenjene vrijednosti."
+}

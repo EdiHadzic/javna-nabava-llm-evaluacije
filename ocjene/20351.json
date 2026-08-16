@@ -1,0 +1,27 @@
+{
+  "postupak_id": 20351,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij za odabir ponude je ekonomski najpovoljnija ponuda s eksplicitno definiranom formulom i podjelom pondera (cijena 90 %, jamstveni rok na izvedene radove 10 %). Za necjenovni kriterij dana je precizna bodovna tablica (24-24 mj. = 0 bod., 25-47 = 2 bod., 48-59 = 5 bod., 60 mj. = 10 bod.) te pravilo razrješenja jednakog rangiranja (ranije zaprimljena ponuda). Nema prostora za subjektivnu ocjenu.",
+      "citat": "Ponuda s najnižom cijenom dobiva 90,00 bodova, dok se ostale ponude boduju prema formuli"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Predmet nabave (održavanje nerazvrstanih cesta) razrađen je kroz vrlo opsežan i stavkama razveden troškovnik (7 poglavlja, desetci pojedinačnih stavaka s jasnim jedinicama mjere, okvirnim količinama i tehničkim opisom izvedbe svake stavke, npr. debljine slojeva, klase betona, materijali). Postoji izričita klauzula o prihvaćanju jednakovrijednih rješenja kod referenci na marku/tip, što širi krug mogućih ponuditelja. Ocjena nije 5 jer zaseban dokument 'Tehničke specifikacije' formalno postoji ali sadržajno upućuje isključivo na troškovnik ('u cijelosti su sadržane u Troškovniku'), pa nema dodatnog samostalnog tehničkog opisa izvan troškovničkih stavaka.",
+      "citat": "Predmet troškovnika su građevinski radovi održavanja nerazvrstanih cesta na području Grada Zadra, održavanje kolnika u zimskim uvjetima i održavanje prometne signalizacije i opreme."
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dostupan je pun standardni skup dokumentacije potreban za samostalnu izradu ponude: Opći podaci o postupku, Upute za ponuditelje, Kriteriji za kvalitativni odabir gospodarskog subjekta (s detaljno razrađenim osnovama za isključenje i uvjetima sposobnosti, uklj. popis potrebnih alata/opreme), Kriteriji za odabir ponude, Troškovnik, Prijedlog okvirnog sporazuma i Prijedlog ugovora, kao i naknadno objavljeni Zapisnik o pregledu i ocjeni te Odluka o odabiru. Uvjeti jamstava (ozbiljnost, uredno ispunjenje, otklanjanje nedostataka) i rokovi plaćanja detaljno su specificirani.",
+      "citat": "Elektronička ponuda mora sadržavati najmanje: Uvez ponude Popunjeni eESPD obrazac (ili više njih, ako je primjenjivo) Popunjen troškovnik"
+    },
+    "prosjecna_ocjena": 4.67
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak"
+  },
+  "napomena": "Svi ključni dokumenti pročitani i sadržajno puni (nema praznih/OCR-neuspjelih ekstrakcija). Popis tražene tehničke opreme (5.2.2.3. u Kriterijima za kvalitativni odabir) je vrlo opsežan i specifičan po kapacitetima/nosivostima, ali ne upućuje na konkretnu marku/proizvođača, proporcionalan je opsegu (2,37 mil. EUR, 24-mjesečni okvirni sporazum za cijeli grad) i popraćen je općom klauzulom o jednakovrijednosti. U postupku su sudjelovale dvije nepovezane ponude (Ceste Zadarske županije d.o.o. i zajednica Prvi Treptač d.o.o./Filius d.o.o.) s bitno različitim cijenama (2.908.973,13 EUR naspram 2.374.648,00 EUR s PDV-om), što ukazuje na stvarnu konkurenciju, a ne na prilagodbu specifikacije jednom unaprijed određenom ponuditelju. Dokument 'Tehničke specifikacije.docx.txt' sadrži samo jednu rečenicu upućivanja na Troškovnik - to je stvaran (namjeran) sadržaj izvornog dokumenta, ne artefakt neuspjele ekstrakcije."
+}

@@ -1,0 +1,27 @@
+{
+  "postupak_id": 23071,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij za odabir ponude (Obrazac 1.) precizno definira dva podkriterija (cijena 90%, jamstveni rok 10%) s eksplicitnim matematičkim formulama za bodovanje, minimalnim uvjetom jamstvenog roka (24 mjeseca, uz odbijanje ponude ispod tog praga) i pravilom za rangiranje izjednačenih ponuda. Ne ostavlja prostora za nejasnoću ili naknadnu diskreciju naručitelja pri ocjenjivanju.",
+      "citat": "Naručitelj kao prvi kriterij određuje cijenu ponude. Ponuda s najniže ponuđenom cijenom dobiva 90 bodova, a ostale ponude se boduju prema formuli"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Tehnička specifikacija (Obrazac 2.) sadrži 28 stavki s konkretnim mjerljivim minimalnim/maksimalnim vrijednostima (dimenzije, snaga, sila prešanja, debljina lima i sl.), a naručitelj eksplicitno navodi da je opis izrađen funkcionalno, bez upućivanja na marku ili proizvođača, uz opću klauzulu 'ili jednakovrijedno' za sve norme. Ocjena nije 5 jer je većina brojčanih pragova zadana kao čvrsti minimumi/maksimumi bez tolerancije (tolerancija od ±5% dopuštena je samo za natpis/logo naručitelja, ne i za tehničke dimenzije kontejnera), što ostavlja manje prostora za alternativna, jednako funkcionalna rješenja nego što bi širi raspon dopuštao.",
+      "citat": "Naručitelj je pri izradi Dokumentacije o nabavi izbjegavao upućivanje na marku, izvor, patent i sl. te je sav materijal i oprema ... specificiran na funkcionalan način"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dokumentacija obuhvaća cjelovit i međusobno usklađen skup priloga: Opće podatke o postupku, Kriterije za kvalitativni odabir gospodarskog subjekta s uputama, Upute za ponuditelje, Kriterij za odabir ponude, Tehničku specifikaciju, Troškovnik te sve prateće obrasce izjava (jamstveni rok, rok isporuke, nepromjenjivost cijene, ovlaštenje za prodaju, popis isporuka, nepostojanje osnova za isključenje). Sve potrebno za samostalnu izradu ponude je prisutno i međusobno konzistentno (npr. Obrazac 2. i Obrazac 1. usklađeno upućuju jedan na drugi).",
+      "citat": "Tehničkim specifikacijama utvrđuju se tražene minimalne karakteristike robe koja je predmet nabave ovog postupka javne nabave"
+    },
+    "prosjecna_ocjena": 4.67
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak"
+  },
+  "napomena": "Dokumentacija dosljedno izbjegava upućivanje na marku/proizvođača i za sve norme (uklj. DIN 30722) primjenjuje opću klauzulu jednakovrijednosti (v. Opći podaci o postupku nabave, t. 3.1.2.). Referentni uvjet (isporuke u vrijednosti barem polovice procijenjene vrijednosti, 1-3 reference) razmjeran je i uobičajen, ne prekomjeran. Zaprimljena je samo jedna ponuda (TEHNIX d.o.o.), no iz zapisnika o pregledu i ocjeni ne proizlazi da je to posljedica restriktivnosti specifikacije nego vjerojatno uskog kruga proizvođača press kontejnera na tržištu; ponuda je u potpunosti udovoljila svim uvjetima. Ekstrakcija Troškovnika (.xls) sadrži samo prazan predložak (vrijednosti popunjava ponuditelj) što ne utječe na ocjenu jer stvarna ugovorena cijena (53.850,00 EUR bez PDV-a) vidljiva je iz Zapisnika o pregledu i ocjeni ponuda."
+}

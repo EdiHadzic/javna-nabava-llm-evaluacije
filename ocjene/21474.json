@@ -1,0 +1,40 @@
+{
+  "postupak_id": 21474,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij ENP potpuno je operacionaliziran: cijena 90 bodova, jamstveni rok za otklanjanje nedostataka 10 bodova, uz eksplicitnu formulu za cijenu i preciznu tablicu bodovanja jamstvenog roka po intervalima (0/2/4/6/10 bodova), s definiranim minimumom (24 mj.) i maksimumom (60 mj.) koji se uzima u obzir. Nema nejasnih ili nemjerljivih elemenata.",
+      "citat": "Minimalan jamstveni rok je 24 mjeseca, a maksimalan rok koji se uzima u obzir je 60 mjeseci."
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Predmet nabave opisan je vrlo konkretno kroz glavni projekt (tehnički opis postojećeg stanja, uzroci oštećenja, projektno rješenje) i troškovnik razrađen po stavkama s materijalima, debljinama, normama i količinama. Ocjena nije 5 jer dio stavki (rušenje/demontaža) sadrži procjene i nepoznanice svojstvene sanaciji postojeće građevine (npr. nepoznata debljina termoizolacije, procjena 15% površine pročelja), što je uobičajeno ali unosi manju neizvjesnost za ponuditelje.",
+      "citat": "Radovi na skidanju postojećih slojeva krovišta... nepoznata debljina termoizolacije i nepoznata debljina padnih betona."
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dostupan je pun set dokumentacije potreban za samostalnu izradu ponude: opći podaci, upute za ponuditelje, kriteriji kvalitativnog odabira i odabira ponude, glavni projekt s tehničkim opisom i grafičkim prilozima, detaljan troškovnik u izvornom formatu, prijedlog ugovora te objavljeni odgovori na pitanja gospodarskih subjekata. Jedina praznina je 'Prilozi.zip' koji se ekstrahirao kao prazan (0 bajtova, poznati artefakt ekstrakcije), no sadržajni dokumenti nedostupni nisu identificirani kao kritični.",
+      "citat": "Elektronička ponuda mora sadržavati najmanje: Uvez ponude, Popunjeni eESPD obrazac, Popunjen troškovnik."
+    },
+    "prosjecna_ocjena": 4.67
+  },
+  "restriktivnost": {
+    "prisutno": true,
+    "indikatori": [
+      {
+        "opis": "U troškovniku (stavka 4.1., fasaderski radovi) naveden je konkretan komercijalni proizvod kao referenca za mehaničke pričvrsnice ETICS sustava, umjesto isključivo generičkog tehničkog opisa.",
+        "citat": "Proizvod kao EJOT STR U pričvrsnica, univerzalna pričvrsnica za beton, punu i šuplju opeku, šuplje građevinske elemente i porobeton"
+      },
+      {
+        "opis": "Rizik brendiranja ublažen je općom odredbom o jednakovrijednosti koja se izričito primjenjuje na sve upute na marku/izvor u dokumentaciji, pa gospodarski subjekt smije nuditi jednakovrijedno rješenje uz odgovarajući dokaz sukladnosti.",
+        "citat": "smatra se da gospodarski subjekt može nuditi jednakovrijedno... mora dostaviti dokazno sredstvo o sukladnosti ponuđenog proizvoda"
+      },
+      {
+        "opis": "Referentni uvjet (zbroj vrijednosti najviše 3 izvedena rada u zadnjih 5 godina mora doseći procijenjenu vrijednost nabave) proporcionalan je uobičajenoj praksi za radove ove veličine i nije procijenjen kao neproporcionalno restriktivan.",
+        "citat": "Zbroj vrijednosti (bez PDV-a) najviše 3 (tri) izvršena rada mora biti minimalno u visini procijenjene vrijednosti nabave."
+      }
+    ],
+    "rizik": "nizak"
+  },
+  "napomena": "Pročitani su svi relevantni dokumenti u extracted/ (opći podaci, upute za ponuditelje, kriteriji kvalitativnog odabira, kriteriji odabira ponude, obavijest o nadmetanju, glavni projekt/tehnička specifikacija, troškovnik, odgovori na pitanja, zapisnik o pregledu i ocjeni, odluka o odabiru, obavijest o dodjeli). Postupak je zaprimio samo jednu ponudu (KREKIĆ AVANGARD d.o.o.), po cijeni cca. 13,6% iznad procijenjene vrijednosti; to je vjerojatnije posljedica uske ponude na tržištu za sanaciju zaštićene građevine (uključen konzervatorski nadzor) nego dokaz restriktivnosti specifikacije, budući da konkretni indikatori prilagodbe specifičnom ponuditelju nisu pronađeni izvan jedne granične reference na marku koja je pokrivena općom klauzulom jednakovrijednosti."
+}

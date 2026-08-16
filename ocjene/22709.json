@@ -1,0 +1,27 @@
+{
+  "postupak_id": 22709,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriteriji za odabir ponude (cijena 40 %, specifično iskustvo ključnog stručnjaka 60 %) potpuno su precizno definirani, uz eksplicitnu matematičku formulu za cijenu i fiksnu bodovnu tablicu za iskustvo (0-6 usvojenih planova = 0-60 bodova, linearno po 10 bodova). Identičan, nedvosmislen sustav ponovljen je za svih 5 grupa predmeta nabave, bez prostora za diskrecijsko tumačenje.",
+      "citat": "Ponuda s najnižom cijenom dobiva 40,00 bodova, dok se ostale ponude boduju prema formuli, u odnosu na najbolju vrijednost."
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 2,
+      "obrazlozenje": "Opis predmeta nabave u dokumentaciji svodi se na upućivanje na zakonski okvir i odluku o izradi plana, bez konkretizacije sadržaja/opsega/faza izrade. Zaseban dokument 'Tehničke specifikacije' (za Grupu 2) sadrži svega jedan rečenični paragraf koji samo ponavlja naziv postupka i upućuje na zakon i odluku o izradi - nema stvarnih tehničkih zahtjeva, elemenata plana, opsega grafičkih/tekstualnih priloga ni faza izrade koje bi ponuditelju omogućile precizno planiranje ponude.",
+      "citat": "Odabrani ponuditelj je obvezan provesti postupak Izrade Urbanističkog plana uređenja sportsko-rekreacijske i ugostiteljsko-turističke zone Lojkova punta (uvala Sveti Duh) (UPU13) putem elektroničkog sustava \"ePlanovi\""
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 3,
+      "obrazlozenje": "Administrativni dio dokumentacije (Upute za ponuditelje, Kriteriji za kvalitativni odabir, ESPD upute, uvjeti jamstva) vrlo je opsežan i potpun. Međutim, troškovnik po grupi sveden je na jednu paušalnu stavku ('usluga', količina 1) bez ikakve razrade po fazama/elementima plana, što u kombinaciji s minimalnim tehničkim specifikacijama (v. gore) ponuditelju ne omogućuje samostalnu, detaljno obrazloženu izradu ponude - dokumentacija je potpuna proceduralno, ali nepotpuna sadržajno/tehnički.",
+      "citat": "Izmjene i dopune Urbanističkog plana uređenja naselja Kolanjski Gajac usluga 1 Ukupna cijena bez PDV-a:"
+    },
+    "prosjecna_ocjena": 3.33
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak"
+  },
+  "napomena": "Pročitano svih relevantnih .txt datoteka iz extracted/ (Opći podaci, Obavijest o nadmetanju, Kriteriji za kvalitativni odabir, Kriteriji za odabir ponude, Upute za ponuditelje, Tehničke specifikacije, Troškovnik, Izjava o specifičnom iskustvu, Odluka o odabiru za Grupu 1). Postupak je podijeljen u 5 grupa (izrada/izmjene prostornih i urbanističkih planova Općine Kolan) s identičnom strukturom kriterija. Traženi ključni stručnjak (ovlašteni arhitekt urbanist) proporcionalan je vrsti usluge i zakonski je nužna kvalifikacija; ljestvica bodovanja iskustva (0-6 planova) počinje od 0 bodova bez eliminacijskog minimuma; postupak je privukao 4 ponuditelja u Grupi 1 (Lipovac i Partneri, Zona kvadrat, Jurcon Projekt, Planopolis), nijedna ponuda nije isključena, a odabrana ponuda ostvarila je i najnižu cijenu i maksimalan broj bodova za iskustvo - nema naznaka prilagođenosti specifikacije jednom ponuditelju. Datoteka 'PRESUDA_VUS.pdf.txt' u direktoriju odnosi se na potpuno nepovezani spor (Koprivničke vode d.o.o., izgradnja sustava odvodnje Sokolovac) - očito pogrešno pridružena ovom postupku tijekom prikupljanja dokumentacije, stoga nije korištena kao dokaz za ocjenu ovog postupka (22709, Općina Kolan)."
+}

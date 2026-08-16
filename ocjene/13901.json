@@ -1,0 +1,30 @@
+{
+  "postupak_id": 13901,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij za odabir ponude (ekonomski najpovoljnija ponuda) razrađen je u zasebnom dokumentu 'Kriteriji za odabir ponude' s potpuno eksplicitnim, matematički definiranim formulama bodovanja za oba pod-kriterija (cijena 90 bodova, jamstveni rok 10 bodova), uključujući minimalne/maksimalne dozvoljene vrijednosti, jedinicu mjere i broj decimala pri zaokruživanju. Nema prostora za subjektivnu interpretaciju.",
+      "citat": "Bodovi za svaki od kriterija računa se na šest decimala, zaokruživanjem na više."
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Tehnička specifikacija transformatora, SN sklopnih blokova i betonskog kućišta iznimno je detaljna (norme, dimenzije, materijali, ispitivanja) i omogućuje usporedive ponude - potvrđeno time da je pristiglo 3 ponude. Međutim, troškovnik (stavka 5, niskonaponski blok) navodi konkretan tip proizvoda bez formulacije 'ili jednakovrijedno', za razliku od gotovo svih ostalih markiranih proizvoda u istom dokumentu (npr. Končar, Raychem, Hauff-Technik, Tyco, Metal-product), gdje je ta formulacija dosljedno prisutna. Ta jedna nedosljednost blago snižava ocjenu ove dimenzije unatoč inače vrlo visokoj razini detalja.",
+      "citat": "Niskonaponski blok tip NBO1-10-PS-1600 Niskonaponski sklopni blok industrijske izvedbe, dimenzija 1209x345x2050 mm..."
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dokumentacija o nabavi sadrži sve elemente potrebne za samostalnu izradu ponude: opće podatke, kriterije kvalitativnog odabira s detaljno razrađenim pravnim osnovama/pitanjima/dokazima za svaku stavku, tehničke specifikacije za sva tri predmeta nabave (transformator, SN blok, betonsko kućište), troškovnik i upute za ponuditelje. Naručitelj je uz to kroz opsežan niz odgovora na pitanja (16+ pitanja) aktivno uskladio proturječnosti između dokumenata (npr. Upute za ponuditelje vs. Kriteriji kvalitativnog odabira, terminologija 'ili jednakovrijedno') prije roka za dostavu ponuda, čime je dokumentacija na kraju postupka bila usklađena sa ZJN-om.",
+      "citat": "Naručitelj je prihvatio prijedlog i izmijenio dokumentaciju."
+    },
+    "prosjecna_ocjena": 4.67
+  },
+  "restriktivnost": {
+    "prisutno": true,
+    "indikatori": [
+      "Troškovnik, stavka 5 (Niskonaponski blok): naveden konkretan tip 'NBO1-10-PS-1600' bez izraza 'ili jednakovrijedan', za razliku od svih ostalih markiranih proizvoda u troškovniku (Končar, Raychem, Hauff-Technik, Tyco, Metal-product), koji dosljedno sadrže tu formulaciju.",
+      "Troškovnik općenito referencira brojne konkretne proizvođače i tipove opreme (Končar D&ST 6TBNO 1000-24x/AAA, zaštitni relej SigmaXS, RICS 5133 RAYCHEM, RSES-5227-CEE01 RAYCHEM, POLT-24D/1XI-NL, Metal-product KSAB/KSB-C serija, Hauff-Technik HSI 150-D3/58) - iako gotovo svi imaju popratni 'ili jednakovrijedan', gustoća imenovanih brendova u kombinaciji sa specifičnim modelima ide u prilog dobavljaču koji već posjeduje odgovarajuću referentnu dokumentaciju za točno te modele."
+    ],
+    "rizik": "srednji"
+  },
+  "napomena": "Sve .txt datoteke u extracted/ bile su čitljive i sadržajno potpune (bez praznih/OCR-neuspjelih ekstrakcija). Postupak je zaprimio 3 ponude (2 od MSP-a), što relativizira rizik restriktivnosti - tržište je ipak odgovorilo s više ponuditelja unatoč uočenoj nedosljednosti u troškovniku. Naručitelj je pokazao izrazito visoku razinu responzivnosti na pitanja ponuditelja tijekom postupka (svih ~18 primjedbi prihvaćeno i dokumentacija ažurirana), što je snažan pozitivan signal transparentnosti procesa, premda i ukazuje da je izvorna dokumentacija prije izmjena sadržavala niz manjih pravnih/uskladbenih nedostataka."
+}

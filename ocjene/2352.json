@@ -1,0 +1,36 @@
+{
+  "postupak_id": 2352,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij ENP ima jasno razrađenu formulu za cijenu i detaljne bodovne pragove za svaki od tri kriterija kvalitete (specifično iskustvo stručnjaka 1/2/3), s eksplicitnim tablicama broj projekata → broj bodova, potpuno mjerljivo i provjerljivo iz životopisa.",
+      "citat": "Ponuda s najniže ponuđenom cijenom dobiva 30 bodova, a ostale ponude se boduju prema formuli: C = (Cmin/Cpp) x 30"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Tehnička specifikacija detaljno opisuje ciljeve, metodologiju rada (analiza, teren, intervjui, radionice) i šestofaznu dinamiku izvršenja s konkretnim rokovima i formatima isporuke, bez vezivanja uz određeni proizvod/tehnologiju; nešto generičniji opis samih analitičkih metoda ostavlja prostor tumačenju.",
+      "citat": "Faza 1 - U roku od 120 kalendarskih dana od dana stupanja na snagu ugovora dostaviti naručitelju Nacrt Strategije razvoja turizma Zadarske županije do 2030. godine"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dostupan je cjelovit paket: opći podaci, tehnička specifikacija, troškovnik s formulama, kriteriji kvalitativnog odabira s ESPD uputama, upute za ponuditelje, obrasci (Prilog 1 popis usluga, Prilog 2 izjava o stručnjacima, Prilog 3 životopis, Prilog 4 prijedlog ugovora) te objavljeni odgovori na pitanja - dovoljno za samostalnu izradu ponude.",
+      "citat": "Elektronička ponuda mora sadržavati najmanje: Uvez ponude Popunjeni eESPD obrazac (ili više njih, ako je primjenjivo) Popunjen troškovnik"
+    },
+    "prosjecna_ocjena": 4.67
+  },
+  "restriktivnost": {
+    "prisutno": true,
+    "indikatori": [
+      {
+        "opis": "Izvorno objavljeni kriterij kvalitativnog odabira ograničavao je relevantno iskustvo stručnjaka isključivo na strateške akte prema Zakonu o strateškom planiranju u upravljanju razvojem RH, što je više gospodarskih subjekata prigovorilo kao neproporcionalno usko i protivno načelu tržišnog natjecanja.",
+        "citat": "preusko specificirano te ... samo uski krug zainteresiranih gospodarskih subjekata može konkurirati u navedenom javnom nadmetanju"
+      },
+      {
+        "opis": "Naručitelj je nakon prigovora dva puta proširio i potom potpuno redefinirao kriterije (prvo na EU, zatim na sve države svijeta, potom izmijenio i sam kriterij za odabir ponude), čime je izvorna restriktivnost prije zatvaranja natječaja uklonjena.",
+        "citat": "Naručitelj je razmotrio zahtjeve i obrazloženja gospodarskog subjekta te izmjenio kriterije za kvalitativni odabir gospodarskog subjekta"
+      }
+    ],
+    "rizik": "nizak"
+  },
+  "napomena": "Svi relevantni dokumenti (obavijest o nadmetanju, izmjena, kriteriji kvalitativnog odabira, kriterij za odabir ponude - izmjena, tehnička specifikacija, troškovnik, upute za ponuditelje, prilozi 1-4, odgovori, odluka o odabiru, obavijest o dodjeli) pročitani su i čitljivi bez OCR problema. Postupak pokazuje funkcionalan mehanizam pitanja/pojašnjenja: prvotno preusko definiran kriterij iskustva stručnjaka ispravljen je nakon prigovora gospodarskih subjekata prije isteka roka za dostavu ponuda, rezultat - 10 zaprimljenih ponuda (9 od malih/srednjih poduzeća), ugovor sklopljen s Alcina d.o.o. po cijeni 31.576,00 EUR bez PDV-a (za 50,7% ispod procijenjene vrijednosti od 64.000,00 EUR)."
+}

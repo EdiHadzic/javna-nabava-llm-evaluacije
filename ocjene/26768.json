@@ -1,0 +1,47 @@
+{
+  "postupak_id": 26768,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij za odabir ponude je ekonomski najpovoljnija ponuda s potpuno eksplicitnom, matematičkom formulom za cijenu (90%) i jasnom bodovnom ljestvicom za rok isporuke (10%), bez prostora za subjektivnu prosudbu naručitelja.",
+      "citat": "Cijena 90% Formula: P = Pn / Pr * 90 ... Rok isporuke 10% ... Isporuka u roku od 0 do 12 sati: 10 bodova"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 3,
+      "obrazlozenje": "Troškovnik je iznimno detaljan za svih 19 grupa (dimenzije, materijali, mehanička svojstva), no više stavki u grupama 3, 5 i 17 opisuje proizvod pomoću patentirane tehnologije ili izravnog zaštićenog imena (BioGlue, Vascustatt, DST tehnologija) umjesto funkcionalnih/generičkih karakteristika, čime opis prelazi iz 'dovoljno konkretnog' u potencijalno prezak za dio grupa.",
+      "citat": "Mrežica titanizirana, patentiranom nano-tehnologijom titan-oksid povezan kovalentnom vezom s polipropilenom, 35gr/m2 i za intraperitonealnu primjenu 6x11"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dokumentacija sadrži sve elemente potrebne za samostalnu izradu ponude: Opće podatke, Kriterije za kvalitativni odabir s ESPD uputama, opsežne Upute za ponuditelje, Prijedlog ugovora, Obrazac ponude (Prilog 1) i pun troškovnik za svaku od 19 grupa; naručitelj je odgovorio i na postavljeno pitanje ponuditelja.",
+      "citat": "Popunjeni eESPD obrazac (ili više njih, ako je primjenjivo) Popunjen troškovnik Troškovnik"
+    },
+    "prosjecna_ocjena": 4.33
+  },
+  "restriktivnost": {
+    "prisutno": true,
+    "indikatori": [
+      {
+        "opis": "Izravno zaštićeno komercijalno ime proizvoda (tkivno ljepilo) navedeno u tehničkoj specifikaciji, bez ikakve 'ili jednakovrijedno' klauzule u cijeloj dokumentaciji (Grupa 17)",
+        "citat": "lopaticom za nanošenje tankog sloja tkivnog dvokomponentnoig ljepila (GLUTARALDEHID I ALBUMIN GOVEĐE PLAZME) BioGlue"
+      },
+      {
+        "opis": "Izravno zaštićeno komercijalno ime za bulldog kleme u tehničkoj specifikaciji (Grupa 17)",
+        "citat": "Bulldog kleme, Vascustatt,PVC, ravne i pod kutem, u 6 različitih potisnih snaga od 10-175 grama"
+      },
+      {
+        "opis": "Zahtjev za patentiranom, jednim proizvođačem zaštićenom tehnologijom ('DST tehnologija') kao obveznim svojstvom kroz gotovo cijelu grupu staplera (Grupa 5, ponavlja se u 20+ stavki)",
+        "citat": "sa plavom staplicom visine 3.5 mm ili zelenom staplicom visine 4.8 mm, sa DST tehnologijom, zakrivljeni sa zaokretnom glavom"
+      },
+      {
+        "opis": "Eksplicitno patentirana nano-tehnologija kao obvezno svojstvo kroz cijelu grupu kirurških mrežica (Grupa 3, sve stavke)",
+        "citat": "Mrežica titanizirana, patentiranom nano-tehnologijom titan-oksid povezan kovalentnom vezom s polipropilenom, 35gr/m2"
+      },
+      {
+        "opis": "Sustavni nedostatak klauzule jednakovrijednosti: pretraga cijele dokumentacije (Upute za ponuditelje, Kriteriji, troškovnici) pokazuje da se 'jednakovrijedno' spominje isključivo uz dokaze sposobnosti (ESPD/rješenja), a nikad uz brendirane/patentirane tehničke specifikacije iz gornjih točaka, što je odstupanje od zahtjeva čl. 200. ZJN2016"
+      }
+    ],
+    "rizik": "srednji"
+  },
+  "napomena": "Pročitane sve relevantne .txt datoteke iz extracted/ (Opći podaci, Kriteriji za kvalitativni odabir, Kriterij za odabir ponude, Tehničke specifikacije, Prijedlog ugovora, Prilog 1, Odgovori, svih 19 troškovnika, te ciljano pretraženi Upute za ponuditelje i Obavijest o dodjeli ugovora). 14 identičnih 'Zapisnik o pregledu i ocjeni' PDF-ova (isti sadržaj, 75.529 B) i 13 praznih 'Prilozi.zip' datoteka nisu pojedinačno čitani jer ne nose dodatnu informaciju za ocjenu transparentnosti/restriktivnosti. Kontrolna provjera broja zaprimljenih ponuda po grupama pokazuje 2 ponude u svim provjerenim grupama (uključujući i one s patentiranim/brendiranim specifikacijama), što ublažava, ali ne isključuje, rizik restriktivnosti utvrđen na razini teksta specifikacije."
+}

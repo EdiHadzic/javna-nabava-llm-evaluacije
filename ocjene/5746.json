@@ -1,0 +1,36 @@
+{
+  "postupak_id": 5746,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij odabira je ekonomski najpovoljnija ponuda s eksplicitnom matematičkom formulom za bodovanje cijene (90% udjela) i jasnom tablicom bodovanja duljine jamstvenog roka (10% udjela, raspon 2-5 godina), uz precizno definiran maksimalan broj bodova i način rangiranja u slučaju izjednačenja.",
+      "citat": "broj bodova = najniža cijena ponude / cijena ponude * 90"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 5,
+      "obrazlozenje": "Predmet nabave popraćen je punim glavnim projektom (tehnički opis, proračun mehaničke otpornosti, program kontrole kvalitete, nacrti s mjerilima) i troškovnikom raščlanjenim po stavkama s obračunskim jedinicama (kg, m2, kom), navedenim kvalitetama materijala (S355, AISI 316) i normama (HRN EN ISO 12944), što omogućuje usporedivu izradu ponude bez nepotrebnog suženja kruga ponuditelja.",
+      "citat": "Vozna površina čeličnih rampi izvodi se od lima debljine 15 mm osim u prva 3 polja gdje je debljine 20 mm. Lim vozne površine je kvalitete S355."
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dostupna je cjelovita dokumentacija: opći podaci o postupku, kriteriji za kvalitativni odabir s uputama za ESPD, kriteriji za odabir ponude, obrasci, prijedlog ugovora, troškovnik i puni glavni projekt s nacrtima - dovoljno za samostalnu izradu ponude bez dodatnih pojašnjenja (potvrđeno time da je zaprimljeno 4 valjane ponude).",
+      "citat": "TEHNIČKI OPIS PRORAČUN MEHANIČKE OTPORNOSTI I STABILNOSTI PROGRAM KONTROLE I OSIGURANJA KVALITETE POSEBNI TEHNIČKI UVJETI I GOSPODARENJE OTPADOM TROŠKOVNIK"
+    },
+    "prosjecna_ocjena": 5.0
+  },
+  "restriktivnost": {
+    "prisutno": true,
+    "indikatori": [
+      {
+        "opis": "Tehnički opis referira konkretan komercijalni proizvod za sidrene vijke bez izričite formulacije 'ili jednakovrijedno' uz samu referencu (iako opći dio dokumentacije o nabavi sadrži generičku klauzulu o jednakovrijednosti za norme).",
+        "citat": "dodatno pričvršćivanje dostupnog ruba sidrenim vijcima tipa kao npr. Fischer FAZ II 20/60"
+      },
+      {
+        "opis": "Tehnički opis referira konkretan komercijalni naziv premaza za protukliznu zaštitu vozne površine, opisan kao primjer ('kao'), bez izravno pridružene formulacije o jednakovrijednosti.",
+        "citat": "Voznu površinu čelične rampe treba premazati prutokliznim premazom kao „Bimagrip” s granulatom 5 mm"
+      }
+    ],
+    "rizik": "nizak"
+  },
+  "napomena": "Pročitane su sve relevantne .txt datoteke u extracted/ (opći podaci, kriteriji za kvalitativni odabir, kriteriji za odabir ponude, obavijest o nadmetanju, glavni projekt s tehničkim opisom i troškovnikom, zapisnik o pregledu i ocjeni, obavijest o dodjeli ugovora). Dokumentacija je iznimno kvalitetna i potpuna za ovaj postupak (radovi male vrijednosti, 4 zaprimljene ponude, sve prošle provjeru osnova za isključenje). Dva brand-reference indikatora u tehničkom opisu (Fischer, Bimagrip) su formulirana kao primjer ('kao', 'tipa kao npr.') a ne kao isključivi zahtjev, i postoji opća klauzula o jednakovrijednosti u dokumentaciji o nabavi za norme - stoga procijenjen nizak rizik restriktivnosti unatoč prisutnosti indikatora."
+}

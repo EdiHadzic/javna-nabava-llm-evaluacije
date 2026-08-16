@@ -1,0 +1,45 @@
+{
+  "postupak_id": 22792,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij ENP (cijena 90 %, jamstveni rok 10 %) potpuno je operacionaliziran: precizna formula bodovanja cijene (najniža cijena = max bodova, ostale relativno), te eksplicitna tablica bodova za jamstveni rok (24-60 mjeseci, koraci po 12 mjeseci, s definiranim min/max granicama). Nema prostora za diskrecijsko tumačenje.",
+      "citat": "Ponuda s najnižom cijenom dobiva 90,00 bodova... Vrijednost od 24,00 do 24,00 = 0,00 bodova... od 60,00 do 60,00 = 10,00 bodova"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Opis predmeta vrlo je detaljan (troškovnik s tipom, materijalom, normama za svaku stavku; projektna dokumentacija, nacrti). Ipak, postupak pojašnjenja otkrio je više nedosljednosti između izvedbenog projekta i troškovnika (npr. neusklađen opis rešetke slivnika, dvije verzije habajućeg sloja asfalta) koje su zahtijevale naknadna razjašnjenja i jednu izmjenu troškovnika, što ukazuje na dobar, ali ne besprijekoran stupanj detalja u izvornoj dokumentaciji.",
+      "citat": "Stavka D) OBORINSKA ODVODNJA, 4.4. Opis stavke ne odgovara detalju iz glavnog projekta... Prema čemu će se izvoditi radovi prema izvedbenom projektu ili troškovniku?"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 4,
+      "obrazlozenje": "Dostupan je pun set dokumentacije potreban za samostalnu izradu ponude: opći podaci, upute za ponuditelje, kriteriji (kvalitativni odabir i odabir ponude), tehnički certifikati materijala, geodetska situacija, nacrti ceste i vodovoda/kanalizacije, prijedlog ugovora, izmijenjeni troškovnik nakon pojašnjenja te monterska shema hidranata. Umanjenje ocjene zbog jedne priložene arhive (PROJEKTI JURJA DOBRILE.7Z) koja se u ekstrakciji pokazala potpuno praznom (0 bajtova), pa nije moguće potvrditi je li sadržavala dodatne, drugdje nedostupne informacije.",
+      "citat": "Naručitelj stavlja na raspolaganje u EOJN RH izmijenjeni troškovnik (Troškovnik - I izmjena) koji su ponuditelji obvezni popuniti i dostaviti u svojoj ponudi."
+    },
+    "prosjecna_ocjena": 4.33
+  },
+  "restriktivnost": {
+    "prisutno": true,
+    "indikatori": [
+      {
+        "opis": "Vodovodne cijevi (VODOVOD 1. i 2. faza, st. 5.1.) specificirane s izravnom referencom na proizvođača PAM Saint-Gobain (Francuska), tip NATURAL klase 40, uz dodatak 'ili jednakovrijedno' u opisu norme.",
+        "citat": "Tip: Duktilne željezne cijevi... Proizvođač: PAM Saint-Gobain, Francuska"
+      },
+      {
+        "opis": "Kanalizacijski poklopci (više stavki kroz FEKALNA i OBORINSKA 1./2. faza) referenciraju proizvođača Istikamet uz zahtjev za certifikat sukladnosti 'ili jednakovrijedno'.",
+        "citat": "Tip: Poklopac fi 600 D400... Proizvođač: Istikamet"
+      },
+      {
+        "opis": "PEHD kanalizacijske cijevi (FEKALNA 1./2. faza, st. 5.1./5.1.1.) referenciraju proizvod Ecopal proizvođača Polieco (Italija).",
+        "citat": "Tip: Ecopal SN8, sa spojnicom i brtvom... Proizvođač: Polieco, Italia"
+      },
+      {
+        "opis": "Revizijska okna DN1000 (FEKALNA/OBORINSKA 1./2. faza) referenciraju proizvođača Aplast, tip 'Kanalizacijska okna 5G sa dvojnim dnom'.",
+        "citat": "Tip: Kanalizacijska okna 5G sa dvojnim dnom... Proizvođač: Aplast"
+      }
+    ],
+    "rizik": "srednji",
+    "napomena_restriktivnost": "Svi navedeni proizvodi popraćeni su zakonski obveznom klauzulom jednakovrijednosti ('ili jednakovrijedno') i dokumentacija eksplicitno propisuje postupak dokazivanja jednakovrijednosti (dokazno sredstvo o sukladnosti), što je u skladu sa ZJN 2016. Ipak, dosljedno navođenje po jednog konkretnog proizvođača za svaku vrstu materijala kroz cijeli troškovnik (a ne generičkih tehničkih parametara) predstavlja prepoznatljiv obrazac potencijalne negativne selekcije. Rizik je ublažen stvarnim ishodom postupka: zaprimljeno je 6 ponuda, a ugovorena vrijednost (745.310,76 EUR) je 17,2 % niža od procijenjene, što ne upućuje na stvarni isključujući učinak u ovom slučaju."
+  },
+  "napomena": "Tehnička dokumentacija ('Dokumentacija za Jurja Dobrile.pdf') sastoji se od certifikata i izjava o svojstvima proizvoda (OCR kvaliteta teksta slaba, s brojnim artefaktima prepoznavanja znakova, ali dovoljno čitljiva za identifikaciju proizvođača i normi). Jedna priložena arhiva (PROJEKTI JURJA DOBRILE.7Z) ekstrahirana je kao potpuno prazna (0 bajtova) - poznato ograničenje pipeline-a (v. CLAUDE.md, limitacija #7), nije moguće utvrditi je li nedostajući sadržaj bio presudan. Postupak je završen s 6 zaprimljenih ponuda i ugovaranjem po cijeni nižoj od procijenjene vrijednosti, što je konzistentno s primjerenom razinom transparentnosti unatoč umjerenom riziku restriktivnosti."
+}

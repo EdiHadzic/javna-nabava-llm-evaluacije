@@ -1,0 +1,30 @@
+{
+  "postupak_id": 6279,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij odabira (ekonomski najpovoljnija ponuda) potpuno je operacionaliziran matematičkim formulama i bodovnim tablicama za oba pokazatelja (cijena 80 %, jamstveni rok 20 %), uz jasan minimalni prag i eksplicitnu tablicu bodovanja po godinama jamstva, što omogućuje objektivnu i unaprijed predvidivu provjerljivost bodovanja.",
+      "citat": "Jamstveni rok Broj bodova 2 godine 0 3 godine 10 4 i više godina 20"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Tehnička specifikacija (sadržana u Troškovniku, Prilog 1.) vrlo je detaljna - 30 numeriranih stavki s konkretnim mjerljivim parametrima (dimenzije, napajanje, kapacitet diska, rezolucija monitora, broj USB priključaka i dr.), što omogućuje usporedivost ponuda. Ocjena nije 5 jer barem jedna stavka (kamera/objektiv) navodi konkretne komercijalne modele umjesto isključivo funkcionalnih zahtjeva, čime opis prelazi u područje potencijalne restriktivnosti (v. niže).",
+      "citat": "Računalo sa operativnim sistemom Windows, bazom podataka, pohranom najmanje 2 tvrda diska s minimalno 4 TB svaki"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 4,
+      "obrazlozenje": "Dostupna je cjelovita dokumentacija potrebna za samostalnu izradu ponude: opći podaci o postupku, kriteriji kvalitativnog odabira gospodarskog subjekta, kriteriji za odabir ponude, upute za ponuditelje, tehnička specifikacija/troškovnik i obrazac izjave o jamstvenom roku. Ocjena nije 5 jer je 'Prilozi.zip' ekstrahiran kao prazan (0 znakova) pa sadržaj tog priloga (moguće dodatni obrasci) nije bilo moguće provjeriti u sklopu ove ocjene.",
+      "citat": "Opis predmeta nabave potpuno je utvrđen u Tehničkoj specifikaciji (PRILOG 1.), u kojem su detaljno opisane minimalne karakteristike traženog predmeta nabave."
+    },
+    "prosjecna_ocjena": 4.33
+  },
+  "restriktivnost": {
+    "prisutno": true,
+    "indikatori": [
+      "Tehnička specifikacija za digitalnu kameru navodi konkretne komercijalne modele/oznake objektiva (Sigma '50 mm F1.4 DG HSM' odnosno Canon 'EF 24-105mm f/3.5-5.6 IS STM') umjesto isključivo funkcionalnih/mjerljivih zahtjeva (žarišna duljina, otvor blende, tip nosača), što je klasičan indikator prilagodbe specifikacije ponuđačima koji nude opremu s tim točno određenim komponentama. Rizik je ublažen time što su ponuđene dvije alternativne opcije ('ili'), a ne jedan jedini model."
+    ],
+    "rizik": "srednji",
+    "citat": "Digitalna (FULL FRAME) kamera sa minimalno 26 Mega piksela i 50 mm F1.4 DG HSM ili EF 24-105mm f/3.5-5.6 IS STM lećom"
+  },
+  "napomena": "Dokument 'Tehnička specifikacija.docx.txt' sadrži samo uputu da je specifikacija sadržana u Troškovniku (Prilog 1.) - stvarni tehnički sadržaj analiziran je iz troškovnik.xlsx ekstrakcije. 'Prilozi.zip' ekstrahiran je kao prazan (0 znakova), pa njegov sadržaj nije mogao biti uzet u obzir. Postupak je imao 2 ponuditelja; jedan (AnalyticPharma d.o.o.) odbijen je kao nepravilan zbog nedostavljenog jamstva za ozbiljnost ponude i praznog troškovnika, dok je odabrana ponuda (GiM Med d.o.o.) ocijenjena kao sukladna svim zahtjevima specifikacije."
+}

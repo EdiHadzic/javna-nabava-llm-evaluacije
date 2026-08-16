@@ -1,0 +1,40 @@
+{
+  "postupak_id": 7068,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 2,
+      "obrazlozenje": "Dostupan je samo jedan dokument (Obavijest o dodjeli ugovora), ne i sama dokumentacija o nabavi. Naveden je isključivo kriterij cijene sa značajem 100, bez ikakvih daljnjih pojašnjenja mjerljivosti ili podkriterija; budući da se radi o pregovaračkom postupku bez prethodne objave sa samo jednim ponuditeljem, kriterij je formalno naveden ali stvarno natjecanje na temelju njega nije ni provedeno.",
+      "citat": "Naziv kriterija Značaj Cijena 100"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 1,
+      "obrazlozenje": "Opis predmeta nabave svodi se na jednu kratku, generičku rečenicu bez tehničkih specifikacija, opsega usluge, razine servisa (SLA) ili drugih parametara koji bi omogućili usporedivu ponudu neovisnog ponuditelja.",
+      "citat": "Opis nabave: Usluga održavanja sustava za kuvertiranje"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 1,
+      "obrazlozenje": "U direktoriju postupka dostupna je isključivo Obavijest o dodjeli ugovora (rezultati postupka); nema dokumentacije o nabavi, tehničkih uvjeta, troškovnika ni obrazaca, što je i očekivano jer je postupak pregovarački bez prethodne objave poziva na nadmetanje (nije se ni objavljivala natječajna dokumentacija za javnost).",
+      "citat": "Vrsta postupka: Pregovarački postupak bez prethodne objave poziva na nadmetanje"
+    },
+    "prosjecna_ocjena": 1.33
+  },
+  "restriktivnost": {
+    "prisutno": true,
+    "indikatori": [
+      {
+        "opis": "Postupak je proveden kao pregovarački bez prethodne objave, izravno s unaprijed određenim gospodarskim subjektom, uz izričito obrazloženje nepostojanja tržišnog natjecanja iz tehničkih razloga vezanih uz tog istog subjekta.",
+        "citat": "Članak 131. stavak 1. točka 2. podtočka b) ZJN2016 - nepostojanje tržišnog natjecanja iz tehničkih razloga"
+      },
+      {
+        "opis": "Obrazloženje dodjele izravno imenuje jedinog mogućeg izvršitelja pozivajući se na to da je on izvorni implementator sustava, čime je svaka konkurencija strukturno isključena već u fazi definiranja predmeta nabave.",
+        "citat": "jer je navedeno trgovačko društvo implementiralo navedeni sustav i jedini su u mogućnosti održavati cjelokupno programsko i hardversko rješenje"
+      },
+      {
+        "opis": "Zaprimljena je samo jedna ponuda, u skladu s time da je postupak od početka usmjeren na jednog unaprijed poznatog ponuditelja.",
+        "citat": "Broj zaprimljenih ponuda: 1"
+      }
+    ],
+    "rizik": "visok"
+  },
+  "napomena": "Za postupak 7068 dostupan je samo jedan dokument u extracted/ (Obavijest o dodjeli ugovora), bez dokumentacije o nabavi, tehničke specifikacije ili kriterija kvalitativnog odabira - što je posljedica same prirode postupka (pregovarački bez prethodne objave, temeljen na sole-source obrazloženju), a ne propusta u ekstrakciji. Ocjene transparentnosti stoga odražavaju odsutnost javno dostupne dokumentacije, ne nužno kvalitetu interne pripreme postupka."
+}

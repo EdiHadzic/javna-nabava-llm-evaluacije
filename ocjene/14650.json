@@ -1,0 +1,27 @@
+{
+  "postupak_id": 14650,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 3,
+      "obrazlozenje": "Kriteriji za odabir ponude su navedeni s jasnim brojčanim ponderima (cijena, specifično iskustvo inženjera gradilišta, trajanje jamstvenog roka), no za kvalitativne kriterije nije naveden bodovni sustav, formula izračuna ni pragovi/skale prema kojima bi se iskustvo ili jamstveni rok ocjenjivali, što ograničava mjerljivost.",
+      "citat": "Cijena 85,00 ... Specifično iskustvo inženjera gradilišta 5,00 ... Trajanje jamstvenog roka 10,00"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 2,
+      "obrazlozenje": "Opis predmeta nabave u dostupnim dokumentima je općenit i eksplicitno upućuje na vanjsku projektnu dokumentaciju (tri mape projekata) i obrazac Troškovnika kao izvor detalja, ali ti dokumenti nisu dio ekstrahiranog skupa za ovaj postupak, pa se stvarna razina konkretnosti opisa ne može ocijeniti iz dostupnog teksta.",
+      "citat": "Detaljan opis predmeta nabave nalazi se u projektnoj dokumentaciji objavljenoj kao prilog ove Dokumentacije o nabavite te u obrascu Troškovnika"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 2,
+      "obrazlozenje": "U mapi extracted/ za ovaj postupak nalaze se isključivo Obavijest o dodjeli ugovora i tri Obavijesti o izmjeni ugovora (aneksi 1-3). Sama dokumentacija o nabavi (tehnička specifikacija, troškovnik, uvjeti sposobnosti, kriteriji za kvalitativni odabir) nije prisutna, što onemogućuje samostalnu izradu ponude isključivo na temelju dostupnih datoteka.",
+      "citat": "Detaljan opis predmeta nabave nalazi se u projektnoj dokumentaciji objavljenoj kao prilog ove Dokumentacije o nabavite"
+    },
+    "prosjecna_ocjena": 2.33
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak"
+  },
+  "napomena": "Ovaj postupak (pregovarački postupak bez prethodne objave, čl. 131. st. 1. t. 1. ZJN2016, jer u prethodnom otvorenom postupku nije podnesena nijedna ponuda) ima u extracted/ samo Obavijest o dodjeli ugovora i tri Obavijesti o izmjeni ugovora (aneksi), a ne i izvornu dokumentaciju o nabavi, tehničku specifikaciju ili troškovnik. Ocjene transparentnosti stoga se temelje samo na onome što je vidljivo u tim obavijestima (opći opis, referencirana projektna dokumentacija, kriteriji za odabir ponude s ponderima), ne na cjelovitom natječajnom dosjeu. Zbog nedostatka tehničke specifikacije nije bilo moguće provjeriti postoje li indikatori prilagođenosti specifičnom ponuditelju (brend, patentirano rješenje, nesrazmjerni pragovi) - odsutnost nalaza ne znači potvrđenu odsutnost restriktivnosti, nego nedostatak dostupnih dokaza. U prvotnom otvorenom postupku nije bilo ponuda; u pregovaračkom postupku zaprimljena je 1 ponuda (ugovoreno s L-PROFIL d.o.o.), a ugovorena vrijednost naknadno je uvećana s tri aneksa (200.748,89 EUR pa 220.154,34 EUR bez PDV-a, plus produljenje roka), što je oko 92% iznad izvorne procijenjene vrijednosti od 114.672,51 EUR."
+}

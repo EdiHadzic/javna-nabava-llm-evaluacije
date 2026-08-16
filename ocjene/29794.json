@@ -1,0 +1,27 @@
+{
+  "postupak_id": 29794,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriteriji za odabir ponude su isključivo objektivni i jasno mjerljivi. Ekonomski najpovoljnija ponuda se određuje samo na osnovi cijene (90%) i jamstvenog roka (10%). Jamstveni rok ima precizno definirane kategorije s odgovarajućim bodovima (24 mjeseca = 0 bodova, 117-120 mjeseci = 10 bodova). Formula za izračun bodova je jednostavna i nedvosmislena: ponuda s najnižom cijenom dobiva maksimalan broj bodova, ostale se vrednuju relativno prema najmanjoj cijeni.",
+      "citat": "Cijena ponude: Ponuda s najnižom cijenom ostvaruje maksimalan broj bodova, a ostale ponude s višom cijenom vrednuju se relativno prema ponudi s najnižom cijenom. Jamstveni rok: Dužim jamstvenim rokom od minimalnog za isporučenu i ugrađenu robu osigurava se duže trajanje jamstvenih prava."
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 5,
+      "obrazlozenje": "Predmet nabave je okarakteriziran s izuzetnom detaljnošću. Tehnička specifikacija broji 44 stranice i obuhvaća precizne zahtjeve za tri veličine transformatora (4, 8, 16 MVA), uključujući nazivne snage, napone, grupu spoja (Dyn5), materijale (elektrolitski bakar, udio mineralno ulje), standarde (HRN EN 60076 i dr.), ispitivanja, transport, pakiranja i dokumentaciju. Dostupan je detaljni troškovnik s pojedinim stavkama. Ponuditelj bi mogao iz dostupne dokumentacije u potpunosti razumjeti što se očekuje.",
+      "citat": "A.1 PRIMJENA: Ovom specifikacijom utvrđeni su minimalni tehnički zahtjevi HEP-Operatora distribucijskog sustava d.o.o. za 2. generaciju energetski učinkovitih uljnih transformatora 35/21(10,5) kV, nazivne snage 4 MVA, 8 MVA i 16 MVA. A.2 NORME: Energetski učinkoviti uljni transformatori 35/21(10,5) kV moraju biti konstruirani, izrađeni i ispitani u skladu s normama i relevantnom tehničkom regulativom..."
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dostupna je sveobuhvatna dokumentacija: (1) detaljna tehnička specifikacija s tehničkim podacima i tabelama zahtjeva za popunjavanje ponuditelja; (2) troškovnik; (3) kriteriji za odabir gospodarskog subjekta (kvalitativni uvjeti); (4) kriteriji za odabir ponude (ekonomski); (5) detaljne upute za ponuditelje; (6) prijedlog ugovora; (7) obrazac eESPD; (8) zahtjevi za jamstva i bonu. Sve što je potrebno za samostalnu izradu konkurentne ponude dostupno je.",
+      "citat": "Dokumentacija o nabavi se ne naplaćuje te se može preuzeti u cijelosti na internetskoj stranici. Elektronička ponuda mora sadržavati najmanje: Uvez ponude, Popunjeni eESPD obrazac, Popunjen troškovnik."
+    },
+    "prosjecna_ocjena": 5.0
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak",
+    "napomena": "Tehnička specifikacija ne sadrži reference na specifične marke, modele ili patentirane rješenja. Zahtjevi su postavljeni na osnovi relevantnih tehničkih normi (HRN EN 60076 i dr.). Mogućnost pružanja različitih transformatora u tri veličine (4, 8, 16 MVA) omogućuje da različiti proizvođači prisvoje ponudu. Međutim, praktična napomena: postupak je privukao samo jednog ponuditelja (BRODOMERKUR ENERGETIKA d.o.o.), što može sugerirati da je tržište za takvu opremu koncentrirano ili da su tehnički zahtjevi čini ulazak u tržište zahtjevnim. To nije dokaz restriktivnosti specifikacije, već može odražavati specifičnost sektora i visoke investicijske zahtjeve."
+  }
+}

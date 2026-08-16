@@ -1,0 +1,36 @@
+{
+  "postupak_id": 32996,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 3,
+      "obrazlozenje": "Kriterij za odabir ponude (ENP: cijena 90 + jamstveni rok 10) je vrlo jasno i numerički precizno definiran, s eksplicitnom formulom i tablicom bodovanja. No, kriteriji tehničke i stručne sposobnosti (popis radova) sadrže internu proturječnost: točka 5.3.1.3 i točka 5.3.1.4 navode obrnute pragove (370.000 EUR naspram 270.000 EUR), što ostavlja stvarni uvjet nejasnim ponuditeljima; nesklad nije razriješen niti u jednom od 5 odgovora na upite.",
+      "citat": "minimalne vrijednosti 370.000,00 EUR... kumulativno jednaka ili veća od 270.000,00 EUR (5.3.1.3) nasuprot: minimalne vrijednosti 270.000,00 EUR... jednaka ili veća od 370.000,00 EUR (5.3.1.4)"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Opis predmeta nabave je konkretan i praćen opsežnom projektnom dokumentacijom i detaljnim troškovnikom. Manji nedostatak: između projektne dokumentacije i troškovnika postojala je početna nesukladnost oko vrste asfaltnih mješavina, razriješena kroz odgovor na upit.",
+      "citat": "vrste asfaltnih mješavina navedene u projektnoj dokumentaciji ne slažu se sa onima navedenim u troškovniku... Odgovor: mješavina iz troškovnika je mjerodavna."
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 4,
+      "obrazlozenje": "Dokumentacija je opsežna i sadrži sve ključne dijelove. Kroz postupak su se pojavile tri nedosljednosti (trajanje ugovora, vrsta jamstva, nedostajuća troškovnička stavka) — sve su transparentno razriješene odgovorima naručitelja prije roka za dostavu ponuda.",
+      "citat": "u DON-u... je navedeno da se jamstvo za otklanjanje nedostataka traži u obliku bjanko zadužnice, dok u Prijedlogu ugovora... piše da će Izvođač uručiti naplativo jamstvo poslovne banke"
+    },
+    "prosjecna_ocjena": 3.67
+  },
+  "restriktivnost": {
+    "prisutno": true,
+    "indikatori": [
+      {
+        "indikator": "Financijski referentni prag za tehničku i stručnu sposobnost je nerazmjerno visok u odnosu na procijenjenu vrijednost nabave (277.575 EUR): zbog interne proturječnosti dokumentacije, prag je ili ~97% ili čak >100% procijenjene vrijednosti ugovora, dok je uobičajena dobra praksa prag postaviti na oko 50-70% vrijednosti.",
+        "rizik": "srednji"
+      },
+      {
+        "indikator": "Nema naznaka prilagodbe specifičnom proizvođaču/marki: pretraga tehničke specifikacije i troškovnika ne pokazuje nazive proizvoda ili marki, samo standardne norme uz dosljednu klauzulu 'ili jednakovrijedno'.",
+        "rizik": "nizak"
+      }
+    ],
+    "rizik": "srednji",
+    "napomena": "Glavni rizik nije u nedostatku dokumentacije nego u internoj proturječnosti oko financijskog referentnog praga, koja istovremeno umanjuje jasnoću kriterija i predstavlja mogući (nenamjerni) restriktivni učinak."
+  }
+}

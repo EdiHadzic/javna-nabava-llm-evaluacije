@@ -1,0 +1,40 @@
+{
+  "postupak_id": 3018,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij ENP je posve mjerljiv i operacionaliziran matematičkim formulama za obje grupe: cijena 90% (P=Pn/Pr*90) i jamstveni rok 10% (G=Gt/G1*10), uz eksplicitno definiran minimalni prag i posljedicu neispunjavanja (odbacivanje ponude).",
+      "citat": "Minimalni jamstveni rok je 24 mjeseca. Ponude u kojima je iskazan jamstveni rok kraći od 24 mjeseca bit će odbačene."
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 3,
+      "obrazlozenje": "Opis predmeta nabave (troškovnici) vrlo je detaljan za građevinske/obrtničke stavke (dimenzije, materijali, obračunske jedinice) bez brendiranja. Međutim, troškovnik Grupe 2 (kontrola prolaza) navodi točan komercijalni kod čitača i isključivi protokol kompatibilnosti, što sužava usporedivost i otvara pitanje tehničke ekvivalencije umjesto funkcionalnog opisa.",
+      "citat": "Beskontaktni čitač standardnih protokolnih (JAN CARD C-3-M-3P) RFID kartica 13,56MHz, 3PRO Ready, IP65"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dostupan je pun standardni set dokumentacije: opći podaci, kriteriji kvalitativnog odabira, kriterij/uputa za odabir ponude, upute za ponuditelje, oba troškovnika, prijedlog ugovora, obavijest o nadmetanju, odgovori na upite, odluka o odabiru, zapisnici o pregledu i ocjeni te obavijest o dodjeli — dovoljno za samostalnu izradu ponude.",
+      "citat": "Elektronička ponuda za svaku ponuđenu grupu mora sadržavati najmanje: Uvez ponude, Popunjeni eESPD obrazac, Popunjen troškovnik, Prijedlog ugovora"
+    },
+    "prosjecna_ocjena": 4.33
+  },
+  "restriktivnost": {
+    "prisutno": true,
+    "indikatori": [
+      {
+        "opis": "Troškovnik Grupe 2 imenuje točan komercijalni proizvod/model čitača umjesto funkcionalne specifikacije, što favorizira ponuditelje koji mogu nabaviti taj konkretan artikl.",
+        "citat": "Beskontaktni čitač standardnih protokolnih (JAN CARD C-3-M-3P) RFID kartica 13,56MHz"
+      },
+      {
+        "opis": "Zahtjev za isključivu kompatibilnost protokola s postojećim sustavom zgrade isključuje alternativna, funkcionalno ekvivalentna rješenja koja rade po drukčijem (npr. direktnom) protokolu.",
+        "citat": "mogućnost spajanje 6 (ISKLJUČIVO) protokolnih čitača... Nije kompatibilno sa čitačima koji rade po direktnom protokolu"
+      },
+      {
+        "opis": "Empirijska posljedica: Grupa 2 (u kojoj se nalazi ova specifikacija) zaprimila je samo 1 ponudu, dok je Grupa 1 (bez brendiranih stavki) zaprimila 3 ponude — konzistentno s hipotezom sužavanja tržišta specifikacijom.",
+        "citat": "Broj zaprimljenih ponuda: 1"
+      }
+    ],
+    "rizik": "srednji"
+  },
+  "napomena": "Pročitane su sve .txt datoteke iz extracted/ (16 dokumenata: opći podaci, kriteriji, upute, oba troškovnika, obavijest o nadmetanju, odgovori, odluka o odabiru, obavijest o dodjeli, zapisnici o pregledu i ocjeni, prijedlog ugovora, izjave o ispravku računske pogreške). Restriktivnost je djelomično opravdana legitimnom potrebom nadogradnje postojećeg sustava kontrole prolaza zgrade (navedeno u napomeni troškovnika), što umjerava rizik s 'visok' na 'srednji', ali imenovanje točnog komercijalnog koda i isključivost protokola ostaju indikator sužavanja tržišnog natjecanja, potkrijepljen i stvarnim ishodom (1 ponuda za Grupu 2 nasuprot 3 za Grupu 1)."
+}

@@ -1,0 +1,43 @@
+{
+  "postupak_id": 30038,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriteriji za odabir ponude su precizno definirani i mjerljivi. Dva jasna kriterija: cijena (60% težine) s eksplicitnom formulom bodovanja, i specifično iskustvo ključnog stručnjaka - vodeći auditor (40% težine) s detaljnom tablicom bodovanja ovisno o broju auditiranih tvrtki (0-4 tvrtke = 0-40 bodova).",
+      "citat": "Valjana ponuda s najniže ponuđenom cijenom dobiva 60,00 bodova, a ostale ponude se boduju prema formuli... Broj bodova koji se dodjeljuje ponudi ovisi o ponuđenim vrijednostima cijene drugih ponuda."
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Opis predmeta nabave je detaljan i kontekstualiziran. Uključuje specifičan projekt (GECO 2.2), reference na EU Regulativu o certifikaciji ugljika, detaljne aktivnosti s rokovima, tehničke specifikacije, zahtjeve za jezike (HR/EN), NDA obvezu, i mjesto izvršenja. Međutim, budući da je predmet certifikacijske sheme koja ne postoji niti je u potpunosti definirana, opis daje određenu fleksibilnost što može omogućiti različite interpretacije.",
+      "citat": "Predmet nabave obuhvaća pružanje usluge tehničke pomoći u procesu uspostavljanja dobrovoljnog regionalnog tržišta ugljičnih kredita temeljeno na poljoprivredi te postavljanje i pokretanje procesa certifikacije alata i procedura."
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dostupna je cijelovita dokumentacijska dokumentacija: opći podaci o postupku, kriteriji kvalitativnog odabira, upute za ponuditelje, tehničke specifikacije, prijedlog ugovora, zapisnik o pregledu i ocjeni. Dokumentacija je strukturirana na hrvatskom jeziku s referencama na relevantniju EU legislativu. Sve potrebne informacije za samostalnu izradu ponude su dostupne.",
+      "citat": "Dokumentacija o nabavi dostupna je besplatno i može joj se u potpunosti pristupiti izravno i neograničeno na: https://eojn.hr/"
+    },
+    "prosjecna_ocjena": 4.67
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [
+      {
+        "indikator": "Nema zahtjeva za specifičnim markama ili proizvodima",
+        "razina_rizika": "nizak",
+        "citat": "Naručitelj nije specificirao određenu normu iz razloga što je Naručitelju važno iskustvo u auditiranju, neovisno o kojoj normi se radi"
+      },
+      {
+        "indikator": "Nema disproportivno visokih financijskih pragova",
+        "razina_rizika": "nizak",
+        "citat": "Procijenjena vrijednost nabave: 56.000,00 EUR"
+      },
+      {
+        "indikator": "Nema zahtjeva za specifičnim certifikacijama ili patentiranim rješenjima",
+        "razina_rizika": "nizak",
+        "citat": "Gospodarski subjekt mora dokazati da će imati na raspolaganju minimalno 1 stručnjaka: KLJUČNI STRUČNJAK – Vodeći auditor - razina obrazovanja: minimalno završen preddiplomski i diplomski sveučilišni studij"
+      }
+    ],
+    "rizik": "nizak"
+  },
+  "napomena": "Procedura je transparentna i jasno strukturirana. Ključna karakteristika je da se radi o specijalističkoj usluzi certifikacije za EU projekt - samo je jedan ponuditelj pristupio natječaju (TEMA, obrt za poslovno savjetovanje). Ovo nije nužno pokazatelj restriktivnosti specifikacije, već refleksija uske tržišne niše za ovakvu vrstu usluge. Procedura sadrži pozitivne elemente kao što su objava popisa subjekata u sukobu interesa i detaljne tehnične specifikacije."
+}

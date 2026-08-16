@@ -1,0 +1,27 @@
+{
+  "postupak_id": 30427,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij odabira (ekonomski najpovoljnija ponuda) je potpuno operacionaliziran: eksplicitna formula za cijenu (C=NC/CO×90), fiksna bodovna skala za rok isporuke, ponderi (90/10) i primjer izračuna u zapisniku o ocjeni pokazuju da je metoda posve mjerljiva i bez prostora za diskrecijsko tumačenje.",
+      "citat": "C= NC/CO x 90 ... Rok isporuke do 06,00 sati 10 bodova, do 07,00 sati 5 bodova"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Predmet nabave je konkretiziran troškovnikom s jasno navedenim stavkama, jedinicama mjere i okvirnim količinama (npr. pileći file, pureći zabatak), što omogućuje usporedivu ponudu. Zaseban dokument 'Tehnička specifikacija' je vrlo općenit (uglavnom upućuje na zakonske propise o hrani) i ne razrađuje dodatne tehničke parametre izvan onoga što se podrazumijeva zakonom.",
+      "citat": "Detaljna razrada predmeta nabave sadržana je u Troškovniku koji je sastavni dio ove Dokumentacije o nabavi."
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 4,
+      "obrazlozenje": "Dostupni su svi ključni obrasci potrebni za samostalnu izradu ponude: opći podaci, kriteriji kvalitativnog odabira, kriterij za odabir ponude, troškovnik, upute za ponuditelje i izjava o roku isporuke — svi sadržajno neprazni i međusobno konzistentni. Tehnička specifikacija je sadržajno tanka, što blago umanjuje potpunost u odnosu na idealan slučaj.",
+      "citat": "Elektronička ponuda mora sadržavati najmanje: Uvez ponude, Popunjeni eESPD obrazac, Popunjen troškovnik... Ostali dokumenti: Izjava o roku isporuke"
+    },
+    "prosjecna_ocjena": 4.33
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak",
+    "napomena": "Zahtjev za rok isporuke do 06-07 sati ujutro je standardni operativni zahtjev za svježe meso namijenjeno dječjoj kuhinji, ne proizvoljno postavljen prag; pobjednik (Vindija d.d., Varaždin) je iz udaljene županije i zahtjev je ispunio bez poteškoća. Zahtjev za HACCP/ISO 22000 standardna je strukovna praksa. Referentni uvjet proporcionalan je vrijednosti nabave (40.000 EUR)."
+  }
+}

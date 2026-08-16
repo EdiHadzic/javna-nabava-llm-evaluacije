@@ -1,0 +1,27 @@
+{
+  "postupak_id": 16260,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij za odabir (ekonomski najpovoljnija ponuda) potpuno je operacionaliziran zasebnim dokumentom 'ENP Kriterij' s eksplicitnom matematičkom formulom za bodovanje cijene (90% značaja) i binarnim, provjerljivim uvjetom za kriterij kvalitete (posjedovanje certifikata ISO 14001, 10% značaja, 10 bodova ako da / 0 ako ne). Zapisnik o pregledu i ocjeni pokazuje da je formula dosljedno i transparentno primijenjena na obje pristigle ponude.",
+      "citat": "Bcijena= (Cmin / Ci) x 90 ... B kontrola kvalitete = 10 bodova. U svrhu nominacije... ponuditelj treba priložiti važeći certifikat iz serije HRN EN ISO 14001"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 5,
+      "obrazlozenje": "Tehnička specifikacija iznimno je detaljna: taksativno pobrojani dnevni/tjedni/mjesečni/godišnji poslovi čišćenja, tablični prikaz svih lokacija (upravne zgrade, terenske jedinice, trafostanice) s točnom kvadraturom i učestalošću čišćenja po lokaciji, te minimalni kadrovski uvjeti (broj djelatnika) po lokaciji. Opis je konkretan i mjerljiv (m², broj čišćenja godišnje u Troškovniku), a pritom ne referira nijedan specifičan proizvod/markicu čime bi se suzio krug ponuditelja.",
+      "citat": "Upravna zgrada Elektre Zadar br.1... 450 ... Svaki radni dan u tjednu; Upravna zgrada Elektre Zadar br.3... 1430 ... Svaki radni dan u tjednu"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 4,
+      "obrazlozenje": "Dostupan je gotovo cjelovit paket: Opći podaci, Upute za ponuditelje, Kriteriji za kvalitativni odabir (s ESPD uputama), Tehnička specifikacija, Troškovnik (xls, sve stavke definirane), zaseban ENP kriterij dokument s formulom, Prijedlog okvirnog sporazuma i Izjava o integritetu — dovoljno za samostalnu izradu ponude bez nejasnoća. Odbitak ocjene zbog priloga 'Prilozi.zip' čiji je ekstrahirani sadržaj prazan (0 bajtova) pa nije moguće utvrditi je li riječ o dodatnoj, potencijalno relevantnoj dokumentaciji ili tehnički praznoj arhivi.",
+      "citat": "Elektronička ponuda mora sadržavati najmanje: Uvez ponude Popunjeni eESPD obrazac... Popunjen troškovnik... Dokumentacija / dokazi za kriterija za odabir ponude"
+    },
+    "prosjecna_ocjena": 4.67
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak"
+  },
+  "napomena": "Pročitane su sve dostupne .txt datoteke u extracted/ osim 'Prilozi.zip.txt', koja je prazna (0 bajtova) — vjerojatno neuspjela/neizvučena arhiva, sadržaj nepoznat. Postupak je otvoren, konkurentan (2 valjane ponude, LAV ZAŠTITA d.o.o. i ADRIA GRUPA d.o.o.), s jasno definiranom ENP formulom koja je transparentno primijenjena u Zapisniku o pregledu i ocjeni. Kriterij ISO 14001 nije ocijenjen kao restriktivan: riječ je o općeprihvaćenom certifikatu upravljanja okolišem, čini samo 10% ukupnog broja bodova, a obje pristigle ponude su ga posjedovale (nije diskriminirao nijednog ponuditelja u praksi)."
+}

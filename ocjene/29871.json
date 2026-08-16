@@ -1,0 +1,27 @@
+{
+  "postupak_id": 29871,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriteriji za odabir ponude su izuzetno jasno i detaljno definirani. Za obje grupe nabave jasno su navedeni kriteriji (Cijena 90%, Rok isporuke 10%), s eksplicitnom matematičkom formulom za bodovanje. Maksimalni dozvoljeni rok isporuke je nedvosmisleno definiran na 60 dana, a formula za izračun bodova jasno objašnjena.",
+      "citat": "Ekonomski najpovoljnija ponuda utvrđuje se na temelju Cijene i kvalitete... Ponuda s najnižom cijenom dobiva 90,00 bodova, dok se ostale ponude boduju prema formuli: B_C = C_min(C) × 90"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Opis predmeta nabave je konkretan i specifičan, s detaljnom specifikacijom za medicinsku opremu. Navedeno je 12 minimalnih tehničkih karakteristika (od napajanja od 100-240V, plinova argon/helij, radnih tlakova, zaslona osjetljiva na dodir, do namjene u različitim medicinskim specijalnostima). Specifikacije su justificirane funkcionalnom potrebom (krioablacijska tehnologija), nisu presko uske niti prejasno orijentirane prema specifičnom proizvođaču.",
+      "citat": "MINIMALNE TEHNIČKE KARAKTERISTIKE: 1.1 Konzola se napaja standardnim zidnim napajanjem od 100/120/230/240 V izmjenične struje (60/50 Hz)... 1.12 Sustav je dizajniran za smrzavanje/ablaciju tkiva primjenom ekstremno niskih temperatura"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 4,
+      "obrazlozenje": "Dostupna je opsežna dokumentacija: Obavijest o nadmetanju, Opći podaci o postupku, Upute za ponuditelje, Kriteriji za odabir, Kriteriji za kvalitativni odabir, Troškovnici, Zapisnik o pregledu i ocjeni, Obavijest o dodjeli. Tehnička specifikacija je integrirana u troškovnik umjesto kao zaseban dokument, što je učinkovito ali sredstvo zahtijeva malo dodatne navigacije. Sve bitne informacije za izradu ponude su dostupne.",
+      "citat": "Dokumentacija o nabavi se ne naplaćuje te se može preuzeti u cijelosti na internetskoj stranici: https://eojn.hr/... Detaljne tehničke specifikacije se nalaze u zasebnom prilogu – Troškovnik"
+    },
+    "prosjecna_ocjena": 4.33
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak",
+    "napomena": "Analizirane su tehničke karakteristike i nema znakova prilagođenosti specifičnom ponuditelju. Specifikacije argona/helija, radnih tlakova, zaslona i kapaciteta za do 8 sondi su standardne funkcionalnosti krioablacijskih uređaja, ne žigosane karakteristike. Dva ponuditelja su se prijavljila (AnalyticPharma i PHARMACOL); odbijanje AnalyticPharme temelji se na praznom troškovniku, nedostajućem jamstvu i cijeni koja prelazi procijenjenu vrijednost, ne na nesukladnosti s tehnički prespecificiramm zahtjevima."
+  }
+}

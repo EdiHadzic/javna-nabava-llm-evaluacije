@@ -1,0 +1,27 @@
+{
+  "postupak_id": 28513,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij ENP (cijena 90 + jamstveni rok 10 bodova) razrađen je matematički precizno: eksplicitna formula za bodovanje cijene, i tablica s točnim intervalima (npr. 24-24 mj. = 0 bodova, 60-60 mj. = 10 bodova) za jamstveni rok, uz definirane min/max granice. Nema prostora za subjektivnu procjenu.",
+      "citat": "Ponuda s najnižom cijenom dobiva 90,00 bodova, dok se ostale ponude boduju prema formuli"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 5,
+      "obrazlozenje": "Opis predmeta nabave temelji se na konkretnim terenskim/laboratorijskim mjerenjima (tlačna čvrstoća, dubina karbonatizacije, koncentracija kloridnih iona, lokacije oštećenja po elementima konstrukcije) i popraćen je 60-stranačnim Izvedbenim projektom sanacije te detaljnim troškovnikom po stavkama, bez upućivanja na konkretne robne marke (opis je tehnički normiran prema HRN EN 1504 seriji, čime se ne isključuju alternativni ponuditelji).",
+      "citat": "Proces karbonatizacije je uznapredovao do prosječne dubine 22 mm na stupištu S1, te prosječno do 5 mm na hodnim površinama rampe."
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dostupan je pun set dokumenata potreban za samostalnu izradu ponude: Opći podaci, Kriteriji za kvalitativni odabir, Kriteriji za odabir ponude, Upute za ponuditelje, Prijedlog ugovora, Troškovnik (popunjiv Excel) i opsežan Izvedbeni projekt sanacije s tehničkim specifikacijama. Svi pregledani dokumenti sadržajno su potpuni i čitljivo ekstrahirani (bez znakova OCR/format gapa).",
+      "citat": "Predmet nabave detaljno je opisan u Prilogu - Troškovnik i Prilogu - Tehničke specifikacije."
+    },
+    "prosjecna_ocjena": 5.0
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak"
+  },
+  "napomena": "Pretraga tehničke specifikacije i troškovnika nije pronašla reference na konkretne marke/proizvođače (samo generičke norme HRN EN 1504 i standardna 'ili jednakovrijedno' klauzula). Referentni uvjet (zbroj vrijednosti najviše 3 izvedena rada ≥ procijenjena vrijednost nabave, u zadnjih 5 god.) proporcionalan je uobičajenoj praksi za radove ove veličine (227.000 EUR) i ne djeluje neproporcionalno visoko. Jamstvo za ozbiljnost ponude (6.000 EUR, ~2,6% procijenjene vrijednosti) standardnog je iznosa. Svih 8 relevantnih dokumenata iz extracted/ pročitano; sadržaj dosljedan kroz Opće podatke, Obavijest o nadmetanju i Obavijest o dodjeli ugovora (2 zaprimljene ponude, ugovoreno 211.898,54 EUR)."
+}

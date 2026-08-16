@@ -1,0 +1,27 @@
+{
+  "postupak_id": 5964,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriteriji za odabir (cijena 90 bodova, udio električne energije iz obnovljivih izvora 10 bodova) definirani su brojčano, uz eksplicitne matematičke formule za bodovanje, prag nepravilnosti (min. 50% obnovljivih izvora) i dokaze koje je potrebno dostaviti (izjave, potvrda HROTE-a).",
+      "citat": "Ponuda s najnižom cijenom dobiva 90,00 bodova, dok se ostale ponude boduju prema formuli"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 5,
+      "obrazlozenje": "Predmet nabave (opskrba električnom energijom) opisan je kroz detaljan troškovnik s 37 obračunskih mjernih mjesta (šifra, adresa, tarifni model, okvirna dvogodišnja potrošnja u kWh) te tehničke specifikacije koje upućuju na točne obračunske elemente i primjenjive propise, čime je omogućena usporediva ponuda bez sužavanja na jednog dobavljača.",
+      "citat": "Redni broj Šifra MM Naziv mjernog mjesta Adresa mjernog mjesta Tarifni model Okvirna potrošnja kroz dvije godine"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dostupan je pun set dokumenata potreban za samostalnu izradu ponude: Opći podaci o postupku, Upute za ponuditelje (s odredbama o jamstvima, plaćanju, žalbi), Kriteriji za kvalitativni odabir gospodarskog subjekta, Kriteriji za odabir ponude, Tehničke specifikacije i popunjiv Troškovnik u .xls formatu.",
+      "citat": "Elektronička ponuda mora sadržavati najmanje: Uvez ponude Popunjeni eESPD obrazac... Popunjen troškovnik"
+    },
+    "prosjecna_ocjena": 5.0
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak"
+  },
+  "napomena": "Pročitane su sve relevantne .txt datoteke iz extracted/ (Opći podaci, Kriteriji za kvalitativni odabir, Kriteriji za odabir ponude, Tehničke specifikacije, Troškovnik, Upute za ponuditelje, Obavijest o nadmetanju, Odluka o odabiru, Zapisnici o pregledu i ocjeni, Obavijest o dodjeli ugovora). Prilozi.zip.txt je prazan (0 bajtova), no sadržaj nije bio nužan jer su svi ključni dokumenti dostupni u drugim formatima. Zahtjev za dozvolom HERA-e za obavljanje djelatnosti opskrbe električnom energijom ocijenjen je kao standardni zakonski uvjet primjenjiv na sve opskrbljivače na tržištu, ne kao prilagodba specifičnom ponuditelju; iznosi jamstava (3.500 EUR za ozbiljnost ponude, 10% za uredno izvršenje) proporcionalni su procijenjenoj vrijednosti od 120.000 EUR."
+}

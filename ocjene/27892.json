@@ -1,0 +1,27 @@
+{
+  "postupak_id": 27892,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij odabira (ekonomski najpovoljnija ponuda) razlažen je na dva mjerljiva potkriterija s točnim ponderima (cijena 90, rok plaćanja 10), eksplicitnim matematičkim formulama za bodovanje i jasnim pragom valjanosti (min. 30 dana odgode plaćanja), identično ponovljeno u tri zasebna dokumenta.",
+      "citat": "Ponuda s najnižom cijenom dobiva 90,00 bodova... Minimalna odgoda plaćanja je 30 dana. Ponude u kojima je navedena odgoda plaćanja ispod 30 dana biti će odbačene kao nevaljane."
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Sam dokument 'Tehnička specifikacija' generičan je i svodi se na dvije rečenice bez operativnih parametara (npr. rok izvještavanja, metodologija, kontrola kvalitete uz akreditaciju). Stvarna specifikacija predmeta nabave nalazi se u Troškovniku koji vrlo detaljno, po stavkama, navodi 307 pojedinačnih pretraga s HZZO šiframa i okvirnim godišnjim količinama, što omogućuje potpunu usporedivost ponuda bez upućivanja na konkretan proizvod/marku.",
+      "citat": "R.br. Materijal i pretraga šifre HZZO Broj pretraga za 1. godinu Jed. cijena bez PDV-a... 1 absces - aerobno i anaerobno LM055 12 0"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dostupan je pun set dokumenata potreban za samostalnu izradu ponude: opći podaci, kriteriji kvalitativnog odabira s detaljnim ESPD uputama, kriteriji za odabir ponude s formulama, upute za ponuditelje s rokovima/načinom dostave/valutom/jezikom, tehnička specifikacija i troškovnik za popunjavanje.",
+      "citat": "Elektronička ponuda mora sadržavati najmanje: Uvez ponude Popunjeni eESPD obrazac (ili više njih, ako je primjenjivo) Popunjen troškovnik"
+    },
+    "prosjecna_ocjena": 4.67
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak"
+  },
+  "napomena": "Jedini eksplicitan uvjet sposobnosti izvan standardnih ESPD osnova je 'Dokaz o Korištenju akreditiranog mikrobiološkog laboratorija prema HR EN 15189' — riječ je o općepriznatoj međunarodnoj normi za medicinske laboratorije izravno vezanoj uz predmet nabave (mikrobiologija/parazitologija), nije brend/proizvod-specifičan niti financijski nesrazmjeran, stoga nije klasificiran kao restriktivnost u smislu definicije skilla. Napomena van skop ove ocjene: zaprimljena je samo jedna ponuda (Zavod za javno zdravstvo Zadar), što može odražavati usko tržište pružatelja akreditiranih mikrobioloških usluga u regiji, a ne nužno prilagođenost specifikacije — relevantno za 5.3. analizu konkurentnosti, ne za ovu ocjenu transparentnosti/restriktivnosti dokumentacije. Pročitane su sve relevantne .txt datoteke iz extracted/ (dokumentacija o nabavi, tehnička specifikacija, troškovnik, upute za ponuditelje, obavijest o nadmetanju, zapisnik o pregledu i ocjeni); dokumenti vezani uz fazu nakon dodjele (obavijesti o dodjeli/izmjeni ugovora) pregledani su radi konteksta ali nisu korišteni za ocjenu transparentnosti dokumentacije o nabavi."
+}

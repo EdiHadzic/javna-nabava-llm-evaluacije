@@ -1,0 +1,27 @@
+{
+  "postupak_id": 2100,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriteriji za odabir ponude (ENP) potpuno su kvantificirani formulama za bodovanje, s jasnim relativnim značajima (Cijena 90, Rok isporuke 10) i definiranim minimalnim/maksimalnim granicama za nenovčani kriterij, čime je omogućena potpuno objektivna i mjerljiva usporedba ponuda.",
+      "citat": "Naručitelj je ograničio najviši dozvoljeni iznos za kriterij 72,00 Naručitelj je ograničio najniži dozvoljeni iznos za kriterij 24,00"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Troškovnik sadrži 17 stavki s jedinicama i količinama; stavke 11-17 imaju precizne zahtjeve sastava (postotak mesa) uz mogućnost jednakovrijedne zamjene, dok stavke 1-10 (osnovni komadi svježeg mesa) imaju samo generički naziv bez specifikacije kvalitete/klase, što blago smanjuje usporedivost ponuda za taj dio predmeta nabave.",
+      "citat": "Kobasice vakumirane, kao Kranjska ili \"jednakovrijedno\", sastojci: svinjsko meso minimalno 85%"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 4,
+      "obrazlozenje": "Dostupni su troškovnik, kriteriji kvalitativnog odabira, kriteriji za odabir ponude, upute za ponuditelje i obavijest o nadmetanju/dodjeli, što je dostatno za samostalnu izradu ponude. Dokument 'Prilozi.zip' ekstrahiran je kao praznina (0 bajtova) pa nije moguće provjeriti je li sadržavao dodatnu dokumentaciju, a zasebna datoteka tehničkih specifikacija upućuje isključivo na troškovnik.",
+      "citat": "Elektronička ponuda mora sadržavati najmanje: Uvez ponude Popunjeni eESPD obrazac (ili više njih, ako je primjenjivo) Popunjen troškovnik"
+    },
+    "prosjecna_ocjena": 4.33
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak"
+  },
+  "napomena": "Pročitane su sve dostupne .txt datoteke u extracted/ osim 'Prilozi.zip.txt' koja je prazna (0 bajtova) i 'Odluka o odabiru.pdf.txt' koja sadrži samo digitalni potpis bez sadržaja - oba su vjerojatno redundantna s HTML inačicama istih dokumenata koje su uspješno ekstrahirane. Referentni uvjet (min. 1 isporuka jednaka procijenjenoj vrijednosti) i zahtjev za dokaz sastava proizvoda uz mogućnost 'jednakovrijedne' zamjene procijenjeni su kao proporcionalni i standardni za ovu vrstu nabave."
+}

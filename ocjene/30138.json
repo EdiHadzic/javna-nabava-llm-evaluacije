@@ -1,0 +1,34 @@
+{
+  "postupak_id": 30138,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 4,
+      "obrazlozenje": "Kriteriji za odabir su jasno definirani s objektivnim mjeriliima. Ponuda se vrednuje na osnovu ekonomski najpovoljnije ponude (90% cijena + 10% jamstveni rok). Kriterij jamstva ima eksplicitnu tablicu bodovanja: 1 godina=0 bodova, 2 godine=2, 3 godine=5, 4 godine=7, 5 godina=10. Sve vrijednosti su mjerljive i objektivne.",
+      "citat": "Ekonomski najpovoljnija ponuda utvrđuje se na temelju Cijene i kvalitete. Cijena: 90,00. Duljina jamstvenog roka za otklanjanje nedostataka: 10,00. Ponuda s najnižom cijenom dobiva 90,00 bodova, ostale ponude boduju se prema formuli."
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 5,
+      "obrazlozenje": "Specifikacija je izuzetno detaljnih. Troškovnik obuhvaća 14 lokacija sa specificiranim količinama za svaki predmet: vrste biljnog materijala po binomnoj nomenklature (npr. Cercis siliquastrum 14-16 cm), dimenzije jama (100x100 cm), količine humusora (37 x 50L), tehnike sadnje, specifikacije kolaca (ø6 cm, min 250 cm). Sustav navodnjavanja je tehnički određen (IoT tehnologija, LoRa ili slično), ali tehnološki neutralan. Urbana oprema: nesmrzavajuće slavine sa regulatorima pritiska. Sve stavke imaju količine, jedinice mjere i detaljne opise koji omogućavaju usporedive ponude.",
+      "citat": "Pametni sustav navodnjavanja treba biti temeljen na IoT tehnologiji (LoRa komunikacija ili slično). Dobava sadnog biljnog materijala prema specifikaciji: Stablašice Cercis siliquastrum (judino drvo) opseg debla 14-16 cm kom 1. Iskop jama za sadnju stablašica dimenzija 100x100 cm."
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dokumentacija je sveobuhvatna i sadrži sve potrebne dijelove za samostalnu izradu ponude: opće podatke o postupku, detaljnu specifikaciju sa 14 lokacija i bill of quantities, kriterije za odabir s formulama bodovanja, kriterije kvalifikacije gospodarskog subjekta, upute za ponuditelje s jasnim rokovima i uvjetima, informacije o jamstvima (4.000 EUR za ozbiljnost, 10% ugovora za uredno izvršenje, 10% za garancijski rok), te sve administrativne detalje. Dostupni su i Odluka o odabiru, Zapisnik o pregledu ponuda, i Obavijest o dodjeli ugovora.",
+      "citat": "Dokumentacija o nabavi dostupna je besplatno i može joj se u potpunosti pristupiti izravno i neograničeno na https://eojn.hr/. Elektronička ponuda mora sadržavati: Uvez ponude, Popunjeni eESPD obrazac, Popunjen troškovnik, Vrijednosti kriterija za odabir ponude, Jamstvo za ozbiljnost ponude u iznosu 4.000,00 EUR."
+    },
+    "prosjecna_ocjena": 4.67
+  },
+  "restriktivnost": {
+    "prisutno": true,
+    "indikatori": [
+      {
+        "indikator": "Specifična sorta/kultivarna imena u specifikaciji biljnog materijala",
+        "citat": "Photinia x fraseri \"Red Robin\" živica h 80/100 kom 300 (Velim - ulaz u Velim lokacija)",
+        "razina_rizika": "nizak"
+      }
+    ],
+    "rizik": "nizak",
+    "napomena": "Specifikacija je u osnovi funkcionalno определena i tehnološki neutralna. Jedina ograničenja: Photinia x fraseri 'Red Robin' je specifična sorta korištena za 300 sadnica živice na jednoj lokaciji (mali dio ukupnog obima); zahtjev za IoT navodnjavanjem je tehnološki neutralan (ili LoRa ili slično); nesmrzavajuće slavine su funkcionalno opisane bez brenda. Kvalifikacijski pragovi (€100k iskustva) nisu neproporcionalno visoki za €157k projekat."
+  },
+  "napomena": "Dokumentacija je od izuzetno visoke kvalitete s detaljnom bill of quantities. Sve ključne specifikacije dopuštaju razumne alternative osim jedne sorte biljke na manjoj lokaciji. Kriteriji su objektivni i mjerljivi."
+}

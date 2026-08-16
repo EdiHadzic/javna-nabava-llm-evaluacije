@@ -1,0 +1,27 @@
+{
+  "postupak_id": 4606,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriteriji za odabir ponude definirani su zasebno za svaku od 4 grupe, s eksplicitnim matematičkim formulama, ponderima i maksimalnim brojem bodova po pod-kriteriju (cijena 85-90%, dodatni kriteriji 10-15%). Nema dvosmislenosti niti prostora za diskrecijsku ocjenu - sve je algoritamski provjerljivo, a niti jedno pitanje ponuditelja u Odgovorima nije se odnosilo na nejasnoću kriterija za odabir.",
+      "citat": "C = (Cmin / Cn) x 90, pri čemu je: C – broj bodova za kriterij cijena, Cmin – ponuda sa najnižom ukupnom cijenom"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 5,
+      "obrazlozenje": "Tehničke specifikacije (43 stranice) iscrpno definiraju svaki osigurani rizik (požar, poplava, provalna krađa, lom stakla itd.) generičkim, strukovno standardnim terminima primjenjivim na bilo kojeg osiguratelja, ne na specifičan proizvod. Razina detalja omogućila je usporedivu ponudu bez isključivanja tržišta - potvrđeno time što je pristiglo 7 različitih osiguravajućih društava (UNIQA, Triglav, Adriatic, Wiener, HOK, Croatia, Euroherc) kroz 4 grupe.",
+      "citat": "Požarom se smatra vatra nastala izvan određenog vatrišta ili vatra koja je ovo mjesto napustila i sposobna je dalje širiti se svojom vlastitom snagom"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 4,
+      "obrazlozenje": "Dokumentacija je sadržajno potpuna (DON, Kriteriji za odabir, Kriteriji kvalitativnog odabira, tehničke specifikacije, 4 troškovnika, obrasci, upute za ponuditelje) i omogućila je samostalnu izradu ponude. Ocjena ipak nije 5 jer je dokumentacija izvorno sadržavala grešku iz predloška druge tvrtke (naziv naručitelja 'Čistoća d.o.o.' umjesto 'EKO d.o.o.' na više mjesta, uklj. i uvjete jamstva), što upućuje na nedovoljnu pažnju pri izradi - iako je pravodobno ispravljeno kroz modul Pitanja/Pojašnjenja prije roka za dostavu ponuda.",
+      "citat": "Molimo ispravak podataka u dokumentaciji i obrascima. Na više mjesta je navedeno da je Naručitelj Čistoća d.o.o. Zadar."
+    },
+    "prosjecna_ocjena": 4.67
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak"
+  },
+  "napomena": "Pročitano svih 30 .txt datoteka u extracted/ (dokumentacija, kriteriji, tehničke specifikacije, troškovnici, obrasci, obavijest o nadmetanju, odgovori na pitanja, odluka o odabiru, zapisnici o pregledu ponuda - potonji u više identičnih/duplih verzija). Postupak je otvoren s namjerom sklapanja okvirnog sporazuma po 4 grupe osiguranja (imovina, odgovornost, nezgoda, motorna vozila). Zaprimljeno je 17 ponuda od 7 različitih osiguravajućih društava kroz sve grupe - visoka razina tržišnog natjecanja, bez ijednog indikatora prilagođenosti specifikacije određenom ponuditelju (traženi minimalni iznosi osiguranih svota odgovaraju procijenjenoj vrijednosti imovine koja se osigurava, ne proizvoljno postavljenim pragovima; referentni uvjet tehničke sposobnobnosti proporcionalan je procijenjenoj vrijednosti nabave, 1x iznos). Dvije ponude za Grupu 1 (Triglav, Wiener) odbijene su jer su ponudile niže osigurane svote od minimalno propisanih - proceduralni razlog nevezan uz restriktivnost specifikacije. Kroz modul Pitanja/Pojašnjenja naručitelj je prihvatio više zahtjeva ponuditelja za brisanje/ublažavanje pojedinih klauzula tehničke specifikacije, što dodatno potvrđuje otvorenost/nerestriktivnost postupka."
+}

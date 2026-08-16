@@ -1,0 +1,40 @@
+{
+  "postupak_id": 27991,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij ENP potpuno je mjerljiv i formalno definiran: Cijena 90 bodova (formula prema najnižoj cijeni) i Jamstveni rok 10 bodova prema eksplicitnoj bodovnoj tablici. Kriteriji kvalitativnog odabira (osnove za isključenje, upis u registar, tehnička sposobnost) navedeni su s točnom pravnom osnovom, ESPD pitanjima i preciznim načinom dokazivanja.",
+      "citat": "2 godine- 0 bodova 3 godine- 3 boda 4 godine- 6 bodova 5 godina i više -10 bodova"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Troškovnik sadrži vrlo opsežne tehničke opise za svaku stavku (dimenzije, snaga, konektori, materijali) uz mogućnost nuđenja jednakovrijednog proizvoda za sve stavke. Međutim, Idejni projekt (arhitektonski nacrti prostora) ekstrahiran je gotovo nečitljivo - samo raspršeni brojevi mjera bez tekstualnog konteksta - pa taj dio opisa predmeta nije potpuno provjerljiv iz dostupnog teksta.",
+      "citat": "Dvosistemski HiFi Pro nadgradni zvučnik u zatvorenom pojačanom PPE ABS kučištu (IP64). Sadrži 4.25\" HD woofer + 1\" tweeter"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 4,
+      "obrazlozenje": "Dostupni su svi ključni dokumenti za samostalnu izradu ponude (opći podaci, upute za ponuditelje, kriteriji za odabir ponude, kriteriji kvalitativnog odabira, troškovnik, idejni projekt). Zaseban dokument 'Tehničke specifikacije' sadržajno je prazan i samo upućuje na druge priloge, a idejni projekt je slabo strojno čitljiv, što ograničava neovisnu provjerljivost dijela dokumentacije iz samog teksta.",
+      "citat": "Tehničke specifikacije određene su troškovnikom i Idejnim projektom."
+    },
+    "prosjecna_ocjena": 4.33
+  },
+  "restriktivnost": {
+    "prisutno": true,
+    "indikatori": [
+      {
+        "opis": "Više stavki opreme (zvučnici, mikrofon, mikrofonska baza) definirano je vrlo uskim tehničkim tolerancijama dimenzija i mase (npr. +/-5%), stil karakterističan za prepisivanje specifikacije iz kataloga konkretnog proizvođača, što može sužavati krug prihvatljivih ponuditelja unatoč formalnoj mogućnosti jednakovrijednosti.",
+        "citat": "Zvučnik maksimalnih dimenzija (V x Š x D): 155 x 136 x 164mm i maksimalne težine (neto) 2.10 kg."
+      },
+      {
+        "opis": "Mikrofon specificiran s vrlo uskim dimenzijskim tolerancijama i nizom detaljnih parametara (osjetljivost, impedancija, SNR, fantomsko napajanje) koji zajedno mogu odgovarati samo jednom ili malom broju konkretnih tržišnih modela.",
+        "citat": "Dimenzije (mm): 418 x 12 (glava) x 18,9 (baza). (+/-5%). Konekcije: 3-pin XLR konektor."
+      },
+      {
+        "opis": "Ublažavajuća okolnost: dokumentacija sadrži opću i dosljednu klauzulu jednakovrijednosti za sve stavke troškovnika, a u stvarnosti su zaprimljene tri valjane ponude od tri različita gospodarska subjekta (iz Zagreba, Zadra i Omiša) s realnom cjenovnom konkurencijom (39.822-44.986 EUR bez PDV-a), što upućuje da specifikacija u praksi nije bila isključujuća.",
+        "citat": "Za sve stavke Troškovnika u kojima se uz navedene tehničke specifikacije možebitno traži ili navodi marka, patent, tip ili određeno podrijetlo, gospodarski subjekt može ponuditi „ili jednakovrijedno“"
+      }
+    ],
+    "rizik": "nizak"
+  },
+  "napomena": "Referentni uvjet tehničke sposobnosti (min. 1 ugovor u vrijednosti >= procijenjene vrijednosti nabave) proporcionalan je i standardan, nije procijenjen kao restriktivan. Dokument 'Idejni projekt' (arhitektonski nacrti) ekstrahiran je pretežno kao raspršeni brojevi/mjere bez čitljivog teksta - vjerojatno artefakt OCR/PDF ekstrakcije tehničkih nacrta, a ne stvarni nedostatak dokumentacije - pa ocjena razine detalja opisa i potpunosti dokumentacije dijelom nosi tu neizvjesnost. Sve tri zaprimljene ponude (GENERALIĆ, PRIMAT-RD, GEMAS) ocijenjene su kao valjane i sukladne tehničkim specifikacijama, što dodatno potkrepljuje nizak rizik stvarne restriktivnosti unatoč vrlo detaljnim tehničkim parametrima pojedinih AV stavki."
+}

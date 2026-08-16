@@ -1,0 +1,30 @@
+{
+  "postupak_id": 8908,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij ENP jasno je raščlanjen na cijenu (90 bodova) i kvalitetu (dužina jamstvenog roka, 10 bodova), s eksplicitnim matematičkim formulama, rasponom dopuštenih vrijednosti (24-60 mjeseci) i tablicom bodovanja po intervalima. Nema prostora za subjektivnu interpretaciju prilikom bodovanja.",
+      "citat": "Ponuda s najnižom cijenom dobiva 90,00 bodova, dok se ostale ponude boduju prema formuli"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Opis predmeta nabave (adaptacija 1. kata Doma kulture) konkretno navodi zahvat, obuhvat prostorija i namjenu, potkrijepljen opsežnom tehničkom dokumentacijom u 4 mape (arhitektonski, instalacijski, elektrotehnički projekt) s detaljnim tehničkim opisima, normama (HRN) i uputama za ugradnju. Opis je dovoljno konkretan za usporedivu ponudu bez očitog isključivanja alternativa.",
+      "citat": "Planira se izvesti novi raspored prostorija na način da etaža 1.kata i dalje sadrži multifunkcionalnu dvoranu, spremište, ured, kuhinju, sanitarni čvor"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 4,
+      "obrazlozenje": "Dostupna je cjelovita dokumentacija za samostalnu izradu ponude: opći podaci, upute za ponuditelje, kriteriji kvalitativnog odabira i odabira ponude, obavijest o nadmetanju, izmjena dokumentacije te opsežna tehnička dokumentacija (4 mape, ukupno preko 7.000 redaka teksta). Jedini nedostatak u pregledanom materijalu je Troškovnik (.xls), čija je izdvojena tekstualna datoteka prazna (0 bajtova) — vjerojatno artefakt ekstrakcije tablične .xls datoteke, ne stvaran izostanak dokumenta u izvornom postupku (dokumentacija ga eksplicitno navodi kao zaseban prilog).",
+      "citat": "Detaljan troškovnik se nalazi u zasebnom prilogu – Troškovnik."
+    },
+    "prosjecna_ocjena": 4.33
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [
+      "U tehničkom opisu sanitarnih instalacija (Mapa 3) jednom se spominje konkretan proizvođač opreme za montažu bojlera, ali uz izričitu klauzulu jednakovrijednosti, što je standardna i dopuštena praksa te ne predstavlja stvarno ograničenje tržišnog natjecanja.",
+      "Referentni uvjet (izvedeni radovi u vrijednosti min. 90.000 EUR unutar zadnjih 5+1 godina, naspram procijenjene vrijednosti 92.000 EUR) proporcionalno je visok (gotovo 100% procijenjene vrijednosti) ali ostaje unutar uobičajenih granica za radove te dopušta zbrajanje do 3 reference, pa se ne ocjenjuje kao nesrazmjeran."
+    ],
+    "rizik": "nizak"
+  },
+  "napomena": "Pročitani svi relevantni dokumenti u extracted/ (opći podaci, upute za ponuditelje, oba dokumenta o kriterijima, obavijest o nadmetanju i njena izmjena, tehnička dokumentacija Mapa 1-4, rezultati pregleda i ocjene, odluka o odabiru, obavijest o dodjeli ugovora). Troškovnik.xls ekstrahiran kao prazna datoteka (0 bajtova) - poznato ograničenje ekstrakcijskog pipelinea za .xls format, nije bilo moguće ocijeniti njegov sadržaj izravno, samo posredno kroz reference na njega u ostaloj dokumentaciji."
+}

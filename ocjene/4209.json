@@ -1,0 +1,27 @@
+{
+  "postupak_id": 4209,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriteriji za odabir ponude (cijena, certifikati, dodatna stručnost zaštitara) definirani su egzaktnim formulama i bodovnim tablicama s jasnim pragovima (npr. broj certifikata -> bodovi, raspon broja zaštitara -> bodovi), bez prostora za subjektivnu interpretaciju.",
+      "citat": "Ponuda s najnižom cijenom dobiva 70,00 bodova, dok se ostale ponude boduju prema formuli"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Tehnička specifikacija precizno navodi lokacije, broj zaštitara po lokaciji, radno vrijeme i okvirni godišnji broj sati za svaku od 4 lokacije plus dodatne potrebe, što omogućuje usporedive ponude bez isključivanja razumnih alternativa (nema traženja specifičnog proizvoda/marke).",
+      "citat": "1 zaštitar radi svaki dan u mjesecu (24h) Okvirna količina pružene usluge je 8.784 sati godišnje"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dostupan je pun set priloga (opći podaci, kriteriji kvalitativnog odabira s detaljnim uputama o ESPD-u i dokazima, kriteriji za odabir ponude, tehnička specifikacija, troškovnik) dovoljan za samostalnu izradu ponude bez dodatnih pojašnjenja.",
+      "citat": "Predmet nabave detaljno je opisan u Prilogu – Troškovnik i Prilogu – Tehničke specifikacije"
+    },
+    "prosjecna_ocjena": 4.67
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak"
+  },
+  "napomena": "Dokumentacija je iscrpna i interno dosljedna (Opći podaci, Kriteriji za kvalitativni odabir, Kriteriji za odabir ponude, Tehnička specifikacija, Troškovnik, Upute za ponuditelje). Nema referenci na specifičan proizvod, marku ili patentirano rješenje. Pragovi sposobnosti (min. 25 licenciranih zaštitara, reference u visini procijenjene vrijednosti od 152.900 EUR) čine se proporcionalnima opsegu usluge (24/7 pokrivenost na dvije lokacije, 9h/dan na još dvije, ukupno 22.204 sati godišnje). Napomena za interpretaciju: zaprimljena je samo jedna ponuda (MEDITERAN SECURITY d.o.o., odabrana s 95/100 bodova, cijena 157.648,40 EUR bez PDV-a - iznad procijenjene vrijednosti), a bodovna ljestvica za 'dodatnu stručnost zaštitara' doseže maksimum već pri 21-25 zaštitara dok je 25 ujedno i minimalni kvalifikacijski uvjet - to smanjuje diskriminatornu snagu tog kriterija (svi kvalificirani ponuditelji automatski dobivaju pun broj bodova), ali nije dokaz namjerne prilagodbe jednom ponuditelju, samo mogući dizajnerski nedostatak kriterija."
+}

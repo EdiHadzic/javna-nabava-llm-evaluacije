@@ -1,0 +1,27 @@
+{
+  "postupak_id": 5829,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriteriji za odabir ponude (cijena 90 bodova, jamstveni rok 10 bodova) definirani su egzaktnim matematičkim formulama i tablicom bodovanja bez prostora za diskrecijsku ocjenu; jasno je propisan i minimalni/maksimalni prag jamstvenog roka te posljedica nedostavljanja izjave.",
+      "citat": "Bodovi za ponuđeni dulji jamstveni rok... Trajanje jamstva u mjesecima:24=0 bodova, od 25 do 47=5 bodova, od 48 do 60=10 bodova"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 5,
+      "obrazlozenje": "Predmet nabave opisan je kroz opsežan izvedbeni projekt i stavkovni troškovnik s tehničkim opisom svake pozicije radova pozivanjem na Opće tehničke uvjete (OTU), uz izričitu klauzulu jednakovrijednosti koja sprječava neopravdano sužavanje kruga ponuditelja.",
+      "citat": "Iskolčenje i održavanje trase. Sva geodetska mjerenja kojima se podaci iz projekta prenose na teren... Sve u skladu s točkom 1-02. OTU-a."
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 4,
+      "obrazlozenje": "Dostupna je gotovo sva dokumentacija potrebna za samostalnu izradu ponude (kriteriji kvalitativnog odabira, upute za ponuditelje, troškovnik, izvedbeni projekt, prijedlog ugovora, izjava o jamstvenom roku); ocjena nije 5 jer je 'Prilozi.zip' ekstrahiran kao prazan (0 bajtova) pa sadržaj tog priloga nije bilo moguće provjeriti.",
+      "citat": "Elektronička ponuda mora sadržavati najmanje: Uvez ponude, Popunjeni eESPD obrazac, Popunjen troškovnik... Prijedlog ugovora... Izjava o jamstvenom roku"
+    },
+    "prosjecna_ocjena": 4.67
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak"
+  },
+  "napomena": "Dvije datoteke u extracted/ nisu sadržajno iskoristive: 'Prilozi.zip.txt' je prazan (0 bajtova, vjerojatno neuspjela ekstrakcija arhive) i 'Zapisnik o pregledu i ocjeni ponuda.PDF.txt' sadrži samo 11 bajtova - no isti podaci (analitički prikaz ponuda, rangiranje, obrazloženje odabira) dostupni su iz paralelne HTML inačice 'Zapisnik o pregledu i ocjeni.pdf.txt', pa gubitak nije bio presudan za ocjenu. Tehnička dokumentacija (troškovnik, izvedbeni projekt) eksplicitno dopušta ponudu jednakovrijednog rješenja gdje god se referira marka/tip/patent, što je provjereno i u samom troškovniku i izvedbenom projektu bez pronađenih konkretnih uputa na specifičnog proizvođača/marku (jedina spominjanja 'proizvođača' odnose se generički na upute proizvođača opreme, ne na propisivanje konkretne marke)."
+}

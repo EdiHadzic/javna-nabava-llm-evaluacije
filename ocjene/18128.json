@@ -1,0 +1,32 @@
+{
+  "postupak_id": 18128,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriteriji za odabir ponude su potpuno jasni, mjerljivi i formalizirani formulom po svakom potkriteriju (cijena 90%, ISO standardi 5%, vozila/oprema 5%), s eksplicitno navedenim maksimalnim brojem bodova i načinom dokazivanja za svaki kriterij.",
+      "citat": "Najniža ponuđena cijena / K/1 = ------------------------------------ x 90 / Cijena ponude"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 2,
+      "obrazlozenje": "Zaseban dokument 'Tehničke specifikacije' sadrži samo uputu da se napomene o zahtjevima nalaze ispod svake stavke troškovnika, no sam troškovnik ne sadrži nikakve takve napomene niti tehničke zahtjeve (temperatura pranja, dezinfekcijski standard, materijal i sl.) - samo naziv stavke, jedinicu mjere i količinu. Opis predmeta u dokumentaciji je generički i ne omogućuje detaljnu usporedbu tehničke kvalitete ponuda izvan cijene.",
+      "citat": "Ispod svakog troškovnika/specifikacije su navedene napomene koje nuđeni proizvod mora ispunjavati."
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 4,
+      "obrazlozenje": "Administrativna dokumentacija je opsežna i cjelovita - obuhvaća obavijest o nadmetanju, detaljne kriterije kvalitativnog odabira s ESPD uputama, upute za ponuditelje s potpunim popisom obveznih priloga (ESPD, troškovnik, prijedlog ugovora, ISO certifikati, izjava o vozilima/opremi, vodopravna dozvola, program sprječavanja bolničkih infekcija, izjava o kapacitetu) te prijedlog ugovora - omogućuje samostalnu izradu ponude unatoč slabijoj tehničkoj specifikaciji.",
+      "citat": "Elektronička ponuda mora sadržavati najmanje: Uvez ponude Popunjeni eESPD obrazac (ili više njih, ako je primjenjivo) Popunjen troškovnik"
+    },
+    "prosjecna_ocjena": 3.67
+  },
+  "restriktivnost": {
+    "prisutno": true,
+    "indikatori": [
+      {
+        "opis": "Zahtijeva se izjava o osiguranom dnevnom kapacitetu pranja i glačanja od 1.000 kg rublja, dok je ugovorena godišnja količina 45.000 kg suhog bolničkog rublja - što implicira prosječnu dnevnu potrebu od otprilike 120-150 kg (uz preuzimanje jednom dnevno, osim nedjeljom), odnosno oko 7-8 puta manje od traženog kapaciteta. Ovakav prag može isključiti manje, lokalne praonice u korist velikih industrijskih praonica, iako je riječ o samostalnoj izjavi (nije certificirano dokazivanje) što ublažava barijeru.",
+        "citat": "osigurati kapacitet pranja rublja za količinu od 1.000kg rublja i najmanje 100 komada osobnog rublja"
+      }
+    ],
+    "rizik": "srednji"
+  },
+  "napomena": "Pročitane su sve dostupne .txt datoteke iz extracted/ (16 datoteka): obavijest o nadmetanju, kriteriji kvalitativnog odabira, kriterij i ponder odabira ponude, tehničke specifikacije, troškovnik, upute za ponuditelje, opći podaci, prijedlog ugovora, odluka o odabiru, zapisnici o pregledu i ocjeni (dvije gotovo identične inačice) te obavijest o dodjeli ugovora. Zaprimljena je samo jedna ponuda (TURISTHOTEL d.o.o.), ugovorena vrijednost 60.239,00 EUR bez PDV-a premašila je procijenjenu vrijednost od 54.000,00 EUR za oko 11,5% - naručitelj je to prihvatio uz obrazloženje da ima osigurana sredstva jer je ponuda ujedno bila i jedina. Naručitelj je koristio skraćivanje rokova zbog žurnosti (istek dosadašnjeg ugovora), što nije uključeno u restriktivnost (nije prilagodba specifikacije), ali je relevantno za širi kontekst niske razine konkurencije (1 ponuditelj)."
+}

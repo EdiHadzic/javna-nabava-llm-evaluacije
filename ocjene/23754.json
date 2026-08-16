@@ -1,0 +1,27 @@
+{
+  "postupak_id": 23754,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij za odabir ponude (ENP) potpuno je operacionaliziran: cijena nosi 90% s eksplicitnom matematičkom formulom, a kvalitativni kriterij (iskustvo glavnog projektanta) nosi 10% uz potpunu bodovnu tablicu koja svakom broju referentnih projekata (0-10) dodjeljuje točan broj bodova, bez prostora za subjektivnu ocjenu.",
+      "citat": "C = (Cmin / Cp) x 90"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Projektni zadatak vrlo je konkretan glede funkcionalnih zahtjeva, minimalnih kapaciteta i dimenzija (dvorana, bazen, tribine, garderobe, tehnički sustavi), uz priloženo idejno rješenje kao okvir, ali ostavlja projektantu razumnu slobodu odabira konstruktivnog sustava, oblikovanja i tehničkih rješenja u skladu s propisima, čime izbjegava pretjeranu uskost bez gubitka usporedivosti ponuda.",
+      "citat": "sportska dvorana: multifunkcionalno borilište minimalnih dimenzija po standardu za potrebe odigravanja rukmetne utakmice"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dokumentacija sadrži sve uobičajene sastavnice potrebne za samostalnu izradu ponude: opće podatke, kriterije kvalitativnog odabira s detaljnim uputama za ESPD, zaseban dokument s kriterijem i formulom za odabir ponude, troškovnik, projektni zadatak s idejnim rješenjem, te sve oglednie priloge (izjava o iskustvu stručnjaka, prijedlog ugovora, ovlast za zastupanje, izjava o državljanstvu). Naručitelj je uredno odgovarao na postavljena pitanja ponuditelja.",
+      "citat": "Elektronička ponuda mora sadržavati najmanje: Uvez ponude Popunjeni eESPD obrazac (ili više njih, ako je primjenjivo) Popunjen troškovnik"
+    },
+    "prosjecna_ocjena": 4.67
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak"
+  },
+  "napomena": "Pročitani su svi relevantni dokumenti iz Dokumentacije o nabavi (opći podaci, kriteriji kvalitativnog odabira, kriterij za odabir ponude, upute za ponuditelje, projektni zadatak, troškovnik, odgovori na upite). Tehnička specifikacija projekta izričito citira članke ZJN 2016 o zabrani upućivanja na određenu marku/proizvođača i sadrži izravnu odredbu da 'opisanim karakteristikama ne smije se pogodovati jednom proizvođaču'; parametri fotonaponskog sustava (min. 18% učinkovitost, jamstva) ocijenjeni su kao industrijski standardni performansni zahtjevi, ne kao skrivena specifikacija određenog proizvođača. Uvjet reference (min. 80.000 EUR, jednako procijenjenoj vrijednosti nabave) proporcionalan je i ne prelazi uobičajenu praksu. Nekoliko priloga iz mape 'Odluka o odabiru' (faza nakon dodjele, .rar datoteke s odgovorima ponuditelja na zahtjeve za dopunom) ekstrahirano je kao prazno (0 bajtova, poznati pipeline artefakt), ali ti dokumenti ne pripadaju osnovnoj Dokumentaciji o nabavi niti utječu na ocjenu transparentnosti/restriktivnosti postupka."
+}

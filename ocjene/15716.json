@@ -1,0 +1,28 @@
+{
+  "postupak_id": 15716,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 2,
+      "obrazlozenje": "Jedini dostupni dokument (Obavijest o dodjeli ugovora) navodi kriterij za odabir ponude tek kao naziv 'Cijena', bez daljnje elaboracije, formule, pondera ili metodologije ocjenjivanja. Nadalje, do stvarne konkurentske ocjene ponuda nije ni došlo - zaprimljeno je 0 ponuda jer je postupak izuzet od ZJN-a i ugovor je dodijeljen izravno, bez javnog nadmetanja, pa naveden kriterij nije bio niti primijenjen u praksi.",
+      "citat": "Kriterij za odabir ponude Cijena: Naziv kriterija Cijena"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 2,
+      "obrazlozenje": "Opis predmeta nabave svodi se na jednu kratku rečenicu bez ikakvih tehničkih specifikacija, opsega usluge, količina, standarda kvalitete ili operativnih zahtjeva. Budući da ne postoji zaseban dokument tehničke specifikacije (samo obavijest o dodjeli), nemoguće je ocijeniti bi li opis omogućio usporedivu ponudu neovisnom ponuditelju.",
+      "citat": "Usluge prihvata krutog komunalnog otpada s brodova u lukama poluotok i Gaženica u Zadru"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 1,
+      "obrazlozenje": "U direktoriju postupka postoji isključivo Obavijest o dodjeli ugovora - nema dokumentacije o nabavi, troškovnika, tehničkih uvjeta niti obrazaca. Razlog je pravne naravi: postupak je izuzet od primjene ZJN-a temeljem isključivog prava utemeljenog zakonom, pa takva dokumentacija po svemu sudeći nikad nije ni bila sastavljena/objavljena za ovaj postupak, jer nije postojala konkurentska faza koju bi trebala poduprijeti.",
+      "citat": "Sukladno članku 30. Stavak 1 točka 15. Zakonu o javnoj nabavi... postupak nabave izuzet je od primjene Zakona."
+    },
+    "prosjecna_ocjena": 1.67
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak",
+    "napomena_ograničenja": "Indikator (prilagođenost specifikacije određenom ponuditelju - specifični proizvod/marka, patentirano rješenje, nesrazmjerni pragovi) nije bilo moguće smisleno provjeriti jer ne postoji nijedan dokument sa stvarnom specifikacijom ili uvjetima sposobnosti - dostupna je samo obavijest o dodjeli. 'Nizak rizik' ovdje znači 'nema dokaza u dostupnom dokumentu', ne potvrđeno odsustvo restriktivnosti."
+  },
+  "napomena": "Postupak 15716 (EVV 198/340-2024, Jadrolinija - komunalni otpad, luka Zadar/Gaženica) strukturno odudara od tipičnog otvorenog postupka: izuzet je od primjene ZJN-a (čl. 30. st. 1. t. 15. ZJN2016, isključivo pravo utemeljeno zakonom) i ugovor je dodijeljen izravno jedinom subjektu (ČISTOĆA d.o.o., Zadar) bez javnog nadmetanja - zaprimljeno je 0 ponuda. U mapi 'extracted/' postoji samo jedna datoteka, sama obavijest o dodjeli ugovora; ne postoji dokumentacija o nabavi, tehnička specifikacija niti kriteriji za kvalitativni odabir jer takva dokumentacija za ovaj tip izuzetog postupka očito nije ni bila objavljena na portalu. Sve tri ocjene transparentnosti stoga prvenstveno odražavaju krajnje ograničen skup dostupnih informacija o samom postupku dodjele, a ne nužno kvalitetu dokumentacije koja bi postojala da je riječ o standardnom otvorenom postupku. Ovaj slučaj vrijedi zasebno razmotriti u tekstu rada (5.2.) kao poseban tip ograničenja tržišnog natjecanja - izravna dodjela temeljem zakonskog izuzeća, a ne prilagođena specifikacija - jer ga postojeći indikator restriktivnosti ne hvata na predviđen način."
+}

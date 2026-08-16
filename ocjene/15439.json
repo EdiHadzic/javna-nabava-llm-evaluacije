@@ -1,0 +1,30 @@
+{
+  "postupak_id": 15439,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij odabira ponude je ekonomski najpovoljnija ponuda razložena na dva potpuno mjerljiva potkriterija s eksplicitnom matematičkom formulom za cijenu (90 bodova) i jasnom bodovnom tablicom za rok isporuke (10 bodova), bez prostora za diskrecijsko tumačenje.",
+      "citat": "Broj bodova = Najniža ponuđena cijena / Cijena ponude x 90"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Opis predmeta nabave po svakoj od 62 grupe sveden je na standardizirani troškovnik (nezaštićeno ime lijeka, farmaceutski oblik, jedinica mjere, okvirna godišnja količina) - dovoljno konkretno za usporedivu ponudu jer koristi generička (INN) imena umjesto zaštićenih naziva, čime se ne isključuju alternativni proizvođači, ali je opis svake stavke minimalan (bez doziranja indikacija, pakiranja u punom smislu i sl.), a niz naknadnih izmjena kroz Odgovore (brisanje/izdvajanje stavki, dopuštanje dodatnih farmaceutskih oblika) pokazuje da je izvorni troškovnik u pojedinim detaljima bio nedovoljno precizan.",
+      "citat": "MEROPENEM 1000mg kom praš.za otop. za inj. Ili inf.boč.stakl. 550"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dostupan je pun standardni set dokumentacije (Opći podaci, Kriteriji za kvalitativni odabir gospodarskog subjekta, Kriterij za odabir ponude, Tehničke specifikacije/troškovnik za svih 62 grupa, Upute za ponuditelje, ESPD upute, popis referenci) te opsežan zapisnik Odgovora na pitanja gospodarskih subjekata koji dodatno razjašnjava brojne nejasnoće, što omogućuje samostalnu izradu ponude.",
+      "citat": "Odgovori na zahtjeve za dodatnim informacijama, objašnjenjima i izmjenama u vezi s dokumentacijom o nabavi"
+    },
+    "prosjecna_ocjena": 4.67
+  },
+  "restriktivnost": {
+    "prisutno": true,
+    "indikatori": [
+      "Naručitelj je odbio zahtjeve više ponuditelja da izdvoji stavke iz Grupe 61 (stavke 1, 2, 3, 5 i 6) unatoč eksplicitnoj tvrdnji da se ti lijekovi nalaze u ekskluzivnoj distribuciji jedne veledrogerije odnosno nisu dostupni svim veledrogerijama, čime efektivno favorizira jednog distributera za te stavke.",
+      "Naručitelj je odbio zahtjev da kratice farmaceutskih oblika (drag., tbl., caps.) obuhvate sve ekvivalentne oblike (film tablete, želučanootporne tablete, tvrde/meke kapsule), što suzuje krug prihvatljivih generičkih alternativa za pojedine stavke."
+    ],
+    "rizik": "srednji"
+  },
+  "napomena": "Postupak je vrlo velik (62 grupe/lotova), ali standardiziran EOJN predložak s potpunom pratećom dokumentacijom i opsežnim odgovorima na pitanja. Glavni signal restriktivnosti nije prilagodba specifikacije jednom ponuditelju kroz tehnički opis, nego odbijanje uklanjanja stavki za koje su ponuditelji dokumentirano naveli postojanje ekskluzivne distribucije (Grupa 61), što je vrijedno istaknuti kao rizik za tržišno natjecanje unatoč inače visokoj razini transparentnosti."
+}

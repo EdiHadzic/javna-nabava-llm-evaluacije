@@ -1,0 +1,27 @@
+{
+  "postupak_id": 4946,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij za odabir ponude precizno definira dva mjerljiva potkriterija (cijena 90% i dodatno jamstveno razdoblje 10%) s eksplicitnom matematičkom formulom za cijenu i jasnom bodovnom tablicom po rasponima mjeseci za drugi kriterij, uz definiran postupak za slučaj izostanka izjave.",
+      "citat": "Ponuda s najniže ponuđenom cijenom dobiva 90 bodova, a ostale ponude se boduju prema formuli: Ymin/Yp x 90"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Predmet nabave je konkretno opisan (lokacija, katastarske čestice, faza radova) uz upućivanje na Glavni projekt i Troškovnik kao detaljnu tehničku podlogu; opis je dovoljno konkretan za usporedivu ponudu, a generalna klauzula 'ili jednakovrijedno' za sve tehničke specifikacije sprječava neopravdano suženje kruga ponuditelja.",
+      "citat": "generalno vrijedi izraz jednakovrijednosti za svako upućivanje na tehničke specifikacije te ova napomena ima apsolutni prioritet u tumačenju"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dokumentacija sadrži cjelovit set priloga potreban za samostalnu izradu ponude: Obavijest o nadmetanju, Upute za ponuditelje, Kriterije za kvalitativni odabir s detaljno razrađenim ESPD zahtjevima i načinom dokazivanja, Glavni projekt, Troškovnik i obrazac za jamstveni rok; svi dokumenti međusobno su konzistentni.",
+      "citat": "Elektronička ponuda mora sadržavati najmanje: Uvez ponude Popunjeni eESPD obrazac (ili više njih, ako je primjenjivo) Popun..."
+    },
+    "prosjecna_ocjena": 4.67
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak"
+  },
+  "napomena": "Pretraga tehničke specifikacije (Glavni projekt) i Troškovnika nije pronašla reference na specifičnu marku/proizvođača/model; referentni prag tehničke sposobnosti (min. 1 rad u vrijednosti procijenjene nabave, 152.000 EUR, unutar 5+1 godina) odgovara procijenjenoj vrijednosti nabave i standardan je za ovu vrstu postupka, nije nesrazmjeran."
+}

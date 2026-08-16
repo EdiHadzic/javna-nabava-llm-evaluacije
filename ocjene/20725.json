@@ -1,0 +1,27 @@
+{
+  "postupak_id": 20725,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij za odabir ponude je isključivo cijena (100 % relativnog značaja), s eksplicitnom zakonskom osnovom i preciznom matematičkom formulom bodovanja u zasebnom dokumentu 'Kriteriji za odabir ponude'. Nema dvosmislenosti niti subjektivnih ne-cjenovnih potkriterija.",
+      "citat": "Sukladno članku 284. stavak 5. Zakona o javnoj nabavi ekonomski najpovoljnija ponuda utvrđuje se samo na temelju cijene."
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Tehničke specifikacije, troškovnik i Prilog 1 (popis lokacija s rasporedom dostave) daju konkretan, mjerljiv opis predmeta nabave (kvote rokova uručenja, opseg pošiljaka po kategorijama i masi), dovoljan za izradu usporedive ponude. Blaga zadrška od najviše ocjene: kvantificirani zahtjevi kvalitete (85 %/95 % rokovi uručenja na cijelom području RH uklj. otoke) u praksi realno mogu ispuniti samo davatelji s nacionalnom poštanskom mrežom, što opis čini strukturno uskim iako nije formalno diskriminatoran.",
+      "citat": "uručenje najmanje 85% poštanskih pošiljaka najbrže kategorije u roku od jednoga radnog dana, odnosno najmanje 95% u roku od dva radna dana"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dostupna je cjelovita dokumentacija: opći podaci, upute za ponuditelje, kriteriji kvalitativnog odabira, kriteriji za odabir ponude, tehničke specifikacije, troškovnik te obvezni prilozi (popis lokacija, popis čistih vozila). Zapisnik o pregledu i ocjeni potvrđuje da je dostavljena ponuda bila potpuna i sukladna dokumentaciji, što posredno potvrđuje da dokumentacija nije bila nejasna ili nedostatna za samostalnu izradu ponude.",
+      "citat": "Ponuda je cjelovita te oblikom i sadržajem sukladna traženom u Dokumentaciji o nabavi."
+    },
+    "prosjecna_ocjena": 4.67
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak"
+  },
+  "napomena": "Nema izravnih tekstualnih indikatora prilagodbe specifikacije određenom ponuditelju (nema referenci na marku/patent, referentni prag od 200.000 EUR i jamstvo od 7.000 EUR proporcionalni su procijenjenoj vrijednosti od 240.000 EUR). Zaprimljena je samo 1 ponuda (HP - Hrvatska pošta d.d.), no to je vjerojatno posljedica strukture hrvatskog poštanskog tržišta (HP kao davatelj univerzalne usluge s jedinom stvarno nacionalnom mrežom), a ne namjerno restriktivne dokumentacije naručitelja - stoga rizik ostaje nizak, ne visok. Datoteka '(root)__Prilozi.zip.txt' ekstrahirana je prazna (0 bajtova), no njezin sadržaj (troškovnik, tehničke specifikacije, prilozi) dostupan je zasebno u ostalim ekstrahiranim datotekama, pa nema stvarnog gubitka informacije."
+}

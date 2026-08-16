@@ -1,0 +1,40 @@
+{
+  "postupak_id": 2484,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij ENP (cijena 90 + broj izvršenih ugovora 10 bodova) potpuno je operacionaliziran javno objavljenom formulom za cijenu i tablicom bodova s jasnim pragovima za broj ugovora, uz definiran minimalni prag vrijednosti referentnog ugovora (20.000 EUR) i pravilo za izjednačene ponude (raniji primitak).",
+      "citat": "Ponuda s najnižom cijenom dobiva 90,00 bodova, dok se ostale ponude boduju prema formuli"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Zaseban dokument 'Tehničke specifikacije' minimalan je i upućuje isključivo na troškovnik, ali troškovnik sadrži 83 stavke s točnim nazivima, jedinicama mjere i količinama te, gdje je primjenjivo, objektivne kriterije jednakovrijednosti (vodotijesnost, vodljivost, masa, uz 10% odstupanja).",
+      "citat": "Kriterij jednakovrijednosti za ne-rasvjetne elemente je sukladnost tehničkim specifikacijama vodotijesnosti, vodljivišću, izolacijskim svojstvima te masi uz dozvoljeno odstupanje od 10%"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 4,
+      "obrazlozenje": "Dostupna je puna standardna dokumentacija (opći podaci, upute za ponuditelje, kriteriji kvalitativnog odabira, kriteriji odabira ponude, troškovnik, odgovori na pitanja), a naručitelj je uredno i pravovremeno odgovarao na sva pristigla pitanja prije roka za dostavu ponuda.",
+      "citat": "Sve tehničke specifikacije sadržane su u prilogu Troškovnik."
+    },
+    "prosjecna_ocjena": 4.33
+  },
+  "restriktivnost": {
+    "prisutno": true,
+    "indikatori": [
+      {
+        "opis": "Brojne stavke troškovnika (preko 20 od 83) referiraju konkretne robne marke i modele (Philips CoreLine Malaga, Osram, Sylvania, ETI, GE, Dalekovod, Platek, LEDS-C4), doduše uz klauzulu 'ili jednakovrijedan'.",
+        "citat": "Svjetiljka Philips CoreLine Malaga LED BRP101 LED 37/730 II DM SRG10 42-60A, 3000K ili jednakovrijedan"
+      },
+      {
+        "opis": "Ponuditelj je putem pitanja izričito osporio referenciranje na Philips CoreLine Malaga kao suprotno čl. 210 ZJN-a (nedopuštena preferencija konkretnog proizvoda).",
+        "citat": "Ovakav opis stakve je suprotan Zakonu o javnoj nabavi čl. 210. Molimo pojašnjenje?"
+      },
+      {
+        "opis": "Naručitelj je odbio zahtjev ponuditelja da ukloni referentnu marku unatoč argumentiranoj tvrdnji da referentne svjetiljke ne zadovoljavaju zakonske zahtjeve za pametnu (Smart City) rasvjetu.",
+        "citat": "Svjetiljke iz obitelj Philips Core Line Malaga nemaju mogućnost automatske regulacije svjetlosnog toka... Naručitelj ne prihvaća prijedlog gospodarskog subjekta."
+      }
+    ],
+    "rizik": "nizak"
+  },
+  "napomena": "Pročitani su svi relevantni dokumenti (opći podaci, kriteriji kvalitativnog odabira, kriteriji odabira ponude, upute za ponuditelje, tehničke specifikacije, troškovnik, odgovori, obavijest o nadmetanju i o dodjeli ugovora). Rizik restriktivnosti ocijenjen je niskim unatoč brojnim referencama na konkretne marke jer je 'ili jednakovrijedan' klauzula dosljedno prisutna, radi se o materijalu za održavanje postojeće infrastrukture (gdje kompatibilnost objektivno opravdava referenciranje), a postupak je privukao 2 ponude i ugovoren je ispod procijenjene vrijednosti (75.354,59 EUR naspram 84.570,45 EUR)."
+}

@@ -1,0 +1,27 @@
+{
+  "postupak_id": 3761,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij ENP potpuno je mjerljiv i formalno definiran: cijena 90 bodova po eksplicitnoj formuli (Bc=(Cmin/Cp)*90) i jamstveni rok 10 bodova prema fiksnoj tablici (12 mj.=5, 24 mj.=10), identično za obje grupe. Zapisnik o pregledu i ocjeni pokazuje da su bodovi izračunati bez ikakve dvojbe za sve ponuditelje.",
+      "citat": "Valjana ponuda s najniže ponuđenom cijenom dobiva 90 bodova, a ostale ponude se boduju prema formuli: Bc = (Cmin/Cp) * 90"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Opis predmeta nabave (uređenje dva trga) tekstualno je konkretan u pogledu zahvata (uklanjanje podloge, AB ploče, popločavanje kamenom, klupe, zelenilo), s jasnom razdvojbom po grupama i referencom na glavne projekte/troškovnik za detalje, bez brendiranja. Nije ocjenjeno maksimalno jer opis u samom tekstu Obavijesti/Općih podataka ostaje na razini opisa zahvata, a puna tehnička preciznost (dimenzije, materijali) nalazi se isključivo u zasebnim prilozima (troškovnik, glavni projekt).",
+      "citat": "Projektom se predviđa uklanjanje postojeće betonske podloge do dubine cca 35-40cm... izvesti novu AB ploču, kamen u mortu ili novi asfalt."
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dostupna je puna dokumentacija: Kriteriji kvalitativnog odabira, Kriteriji za odabir ponude, Opći podaci, Upute za ponuditelje, glavni projekti (3 mape), troškovnici za obje grupe i propisani obrasci/prilozi. Zapisnik o pregledu i ocjeni potvrđuje da su sve tri zaprimljene ponude po obje grupe ocijenjene kao valjane prema obliku, sadržaju i cjelovitosti (DA/DA/DA), bez ijednog zahtjeva za dopunu dokumentacije.",
+      "citat": "Detaljan troškovnik se nalazi u zasebnom prilogu – Troškovnik."
+    },
+    "prosjecna_ocjena": 4.67
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak"
+  },
+  "napomena": "Dokumentacija cjelovita i čitljiva (HTML izvori kriterija/uputa + PDF projekti/troškovnici, bez OCR/praznih ekstrakcija). Nema referenci na točno određenu marku/proizvod; tehnički zahtjevi materijala (npr. 'španjolski iroko', čelik ČN24) standardne su tehničke specifikacije, ne brend. Financijski pragovi (1 referenca u visini procijenjene vrijednosti, jamstva 3%/10%) proporcionalni su i uobičajeni za radove ove veličine. Sva 3 ponuditelja po obje grupe prošla su sve provjere (isključenje, sposobnost, valjanost), što posredno potvrđuje da specifikacija nije bila restriktivna u praksi. Napomena izvan sheme: naručitelj u dokumentu 'Opći podaci' (1.3.) prijavljuje sukob interesa s obrtom u vlasništvu Zlatka Lukačića, a Zlatko Lukačić istovremeno je naveden kao član stručnog povjerenstva koje je provelo pregled i ocjenu ponuda u ovom istom postupku (Zapisnik, t. 13). Ne utječe izravno na restriktivnost specifikacije, ali relevantno je za širu analizu javnog izbora/rent-seekinga u tekstu rada."
+}

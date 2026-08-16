@@ -1,0 +1,53 @@
+{
+  "postupak_id": 33071,
+  "broj_pojedinacnih_runova": 3,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Sva tri pokretanja slažu se u potpunosti: kriterij ENP je u cijelosti operacionaliziran kroz eksplicitne formule bodovanja za cijenu (70 bodova) i svaki kvalitativni podkriterij, s brojčanim min/max granicama i razrađenim primjerima izračuna, ostavljajući minimalan prostor subjektivnoj ocjeni. Naknadno je kriterij i dosljedno primijenjen u Odluci o odabiru, s konkretno obrazloženim isključenjima triju ponuda.",
+      "citat": "Ponuda s najniže ponuđenom cijenom dobiva 70 bodova",
+      "runovi": [
+        5,
+        5,
+        5
+      ],
+      "slaganje": "puno"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Dva od tri pokretanja (run 1 i run 3) ocjenjuju 4, jedno (run 2) ocjenjuje 5. Tehnička specifikacija je nesporno vrlo opsežna i precizna (rizici, franšize, agregatni limiti po stavci), no run 1 dokumentira konkretan slučaj gdje je naručitelj odbio dio zahtjeva ponuditelja za pojašnjenjem/usklađenjem s tržišnom praksom (CO uvjeti) bez detaljnog obrazloženja razmjernosti — to je specifičan, provjerljiv nalaz koji run 2 ne adresira niti pobija. Budući da manjinsko odstupanje (run 2) nema jednako konkretno utemeljenje za višu ocjenu, zadržava se konsenzus dva pokretanja.",
+      "citat": "Str.32 – Kasko osiguranje podaci... nisu u skladu sa trenutno primjenjujućim CO Uvjetima",
+      "runovi": [
+        4,
+        5,
+        4
+      ],
+      "slaganje": "djelomicno"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Sva tri pokretanja slažu se u potpunosti: dostupan je pun i interno usklađen skup dokumentacije (opći podaci, tehnička specifikacija, troškovnik, kriteriji kvalitativnog odabira, kriteriji za odabir ponude, upute za ponuditelje, više krugova odgovora na upite, odluka o odabiru, zapisnik o pregledu i ocjeni), dovoljan za samostalnu izradu ponude. Praktična potvrda potpunosti: i sitni propusti u ispunjavanju troškovnika bili su precizno prepoznatljivi i doveli do formalnog odbijanja jedne ponude, što pokazuje da je dokumentacija bila dovoljno detaljna za nedvosmislenu provjeru.",
+      "citat": "Ponuditelj nije ispunio sve stavke toškovnika (list ''Odgovornost'' r.br. 4 premija za 1. godinu i premija za 2. godinu), te troškovnik ponuditelja nije u skladu sa odredbama DON.",
+      "runovi": [
+        5,
+        5,
+        5
+      ],
+      "slaganje": "puno"
+    },
+    "prosjecna_ocjena": 4.67
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak",
+    "runovi_prisutno": [
+      false,
+      false,
+      false
+    ],
+    "slaganje": "puno"
+  },
+  "napomena": "Sva tri pokretanja pročitala su relevantnu dokumentaciju iz extracted/ (opći podaci, kriteriji kvalitativnog odabira, kriteriji za odabir ponude, upute za ponuditelje, tehnička specifikacija, troškovnik, odgovori na upite, odluka o odabiru, zapisnik o pregledu i ocjeni; run 3 potvrđuje čitanje svih 24 datoteka). Referentni prag tehničke i stručne sposobnosti (42.000 EUR) razmjeran je procijenjenoj vrijednosti Grupe 1 (85.000 EUR, ~49%), bez ikakve reference na specifičan proizvod, marku ili patentirano rješenje. Postupak je privukao 4 stvarna ponuditelja (Croatia, Wiener/VIG, Adriatic, Allianz), od kojih su tri odbijena iz razloga nevezanih uz restriktivnost specifikacije (prekoračenje procijenjene vrijednosti, nepotpun troškovnik) — empirijska potvrda da dokumentacija nije praktično sužavala krug ponuditelja.",
+  "napomena_resolvera": "Puno slaganje (sva tri pokretanja identična) postignuto je na jasnoća_kriterija (5/5/5), potpunost_dokumentacije (5/5/5) i restriktivnosti (false/false/false, rizik nizak u sva tri). Djelomično slaganje javilo se samo na razina_detalja_opisa (4/5/4): manjinsko odstupanje (run 2, ocjena 5) nije imalo konkretniji ili jače utemeljen citat od konsenzusa runova 1 i 3, koji se oslanjaju na dokumentiran, provjerljiv slučaj odbijanja zahtjeva ponuditelja bez obrazložene razmjernosti — stoga je zadržana ocjena 4. Napomena: run 2 je u polju restriktivnost.indikatori naveo tri stavke unatoč prisutno=false (opisujući razloge NE-restriktivnosti, a ne nalaze restriktivnosti); budući da se radi o shemskoj nedosljednosti tog pokretanja, a ne o stvarnom indikatoru restriktivnosti, te stavke nisu prenesene u finalni indikatori niz (ostaje prazan, konzistentno s runovima 1 i 3). Ukupna pouzdanost finalne ocjene: visoka — tri od četiri stavke imaju puno slaganje, a jedina djelomično neslažuća dimenzija razriješena je jasnom prevagom kvalitete citata, ne mehaničkim glasovanjem."
+}

@@ -1,0 +1,27 @@
+{
+  "postupak_id": 8921,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij odabira je ekonomski najpovoljnija ponuda s potpuno definiranom i mjerljivom raspodjelom bodova: cijena (90 bodova) i udio električne energije iz obnovljivih izvora (10 bodova, uz obvezni minimum 50%). Za oba potkriterija dane su eksplicitne matematičke formule (C = Cmin/Cn x 90; Z formula s Z50/Zmax) bez prostora za diskrecijsku ocjenu povjerenstva.",
+      "citat": "Za ovaj kriterij ponuditelj može dobiti najviše 90 bodova. Ponuda s najnižom ponuđenom cijenom dobiva 90 bodova za ovaj cjenovni kriterij."
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 5,
+      "obrazlozenje": "Predmet nabave (opskrba električnom energijom) razrađen je do razine pojedinačnog obračunskog mjernog mjesta: popis od 48 mjernih mjesta s adresama, tarifnim modelima (crveni/bijeli/plavi/žuti) i godišnjim okvirnim potrošnjama po tarifi dan je u zasebnom troškovniku i prilogu, što omogućuje izradu usporedive ponude bez nepotrebnog suženja na određenog ponuditelja (roba je generička, CPV 09310000).",
+      "citat": "Lokacija opskrbe električnom energijom i obračunska mjerna mjesta navedena su u prilgu dokumentacije"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 4,
+      "obrazlozenje": "Dostupna je cjelovita standardna dokumentacija (opći podaci, kriteriji kvalitativnog odabira, upute za ponuditelje, troškovnik, popis mjernih mjesta, obrasci, odluka o odabiru, zapisnici o pregledu i ocjeni, obavijest o dodjeli), dovoljna za samostalnu izradu ponude. Ocjena nije 5 jer je prilog 'Prilozi.zip' ekstrahiran kao prazna (0 B) datoteka pa sadržaj tog dodatnog priloga nije bilo moguće provjeriti iz dostupnog teksta.",
+      "citat": "Elektronička ponuda mora sadržavati najmanje: Uvez ponude, Popunjeni eESPD obrazac, Popunjen troškovnik, Vrijednosti kriterija za odabir ponude"
+    },
+    "prosjecna_ocjena": 4.67
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak"
+  },
+  "napomena": "Postupak je 'ponovljeni natječaj' (prethodni pokušaj vjerojatno neuspješan/bez dovoljno ponuda), a zaprimljena je samo 1 ponuda (HEP-Opskrba d.o.o.), no to je posljedica strukture hrvatskog tržišta opskrbe električnom energijom za javne naručitelje, a ne restriktivnosti dokumentacije: nema referenci na marku/model, tehničke pragove ili nesrazmjerne financijske uvjete (jamstvo za ozbiljnost ponude 5.000 EUR na procijenjenu vrijednost 175.671,87 EUR, ~2,8%, standardno; referentni uvjet zahtijeva vrijednost isporuka jednaku procijenjenoj vrijednosti nabave, što je uobičajen a ne pretjeran prag). Datoteka 'Prilozi.zip' ekstrahirana je prazna (0 B) - jedina manja limitacija u dostupnosti dokumentacije za ovu ocjenu."
+}

@@ -1,0 +1,32 @@
+{
+  "postupak_id": 31191,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 4,
+      "obrazlozenje": "Kriterij ENP jasno je operacionaliziran (Cijena 90%, Jamstveni rok za otklanjanje nedostataka 10%) uz eksplicitne formule i primjenu u Zapisniku o pregledu i ocjeni. Umanjeno zbog interne nedosljednosti u definiciji minimalnog jamstvenog roka: na jednom mjestu naveden je minimum od 24 mjeseca, a odmah zatim prag za odbacivanje ponude postavljen je na manje od 12 mjeseci.",
+      "citat": "Minimalni jamstveni rok je 24 mjeseca. ... Ponude u kojima je iskazan jamstveni rok kraći od 12 mjeseci bit će odbačene."
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 5,
+      "obrazlozenje": "Troškovnik sadrži vrlo konkretne, mjerljive tehničke karakteristike (dimenzije u mm/cm, debljine materijala, nosivost, broj valjaka i sl.) za sva tri stavka predmeta nabave, dovoljno precizne za usporedivu ponudu, a pritom dopušta jednakovrijedna rješenja.",
+      "citat": "Unutarnja i vanjska obloga zidnih i stropnih elemenata izrađena je od nehrđajućeg čelika 1.4301 ili jednakovrijednog, debljine min. 1 mm"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dostupan je pun i unutarnje konzistentan paket dokumentacije: opći podaci, kriteriji kvalitativnog odabira, upute za ponuditelje, troškovnik/tehničke specifikacije, prijedlog ugovora, obavijest o nadmetanju i njena izmjena, odgovori na pitanja te odluka o odabiru i zapisnik.",
+      "citat": "Elektronička ponuda mora sadržavati najmanje: Uvez ponude Popunjeni eESPD obrazac (ili više njih, ako je primjenjivo) Popunjen troškovnik"
+    },
+    "prosjecna_ocjena": 4.67
+  },
+  "restriktivnost": {
+    "prisutno": true,
+    "indikatori": [
+      {
+        "indikator": "Naručitelj je odbio zahtjev ponuditelja za proširenjem raspona visinskog podešavanja liftera (kolica), izričito obrazlažući to potrebom usklađenosti s već postojećom opremom naručitelja — parametar implicitno favorizira opremu kompatibilnu s postojećim sustavom, bez izravnog navođenja marke/proizvođača.",
+        "citat": "Raspon visinskog podešavanja liftera je izuzetno bitna stavka, jer je bitna usklađenost opreme koja se nabavlja s već postojećom opremom"
+      }
+    ],
+    "rizik": "nizak",
+    "napomena": "Postupak je imao 4 zaprimljene ponude (3 valjane), što empirijski upućuje na to da specifikacija nije bila ozbiljno ograničavajuća unatoč navedenom niskorizičnom indikatoru."
+  }
+}

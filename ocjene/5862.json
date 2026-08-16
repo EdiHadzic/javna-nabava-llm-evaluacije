@@ -1,0 +1,36 @@
+{
+  "postupak_id": 5862,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriteriji za odabir ekonomski najpovoljnije ponude (cijena 80%, jamstveni rok 10%, specifično iskustvo tehničkog stručnjaka 10%) definirani su egzaktnim matematičkim formulama i bodovnim tablicama (Obrazac 3.), s jasno propisanim minimalnim uvjetima (npr. minimalni jamstveni rok 60 mjeseci, inače odbijanje ponude) i preciznim brojčanim pragovima za bodovanje iskustva stručnjaka (1/2-3/4-5/6+ projekata).",
+      "citat": "Ponuda s najniže ponuđenom cijenom dobiva 80 bodova, a ostale ponude se boduju prema formuli"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 5,
+      "obrazlozenje": "Tehnička specifikacija (Obrazac 2.) sadrži dvije detaljne tablice s ukupno 42 stavke konkretnih, mjerljivih tehničkih zahtjeva (memorija, zaštita IP67, brzina detekcije, preciznost pozicioniranja, broj opažaja po satu i dr.), uz dosljednu formulaciju 'ili jednakovrijedno' koja omogućuje usporedive ponude bez isključivanja razumnih tehnički ekvivalentnih rješenja.",
+      "citat": "Prosječan broj opažaja: od 1500 do 3500 reg. oznaka po satu"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dostupan je pun set dokumentacije: opći podaci o postupku, obavijest o nadmetanju, kriteriji kvalitativnog odabira, tehnička specifikacija, kriterij za odabir ponude, troškovnik te svi prateći obrasci (1-8) potrebni za samostalnu izradu ponude, kao i zapisnici o pregledu i ocjeni te odluka o odabiru - dokumentacija omogućuje potpunu rekonstrukciju uvjeta i tijeka postupka.",
+      "citat": "Detaljan troškovnik se nalazi u zasebnom prilogu – Troškovnik."
+    },
+    "prosjecna_ocjena": 5.0
+  },
+  "restriktivnost": {
+    "prisutno": true,
+    "indikatori": [
+      {
+        "opis": "Zahtjev za certifikatom sukladnosti s normom ISO 11154:2023 koja se odnosi na sigurnosne zahtjeve za krovne nosače tereta (roof racks) za osobna i laka gospodarska vozila - norma je sadržajno nepovezana s predmetom nabave (sustav za prepoznavanje registracijskih oznaka vozila/LPR kamere), što ukazuje na moguću grešku pri izradi dokumentacije (copy-paste iz druge nabave) ili na neproporcionalan/pogrešno usmjeren tehnički zahtjev koji stvarnim proizvođačima LPR sustava otežava dokazivanje sukladnosti.",
+        "citat": "kojom se utvrđuju minimalni sigurnosni zahtjevi za sve krovne nosače tereta namijenjene za montažu na ili iznad krovova osobnih automobila"
+      },
+      {
+        "opis": "Zaprimljena je samo jedna ponuda u postupku (kontekstualni pokazatelj niske razine konkurencije, ne dokaz restriktivnosti sam po sebi, ali konzistentan s mogućnošću da su specifikacije/uvjeti sposobnosti sužavali krug prihvatljivih ponuditelja).",
+        "citat": "Broj zaprimljenih ponuda: 1"
+      }
+    ],
+    "rizik": "srednji"
+  },
+  "napomena": "Svih 19 dostupnih .txt datoteka u extracted/ pročitano je i sadržajno je potpuno (nema praznih/OCR-neuspjelih ekstrakcija). Postupak je vrlo transparentno dokumentiran (jasni formulski kriteriji, detaljna tehnička specifikacija s dopuštenim jednakovrijednostima, potpun set obrazaca), ali sadrži jedan tehnički neobičan zahtjev (ISO 11154:2023 za krovne nosače tereta) koji nije logično povezan s predmetom nabave te je ocijenjen kao potencijalni restriktivni/pogrešno postavljen uvjet srednjeg rizika."
+}

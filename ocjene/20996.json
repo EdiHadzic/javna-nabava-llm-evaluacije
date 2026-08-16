@@ -1,0 +1,27 @@
+{
+  "postupak_id": 20996,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij odabira (ekonomski najpovoljnija ponuda) potpuno je operacionaliziran za svih 9 grupa: cijena 90 bodova prema jasnoj formuli (najniža cijena / cijena ponude x 90), rok isporuke 10 bodova prema eksplicitnoj tablici pragova (do 2/5/7 dana). Nema subjektivnih ili nedefiniranih podkriterija.",
+      "citat": "Ponuda s najnižom cijenom dobiva 90,00 bodova, dok se ostale ponude boduju prema formuli"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Tehničke specifikacije po stavkama izrazito su precizne (dimenzije, gramature materijala, sastav, ISO metode ispitivanja upijanja), što omogućuje potpunu usporedivost ponuda, ali istovremeno eksplicitno dopuštaju jednakovrijedne/odgovarajuće proizvode uz toleranciju od +/-5% u dimenzijama, čime se izbjegava pretjerano suženje kruga ponuditelja unatoč visokoj razini detalja.",
+      "citat": "Odstupanja u dimenzijama dozvoljena +/- 5% ukoliko su proizvodi jednakovrijedni i/ili odgovarajući"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dostupan je pun set dokumentacije potreban za samostalnu izradu ponude: opći podaci o postupku, kriteriji kvalitativnog odabira s ESPD uputama, kriteriji za odabir ponude po grupama, detaljni troškovnici/specifikacije za svih 9 grupa, upute za ponuditelje, obavijest o nadmetanju i prijedlog ugovora. Ništa bitno ne nedostaje.",
+      "citat": "Detaljne tehničke specifikacije se nalaze u zasebnom prilogu. ... Detaljan troškovnik se nalazi u zasebnom prilogu – Troškovnik."
+    },
+    "prosjecna_ocjena": 4.67
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak"
+  },
+  "napomena": "Pročitani su svi relevantni dokumenti: Opći podaci o postupku nabave, Kriteriji za odabir ponude, Kriteriji za kvalitativni odabir gospodarskog subjekta (djelomično, dokument vrlo dug i standardiziran - ESPD osnove za isključenje bez postupak-specifičnih izmjena), Obavijest o nadmetanju, Tehničke specifikacije, troškovnici za grupe 1 i 6 (reprezentativan uzorak), i Obavijest o dodjeli ugovora. Specifikacije su generičke (bez naziva marki/proizvođača kao uvjeta), a stvarna dodjela ugovora potvrđuje realnu tržišnu konkurenciju: svaka od 9 grupa primila je po 2 ponude, s ugovorima dodijeljenim trima različitim ponuditeljima (Lohmann & Rauscher, InMEDIC, Medical Intertrade), što je dodatni argument protiv restriktivnosti specifikacije."
+}

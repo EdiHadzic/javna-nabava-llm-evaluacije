@@ -1,0 +1,40 @@
+{
+  "postupak_id": 18816,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriteriji za odabir ponude (ekonomski najpovoljnija ponuda) potpuno su operacionalizirani formulama i tablicama: cijena nosi 80 bodova prema formuli min(C)/C, a jamstveni rok 20 bodova prema eksplicitnoj skali raspona vrijednosti-bodovi. Kriteriji za kvalitativni odabir gospodarskog subjekta (osnove za isključenje, tehnička i stručna sposobnost, popis radova, tehnički stručnjaci) navedeni su s pravnom osnovom, točnim pragovima (npr. 100.000 EUR za Grupu 1, 200.000 EUR za Grupu 2) i načinom dokazivanja za svaki podkriterij.",
+      "citat": "Ponuda u kojoj je iskazan minimalni jamstveni rok (24 mjeseca) dobiva 0 bodova, ponuda u kojoj je iskazan najduži jamstveni rok (60 mjeseci) dobiva 20 bodova"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 2,
+      "obrazlozenje": "Opis predmeta nabave za Grupu 2 (sportski pod) sadrži neuobičajeno uzak raspon dimenzija za masivni hrastov parket (duljina 50-100 cm, širina 5,5-7,5 cm, debljina 21 mm) uz izričitu zabranu alternativnih rješenja završnog sloja. Prospektivni ponuditelj je u fazi pitanja/pojašnjenja formalno prigovorio da specifikacija odgovara samo jednom ponuditelju; naručitelj je prigovor odbio. Praktična potvrda restriktivnosti: od dva zaprimljena ponude za Grupu 2, jedina konkurentska ponuda (Sinel Sport d.o.o.) odbijena je kao nepravilna upravo zato što ponuđeni parket (450 mm x 70 mm) nije odgovarao propisanom rasponu dimenzija, čime je jedini preostali ponuditelj bio pobjednik. Ovo je izravan primjer opisa koji je toliko uzak da isključuje razumne tržišne alternative.",
+      "citat": "Parket dimenzija minimalne dužine 50 - 100 cm, širine 5,5 - 7,5 cm i debljine 21 mm... shodno tome ne nuditi alternativne opcije završnog sloja sportskog poda"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dokumentacija je opsežna i cjelovita za obje grupe: opći podaci o postupku, kriteriji za odabir ponude, kriteriji za kvalitativni odabir s uputama za ESPD, tehničke specifikacije, detaljni troškovnici po stavkama, elektrotehnički nacrt za Grupu 1 (Prilog 3), prijedlog ugovora za sve grupe (Prilog 4), obrasci za popis radova (Prilog 1) i izjavu o stručnjacima (Prilog 2), te uvjeti plaćanja. Dokumentacija je omogućila ponuditeljima samostalnu izradu ponude bez dodatnih bitnih nejasnoća (postavljena pitanja odnosila su se na sadržajne primjedbe, ne na nedostajuće dokumente).",
+      "citat": "Detaljan troškovnik se nalazi u zasebnom prilogu – Troškovnik."
+    },
+    "prosjecna_ocjena": 4.0
+  },
+  "restriktivnost": {
+    "prisutno": true,
+    "indikatori": [
+      {
+        "opis": "Formalni prigovor prospektivnog ponuditelja da je tehnička specifikacija sportskog poda (Grupa 2) izrađena tako da odgovara samo jednom ponuditelju, što je naručitelj odbio prihvatiti uz obrazloženje da parket zadovoljavajuće specifikacije mogu isporučiti 'više proizvođača' (bez dokaza o tome).",
+        "citat": "Tehnička specifikacija sportskog poda je odrađena na način da odgovara samo jednom ponuditelju što predstavlja diskriminaciju u smislu odredbi Zakona o javnoj nabavi."
+      },
+      {
+        "opis": "Neuobičajeno uzak raspon dimenzija parketa (50-100 cm duljina, 5,5-7,5 cm širina, 21 mm debljina) uz izričitu zabranu alternativnih rješenja završnog sloja, dok je usporediva europska norma (HRN EN 14904) sama po sebi dovoljna za funkcionalnu jednakovrijednost bez potrebe za tako uskim dimenzijskim rasponom.",
+        "citat": "Predviđen završni sloj sportskog poda od masiv jednoslojnog parketa min. debljine 21 mm (hrast) te shodno tome ne nuditi alternativne opcije završnog sloja sportskog poda"
+      },
+      {
+        "opis": "Empirijska potvrda restriktivnog učinka: jedina konkurentska ponuda za Grupu 2 (Sinel Sport d.o.o.) formalno je odbijena kao nepravilna isključivo zbog neusklađenosti dimenzija ponuđenog parketa (450 mm x 70 mm) s propisanim rasponom, čime je postupak za tu grupu de facto rezultirao jednim valjanim ponuditeljem.",
+        "citat": "Pregledom dokumentacije utvrđeno je da je dimenzija ponuđenog parketa 450 mm x 70 mm (d x š), debljine 21 mm što ne udovoljava dimenzijama propisanima u tehničkoj specifikaciji."
+      }
+    ],
+    "rizik": "visok"
+  },
+  "napomena": "Dokumentacija za obje grupe (Grupa 1: uređenje kuhinje OŠ Polača; Grupa 2: sportski pod OŠ Benkovac) pročitana je u cijelosti, uključujući modul Pitanja/Pojašnjenja koji je bio ključan izvor za detekciju restriktivnosti kod Grupe 2. Grupa 1 poništena je jer nije pristigla nijedna ponuda (čl. 298. st. 1. t. 7. ZJN2016) — razlog je formalan (izostanak ponuda), bez izravne poveznice s kvalitetom dokumentacije u samom tekstu odluke, pa ta okolnost nije korištena kao osnova za ocjenu dimenzija transparentnosti. Ocjena restriktivnosti temelji se prvenstveno na dokumentaciji vezanoj uz Grupu 2, gdje postoji i formalni prigovor ponuditelja i naknadna praktična potvrda kroz odbijanje konkurentske ponude."
+}

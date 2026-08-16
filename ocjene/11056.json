@@ -1,0 +1,27 @@
+{
+  "postupak_id": 11056,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij ENP potpuno je operacionaliziran: cijena 90 bodova, količina energije iz obnovljivih izvora 10 bodova, uz precizne matematičke formule za oba potkriterija, definiran minimalni prag (50%) i mjerljiv dokaz (Obrazac 1 - Izjava). Nema dvosmislenosti u načinu bodovanja.",
+      "citat": "Minimalna količina energije iz obnovljivih izvora je 50%. Bodovna vrijednost ponuda određivat će se formulom: BOI = OIp / OImaks* 10,00"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 5,
+      "obrazlozenje": "Predmet nabave (opskrba električnom energijom, CPV 09310000) opisan je konkretno i usporedivo: troškovnik sadrži tarifne modele, procijenjene godišnje potrošnje po vrsti tarife te potpuni popis od 75 mjernih mjesta (Privitak 1) s adresama i oznakama HEP-ODS. Opis nije sužen na način koji bi isključivao razumne alternative - riječ je o standardiziranoj robi (mrežna električna energija).",
+      "citat": "Mjesto isporuke robe su mjerna mjesta sukladno Popisu mjernih mjesta koji je sastavni dio ove Dokumentacije o nabavi."
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dostupan je pun set standardnih dokumenata za samostalnu izradu ponude: Opći podaci o postupku, Kriteriji za kvalitativni odabir (s ESPD uputama), Kriteriji za odabir ponude, Upute za ponuditelje (uvjeti jamstva, rokovi, način dostave), popunjiv Troškovnik i Obrazac 2. Jedina praznina je '(root)__DOHVAĆENI DOKAZI.rar.txt' (0 bajtova) - v. napomena.",
+      "citat": "Elektronička ponuda mora sadržavati najmanje: Uvez ponude Popunjeni eESPD obrazac (ili više njih, ako je primjenjivo) Popunjen troškovnik"
+    },
+    "prosjecna_ocjena": 5.0
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak"
+  },
+  "napomena": "Postupak 11056 je jedan od dokumentiranih ~29 slučajeva gdje se .rar arhiva na disku ekstrahira u 0 bajtova unatoč nenultoj izvornoj arhivi ('(root)__DOHVAĆENI DOKAZI.rar.txt' prazan) - poznat, još neriješen propust extract_pipeline.py/unrar koraka, ne stvaran nedostatak dokumentacije. Sudeći po nazivu ('DOHVAĆENI DOKAZI') arhiva vjerojatno sadrži iste dokaze o nepostojanju osnova za isključenje koji su zasebno i uspješno ekstrahirani u drugim datotekama (9x kaznena evidencija, stanje poreznog duga, upis u registar), pa je stvarni gubitak informacije vjerojatno malen. Dodatno, u postupku je zaprimljena samo 1 ponuda (HEP-Opskrba d.o.o.) - ovo je uobičajeno za regulirano tržište opskrbe električnom energijom u RH (malen broj licenciranih opskrbljivača), a ne indikacija prilagođenosti specifikacije određenom ponuditelju: uvjet posjedovanja HERA dozvole i sporazuma s Operatorom tržišta zakonska je obveza cijele djelatnosti, ne diskrecijski zahtjev naručitelja."
+}

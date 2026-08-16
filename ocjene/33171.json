@@ -1,0 +1,74 @@
+{
+  "postupak_id": 33171,
+  "broj_pojedinacnih_runova": 3,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij ENP potpuno je operacionaliziran: cijena (80%) prema eksplicitnoj formuli C=Cmin/Cp×80, necjenovni kriterij 'Specifično iskustvo ključnog stručnjaka' (20%) prema jasnoj bodovnoj ljestvici vezanoj uz broj referentnih projekata (0/1-3/4-6/7-9/10+ projekata → 0/5/10/15/20 bodova, uz prag vrijednosti projekta ≥50.000 EUR). Kvalifikacijski uvjeti (reference, EQF7 stručnjak) također su konkretno, provjerljivo definirani. Nema prostora za subjektivnu ocjenu.",
+      "citat": "0 bodova; 1-3 projekta = 5; 4-6 = 10; 7-9 = 15; 10 i više = 20 bodova",
+      "runovi": [
+        5,
+        5,
+        5
+      ],
+      "slaganje": "puno"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Elaborat krajobraznog uređenja i troškovnik iznimno su tehnički detaljni (dimenzije iskopa, slojevi tla, vrste/kultivari biljnog materijala, tehnički postupci sadnje). Ocjena ipak nije 5 iz dva povezana razloga, oba potvrđena neovisnom provjerom troškovnika (Dokumentacija o nabavi__TROSK_KRAJOBRAZ KOSA BNM..xls.txt): (1) opisni dio elaborata detaljno opisuje urbanu opremu (klupe, ograda, rasvjeta) koja se u stvarnom troškovniku uopće ne pojavljuje kao stavka — troškovnik završava na poziciji 4.7 ('Ostali radovi'), čime opis nadilazi stvarni cjenovni opseg nabave i stvara nejasnoću; (2) gdje se konkretan proizvod ipak pojavljuje kao obvezujuća stavka (opločnik, poz. 4.7.), specifikacija je brend-specifična bez klauzule 'ili jednakovrijedno', što opis usmjerava prema jednom rješenju umjesto funkcionalne specifikacije.",
+      "citat": "Dobava ploča dimenzije 60/40/4 cm (tip \"Travero Bradstone\"). Polaganje treba započeti od jednog kraja pod pravim kutem",
+      "runovi": [
+        4,
+        5,
+        4
+      ],
+      "slaganje": "djelomicno"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 4,
+      "obrazlozenje": "Dostupan je širok, sadržajno usklađen skup dokumenata dovoljan za izradu ponude (opći podaci, upute za ponuditelje, kriteriji kvalitativnog odabira, kriterij ENP, elaborat s grafičkim prilozima, troškovnik, obrasci). Ocjena nije 5 zbog stvarnog nesklada, neovisno potvrđenog uvidom u troškovnik: opisni dio elaborata detaljno predstavlja urbanu opremu (ogradu, klupe, rasvjetu) koja u obvezujućem troškovniku uopće nije zasebna stavka (troškovnik staje na poziciji 4.7.), pa ponuditelj ne može nedvosmisleno utvrditi ulazi li ta oprema u stvarni opseg ugovora. Napomena: '#VALUE!' greške u izvučenom .xls-u javljaju se isključivo u stupcima ukupne/rekapitulacijske cijene gdje je jedinična cijena prazna (predložak koji ponuditelji tek trebaju popuniti) — neovisno provjereno da je riječ o očekivanom artefaktu praznog predloška, ne o stvarnom nedostatku dokumentacije, pa taj element sam po sebi ne opravdava daljnje umanjenje ocjene.",
+      "citat": "UKUPNO 4. OSTALI RADOVI NA UREĐENJU ZELENIH POVRŠINA",
+      "runovi": [
+        4,
+        4,
+        5
+      ],
+      "slaganje": "djelomicno"
+    },
+    "prosjecna_ocjena": 4.33
+  },
+  "restriktivnost": {
+    "prisutno": true,
+    "indikatori": [
+      {
+        "opis": "Opločnik u obvezujućem, cjenovno vezujućem troškovniku (stavka 4.7.) izričito specificira komercijalni proizvod određenog proizvođača/tipa bez naznake 'ili jednakovrijedno'. Ovo je jedini od pet identificiranih brend-specifičnih navoda koji je ujedno i stvarna, obvezujuća troškovnička stavka.",
+        "citat": "Dobava ploča dimenzije 60/40/4 cm (tip \"Travero Bradstone\")"
+      },
+      {
+        "opis": "Elaborat navodi ogradu točno određenog proizvođača i modela. Samo u opisnom dijelu elaborata (izrađen prosinac 2022., ~2 godine prije objave postupka 2024.) — neovisno provjereno da nije zasebna stavka u troškovniku.",
+        "citat": "Predlaže se ograda Betafence (tip Zenturo, antracit boja)"
+      },
+      {
+        "opis": "Elaborat navodi opločenje staza i boravišne površine dvaju točno određenih proizvođačevih tipova. Samo u opisnom dijelu elaborata, nije zasebna stavka u troškovniku.",
+        "citat": "Postavljaju se pješačke ploče Semmelrock, tip „Venetia“... Boravišna površina... popločati opločnikom Semmelrock tip \"Arte\""
+      },
+      {
+        "opis": "Urbana oprema (klupe, koševi) opisana s točno određenim proizvođačem i modelom. Samo u opisnom dijelu elaborata, nije zasebna stavka u troškovniku.",
+        "citat": "Predlažu se klupe proizvođača Bepro (model KL-6)... Koševi za otpad također od istog proizvođača, Bepro (Kanta KO-5)"
+      },
+      {
+        "opis": "Vanjska rasvjeta opisana s točno određenim proizvođačem i modelom svjetiljke. Samo u opisnom dijelu elaborata, nije zasebna stavka u troškovniku.",
+        "citat": "Vanjska lampa Ektor 2500/BEPPE 400 -proizvođača FUMAGALLI"
+      }
+    ],
+    "rizik": "nizak",
+    "runovi_prisutno": [
+      true,
+      true,
+      true
+    ],
+    "slaganje": "djelomicno"
+  },
+  "napomena": "Pročitani su svi relevantni .txt dokumenti iz extracted/ (elaborat, troškovnik, kriteriji kvalitativnog odabira, upute za ponuditelje, opći podaci, obavijesti, zapisnici, odluka o odabiru). Dvije .jpg datoteke (PARK BIOGRAD, PARK BIOGRAD1) prazne su (0 bajtova) i nisu mogle biti uzete u obzir. Neovisnom provjerom troškovnika (grep na 'bradstone|betafence|bepro|fumagalli|semmelrock|klupe|koš|ograd|rasvjet') potvrđeno je da troškovnik sadrži samo jednu od pet brend-specifičnih referenci iz elaborata (Travero Bradstone, poz. 4.7.) te da troškovnik završava upravo na toj poziciji ('UKUPNO 4. OSTALI RADOVI'), dok su ograda, klupe/koševi i rasvjeta prisutni isključivo u opisnom dijelu elaborata izrađenog prosinac 2022. (dvije godine prije objave postupka 2024.). '#VALUE!' greške u izvučenom .xls troškovniku javljaju se isključivo u recima s praznom jediničnom cijenom (rekapitulacija/ukupno) i predstavljaju očekivani artefakt nepopunjenog predloška, ne stvarni nedostatak. Postupak je imao 5 pristiglih ponuda (1 isključena zbog nedostavljenog jamstva, razlog nevezan uz tehničku specifikaciju, 4 od malih/srednjih poduzetnika), a ugovorena vrijednost bila je 27,6% niža od procijenjene, što upućuje na stvarnu konkurenciju unatoč identificiranim brend-specifičnim referencama.",
+  "napomena_resolvera": "Jasnoća kriterija: puno slaganje (5/5/5), sintetizirano bez potrebe za dodatnom provjerom. Razina detalja opisa i potpunost dokumentacije: dva runa (1 i 3) numerički su se poklopila na 4, treći (2) odstupio je na 5 — budući da su razlozi runova 1 i 3 samo djelomično podudarni (nesklad opis/troškovnik vs. izostanak 'ili jednakovrijedno'), provjereni su izvorni .txt dokumenti umjesto oslanjanja na tuđe citate. Neovisna provjera troškovnika potvrdila je da je zabrinutost runa 1 (elaborat opisuje urbanu opremu koja se u troškovniku uopće ne cijeni) činjenično točna i materijalno relevantna za obje dimenzije, pa je zadržana ocjena 4 s obrazloženjem koje kombinira nalaze runova 1 i 3. Istovremeno je zabrinutost runa 2 o '#VALUE!' greškama u xls-u neovisno utvrđena kao benigni artefakt praznog predloška (greške isključivo u recima s neupisanom jediničnom cijenom), pa taj argument nije uzet kao samostalan razlog za daljnje umanjenje. Restriktivnost 'prisutno': puno slaganje sva tri runa uz konzistentne brend-specifične citate — zadržano bez preispitivanja, sukladno uputi da se ovaj konsenzus ne dovodi u pitanje bez dobrog razloga. Rizik restriktivnosti: ovdje su runovi razdvojeni (run 1 i 3: 'srednji'; run 2: 'nizak'). Neovisnom provjerom troškovnika potvrđeno je da je run 2 bio bolje utemeljen činjenicama koje runovi 1 i 3 nisu eksplicitno provjerili: od pet brend-specifičnih navoda samo je jedan (opločnik, poz. 4.7.) stvarno obvezujuća, cjenovno vrednovana troškovnička stavka; preostala četiri (ograda, klupe/koševi, rasvjeta, dio opločenja) postoje isključivo u opisnom elaboratu iz 2022., dvije godine prije objave postupka, izvan cjenovnog opsega aktualnog troškovnika. U kombinaciji sa stvarnim ishodom postupka (5 ponuda, 27,6% ispod procjene), ovo opravdava finalnu ocjenu rizika 'nizak' umjesto mehaničke primjene 2:1 glasovanja. Pouzdanost finalne ocjene: visoka za jasnoću kriterija i prisutnost restriktivnosti (puno slaganje, dobro citirano); umjerena za razinu detalja/potpunost dokumentacije i rizik restriktivnosti (djelomično slaganje, razriješeno neovisnom provjerom izvornih dokumenata, ne samo sintezom triju runova)."
+}

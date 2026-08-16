@@ -1,0 +1,40 @@
+{
+  "postupak_id": 31851,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij ENP (cijena 90 bodova, jamstveni rok 10 bodova) definiran je egzaktnom formulom i tablicom pretvorbe ponuđenih godina jamstva u bodove, s jasno određenim minimalnim i maksimalnim dozvoljenim vrijednostima; primjena u Zapisniku o pregledu i ocjeni potpuno je dosljedna dokumentaciji.",
+      "citat": "Vrijednost od 7,00 Vrijednost do 10,00 Broj bodova 10,00 Pojašnjenje od 7 godina i više (od isporuke)"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 2,
+      "obrazlozenje": "Tehnička specifikacija je vrlo detaljna, ali navodi konkretne komercijalne nazive/oznake proizvoda tkanine (SATTLER, POLYLAN) s preciznim tehničkim parametrima, što je karakteristika uske, prema jednom proizvođaču/dobavljaču usmjerene specifikacije, a ne generičkog opisa koji bi omogućio više usporedivih alternativa.",
+      "citat": "Vanjski zidovi Krovni pokrov izrađen je od visko kvalitetnog PVC platna 787 POLYLAN TENT OPAQUE MATT, težine 780 g/m², 1100 dtex"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dostupna je cjelovita dokumentacija: opći podaci, kriteriji kvalitativnog odabira G.S., kriteriji za odabir ponude, tehnička specifikacija, troškovnik, upute za ponuditelje te svi navedeni prilozi.",
+      "citat": "Elektronička ponuda mora sadržavati najmanje: ... Popunjen troškovnik ... Katalog proizvoda ... Prilog I - Izjava o jamstvenom roku ... Prilog II – Tehnička specifikacija ... Prilog III – Izjava o prezentaciji"
+    },
+    "prosjecna_ocjena": 4.0
+  },
+  "restriktivnost": {
+    "prisutno": true,
+    "indikatori": [
+      {
+        "indikator": "Tehnička specifikacija imenuje konkretne komercijalne proizvode/oznake tkanina (npr. SATTLER platno, POLYLAN TENT OPAQUE MATT) umjesto generičkih funkcionalnih zahtjeva, tipično za usko krojenu specifikaciju prema jednom proizvođaču glamping šatora.",
+        "rizik": "visok"
+      },
+      {
+        "indikator": "Predmet nabave spaja isporuku vrlo specifičnog proizvoda s uslugom financijskog leasinga u istom postupku, što sužava krug potencijalnih ponuditelja na one koji imaju i pristup točno tom dobavljaču šatora i leasing kapacitet.",
+        "rizik": "visok"
+      },
+      {
+        "indikator": "Unatoč otvorenom postupku i skromnoj procijenjenoj vrijednosti, zaprimljena je samo jedna ponuda, a ponuđena cijena tek je neznatno niža od procijenjene vrijednosti — obrazac konzistentan s ograničenom konkurencijom.",
+        "rizik": "visok"
+      }
+    ],
+    "rizik": "visok",
+    "napomena": "Dokumentacija je kvalitetna i potpuna, ali sadržajno upućuje na mogući negativni odabir kroz brendiranu tehničku specifikaciju."
+  }
+}

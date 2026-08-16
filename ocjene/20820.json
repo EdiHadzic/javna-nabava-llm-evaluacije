@@ -1,0 +1,30 @@
+{
+  "postupak_id": 20820,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij za odabir ponude (ekonomski najpovoljnija ponuda) potpuno je operacionaliziran zasebnim dokumentom s eksplicitnim formulama bodovanja za cijenu (90 bodova) i jamstveni rok (10 bodova), uključujući tablicu praga vrijednosti i bodova te jasno definirane minimalne/maksimalne granice.",
+      "citat": "Ponuda s najnižom cijenom dobiva 90,00 bodova, dok se ostale ponude boduju prema formuli"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Opis predmeta nabave vrlo je detaljan (opsežan troškovnik po sustavima: prometnica, vodovod, oborinska/fekalna odvodnja, javna rasvjeta i DTK, semaforizacija; brojni projektni prilozi po strukama). Ipak, tijekom postupka pojavilo se 20-ak pitanja ponuditelja koja ukazuju na neusklađenosti između troškovnika i glavnog projekta (npr. razred betona C30/37 vs C25/30, nejasne dimenzije/detalji pojedinih stavki), što je naručitelj otklonio pojašnjenjima i jednom izmjenom troškovnika.",
+      "citat": "U stavci se navodi beton C30/37, a u nacrtu Glavni projekt, vodovod i odvodnja list br.5.12 navodi se beton C25/30. Kojim betonom će se izvoditi radovi?"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 4,
+      "obrazlozenje": "Dokumentacija obuhvaća sve standardne dijelove (opći podaci, upute za ponuditelje, kriterije kvalitativnog odabira, kriterije odabira ponude, opsežan troškovnik, tehničke specifikacije, prijedlog ugovora) te je naknadno dopunjena (npr. DWG podloga s pozicijama stupova/svjetiljki za svjetlotehnički proračun, detalj temelja stupa) nakon zahtjeva ponuditelja da izvorna dokumentacija ne omogućuje usporedive ponude - naručitelj je zahtjev prihvatio i dopunio dokumentaciju.",
+      "citat": "U Prilogu - Tehničke specifikacije Naručitelj stavlja na raspolaganje podlogu u dwg-u s ucrtanim pozicijama stupova i svjetiljki za potrebe izrade svjetlotehničkog proračuna"
+    },
+    "prosjecna_ocjena": 4.33
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [
+      "Brojne stavke troškovnika upućuju na konkretne marke/proizvode (npr. 'tipa kao HAURATON FASSERFIX SUPER 300'), no dosljedno je uz svaku takvu referencu dodana klauzula 'ili jednako vrijedni', a Opći podaci o postupku nabave (t. 3.1.2.) propisuju standardni postupak dokazivanja jednakovrijednosti - ne procjenjuje se kao restriktivno.",
+      "Zahtjev da kanalizacijski poklopci imaju izrezbaren grb Grada Zadra prema lokalnoj Odluci o kvaliteti i izgledu poklopaca predstavlja specifičan, bespoke zahtjev, ali se odnosi na standardnu ljevaonicu grba (uobičajena praksa kod komunalne infrastrukture), a ne na proizvod jednog određenog dobavljača."
+    ],
+    "rizik": "nizak"
+  },
+  "napomena": "Postupak ima vrlo opsežnu dokumentaciju (60-ak izvučenih datoteka, uključujući velike tehničke elaborate s projektnim nacrtima). Zbog opsega, glavninu analize temeljio sam na ključnim dokumentima nabave (Opći podaci, Upute za ponuditelje, Kriteriji za kvalitativni odabir, Kriteriji za odabir ponude, Obavijest o nadmetanju, Odgovori na pitanja, Zahtjevi za pojašnjenjem, Odluka o odabiru, Obavijest o dodjeli ugovora) te reprezentativnim dijelovima troškovnika (pretraga na 'jednakovrijedno'/marke), dok opsežni projektni nacrti (MAPA prilozi, stotine KB do >1MB teksta po datoteci) nisu čitani riječ po riječ. Postupak je zaprimio 3 ponude, dodijeljen CESTOGRADNJA d.o.o. po cijeni nižoj od procijenjene vrijednosti (1.862.394,74 EUR naspram 2.100.000,00 EUR procijenjenih)."
+}

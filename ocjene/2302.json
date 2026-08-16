@@ -1,0 +1,27 @@
+{
+  "postupak_id": 2302,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij je ekonomski najpovoljnija ponuda s eksplicitnom matematičkom formulom bodovanja cijene (linearna interpolacija prema najnižoj cijeni) i binarnim bodovanjem kvalitete (pakiranje od recikliranog materijala: da/ne), objavljen identično u tri odvojena dokumenta (DoN, Upute za ponuditelje, Kriteriji za odabir ponude) uz jasno pravilo za jednako rangirane ponude.",
+      "citat": "Bodovi za svaki od kriterija računa se na šest decimala, zaokruživanjem na više."
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 3,
+      "obrazlozenje": "Predmet nabave opisan je kao popis konkretnih artikala s jedinicom mjere i okvirnom količinom (npr. ulje, šećer, tjestenina, sredstva za higijenu), što je dovoljno za usporedivost ponuda kod jednostavne robe, ali nedostaju bilo kakvi dodatni kvalitativni parametri (npr. sastav, rok trajanja, standard kvalitete, tolerancije), pa je opis funkcionalan ali minimalan.",
+      "citat": "TJESTENINA OBLIK SPIRALA MINIMALNO 400 GR"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 4,
+      "obrazlozenje": "Dostupna je cjelovita jezgra dokumentacije potrebne za samostalnu izradu ponude (opći podaci, kriteriji odabira ponude, kriteriji kvalitativnog odabira, troškovnik po grupama, upute za ponuditelje, obavijest o nadmetanju), no dva priložena ZIP arhiva ('Prilozi.zip' i 'Prilozi (1).zip') ekstrahirana su kao prazna (0 bajtova) te je njihov stvarni sadržaj nepoznat.",
+      "citat": "Elektronička ponuda za svaku ponuđenu grupu mora sadržavati najmanje: Uvez ponude Popunjeni eESPD obrazac"
+    },
+    "prosjecna_ocjena": 4.0
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak"
+  },
+  "napomena": "Dva ZIP privitka ('Prilozi.zip', 'Prilozi (1).zip') ekstrahirana su kao prazna (0 bajtova) - moguć nedostajući sadržaj, nije provjerljivo je li riječ o stvarno praznim arhivama ili gapu u ekstrakciji. Tehnička specifikacija je generička (nabrajanje robe bez brendova ili nesrazmjernih uvjeta), a uvjeti sposobnosti gospodarskog subjekta ograničeni su samo na upis u registar, bez financijskih/referentnih pragova - nema indikatora prilagodbe specifikacije određenom ponuditelju. Zabilježeno: naručitelj je unaprijed transparentno objavio popis gospodarskih subjekata s kojima je u sukobu interesa (OPG IVE SURIĆ), a isto prezime nosi jedan od dva člana stručnog povjerenstva koje je pregledalo i ocijenilo ponude (Ive Surić) - potencijalno osjetljivo s aspekta sukoba interesa, premda OPG Ive Surić nije sudjelovao kao ponuditelj u ovom postupku (za Grupu 1 zaprimljena je 1 ponuda - Select Food d.o.o., za Grupu 2 četiri ponude: Alca Zagreb, Dalmat, Insako, Select Food)."
+}

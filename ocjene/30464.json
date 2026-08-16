@@ -1,0 +1,38 @@
+{
+  "postupak_id": 30464,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij ENP (cijena 80 %, jamstveni rok 20 %) potpuno je operacionaliziran: eksplicitna formula za bodovanje cijene, tablica bodova po intervalima jamstvenog roka (24–60 mjeseci), pravilo za jednako rangirane ponude (raniji primitak) i napomena o zaokruživanju na šest decimala.",
+      "citat": "Ponuda u kojoj je iskazan minimalni jamstveni rok (24 mjeseca) dobiva 0 bodova, ponuda u kojoj je iskazan najduži jamstveni rok (60 mjeseci) dobiva 20 bodova"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Predmet nabave (građevinsko-obrtnički, elektrotehnički i strojarski radovi na kuhinji) razrađen je kroz opsežan troškovnik i elektrotehnički nacrt, uz dosljednu klauzulu 'ili jednakovrijedno' za sve norme/standarde, što omogućuje usporedive ponude bez sužavanja na određeno rješenje. Sam dokument 'Tehničke specifikacije' je kratak i uglavnom upućuje na troškovnik/nacrt.",
+      "citat": "svaka takva uputa/zahtjev popraćena izrazom „ili jednakovrijedno“ te su ponuditelji slobodni nuditi jednakovrijedna rješenja"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dostupan je pun set dokumenata potreban za samostalnu izradu ponude: opći podaci, kriteriji kvalitativnog odabira s uputama za ESPD, kriteriji za odabir ponude, upute za ponuditelje, tehničke specifikacije, troškovnik, elektrotehnički nacrt, prijedlog ugovora, prilozi te obavijest o nadmetanju.",
+      "citat": "Predmet nabave je izvođenje građevinsko-obrtničkih, elektrotehničkih i strojarskih radova na uređenju kuhinje u OŠ Franka Lisice Polača, a sve u skladu s opisima iz troškovnika koji je sastavni dio Dokumentacije o nabavi."
+    },
+    "prosjecna_ocjena": 4.67
+  },
+  "restriktivnost": {
+    "prisutno": true,
+    "indikatori": [
+      {
+        "indikator": "Traženi minimalni zbroj vrijednosti referentnih radova (100.000,00 EUR bez PDV-a) iznosi gotovo punu procijenjenu vrijednost nabave (103.453,00 EUR, ~96,7 %), umjesto uobičajene proporcije, što potencijalno neopravdano isključuje manje ili novije izvođače.",
+        "rizik": "srednji",
+        "citat": "Gospodarski subjekt mora dokazati da je ... uredno izveo radove iste ili slične predmetu nabave čija zbrojena vrijednost iznosi najmanje 100.000,00 EUR bez PDV-a"
+      },
+      {
+        "indikator": "Zahtjev za tri odvojena licencirana tehnička stručnjaka (građevinske, elektrotehničke i strojarske struke) za ugovor vrijednosti ~103.000 EUR je zahtjevan, no opravdan multidisciplinarnom prirodom radova.",
+        "rizik": "nizak",
+        "citat": "najmanje jednog (1) inženjera gradilišta/ voditelja radova građevinske ili arhitektonske struke ... elektrotehničke struke ... strojarske struke"
+      }
+    ],
+    "rizik": "srednji",
+    "napomena": "Nema tragova referenci na specifičnu marku/proizvođača u troškovniku - dosljedno se koristi 'ili jednakovrijedno'. Jedini značajniji indikator restriktivnosti je nesrazmjer referentnog praga (100.000 EUR) prema procijenjenoj vrijednosti nabave (103.453 EUR)."
+  }
+}

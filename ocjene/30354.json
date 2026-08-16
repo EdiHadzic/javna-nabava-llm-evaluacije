@@ -1,0 +1,31 @@
+{
+  "postupak_id": 30354,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 4,
+      "obrazlozenje": "Kriteriji za odabir su jasno definirani s mjerljivim parametrima. Cijena se vrednuje sa 90% težine, ambalaža/pakiranje s 10%. Formula bodovanja je eksplicitno opisana, a također su jasno navedeni zahtjevi za kvalitativni odabir gospodarskog subjekta uključujući HACCP certifikaciju.",
+      "citat": "Ekonomski najpovoljnija ponuda utvrđuje se na temelju Cijene i kvalitete. Cijena: Relativni značaj / Maksimalni broj bodova - Cijena 90,00. Ambalaža/pakiranje 10,00."
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 3,
+      "obrazlozenje": "Tehnički opis oslanja se na reference na relevantne zakone i standarde (Zakon o hrani, HACCP sustav) umjesto potpunog detaljnog opisa. Troškovnik navodi vrste mesa (teletina, juneće meso, svinjsko meso, piletina, purica) s količinama i jedinicama mjere, ali bez detaljnih specifikacija poput stupnja kvalitete ili tolerancija.",
+      "citat": "Ponuđena roba mora po kakvoći i zdravstvenoj ispravnosti odgovarati važećim propisima Republike Hrvatske... u skladu s Zakonom o hrani (NN 81/13, 14/14 i 30/15)"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 4,
+      "obrazlozenje": "Dostupna je sveobuhvatna dokumentacija: upute za ponuditelje, detaljni kriteriji odabira, kvalitativni zahtjevi za gospodarskog subjekta, troškovnik s popisom stavki, i obavijest o dodjeli ugovora. Svi ključni dokumenti su dostupni za samostalnu izradu ponude.",
+      "citat": "Elektronička ponuda mora sadržavati najmanje: Uvez ponude, Popunjeni eESPD obrazac, Popunjen troškovnik, Vrijednosti kriterija za odabir ponude"
+    },
+    "prosjecna_ocjena": 3.67
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [
+      "HACCP certifikacija je legitimni sigurnosni zahtjev za prehrambene proizvode, ne prilagođenost specifičnom ponuditelju",
+      "Otvorene specifikacije dozvoljavaju alternative - nije navedena specifična marka ili proizvođač",
+      "Odabir je temeljen na objektivnom kriteriju cijene (90%) i okoljski prihvatljivom pakiranju (10%)"
+    ],
+    "rizik": "nizak"
+  },
+  "napomena": "Postupak je transparentan i pravilno strukturiran. Dokumentacija je dostupna i potpuna. Procedure za odabir su objektivne i mjerljive. Nema indikatora prilagođenosti specifičnom ponuditelju. Rezultat pokazuje samo 2 ponude, što može biti prirodno za specifičan proizvod (meso za institucionalnu upotrebu), ali nije indikator restriktivnosti specifikacija."
+}

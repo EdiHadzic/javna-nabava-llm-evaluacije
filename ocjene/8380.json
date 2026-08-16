@@ -1,0 +1,40 @@
+{
+  "postupak_id": 8380,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij za odabir ponude (ekonomski najpovoljnija ponuda) potpuno je jasan i matematički operacionaliziran za sve 4 grupe: cijena 90% s eksplicitnom formulom (P = Pn/Pr*90) i rok isporuke 10% s preciznom bodovnom ljestvicom (0-12h=10 bodova, 12,01-24h=5 bodova, 24,01-36h=0 bodova, max. 36h). Nema prostora za subjektivnu diskreciju naručitelja pri bodovanju.",
+      "citat": "P = Pn / Pr * 90 ... Isporuka u roku od 0 do 12 sati: 10 bodova ... Isporuka u roku od 12,01 do 24 sata: 5 bodova"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 2,
+      "obrazlozenje": "Opis predmeta nabave u Grupi 3 nije funkcionalno neutralan nego navodi konkretne komercijalne klonove/stanične linije reagensa (npr. MS-24, MS-33, MS-260, LA-2, LB-2, TH28, RUM-1, LDM1) što fizionomiju proizvoda svodi na jednog specifičnog proizvođača umjesto na mjerljiva funkcionalna svojstva usporediva među ponuditeljima. Grupa 4 dodatno traži točno određenu analitičku tehnologiju (CMIA s akridinijskim obilježivačem) i pragove osjetljivosti vezane uz specifične referentne standarde, što djeluje kao de facto specifikacija marke, a ne opis funkcionalnih zahtjeva. Grupe 1 i 2 su umjereno detaljne (naziv i pakiranje reagensa), ali bez takvih uskih odrednica.",
+      "citat": "stanične linije: C: MS-24, c: MS-33, E: MS-260, e: MS-16, MS-21, MS-63, K: MS-56 24x12 kom"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 4,
+      "obrazlozenje": "Dokumentacija sadrži sve ključne elemente za samostalnu izradu ponude: obavijest o nadmetanju, kriterije kvalitativnog odabira, kriterij za odabir ponude s formulom, obrazac ponude (Prilog 1), prijedlog ugovora i detaljan troškovnik s količinama za sve 4 grupe. Odgovori na pitanja ponuditelja potvrđuju da je naručitelj pojašnjavao nejasnoće tijekom postupka. Nedostatak: zasebna datoteka 'Tehničke specifikacije' sadrži samo uputu da su specifikacije sastavni dio troškovnika (nije prazna greškom ekstrakcije, nego namjerna referenca), a 4 priložene arhive (Prilozi.zip i varijante) ekstrahirane su kao prazne (0 bajtova) pa nije moguće utvrditi jesu li sadržavale dodatnu dokumentaciju.",
+      "citat": "Tehničke specifikacije za predmet nabave su sastavni dio troškovnika."
+    },
+    "prosjecna_ocjena": 3.67
+  },
+  "restriktivnost": {
+    "prisutno": true,
+    "indikatori": [
+      {
+        "opis": "Grupa 3 troškovnika navodi točno određene komercijalne klonove/stanične linije za pojedine antigene (npr. RH fenotip i K-antigen), što odgovara katalogu specifičnog proizvođača, a ne funkcionalnom opisu koji bi omogućio usporedive alternative.",
+        "citat": "mikrokartica s gelom s monoklonskim protutijelima za određivanje AB0/RhD krvne grupe s eritrotestom, A-B-D(VI-)-Ctl/A1-B, stanične linije A5, G1/2, LHM59/20 (LDM3),175-2"
+      },
+      {
+        "opis": "Grupa 4 zahtijeva točno određenu analitičku tehnologiju (CMIA s akridinijskim obilježivačem) umjesto funkcionalnog zahtjeva na osjetljivost/specifičnost testa, čime se krug mogućih ponuditelja sužava na proizvođače te specifične platforme.",
+        "citat": "CMIA - kemiluminiscentna tehnologija s obilježivačem - akridnijum."
+      },
+      {
+        "opis": "Dodatni uvjet ustupanja kompletne aparature (analizatora) na korištenje za vrijeme trajanja ugovora uz servis unutar 24 sata, tipičan obrazac 'zatvorenog sustava' reagens+uređaj koji favorizira postojećeg dobavljača opreme u ustanovi.",
+        "citat": "Ustupanje kompletne aparature najnovije generacije na korištenje vrijeme trajanja ugovora."
+      }
+    ],
+    "rizik": "visok"
+  },
+  "napomena": "Pročitane su sve relevantne .txt datoteke iz extracted/ (Opći podaci, Obavijest o nadmetanju, Kriteriji za kvalitativni odabir, Kriterij za odabir ponude, Upute za ponuditelje, Tehničke specifikacije, Prilog 1, svi troškovnici Grupa 1-4, Odgovori). Nisu čitani Odluka o odabiru i Zapisnici o pregledu i ocjeni jer se odnose na fazu nakon dodjele i AwardInfo ekstrakciju, izvan opsega ove ocjene transparentnosti/restriktivnosti dokumentacije o nabavi. Četiri priložene zip arhive ekstrahirane su prazne (0 bajtova) - nepoznato je jesu li sadržavale dodatnu tehničku dokumentaciju."
+}

@@ -1,0 +1,40 @@
+{
+  "postupak_id": 18791,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 4,
+      "obrazlozenje": "Kriterij odabira ponude (ekonomski najpovoljnija ponuda, cijena 20% / kvaliteta 80%) je precizno definiran s eksplicitnom bodovnom tablicom i formulom za cijenu. Bodovanje profesionalnog iskustva stručnjaka 1 i 2 razrađeno je po diskretnim pragovima (broj projekata → bodovi) uz definicije stručnih pojmova (održiva eko arhitektura, permakulturni dizajn, regenerativna poljoprivreda). Mjerljivost je visoka, ali je oslonjena gotovo isključivo (80/100 bodova) na dva vrlo uska, nestandardna stručna profila.",
+      "citat": "Profesionalno iskustvo stručnjaka 1 – stručnjak za održivu eko arhitekturu (Q1) 50% 50,00; stručnjaka 2 – regenerativnu poljoprivredu (Q2) 30% 30,00"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Opis predmeta nabave iznimno je detaljan i konkretan (Projektni zadatak, Dodatak - Idejno rješenje): navedene su točne površine, gabariti zgrada, katnost, planirane zone, broj i volumen akumulacija, minimalni sadržaj svake projektne faze (idejni/glavni/izvedbeni) te format isporuke. Razina detalja je vrlo visoka i omogućuje usporedivu ponudu za ovako složen, jedinstven projekt, no zbog same prirode zahvata (specifična lokacija, specifičan koncept 'regenerativne agroekologije') opis je nužno uzak i ne dopušta alternative izvan zadane koncepcije.",
+      "citat": "Tlocrtna površine zgrade je cca 334 m2 s tri etaže ukupne brutto površine 976 m2 katnosti prizemlje i 2 kata, visine 11 m."
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 4,
+      "obrazlozenje": "Dostupna je cjelovita dokumentacija: Opći podaci, Upute za ponuditelje, Kriteriji za kvalitativni odabir, Kriteriji za odabir ponude, Projektni zadatak, opsežno Idejno rješenje (dvije datoteke, ukupno preko 240.000 znakova) i Troškovnik. Troškovnik je sastavljen kao paušalni (4 stavke po komadu bez razrade po fazama/elaboratima), što je uobičajeno za uslugu projektiranja u ranoj fazi, ali smanjuje mogućnost detaljne usporedbe strukture cijene među ponuditeljima.",
+      "citat": "Troškovnik naručitelj prilaže dokumentaciji o nabavi za predmet nabave. Ponuditelj mora popuniti troškovnik i učitati ga prilikom pripreme ponude na EOJN."
+    },
+    "prosjecna_ocjena": 4.0
+  },
+  "restriktivnost": {
+    "prisutno": true,
+    "indikatori": [
+      {
+        "opis": "Kriterij kvalitete (80% od 100 bodova) gotovo je u cijelosti vezan uz iskustvo dva imenovana stručnjaka u vrlo uskim, nestandardnim disciplinama ('održiva eko arhitektura', 'permakulturni dizajn agroekosustava po načelima regenerativne poljoprivrede') čija terminologija doslovno odgovara konceptu iz prethodno izrađenog idejnog rješenja, umjesto uobičajenih kvalifikacija ovlaštenog arhitekta/agronoma s općim referencama.",
+        "citat": "Stručnjak 1 – Stručnjak za održivu eko arhitekturu (max. 50,00 bodova); Stručnjak 2 – Stručnjak za regenerativnu poljoprivredu (max. 30,00 bodova)"
+      },
+      {
+        "opis": "Podloga za projektni zadatak (idejno rješenje) izradio je arhitekt Hrvoje Bota iz tvrtke Održivo d.o.o. Isti taj gospodarski subjekt (Održivo d.o.o., kontakt hrvoje.bota@odrzivo.com) naveden je kao Stručnjak 1 u ponudi i naposljetku je jedini ponuditelj i odabrani ugovaratelj u postupku — indikacija mogućeg prethodnog uključivanja budućeg ponuditelja u oblikovanje predmeta nabave (negativna selekcija/asimetrija informacija, pogl. 3.1.), koje nije navedeno u popisu subjekata u sukobu interesa naručitelja.",
+        "citat": "izrađeno je idejno rješenje... od strane glavnog projektanta Hrvoje Bote, dipl.ing.arh., tvrtka Održivo d.o.o. Podloga se stavlja na raspolaganje... putem EOJN."
+      },
+      {
+        "opis": "Postupak je rezultirao samo jednom zaprimljenom ponudom, upravo od tvrtke autora idejnog rješenja, što je konzistentno s hipotezom da su kriteriji kvalitete oblikovani prema profilu unaprijed poznatog/uključenog subjekta.",
+        "citat": "Broj zaprimljenih ponuda: 1 ... Ugovaratelj - ODRŽIVO d.o.o. ... Email: hrvoje.bota@odrzivo.com"
+      }
+    ],
+    "rizik": "visok"
+  },
+  "napomena": "Pročitani svi ključni dokumenti (Opći podaci, Kriteriji za kvalitativni odabir, Kriteriji za odabir ponude, Upute za ponuditelje, Projektni zadatak, Troškovnik, Obavijest o dodjeli ugovora, Zapisnik o pregledu i ocjeni) te dokazni dokumenti stručnjaka. Dodatak Projektnom zadatku - Idejno rješenje (dvije vrlo opsežne datoteke, ukupno preko 240.000 znakova) pregledan je djelomično (naslovi/uvod) zbog opsega, no relevantan sadržaj o autorstvu idejnog rješenja i vezi s odabranim ponuditeljem potvrđen je iz Projektnog zadatka i Obavijesti o dodjeli ugovora. Ocjena restriktivnosti temelji se prvenstveno na uočenoj vezi između autora idejnog rješenja i jedinog ponuditelja/odabranog izvršitelja, što je jak signal moguće prilagođenosti kriterija, iako formalno nije riječ o imenovanju konkretnog proizvoda/marke."
+}

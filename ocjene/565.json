@@ -1,0 +1,66 @@
+{
+  "postupak_id": 565,
+  "broj_pojedinacnih_runova": 2,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij za odabir ponude (ekonomski najpovoljnija ponuda) potpuno je operacionaliziran: cijena nosi 90 od 100 bodova prema eksplicitnoj formuli (najniža cijena = maksimalni bodovi, ostale razmjerno), a jamstveni rok 10 bodova prema jasnoj bodovnoj tablici s definiranim rasponima (0-24 mj. = 0 bod., 25-47 = 5 bod., 48-60 = 10 bod.). Uvjeti kvalitativnog odabira (isključenje, financijska i tehnička sposobnost) navedeni su s pravnom osnovom, konkretnim brojčanim pragovima i točnim načinom dokazivanja (ESPD), bez prostora za diskrecijsko ocjenjivanje.",
+      "citat": "0,00 24,00 0,00 - 25,00 47,00 5,00 - 48,00 60,00 10,00 - Naručitelj je ograničio najviši dozvoljeni iznos za kriterij 60,00",
+      "runovi": [
+        5,
+        5
+      ],
+      "slaganje": "puno"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Opis predmeta nabave (uređenje dječjeg igrališta) vrlo je konkretan: dimenzije, materijali, sigurnosne udaljenosti slobodnog pada i obvezna sukladnost s normom EN 1176 navedeni su za svaku spravu, uz eksplicitnu odredbu troškovnika da opisi ne upućuju na marku/proizvođača niti isključuju gospodarske subjekte, što omogućuje potpuno usporedivu ponudu. Jedina rezerva: tehnički opis u Glavnom projektu (narativni dio) na jednom mjestu koristi komercijalne nazive modela opreme ('Eagle', 'Eris') umjesto isključivo generičkog opisa, a opći uvjeti troškovnika dodatno referiraju 'projektom predviđene proizvođače' kao polazišnu točku prije dopuštene jednakovrijedne zamjene — što je blaže od potpune neutralnosti, ali se ne prenosi u same obvezujuće troškovničke stavke.",
+      "citat": "Naziv proizvoda: multifunkcionali brod za igru s otvorenim toboganom - klizištem od stakloplastike / za visinu podesta ph 145 cm, dj. 3+",
+      "runovi": [
+        4,
+        4
+      ],
+      "slaganje": "puno"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dostupna je cjelovita dokumentacija potrebna za samostalnu izradu ponude: Opći podaci, Upute za ponuditelje, Kriteriji za kvalitativni odabir, Kriteriji za odabir ponude, popunjivi Troškovnik, Glavni projekt s tehničkim opisom i slikovnom specifikacijom opreme, te obrasci priloga. Dvije datoteke su formalno prazne OCR skenovi ('Odluka o odabiru scan.pdf.txt', 8 bajtova; 'Zapisnik o pregledu i ocjeni ponuda scan.pdf.txt', 17 bajtova), no provjerom je utvrđeno da su to duplikati dokumenata čije ne-scan verzije sadrže potpun tekst ('Odluka o odabiru.html.txt', 2872 bajta, cjelovit tekst odluke s podacima o ponudama i odabiru; 'Zapisnik o pregledu i ocjeni.pdf.txt', 339 redaka/12245 bajtova, cjelovit zapisnik). Stvarnog nedostatka dokumentacije, dakle, nema — prazne su samo suvišne duplikatne skenirane inačice.",
+      "citat": "Elektronička ponuda mora sadržavati najmanje: Uvez ponude Popunjeni eESPD obrazac (ili više njih, ako je primjenjivo) Popunjen troškovnik",
+      "runovi": [
+        5,
+        4
+      ],
+      "slaganje": "djelomicno"
+    },
+    "prosjecna_ocjena": 4.67
+  },
+  "restriktivnost": {
+    "prisutno": true,
+    "indikatori": [
+      {
+        "opis": "Tehnički opis opreme u Glavnom projektu (narativni dio, tehnički opis sprava) na jednom mjestu navodi komercijalne nazive modela opreme ('Eagle' za ljuljačku, 'Eris' za vrtuljak) umjesto isključivo generičkog/tehničkog opisa, što je klasičan indikator moguće prilagodbe specifikacije određenom dobavljaču/proizvođaču. Potvrđeno izravnim čitanjem izvornika (redci 523-524 tehničkog opisa).",
+        "citat": "dvostruka ljuljačka sa sjedalicama Eagle, njihaljka na opruzi za dvoje djece, brijeg za penjanje, Vrtuljak \"šalica\" Eris."
+      },
+      {
+        "opis": "Opći uvjeti troškovnika zahtijevaju opremu 'projektom predviđenih proizvođača, odnosno nominiranih dobavljača investitora' kao polaznu osnovu, uz mogućnost jednakovrijedne zamjene tek nakon zajedničkog odobrenja projektanta, nadzornog inženjera i investitora — dodatna administrativna prepreka za alternativne ponuditelje, iako formalno dopuštena. Potvrđeno izravnim čitanjem troškovnika (redak 29).",
+        "citat": "Sva ponuđena oprema mora biti visokokvalitetna, projektom predviđenih proizvođača, odnosno nominiranih dobavljača investitora."
+      },
+      {
+        "opis": "Mitigirajuća okolnost: sam obvezujući troškovnik (na temelju kojeg ponuditelji daju cijenu) ne ponavlja komercijalna imena iz Glavnog projekta, opisuje opremu isključivo tehničkim karakteristikama (dimenzije, materijal, sukladnost EN 1176) te sadrži izričitu zakonsku napomenu o nediskriminaciji sukladno čl. 209-210 ZJN 2016. Potvrđeno izravnim čitanjem troškovnika (redak 41).",
+        "citat": "Tehničke specifikacije navedene u troškovniku ne upućuju na određenu marku ili izvor... niti jednim opisom nisu isključeni gospodarski subjekti ili određeni proizvodi."
+      },
+      {
+        "opis": "Mitigirajuća okolnost: u praksi su zaprimljene 2 valjane ponude od različitih gospodarskih subjekata (TIM d.o.o. i Elektro Mustapić j.d.o.o.), obje ocijenjene sukladnima dokumentaciji i tehničkim specifikacijama bez odbijanja - što ukazuje da specifikacija de facto nije isključila konkurenciju.",
+        "citat": "Broj zaprimljenih ponuda: 2"
+      }
+    ],
+    "rizik": "nizak",
+    "runovi_prisutno": [
+      true,
+      true
+    ],
+    "slaganje": "puno"
+  },
+  "napomena": "Pročitani su svi relevantni dokumenti iz extracted/ (Kriteriji za kvalitativni odabir, Kriteriji za odabir ponude, Obavijest o nadmetanju, Upute za ponuditelje, Opći podaci, Glavni projekt s tehničkim opisom, Prilog, Troškovnik, Obavijest o dodjeli ugovora, Odluka o odabiru, Zapisnik o pregledu i ocjeni). Dvije datoteke ('Odluka o odabiru scan.pdf.txt' i 'Zapisnik o pregledu i ocjeni ponuda scan.pdf.txt') su prazni/gotovo prazni OCR skenovi (8 i 17 bajtova) bez sadržajnog utjecaja na ocjenu, jer su iste informacije potvrđeno dostupne iz drugih (ne-scan) verzija istih dokumenata (2872 i 12245 bajtova, potpun tekst).",
+  "napomena_resolvera": "Na dvije od tri dimenzije transparentnosti oba runa dala su identičnu ocjenu s podudarnim obrazloženjem (jasnoca_kriterija: 5/5; razina_detalja_opisa: 4/4) - slaganje 'puno'. Kod potpunost_dokumentacije (5 vs 4) razlika je razriješena samostalnom provjerom izvornika: run_2 je kao minus naveo prazne 'scan' datoteke, no izravnom provjerom (wc -c) utvrđeno je da su to suvišni duplikati čije ne-scan inačice sadrže potpun tekst (Odluka o odabiru.html.txt i Zapisnik o pregledu i ocjeni.pdf.txt) - stvarnog nedostatka dokumentacije nema, pa je ocjena run_1 (5) bolje utemeljena; slaganje 'djelomicno'. Restriktivnost: oba runa potpuno se slažu (prisutno=true, rizik=nizak); indikatori su spojeni iz oba runa uz uklanjanje duplikata (Eagle/Eris naveden u oba), a sve citirane tvrdnje (redci 29, 41, 523-524 izvornika) neovisno su provjerene izravnim čitanjem ekstrahiranog teksta i potvrđene točnima. Razina pouzdanosti finalne ocjene: visoka - jedino neslaganje bilo je provjerljivo jednostavnom provjerom postojanja sadržaja u alternativnim datotekama, a ne stvarna sadržajna dvojba oko interpretacije teksta."
+}

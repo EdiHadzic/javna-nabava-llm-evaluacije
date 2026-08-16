@@ -1,0 +1,27 @@
+{
+  "postupak_id": 32172,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 4,
+      "obrazlozenje": "Kriterij ENP jasno strukturiran (Cijena 90 bodova, Rok isporuke 10 bodova) uz eksplicitne matematičke formule za bodovanje. Međutim, izvorna Dokumentacija o nabavi sadržavala je internu proturječnost (tri različita maksimalna broja bodova za rok isporuke), koju je uočio zainteresirani gospodarski subjekt putem sustava Pitanja/Pojašnjenja i koju je naručitelj ispravio prije roka za dostavu ponuda.",
+      "citat": "Naručitelj skraćuje maksimalni rok isporuke s 180 na najviše 70 dana... Zaključno, maksimalan broj bodova za drugi kriterij... iznosi 10 bodova"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Tehnička specifikacija vrlo je detaljna i strukturirana (motor, karoserija, obvezna i posebna oprema, boja, tehnička dokumentacija, servisni uvjeti), uz jasne minimalne vrijednosti koje omogućuju usporedivost ponuda. Zahtjevi su generički za kategoriju vozila i ne upućuju na određenu marku/model, no opsežnost popisa mogla bi suziti krug sposobnih ponuditelja na specijalizirane preprodavatelje/nadograditelje vozila.",
+      "citat": "b) Snaga motora (kW): minimalno 120 kW... d) Međuosovinski razmak (mm): minimalno 3500 mm"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 4,
+      "obrazlozenje": "Dostupna je puna cjelina dokumentacije. Ipak, izvorni troškovnik nije sadržavao polje za poseban porez na motorna vozila (PPMV), unatoč tome što je predmet nabave vozilo s 9 sjedala koje mu podliježe - propust je uočen putem javnog upita i naručitelj ga je otklonio prije roka za dostavu ponuda.",
+      "citat": "Naručitelj u priloženom troškovniku nije predvidio polje za unos PPMV-a... Naručitelj prihvaća prijedlog... te će postaviti novu verziju troškovnika s PPMV-om"
+    },
+    "prosjecna_ocjena": 4.0
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak",
+    "napomena": "Tehnička specifikacija ne sadrži reference na određenu marku/proizvođača niti patentirano rješenje; referentni uvjet proporcionalan je i standardan. Postupak je zanimljiv kao primjer transparentnosti kroz javni Q&A mehanizam - dvije materijalne greške u dokumentaciji otkrivene su i ispravljene putem javnih odgovora prije isteka roka."
+  }
+}

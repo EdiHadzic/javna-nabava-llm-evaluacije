@@ -1,0 +1,39 @@
+{
+  "postupak_id": 4343,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriteriji za odabir ponude (cijena 90 bodova, kvaliteta/VZ 10 bodova) definirani su egzaktnim matematičkim formulama i tablicom bodovanja bez prostora za diskreciju povjerenstva.",
+      "citat": "Ponuditelj koji ponudi najnižu cijenu ponude dobit će maksimalni broj bodova (90) C=Cmin/Cp*90"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 2,
+      "obrazlozenje": "Zaseban dokument 'Tehnička specifikacija' sadrži samo jednu generičku rečenicu bez ikakvog opisa lokacija čuvanja, opreme, ophodnji ili konkretnih zadataka zaštitara; jedini kvantitativni detalj (raspored i broj sati po smjeni) nalazi se isključivo u troškovniku, ne u samoj specifikaciji.",
+      "citat": "Odabrani ponuditelj obvezuje se obavljati predmetne usluge savjesno, prema pravilima struke, primjenjujući profesionalnu vještinu, znanje i kompetencije sukladno Zakonu o privatnoj zaštiti"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 4,
+      "obrazlozenje": "Administrativno potpun set (opći podaci, kriteriji kvalitativnog odabira, kriteriji odabira ponude, upute za ponuditelje, troškovnik s količinama, prilozi izjava) omogućuje samostalnu izradu ponude; jedini nedostatak je supstancijalna tankoća same tehničke specifikacije (v. gore) i 0-bajtni 'Prilozi.zip' na izvornom disku (poznat artefakt neuspjelog preuzimanja, ne stvarni sadržajni gap jer su ključni prilozi već dostupni kao zasebni dokumenti).",
+      "citat": "Elektronička ponuda mora sadržavati najmanje: Uvez ponude Popunjeni eESPD obrazac... Popunjen troškovnik"
+    },
+    "prosjecna_ocjena": 3.67
+  },
+  "restriktivnost": {
+    "prisutno": true,
+    "indikatori": [
+      {
+        "opis": "Zahtjev za certifikatom ISO 9001:2008 (ili noviji) za djelatnost 'tjelesna i tehnička zaštita' nerazmjeran je maloj procijenjenoj vrijednosti nabave (34.000,00 EUR/god.) i može isključiti manje lokalne zaštitarske tvrtke koje nemaju formalnu ISO certifikaciju.",
+        "citat": "Certifikat kvalitete dokaza udovoljavanju zahtjeva norme ISO 9001:2008 ( ili novije), izdanog od akreditiranog tijela, za opseg aktivnosti : Tjelesna i tehnička zaštita."
+      },
+      {
+        "opis": "Traženi minimum od 7 licenciranih zaštitara (5 tjelesne zaštite + 2 za mjere zaštite od požara) uz 24-satno operativno dežurstvo nerazmjeran je stvarnom opsegu posla koji proizlazi iz troškovnika (ukupno cca. 4.808 sati/god., odnosno dio radnog vremena tijekom noći/vikenda/praznika, a ne kontinuirana cjelodnevna prisutnost)."
+      },
+      {
+        "opis": "Pragovi osiguranja od odgovornosti (66.360,00 EUR po štetnom događaju; 132.700,00 EUR agregatni limit) iznose cca. 2x, odnosno 4x godišnju procijenjenu vrijednost ugovora, što je razmjerno visoko za ugovor ove veličine.",
+        "citat": "Polica osiguranja-po štetnom događaju 66.360,00 EUR Polica osiguranja - agregatni limit 132.700,00 EUR"
+      }
+    ],
+    "rizik": "srednji"
+  },
+  "napomena": "Sve relevantne .txt datoteke u extracted/ pročitane. Tehnička specifikacija ekstrahirana je kao samo 271 bajtova (jedna rečenica) - provjereno da nije riječ o pipeline OCR/formatnom propustu (izvorni .docx nije velik niti skeniran), nego o stvarno minimalističkom sadržaju dokumenta. 'Prilozi.zip' je na disku 0 bajtova (izvorni neuspjeli download), dok su 'DON-...zip' i 'Odluka-...zip' nenulti no nisu zasebno ekstrahirani jer su njihovi sastavni dokumenti već prisutni kao pojedinačni .txt zapisi. Postupak je dovršen (odabran LAV ZAŠTITA d.o.o., 100,00 bodova), oba ponuditelja ispunila su sve kriterije kvalitativnog odabira."
+}

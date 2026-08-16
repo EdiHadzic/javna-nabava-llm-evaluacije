@@ -1,0 +1,27 @@
+{
+  "postupak_id": 3658,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij ekonomski najpovoljnije ponude potpuno je operacionaliziran matematičkom formulom s dvije komponente (cijena 80 bodova, rok isporuke 20 bodova), uključujući preciznu tablicu bodovanja po rasponima dana i eksplicitan prag iznad kojeg se ponuda odbija.",
+      "citat": "1 - 15\t20,00\n16-30\t15,00\n31-40\t10,00\n41-50\t5,00\n51-60\t0,00\n61-\tPonuda se odbija"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Tehnička specifikacija vrlo je detaljna (47 mjerljivih parametara stroja: masa, dimenzije, snaga, hidraulika, oprema), s dosljednom formulom 'ili jednakovrijedno' koja dopušta alternativne ponuditelje/marke te time izbjegava vezanost uz jedan proizvod unatoč velikoj razini detalja.",
+      "citat": "Kompaktni rovokopač – rabljeni. Tražene karakteristike ili \"jednakovrijedno\""
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dostupna je cjelovita dokumentacija za samostalnu izradu ponude: opći podaci, upute za ponuditelje, kriteriji kvalitativnog odabira, tehničke specifikacije, troškovnik i svi obrasci izjava; naručitelj je uz to transparentno objavio odgovore na upite ponuditelja i ispravio vlastitu grešku putem službene izmjene dokumentacije.",
+      "citat": "prethodno pitanje sam pogrešno odgovorio! Jamstvo za uredno izvršenje ugovora iznosi 10,00% od dostave ponude bez PDV-a"
+    },
+    "prosjecna_ocjena": 4.67
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak"
+  },
+  "napomena": "Pročitane sve raspoložive .txt datoteke u extracted/ (22 datoteke: opći podaci, upute za ponuditelje, kriteriji kvalitativnog odabira, tehničke specifikacije, troškovnik, obrasci izjava, obavijest o nadmetanju + 2 izmjene, odgovori na upite, zapisnik o pregledu i ocjeni, odluka o odabiru, obavijest o dodjeli ugovora). Sadržaj je čitljiv i potpun, bez OCR/ekstrakcijskih praznina. Jedini uvjet tehničke i stručne sposobnosti je 1 referenca (uspješno izvršen ugovor financijskog leasinga za komunalna vozila u tekućoj i tri prethodne godine) bez dodatnog financijskog praga (npr. minimalnog godišnjeg prometa) - proporcionalno vrijednosti nabave (103.000 EUR), stoga ne postoji indikacija restriktivnosti/prilagođenosti određenom ponuditelju. Postupak je zaprimio samo 1 ponudu, no to nije nužno posljedica restriktivne specifikacije (niša tržišta financijskog leasinga rabljene građevinske mehanizacije), a naručitelj je aktivno olakšao sudjelovanje prihvaćanjem bjanko zadužnice umjesto isključivo bankarske garancije nakon upita ponuditelja."
+}

@@ -1,0 +1,30 @@
+{
+  "postupak_id": 24255,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij ENP potpuno je operacionaliziran: financijski dio (80%) definiran je eksplicitnom matematičkom formulom, a kvalitativni dio (20%, specifično iskustvo stručnjaka) ima tablicu bodovanja s diskretnim pragovima (1-5+ projekata = 4-20 bodova) i jasno definiranim dokazima (Obrazac 6 - Životopis). Iz Zapisnika o ocjeni vidljivo je da je bodovanje mehanički primijenjeno na sve 3 ponude bez interpretacijskog prostora.",
+      "citat": "C = Cn/Cx∗ 80... 1 projekt 4 boda, 2 projekta 8 boda, 3 projekta 12 bodova, 4 projekta 16 bodova, 5 i više projekata 20 bodova"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 5,
+      "obrazlozenje": "Opis predmeta popraćen je opsežnim setom stručnih podloga (geotehnički istražni radovi, geotehnički elaborat, maritimna studija, izvještaj mjerenja dubine, glavni i izvedbeni projekt) te detaljnim troškovnikom s eksplicitnim općim uvjetima izvedbe i popisom primjenjive tehničke regulative - razina dovoljna za usporedivu ponudu bez arbitrarnog isključivanja alternativa (dopušteno je jednakovrijedno rješenje).",
+      "citat": "Geotehnički izvještaj... Zbirni izvještaj o provedenim istražnim radovima sa zaključcima i prijedlogom sanacije... Izvedbeni projekt produbljenja... Glavni projekt sanacije gata"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dostupni su svi elementi potrebni za samostalnu izradu ponude: Dokumentacija o nabavi (Opći podaci, Upute za ponuditelje, Kriteriji za odabir), kompletan troškovnik u xlsx formatu, projektna dokumentacija, obrasci (uklj. Obrazac 6 - Životopis, Izjava o nepostojanju zapreke), nacrt ugovora. Sva tri ponuditelja dostavila su ponude ocijenjene valjanima 'prema obliku, sadržaju i cjelovitosti' bez potrebe za bitnim dopunama tehničke dokumentacije.",
+      "citat": "Elektronička ponuda mora sadržavati najmanje: Uvez ponude, Popunjeni eESPD obrazac, Popunjen troškovnik... Obrazac 6 Životopis ključnog stručnjaka"
+    },
+    "prosjecna_ocjena": 5.0
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [
+      "Uvjet iskustva stručnjaka ograničen je na 'lučku infrastrukturu i/ili lučko područje' minimalno 2.000.000 EUR, što je uže od opće građevinske ekspertize, ali izravno proporcionalno naravi radova (sanacija obalnog zida i produbljenje akvatorija luke) - nije identificirano kao neopravdano restriktivno.",
+      "Minimalni godišnji promet postavljen je točno u visini procijenjene vrijednosti (4.000.000 EUR), a Zapisnik izrijekom navodi 'Razlog traženja minimalnog godišnjeg prometa koji prelazi dvostruku vrijednost procijenjene vrijednosti nabave: Nije primjenjivo' - naručitelj nije tražio pooštreni prag."
+    ],
+    "rizik": "nizak"
+  },
+  "napomena": "Pročitane su sve relevantne .txt datoteke iz extracted/ (dokumentacija o nabavi, kriteriji, projektna dokumentacija, troškovnik, obavijesti, odluka o odabiru i zapisnik o pregledu i ocjeni). Dokumentacija je iznimno opsežna i tehnički detaljna (radovi velike vrijednosti, 4.000.000 EUR). Zaprimljene su 3 valjane ponude, sve tri ostvarile su maksimalni broj bodova (20/20) na kvalitativnom kriteriju, što ukazuje da uvjet iskustva stručnjaka na lučkoj infrastrukturi nije praktično isključio konkurenciju. Jedna manja nejasnoća u referenci odabranog ponuditelja (neslaganje imena stručnjaka u životopisu i potvrdi) razriješena je standardnim postupkom pojašnjenja, bez naznaka pristranosti."
+}

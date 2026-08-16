@@ -1,0 +1,32 @@
+{
+  "postupak_id": 20220,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriteriji za odabir ponude (cijena 90 bodova, rok izvršenja ugovora 10 bodova) potpuno su mjerljivi i operacionalizirani formulama i tablicom bodovanja bez prostora za diskreciju naručitelja pri ocjenjivanju.",
+      "citat": "Za rok izvođenja radova od 30 dana dodjeljuje se maksimalni broj bodova za ovaj kriterij u iznosu od 10,00 bodova."
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Predmet nabave detaljno je opisan kroz zaseban tehnički elaborat (Plan uklanjanja otpada) s 9 konkretnih, geodetski identificiranih lokacija te troškovnikom razrađenim po lokaciji i vrsti otpada. Tehničke specifikacije (npr. nadzorna kamera) navedene su funkcionalno s minimalnim pragovima ('min.'), a naručitelj eksplicitno dopušta jednakovrijedna rješenja, čime se izbjegava prekomjerno sužavanje kruga ponuditelja.",
+      "citat": "snimka u boji, snimanje na microSD karticu, namijenjena za vanjsku montažu min. IP66, slika visoke rezolucije min 4MP, 24/7 slika u boji"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dostupan je pun set dokumentacije potreban za samostalnu izradu ponude: opći podaci, kriteriji kvalitativnog odabira, kriteriji za odabir ponude, upute za ponuditelje, detaljan tehnički elaborat i troškovnik po lokacijama te nacrt ugovora, uz jasno navedene obvezne sastavnice elektroničke ponude.",
+      "citat": "Elektronička ponuda mora sadržavati najmanje: Uvez ponude Popunjeni eESPD obrazac (ili više njih, ako je primjenjivo) Popunjen troškovnik"
+    },
+    "prosjecna_ocjena": 4.67
+  },
+  "restriktivnost": {
+    "prisutno": true,
+    "indikatori": [
+      {
+        "opis": "Minimalni referentni prag tehničke i stručne sposobnosti (70.000,00 EUR izvedenih sličnih radova) iznosi 87,5% procijenjene vrijednosti nabave (80.000,00 EUR), što je nesrazmjerno visoko u odnosu na uobičajenu praksu i može isključiti manje gospodarske subjekte bez da je vrijednost nabave osobito velika ili kompleksna.",
+        "citat": "da je u definiranom periodu uredno izveo iste ili slične radove ukupne minimalne vrijednosti 70.000,00 EUR"
+      }
+    ],
+    "rizik": "srednji"
+  },
+  "napomena": "Dokumentacija je opsežna i čitljiva (HTML izvorne stranice DON-a i PDF/DOCX prilozi ekstrahirani su bez vidljivih gubitaka teksta). Nije pronađena referenca na konkretnu marku, model ili patentirano rješenje - naručitelj eksplicitno navodi da je izbjegavao upućivanje na marku, izvor ili patent i da prihvaća jednakovrijedne proizvode. Jedini uočeni restriktivni element je nesrazmjerno visok financijski prag reference u odnosu na procijenjenu vrijednost nabave."
+}

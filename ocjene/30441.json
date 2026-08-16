@@ -1,0 +1,27 @@
+{
+  "postupak_id": 30441,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij za odabir ponude (ekonomski najpovoljnija ponuda) definiran je potpuno eksplicitnom matematičkom formulom s jasnim ponderima (cijena 90%, rok isporuke 10%) i točno propisanom bodovnom skalom za oba potkriterija, bez prostora za diskrecijsko tumačenje.",
+      "citat": "C= NC/CO x 90 ... Rok isporuke do 06,00 sati 10 bodova; do 07,00 sati 5 bodova"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Troškovnik sadrži 21 konkretnu stavku s jedinicama mjere, okvirnim količinama i tehničkim odrednicama (npr. postotak mliječne masti), što omogućuje usporedivu ponudu; opći dokument 'Tehnička specifikacija' je, s druge strane, generičan i uglavnom upućuje na zakonske propise o sigurnosti hrane umjesto na specifične tehničke karakteristike po stavci.",
+      "citat": "MLIJEKO SVJEŽE 3,2% mm 1/1 l; LIT; 12000 ... POLUTVRDI SIR GAUDA 1/1 kg ili jednakovrijedan"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dostupan je pun set dokumenata potreban za samostalnu izradu ponude: opći podaci, kriteriji kvalitativnog odabira s detaljnim uputama o ESPD-u i dokazivanju, kriterij odabira, troškovnik, izjava o roku isporuke i upute za ponuditelje s rokovima, načinom dostave i pravnom zaštitom.",
+      "citat": "Elektronička ponuda mora sadržavati najmanje: Uvez ponude, Popunjeni eESPD obrazac, Popunjen troškovnik, Vrijednosti kriterija za odabir ponude"
+    },
+    "prosjecna_ocjena": 4.67
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak",
+    "napomena": "Zahtjev tehničke/stručne sposobnosti (reference u visini procijenjene vrijednosti nabave) standardan je i proporcionalan; kod dva troškovnička artikla (sir Gauda, sir Tilzit) izričito je dopušten 'jednakovrijedan' proizvod, što ide protiv restriktivnosti. Nije pronađen nikakav indikator prilagodbe specifikacije određenom ponuditelju."
+  }
+}

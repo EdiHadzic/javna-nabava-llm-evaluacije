@@ -1,0 +1,30 @@
+{
+  "postupak_id": 26731,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij odabira (ekonomski najpovoljnija ponuda) razložen je na dvije mjerljive komponente s eksplicitnim matematičkim formulama i bodovnom tablicom: cijena (90% / formula Ymin/Yp x 90) i jamstveni rok (10% / stepenasta tablica bodova po rasponima mjeseci). Nema prostora za subjektivnu ocjenu povjerenstva - svaki ponuditelj unaprijed može izračunati vlastiti broj bodova.",
+      "citat": "Ponuda s najniže ponuđenom cijenom dobiva 90 bodova, a ostale ponude se boduju prema formuli: Ymin/Yp x 90"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 5,
+      "obrazlozenje": "Tehnička specifikacija i Troškovnik zajedno daju vrlo konkretan i mjerljiv opis predmeta (16 stavki troškovnika s jedinicama mjere i okvirnim količinama, tehnički standardi za asfaltne slojeve, mjesto izvršenja po naseljima, rokovi, način obračuna 'građevinska knjiga-izmjera'), a da pritom ne referencira konkretnu marku/proizvođača (opća klauzula 'ili jednakovrijedno' za sva upućivanja na normu/marku).",
+      "citat": "Strojna izrada nosivog-habajućeg sloja... vrste bitumena i mješavine prema potvrđenom radnom stanju-AC surf 11 50/70 AG4 M4... u sloj prosječne debljine 5 cm"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dostupan je pun i unutarnje dosljedan paket dokumentacije (Opći podaci, Upute za ponuditelje, Kriteriji kvalitativnog odabira s uputama za ESPD, Tehnička specifikacija, Troškovnik, Obrasci 1/3/4/5) koji omogućuje potpunu i samostalnu izradu ponude bez dodatnih pojašnjenja. Naknadni tijek postupka (Zapisnik o pregledu i ocjeni) pokazuje da je naručitelj dosljedno primijenio vlastita pravila (npr. razjašnjenje razlike u iskazu PDV-a prema točno citiranoj odredbi DON-a).",
+      "citat": "Elektronička ponuda mora sadržavati najmanje: Uvez ponude, Popunjeni eESPD obrazac, Popunjen troškovnik, Vrijednosti kriterija za odabir ponude..."
+    },
+    "prosjecna_ocjena": 5.0
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [
+      "Zahtjev za tehničkom opremom obuhvaća 10 specifičnih vrsta strojeva/vozila (kiper ≥3,5t, rezač asfalta, freza za asfalt, bager ≥20t, finišer i dr.) - opsežan popis, ali funkcionalno definiran (bez marke/proizvođača) i uobičajen za radove održavanja cesta ovog opsega; nije doveo do isključenja manjeg ponuditelja (obrt DUNDO je jednu stavku - frezu za asfalt - osigurao ugovorom o najmu s trećim subjektom i time zadovoljio uvjet)",
+      "Uvjet referenci (1-3 izvedena rada u vrijednosti min. 122.500 EUR kroz 6 godina) proporcionalan je procijenjenoj vrijednosti (245.000 EUR) i nije postavljen kao apsolutna prepreka - oba ponuditelja (velika županijska tvrtka i mali obrt) su ga ispunila"
+    ],
+    "rizik": "nizak"
+  },
+  "napomena": "Pročitane su sve raspoložive .txt datoteke u extracted/ (19 datoteka), uključujući cjelokupnu dokumentaciju o nabavi, obavijest o nadmetanju, sve obrasce, odluku o odabiru i detaljan Zapisnik o pregledu i ocjeni ponuda. Postupak je zaprimio 2 ponude (velika županijska tvrtka i mali lokalni obrt), što je nizak, ali ne i sumnjivo nizak broj ponuditelja s obzirom na specijaliziranost predmeta (cestogradnja/održavanje) i regionalnu tržišnu strukturu. Nema naznaka pogodovanja - postupak razjašnjenja PDV-a i poreznog duga proveden je transparentno i dokumentirano u korist ponuditelja koji je uredno dokazao ispunjenje uvjeta."
+}

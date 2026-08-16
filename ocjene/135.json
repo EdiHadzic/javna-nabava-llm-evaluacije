@@ -1,0 +1,49 @@
+{
+  "postupak_id": 135,
+  "broj_pojedinacnih_runova": 2,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Oba pokretanja neovisno utvrđuju identičnu ocjenu uz sadržajno usklađeno obrazloženje: kriterij odabira ponude je isključivo cijena (relativni ponder 100%, temeljem članka 284. stavka 5. ZJN2016), s eksplicitno danom matematičkom formulom bodovanja (najniža cijena = 100 bodova, ostale razmjerno prema njoj) i jasnim pravilom za razrješavanje jednako bodovanih ponuda (raniji primitak ponude). Nema kvalitativnih/subjektivnih potkriterija koji bi unosili nejasnoću u ocjenjivanje.",
+      "citat": "naručitelj određuje relativni ponder cijene 100 %... Ponuda s najnižom cijenom dobiva 100,00 bodova",
+      "runovi": [
+        5,
+        5
+      ],
+      "slaganje": "puno"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Oba pokretanja neovisno dolaze do iste ocjene s kompatibilnim obrazloženjem. Tehnička specifikacija razrađuje predmet kroz konkretan popis zaštitarskih poslova (kontrola ulaza/izlaza, obilasci, praćenje vatrodojave, preuzimanje, pratnja i obrada dnevnog utrška novca), dvije precizne lokacije i satnice, a troškovnik sadrži mjerljive okvirne količine (sati, broj relacija, iznosi pologa) koje omogućuju usporedivu ponudu. Ocjena nije 5 jer je izvorni troškovnik sadržavao formulnu grešku u stavkama 4. i 5. (postotak vs. apsolutni iznos u EUR), zbog čega je bilo potrebno naknadno pojašnjenje, formalna izmjena dokumentacije i produženje roka za dostavu ponuda — nepreciznost u inicijalnoj pripremi, iako ispravljena transparentnim putem.",
+      "citat": "1 zaštitarsko mjesto, od 20,00h do 06,00 h, svaki dan u mjesecu",
+      "runovi": [
+        4,
+        4
+      ],
+      "slaganje": "puno"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 4,
+      "obrazlozenje": "Oba pokretanja se slažu: dostupan je pun set dokumenata dovoljan za samostalnu izradu ponude (opći podaci, upute za ponuditelje, kriteriji kvalitativnog odabira s ESPD uputama, kriteriji za odabir ponude, tehničke specifikacije, troškovnik). Ocjena nije 5 jer je izvorni troškovnik sadržavao formulnu grešku u stavkama 4. i 5. (postotak vs. iznos), koju je naručitelj ispravio kroz modul Pitanja/Pojašnjenja i formalnu Izmjenu obavijesti o nadmetanju uz produženje roka — proces je funkcionalan i transparentan, ali ukazuje na nesavršenost inicijalne pripreme dokumentacije.",
+      "citat": "naručitelj mijenja troškovnik na način da u polje jedinična cijena stavke 4. i 5. troškovnika omogućuje unos postotka",
+      "runovi": [
+        4,
+        4
+      ],
+      "slaganje": "puno"
+    },
+    "prosjecna_ocjena": 4.33
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak",
+    "runovi_prisutno": [
+      true,
+      false
+    ],
+    "slaganje": "rascjep"
+  },
+  "napomena": "Pročitane su sve .txt datoteke u extracted/ (15 datoteka), uključujući opću dokumentaciju, kriterije, tehničke specifikacije, troškovnik, upute, odgovore, izmjenu i zapisnike. Jedna od datoteka (Zapisnik o pregledu i ocjeni ponuda 12 02 24.pdf.txt) je prazna (15 bajtova, vjerojatno duplikat/OCR-neuspjeh, sadržaj dupliciran u 'Zapisnik o pregledu i ocjeni.pdf.txt'). Postupak je zaprimio samo jednu ponudu (Mediteran Security d.o.o.), što je vjerojatno posljedica uskog specijaliziranog tržišta (obvezne MUP dozvole za tjelesnu zaštitu i pratnju novca, blindirano vozilo, elektrokemijski spremnik), a ne posljedica netransparentnosti ili restriktivnosti dokumentacije.",
+  "napomena_resolvera": "Na dimenzijama transparentnosti (jasnoća kriterija, razina detalja opisa, potpunost dokumentacije) oba runa su se u potpunosti slagala i brojčano i sadržajno (slaganje: puno na sve tri) — obrazloženja su sintetizirana, citati preuzeti od runa s preciznijim navodom. Na restriktivnosti postojao je stvarni rascjep (run 1: prisutno=true, run 2: prisutno=false), pa je izvorni tekst ponovno neovisno pročitan (Kriteriji za kvalitativni odabir gospodarskog subjekta, Tehničke specifikacije). Nalaz: zahtjev za sigurnim poslovnim prostorom/trezorom 'na području Grada Zadra' izravno je operativno utemeljen u prirodi usluge (naručitelj je zadarski prijevoznik s dnevnim utrškom gotovine s autobusnog kolodvora koji zahtijeva svakodnevnu obradu i polog u lokalnom trezoru) i tehnički zahtjevi (blindirano vozilo, elektrokemijski spremnik) proizlaze izravno iz Pravilnika NN 35/22, a ne iz proizvoljne odluke naručitelja — riječ je o nužnoj posljedici predmeta nabave, ne o prilagodbi specifikacije određenom ponuditelju. Financijski pragovi (osiguranje i reference 105.000 EUR) točno odgovaraju procijenjenoj vrijednosti nabave (1x), što je uobičajena, proporcionalna praksa, a ne precjenjivanje. ISO 14001/9001 certifikati su standardni za djelatnost tjelesne zaštite i naručitelj eksplicitno prihvaća jednakovrijedne potvrde. Zanimljivo, run 1 je u svom obrazloženju (za oba indikatora) i u vlastitoj napomeni (jedna ponuda pripisana uskom specijaliziranom tržištu, 'a ne nužno posljedica netransparentnosti dokumentacije') zapravo iznio dokaze koji podupiru zaključak 'nije restriktivno', unatoč tome što je označio prisutno=true — interna nedosljednost koju je resolver razriješio na temelju sadržaja, ne oznake. Stoga je konačna ocjena prisutno=false uz rizik=nizak. Pouzdanost finalne ocjene: visoka na transparentnosti (puno slaganje na sve tri dimenzije), umjerena na restriktivnosti (rascjep razriješen samostalnim čitanjem izvora, a ne odabirom između dva mišljenja)."
+}

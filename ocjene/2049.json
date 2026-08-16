@@ -1,0 +1,36 @@
+{
+  "postupak_id": 2049,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij ENP je razveden na tri mjerljive komponente (cijena 80%, rok isporuke 10%, rok valjanosti/trajanja 10%) s potpuno preciznim matematičkim formulama, referentnim vrijednostima (min/max) i pravilom za slučaj jednakog broja bodova (redoslijed zaprimanja).",
+      "citat": "C = C1 / Cpo x 80"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Opis predmeta nabave precizno navodi CPV kod, namjenu (Bactec instrumenti, akreditirana metoda HRN EN ISO 15189:2022) i tri konkretne troškovničke stavke s okvirnim količinama, ali je formuliran usko oko kompatibilnosti s postojećim uređajima naručitelja umjesto generičkog funkcionalnog opisa.",
+      "citat": "Bactec instrumenti su u vlasništvu Zavoda zbog čega se traži kompatibilnost bočica za namijenjenu uporabu na ovim instrumentima."
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dostupan je potpun set dokumenata (Opći podaci, Upute za ponuditelje, Kriteriji kvalitativnog odabira, Kriterij za odabir ponude, Troškovnik-tehnička specifikacija, Obavijest o nadmetanju) koji zajedno omogućavaju samostalnu izradu ponude bez nejasnoća o postupku, dokazima sposobnosti ili obrascima.",
+      "citat": "Elektronička ponuda mora sadržavati najmanje: Uvez ponude, Popunjeni eESPD obrazac, Popunjen troškovnik..."
+    },
+    "prosjecna_ocjena": 4.67
+  },
+  "restriktivnost": {
+    "prisutno": true,
+    "indikatori": [
+      {
+        "opis": "Tehnička specifikacija zahtijeva kompatibilnost isključivo s postojećim Bactec instrumentima naručitelja (bar kod prihvatljiv za tu seriju), bez klauzule 'ili jednakovrijedno' za tu značajku.",
+        "citat": "Bočice moraju biti označene bar kodom prihvatljivim za programe serije instrumenata BACTEC**."
+      },
+      {
+        "opis": "Odabrani ponuditelj je kao dokaz sposobnosti dostavio posebno ovlaštenje izdano izravno od proizvođača opreme (Becton Dickinson International), čime krug realno kvalificiranih ponuditelja praktički postaje ograničen na njegove ovlaštene distributere.",
+        "citat": "dostavio zapise o provedenoj kontroli kvalitete podloga ATCC sojevima i ovlaštenje izdano od Becton Dickinson International"
+      }
+    ],
+    "rizik": "srednji"
+  },
+  "napomena": "Pročitani su svi relevantni .txt dokumenti u extracted/ (dokumentacija o nabavi, kriteriji, troškovnik, obavijesti o nadmetanju i dodjeli, zapisnik o pregledu i ocjeni); tekst je digitalno izvučen bez OCR problema. Zaprimljene su 2 ponude, 1 odbijena zbog nedostavljenog troškovnika (formalni razlog, nevezan za restriktivnost specifikacije). Restriktivnost je ovdje objektivno tehnički motivirana (kompatibilnost s već posjedovanim analizatorom), što je uobičajena i zakonom dopuštena praksa u zdravstvenoj nabavi konzumabla, ali svejedno sužava tržište na ponuditelje kompatibilnih/ovlaštenih proizvoda jedne robne marke."
+}

@@ -1,0 +1,27 @@
+{
+  "postupak_id": 6877,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij ENP potpuno je operacionaliziran: cijena (90 bodova) i jamstveni rok (10 bodova) s eksplicitnim matematičkim formulama, tablicom bodovanja po rasponima mjeseci jamstva (24-120) te propisanim minimalnim/maksimalnim dopuštenim vrijednostima. Nema prostora za diskrecijsko tumačenje pri bodovanju.",
+      "citat": "Bodovi za svaki od kriterija računa se na šest decimala, zaokruživanjem na više."
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 5,
+      "obrazlozenje": "Tehnička specifikacija (Prilog C) iznimno je detaljna i strukturirana u standardiziranu tablicu 'Traženo/Nuđeno' s preciznim tehničkim parametrima kabela (materijali, debljine, električne značajke, ispitivanja) pozivom na priznatu normu HRN HD 620 S2. Naručitelj eksplicitno dopušta jednakovrijedne norme, čime se osigurava usporedivost ponuda bez isključivanja legitimnih alternativa.",
+      "citat": "Naručitelj će pored normi navedenih u tehničkoj specifikaciji prihvatiti i jednakovrijedne norme."
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dostupan je pun set dokumentacije potreban za samostalnu izradu ponude: opći podaci, upute za ponuditelje, kriteriji za odabir ponude, kriteriji kvalitativnog odabira (ESPD upute po točkama), detaljna tehnička specifikacija s tablicama, popunjiv troškovnik, prijedlog ugovora i izjava o integritetu. Svi dokumenti međusobno su usklađeni (isti brojevi bodova/iznosi navedeni dosljedno kroz dokumente).",
+      "citat": "Elektronička ponuda mora sadržavati najmanje: Uvez ponude Popunjeni eESPD obrazac (ili više njih, ako je primjenjivo) Popunjen troškovnik"
+    },
+    "prosjecna_ocjena": 5.0
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak"
+  },
+  "napomena": "Pročitano svih 17 .txt datoteka u extracted/ (opći podaci, upute za ponuditelje, oba dokumenta kriterija, tehnička specifikacija, troškovnik, prijedlog ugovora, izjava o integritetu, obavijest o nadmetanju, obavijest o dodjeli, odluke o odabiru, oba zapisnika o pregledu i ocjeni). Referentni prag u kvalitativnom odabiru (min. 1 isporuka u vrijednosti >= procijenjene vrijednosti, zadnje 3 god.) na gornjoj je zakonskoj granici proporcionalnosti, ali nije prekoračen niti diskriminatoran prema određenom ponuditelju. Postupak je zaprimio 3 valjane ponude (LOCUM, KOPRODUKT TRGOVINA, SARE), sve tri prošle su kvalitativni odabir i ispunile tehničku specifikaciju, što potvrđuje da dokumentacija nije neproporcionalno restriktivna. Zapisnik o pregledu i ocjeni sadrži OCR artefakte (izobličeni znakovi u PDF-u), ali sadržaj relevantan za ocjenu ostaje čitljiv i nedvosmislen."
+}

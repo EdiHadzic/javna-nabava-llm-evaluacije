@@ -1,0 +1,49 @@
+{
+  "postupak_id": 1235,
+  "broj_pojedinacnih_runova": 2,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Oba pokretanja slažu se sadržajno: kriteriji za odabir ponude (cijena 90%, rok isporuke 10%) potpuno su operacionalizirani i mjerljivi. Cijena se boduje eksplicitnom formulom (CP = Pmin/Ppon*90), a rok isporuke jasnom stepenastom ljestvicom s definiranim pragovima (RI = 90 dana: 0 bodova; 60 < RI < 90: 5 bodova; RI =< 60: 10 bodova). Kriteriji kvalitativnog odabira gospodarskog subjekta prate standardnu ESPD strukturu s jasno propisanim načinom dokazivanja za svaki podkriterij.",
+      "citat": "Ponuđen rok isporuke (RI): Broj bodova RI = 90 dana: 0 bodova 60 < RI < 90 dana: 5 bodova RI =< 60 dana: 10 bodova",
+      "runovi": [
+        5,
+        5
+      ],
+      "slaganje": "puno"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 3,
+      "obrazlozenje": "Oba pokretanja identificiraju istu izraženu asimetriju: tehnička specifikacija Grupe II (obuća) vrlo je detaljna - 24 numerirana mjerljiva zahtjeva s pozivom na konkretne norme (HRN EN ISO 20344, 20347, 13287) i DA/NE stupcem sukladnosti - dok tehnička specifikacija Grupe I (odjeća) sadrži isključivo opće odredbe o materijalima i označavanju, bez usporedive itemizirane liste. Neovisnom provjerom cjelokupnog sadržaja datoteke tehničke specifikacije Grupe I potvrđeno je da se ne radi o artefaktu ekstrakcije - dokument doista sadrži samo opće uvjete, bez tablice pojedinačnih zahtjeva - što je važno jer je Grupa I ujedno grupa veće procijenjene vrijednosti (60.680 EUR naspram 3.320 EUR za Grupu II). Dodatno je neovisnom provjerom izvornog teksta upita i II izmjene potvrđena i stvarna pogreška u izvornoj tehničkoj specifikaciji Grupe II: gospodarski subjekt je upozorio da je navedena visina obuće '113 cm' apsurdno visoka za nisku cipelu i upitao je li tražena kategorija II (gumena/vulkanizirana obuća) također pogreška; naručitelj je odgovorio 'Prihvaća se prijedlog za izmjenu', a ispravljena II izmjena navodi 'visina gornjišta do 113 mm'. Kombinacija znatne neujednačenosti razine detalja (na štetu grupe veće vrijednosti) i potvrđene pogreške u izvornoj verziji dokumentacije opravdava umjerenu ocjenu, ne visoku - stoga se preuzima niža vrijednost (3) umjesto mehaničkog prosjeka.",
+      "citat": "Treba biti izrađena od materijala kao što su tekstil, koža, guma, plastika i drugi koji su dokazano kemijski prikladni.",
+      "runovi": [
+        3,
+        4
+      ],
+      "slaganje": "djelomicno"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Kompletan set dokumenata potreban za samostalnu izradu ponude dostupan je u extracted/ za obje grupe: obavijest o nadmetanju, opći podaci o postupku, kriteriji za kvalitativni odabir, upute za ponuditelje, tehnička specifikacija i troškovnik za obje grupe, formula za određivanje ekonomski najpovoljnije ponude te sve propisane izjave (o zajedničkoj ponudi, solidarnoj odgovornosti, jamstvu, propisanim kriterijima). Dokument 'Opći podaci o postupku nabave' strukturirano upućuje na svaki od tih priloga kao zaseban dokument za obje grupe, a svi navedeni prilozi doista su prisutni u extracted/. Naknadna II izmjena tehničke specifikacije Grupe II transparentno je objavljena zajedno s citiranim upitom gospodarskog subjekta i odgovorom naručitelja. Run 2 je za ovu dimenziju oduzeo bod zbog tanje tehničke specifikacije Grupe I - no ta se manjkavost odnosi na razinu detalja sadržaja dokumenta (već obuhvaćeno u razina_detalja_opisa), a ne na to je li dokument kao takav prisutan i dostatan za popunjavanje pripadajućeg troškovnika. Budući da nijedan dokument iz standardnog seta nije stvarno izostao niti jedan run ne navodi konkretno nedostajući prilog, zadržava se viša ocjena kako se isti nalaz ne bi penalizirao dvaput u dvije dimenzije.",
+      "citat": "Detaljan opis predmeta nabave sa tehničkim specifikacijama, vrsti i količini određen je u obrascu Troškovniku i Tehničkom opisu - Tehničkim specifikacijama predmeta nabave",
+      "runovi": [
+        5,
+        4
+      ],
+      "slaganje": "djelomicno"
+    },
+    "prosjecna_ocjena": 4.33
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak",
+    "runovi_prisutno": [
+      false,
+      false
+    ],
+    "slaganje": "puno"
+  },
+  "napomena": "Nema referenci na specifičnu marku ili patentirano rješenje; dosljedno se koristi klauzula 'ili jednakovrijedno' za sve norme i oznake u dokumentaciji o nabavi. Uvjet tehničke i stručne sposobnosti (1 referenca isporuke u visini procijenjene vrijednosti grupe) proporcionalan je vrijednosti nabave. Izmjena dokumentacije Grupe II nastala je kao ispravak pogreške na upit ponuditelja ('Glavni razlog izmjena: Ispravak pogreške naručitelja'), što ukazuje na dobru responzivnost naručitelja, a ne na restriktivnost. Zapaženo je (iz Obavijesti o dodjeli ugovora, van dosega ovog zadatka ali relevantno za interpretaciju u 5.2.): Grupa I (60.680 EUR, manje detaljna specifikacija) primila je samo 1 ponudu, dok je Grupa II (3.320 EUR, vrlo detaljna specifikacija) primila 5 ponuda - moguća, ali ne dokazana veza s razinom detalja opisa.",
+  "napomena_resolvera": "Oba runa slažu se u potpunosti (slaganje: puno) na jasnoca_kriterija i restriktivnost - u oba slučaja obrazloženja i citati sadržajno se podudaraju, bez potrebe za neovisnom provjerom izvornika. Na razina_detalja_opisa i potpunost_dokumentacije runovi su se razišli za točno 1 bod (slaganje: djelomicno); kako je riječ o 1-na-1 razilaženju bez većine, resolver nije mehanički prosjekovao niti proizvoljno odabrao 'vjerojatniji' run, nego je samostalno ponovno pročitao relevantne izvorne datoteke (cjelokupni sadržaj tehničke specifikacije Grupe I, izvorni upit ponuditelja i odgovor naručitelja u 'Izmjena - Obavijest o izmjenama ili dodatnim informacijama1.pdf.txt', tekst 'Odluka o II IZMJENI', te II izmjenu tehničke specifikacije Grupe II). Ta provjera potvrdila je da je asimetrija razine detalja između grupa stvarna (ne artefakt ekstrakcije) i da je izvorna specifikacija Grupe II doista sadržavala pogrešku koja je naknadno ispravljena - što je poduprlo nižu ocjenu (3) za razina_detalja_opisa. Za potpunost_dokumentacije, provjera je pokazala da je dokumentacijski set stvarno kompletan za obje grupe (nijedan prilog ne nedostaje), pa je zadržana viša ocjena (5) uz eksplicitno razgraničenje od razina_detalja_opisa kako se ista slabost ne bi penalizirala dvaput. Razina pouzdanosti finalne ocjene: visoka za jasnoca_kriterija i restriktivnost; umjerena za razina_detalja_opisa i potpunost_dokumentacije - razriješeno neovisnom provjerom izvornika, ne procjenom bez dodatnih dokaza."
+}

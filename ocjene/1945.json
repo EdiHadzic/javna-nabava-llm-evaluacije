@@ -1,0 +1,27 @@
+{
+  "postupak_id": 1945,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij za odabir ponude je ekonomski najpovoljnija ponuda s dva potkriterija: cijena (90%) i odaziv izvršitelja (10%). Oba potkriterija su potpuno mjerljiva - cijena se boduje eksplicitnom formulom (Ymin/Yp x 90), a odaziv prema fiksnoj tablici s tri jasno definirana vremenska praga (48h/72h/96h) i pripadajućim bodovima. Nema nejasnih ili subjektivnih elemenata.",
+      "citat": "Ponuda s najniže ponuđenom cijenom dobiva 90 bodova, a ostale ponude se boduju prema formuli"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Opis predmeta nabave (najam buldožera za održavanje odlagališta) jasno definira namjenu i opseg usluge (rukovatelj, gorivo, mazivo, dovoz/istovar/odvoz uključeni). Tehnička specifikacija stroja navodi mjerljive minimalne pragove (masa, snaga motora, širina noža, sat rada) koji omogućavaju usporedivost ponuda, a formulirani su kao generički tehnički pragovi bez upućivanja na marku/model, čime ostaje prostor za više proizvođača. Manji odbitak jer su pragovi (npr. točno 22 t, 150 kW, 3,20 m) postavljeni prilično usko, bez obrazloženja zašto su baš te vrijednosti nužne za obavljanje posla.",
+      "citat": "Masa radnog stroja minimalno 22 t, Snaga motora radnog stroja: minimalno 150 kW, Širina noža za ravnanje: minimalno 3,20 m"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dostupna je cjelovita dokumentacija potrebna za samostalnu izradu ponude: Opći podaci o postupku, Kriteriji za kvalitativni odabir (s ESPD uputama), Kriterij za odabir ponude (s formulom bodovanja), Upute za ponuditelje (način dostave, jamstva, rokovi), Troškovnik i Tehnička specifikacija (Obrazac 2). Svi ključni elementi potrebni ponuditelju prije podnošenja ponude su prisutni i međusobno konzistentni.",
+      "citat": "Detaljan troškovnik se nalazi u zasebnom prilogu – Troškovnik."
+    },
+    "prosjecna_ocjena": 4.67
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak"
+  },
+  "napomena": "Tehnički zahtjevi za radni stroj (gusjeničar, masa, snaga motora, širina noža) formulirani su kao generički minimalni pragovi bez reference na marku, model ili patentirano rješenje, pa ne upućuju na prilagodbu specifičnom ponuditelju. Zahtjev za referencama (1-3 usluge u vrijednosti od najmanje polovice procijenjene vrijednosti nabave) je razmjeran vrijednosti nabave. Zaprimljena je samo jedna ponuda (dobavljač PANDORA d.o.o., lokalna tvrtka iz Posedarja u istoj županiji) - to je vjerojatnije posljedica uske, specijalizirane niše tržišta (najam teške građevinske mehanizacije s rukovateljem za određenu lokaciju) nego restriktivnosti specifikacije, budući da sama specifikacija ne sadrži identificirane restriktivne elemente. Nekoliko datoteka iz faze pregleda/dodjele ponude (analiza ponuda, zapisnik, odluka o odabiru u PDF obliku) ekstrahirano je prazno (vjerojatno skenirani dokumenti bez OCR-a), no ekvivalentni sadržaj dostupan je putem HTML izvještaja (Obavijest o dodjeli ugovora, Odluka o odabiru.html), tako da to ne umanjuje ocjenu potpunosti dokumentacije relevantne za pripremu ponude."
+}

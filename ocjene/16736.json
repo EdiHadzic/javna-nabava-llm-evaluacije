@@ -1,0 +1,37 @@
+{
+  "postupak_id": 16736,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij za odabir ponude je ekonomski najpovoljnija ponuda s dva jasno definirana i potpuno mjerljiva podkriterija: cijena (90%) prema eksplicitnoj formuli i rok isporuke auto guma za teretna vozila (10%) prema jasno stupnjevanoj tablici bodova (2, 4 ili 6 radnih dana). Naknadno je i stvarna Analiza valjanih ponuda pokazala dosljednu, provjerljivu primjenu iste formule na sve tri zaprimljene ponude.",
+      "citat": "Ponuda s najniže ponuđenom cijenom dobiva 90 bodova, a ostale ponude se boduju prema formuli: Ymin/Yp x 90"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Opis predmeta nabave iznimno je detaljan (74 stavke troškovnika s točnim dimenzijama, pozicijom na vozilu i okvirnim količinama; EU indeksi potrošnje goriva/prianjanja/buke; jamstveni rok; starost gume) i dopušta potpuno usporedive ponude. Ocjena nije 5 jer je razina detalja mjestimično prešla u konkretizaciju po nazivu proizvođača (grupa 'premium segment'), što graniči s preuzimanjem restriktivnosti umjesto čisto tehničkog opisa performansi.",
+      "citat": "Ponuditelj je dužan nuditi auto gume proizvođača koji su svrstani u Grupu A., odnosno „premium segment“ za sve stavke iz Troškovnika (auto gume za teretna vozila, stavke Troškovnika od 1.1. do 1.38.)"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dokumentacija je potpuna i omogućava samostalnu izradu ponude bez naknadnih pitanja o formalnostima: dostupni su Obavijest o nadmetanju, Upute za ponuditelje, Kriteriji za kvalitativni odabir, Tehnička specifikacija, Troškovnik i svih 9 obrazaca. Naručitelj je uz to aktivno i transparentno odgovarao na zahtjeve zainteresiranih gospodarskih subjekata (7 objavljenih Odgovora s obrazloženjima i produljenjima roka), a cijeli tijek (analiza ponuda, odluka o odabiru, obavijest o dodjeli) također je dostupan.",
+      "citat": "Naručitelj ovu izmjenu Dokumentacije o nabavi (Izmijenjenu Tehničku specifikaciju predmeta nabave s implementiranim izmjenama) bez odgode stavlja na raspolaganje na internetskim stranicama Elektroničkog oglasnika javne nabave RH."
+    },
+    "prosjecna_ocjena": 4.67
+  },
+  "restriktivnost": {
+    "prisutno": true,
+    "indikatori": [
+      {
+        "opis": "Obvezno navođenje točno određenih svjetskih proizvođača guma ('premium segment') za gotovo sve stavke teretnog i cjelokupni program osobnih/dostavnih guma, umjesto isključivo tehničkih/performansnih zahtjeva (EU etiketa, jamstvo, starost).",
+        "citat": "Grupa A. „premium segment“ - Michelin, Goodyear, Dunlop, Bridgestone, Continental, Pirelli, Hankook (samo za teretne gume), Vredestein (samo za teretne gume)"
+      },
+      {
+        "opis": "Za sve stavke osobnih i dostavnih vozila (2.1.-2.10., 100% te kategorije) dopušten je isključivo najskuplji 'premium' segment, bez izuzetaka poput onih danih za pojedine teretne stavke.",
+        "citat": "Ponuditelj je dužan nuditi auto gume proizvođača koji su svrstani u Grupu A. („premium segment“) za sve stavke iz Troškovnika (auto gume za osobna i dostavna vozila, stavke troškovnika od 2.1. do 2.10.)."
+      }
+    ],
+    "rizik": "srednji",
+    "napomena_o_riziku": "Rizik nije ocijenjen kao visok jer: (a) naručitelj obrazlaže zahtjev sigurnosnom/operativnom potrebom (komunalna vozila, sigurnost sudionika u prometu), (b) izričito je dopušteno nuđenje 'jednakovrijednog' proizvoda uz potvrdu ETRMA udruženja o pripadnosti kategoriji, (c) popis brendova je tijekom postupka dinamički proširivan na temelju primjedbi zainteresiranih gospodarskih subjekata (dodani Hankook, Vredestein, Starmaxx), što ukazuje na otvorenost prema tržištu, a ne namjeru favoriziranja jednog određenog ponuditelja, i (d) u postupku su sudjelovala 3 ponuditelja s različitim cijenama, što upućuje na postojanje stvarne konkurencije unatoč ograničenju na premium segment."
+  },
+  "napomena": "Svi ključni dokumenti (Obavijest o nadmetanju, Upute za ponuditelje, Kriteriji za kvalitativni odabir, Tehnička specifikacija, Troškovnik, Odgovori, Analiza valjanih ponuda, Odluka o odabiru, Obavijest o dodjeli) uspješno su ekstrahirani i čitljivi, bez znakova nepotpune/prazne ekstrakcije. Postupak je imao 7 objavljenih odgovora na upite i tri izmjene dokumentacije s produljenjem roka, što je razmotreno kao pozitivan pokazatelj transparentnosti, ali i kao kontekst za analizu restriktivnosti (rasprava o popisu brendova bila je dominantna tema upita)."
+}

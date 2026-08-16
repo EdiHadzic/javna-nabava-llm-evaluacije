@@ -1,0 +1,27 @@
+{
+  "postupak_id": 6054,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 4,
+      "obrazlozenje": "Kriteriji za odabir ponude su kvantificirani i jednoznačno mjerljivi: cijena nosi 90 % udjela, a rok isporuke (u danima) 10 %. Osnove za isključenje i uvjeti sposobnosti (upis u registar, ekonomski/financijski zahtjevi) navedeni su eksplicitno. Ocjena nije 5 jer je 'kvaliteta' svedena na jedan vrlo jednostavan potkriterij (rok isporuke), bez dodatnih kvalitativnih mjerila.",
+      "citat": "Cijena 90,00 ... Kvaliteta: Rok isporuke 10,00"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 2,
+      "obrazlozenje": "Opis predmeta nabave u svim dostupnim dokumentima (obavijest o nadmetanju, izmjena, obavijest o dodjeli) sveden je na jednu generičku rečenicu koja upućuje na vanjski troškovnik kao stvarni izvor tehničke specifikacije. Taj troškovnik nalazi se u 'Prilozi.zip', čiji je ekstrahirani tekst prazan (0 bajtova), pa stvarni popis i tehnički opis higijenskih/kućanskih potrepština nije dostupan za ocjenu iz pročitanih datoteka.",
+      "citat": "Nabava kućanskih i osnovnih higijenskih potrepština za krajnje korisnike sukladno troškovniku koji je sastavni dio ove Dokumentacije o nabavi."
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 2,
+      "obrazlozenje": "Dostupni su postupovni dokumenti (obavijest o nadmetanju, izmjena, zapisnik o pregledu i ocjeni, odluka o odabiru, obavijest o dodjeli), ali ključni prilog za samostalnu izradu ponude - troškovnik/tehnička specifikacija iz 'Prilozi.zip' - nije čitljiv (arhiva ekstrahirana kao prazna datoteka). Bez tog priloga gospodarski subjekt ne bi mogao formirati ponudu isključivo na temelju sadržaja koji je ovdje bio dostupan za analizu; popis priloga u zapisniku također nije naveden.",
+      "citat": "Popis priloga: -"
+    },
+    "prosjecna_ocjena": 2.67
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak"
+  },
+  "napomena": "Ključno ograničenje ove ocjene: prilog 'Prilozi.zip' (troškovnik/tehnička specifikacija, izrijekom naveden kao sastavni dio dokumentacije) ekstrahiran je kao potpuno prazna datoteka (0 bajtova), pa razina_detalja_opisa i potpunost_dokumentacije odražavaju samo ono što je bilo čitljivo iz preostalih 8 dokumenata (obavijest o nadmetanju, izmjena, obavijest o dodjeli, zapisnik o pregledu i ocjeni, odluka o odabiru - svaki dostupan u dvije inačice/formata). U dostupnom tekstu nema referenci na konkretne marke/proizvođače niti nesrazmjerne financijske/referentne pragove (jamstvo za ozbiljnost ponude od 2.300 EUR razmjerno je procijenjenoj vrijednosti od 76.800 EUR); zaprimljene su 2 ponude s bliskim cijenama (31.440 vs 31.776 EUR s PDV-om), što ne ukazuje na restriktivnost, ali procjena restriktivnosti tehničke specifikacije nije moguća bez uvida u sadržaj troškovnika."
+}

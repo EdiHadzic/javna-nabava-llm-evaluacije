@@ -1,0 +1,27 @@
+{
+  "postupak_id": 24028,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij za odabir ponude (ekonomski najpovoljnija ponuda) potpuno je mjerljiv: cijena nosi 90 bodova prema eksplicitnoj formuli (C = Cn/Cx*90), a kvaliteta (vučna sila plovila) 10 bodova prema preciznoj tablici pragova (35/37/40 tona = 1/5/10 bodova). Nema prostora za subjektivnu prosudbu naručitelja.",
+      "citat": "Maksimalni broj bodova koje ponuditelj može ostvariti po kriteriju kvalitete plovila- tehničke karakteristike (vučna sila) iznosi deset (10) bodova."
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 3,
+      "obrazlozenje": "Opis predmeta nabave sveden je na jedan kratak odlomak s tri mjerljiva minimalna tehnička praga (vučna sila, snaga glavnog motora, snaga pramčanog potisnika) i navodom o certificiranom protupožarnom sustavu - dovoljno za usporedivost ponuda, ali bez daljnje razrade same usluge 'pripravnosti' (vrijeme odziva, protokoli aktivacije, opseg intervencija), što dio predmeta nabave ostavlja nedovoljno konkretiziranim.",
+      "citat": "vučnu silu (Bollard Pull) od minimum 35 tona (350 kN), snagu glavnog motora minimalno 2200 kW, te snagu pramčanog potisnika minimalno 180 kW"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dostupna je cjelovita dokumentacija: opći podaci o postupku, detaljni kriteriji kvalitativnog odabira s uputama za ESPD, upute za ponuditelje, raščlanjeni troškovnik po stavkama troška, prijedlog ugovora te svih 7 pratećih obrazaca (izjave o nekažnjavanju, porezima, prometu, referencama, opremi, kvaliteti plovila). Naručitelj je uredno odgovorio i na naknadni zahtjev ponuditelja za pojašnjenjem prijedloga ugovora.",
+      "citat": "Trošak posade Trošak pogonskog goriva Troškovi mjesečnog održavanja Ostali troškovi plovila (kontrole, certifikati, osiguranje)"
+    },
+    "prosjecna_ocjena": 4.33
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak"
+  },
+  "napomena": "Zaprimljena je samo 1 ponuda, koja je na kriteriju kvalitete (vučna sila) ostvarila tek 1 od 10 mogućih bodova (točno minimalni prag od 35 tona) - ali kako naručitelj eksplicitno navodi da traženi financijski prag ne prelazi dvostruku procijenjenu vrijednost (proporcionalan) i tehnička specifikacija ne referencira određenu marku/proizvod, ovo se ne kvalificira kao restriktivnost prema zadanoj definiciji, nego prije odražava usko tržište pružatelja. Sklapanje ugovora dodatno je uvjetovano posjedovanjem važeće koncesije za lučke usluge tegljenja u bazenima Lučke uprave Zadar (čl. 4.11. DON-a) - stvaran, zakonski utemeljen ulazni prag koji suzuje krug potencijalnih ponuditelja, no nije posljedica specifikacije koju je naručitelj oblikovao u korist određenog subjekta. Prazna datoteka 'Odluka o odabiru__Prilozi.zip.txt' (0 bajtova) nije utjecala na ocjenu - ne spada u temeljnu dokumentaciju o nabavi."
+}

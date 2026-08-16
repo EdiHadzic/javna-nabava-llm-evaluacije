@@ -1,0 +1,30 @@
+{
+  "postupak_id": 3962,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriteriji za odabir ponude su potpuno kvantificirani i matematički definirani (cijena 90 %, kvaliteta 10 %), s eksplicitnim formulama za bodovanje i tablicom pragova/bodova za ne-cjenovni kriterij. Kvalifikacijski kriteriji (kriteriji kvalitativnog odabira) sadrže preciznu pravnu osnovu, pitanja za ESPD i način dokazivanja za svaku stavku.",
+      "citat": "Ponuda s najnižom cijenom dobiva 90,00 bodova... Vrijednost od 2,00 Vrijednost do 3,00 Broj bodova 1,00 ... 6,00 7,00 10,00"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Projektni zadatak iznimno je detaljan (tehnički opis zgrade, popis postojeće projektne dokumentacije, zahtjevi održivosti/DNSH po EU taksonomiji, format isporuke). Međutim, troškovnik je sveden na samo tri paušalne ('komplet') stavke bez raščlambe po fazama/elementima usluge, što smanjuje usporedivost strukture ponuđene cijene, a stavka projektantskog nadzora izvorno je izostala iz troškovnika te je naknadno dodana izmjenom.",
+      "citat": "IZRADA IZVEDBENOG PROJEKTA S TROŠKOVNIKOM komplet 1 ... PROJEKTANTSKI NADZOR TIJEKOM GRAĐENJA U TRAJANJU OD 28 MJESECI komplet 1"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 4,
+      "obrazlozenje": "Dostupan je pun standardni set dokumentacije (kriteriji kvalitativnog odabira, kriteriji za odabir ponude, upute za ponuditelje, projektni zadatak, posebni zahtjevi za djelatnost projektiranja, troškovnik). Kvaliteta je narušena time što je izvorna dokumentacija sadržavala prazninu (nedostajala stavka troškovnika za uslugu navedenu u projektnom zadatku), ispravljenu tek naknadnom izmjenom dokumentacije i produljenjem roka.",
+      "citat": "Budući da su dodane informacije i izvršene izmjene u troškovničkim stavkama Naručitelj produžuje rok za dostavu ponuda i određuje novi datum otvaranja ponuda."
+    },
+    "prosjecna_ocjena": 4.33
+  },
+  "restriktivnost": {
+    "prisutno": true,
+    "indikatori": [
+      "Obveza ishođenja suglasnosti izvornih (imenovanih, u ovom postupku nesudjelujućih) autora zgrade za bilo kakvu izmjenu projekta, čime se odabrani ponuditelj stavlja u ovisan odnos prema trećoj strani izvan natječaja - citat: 'Za sve izmjene projekata potrebno je ishoditi suglasnost autora zgrade. Izvršitelj je dužan po izradi projektne dokumentacije iz ove nabave, a prije ishođenja građevinske dozvole dobiti suglasnost autora o usklađenosti izmjene glavnog i izradi izvedbenog projekta.'",
+      "Naručitelj izričito napominje obvezu poštivanja autorskih prava imenovanih pojedinaca vezanih uz izgled zgrade, što može stvoriti praktičnu prednost za ponuditelje koji već imaju uspostavljen odnos s izvornim autorima/izvornom tvrtkom - citat: 'Naručitelj napominje kako će odabrani ponuditelj biti dužan poštivati navedena autorska prava nad objektom i arhitektonska rješenja imenovanih arhitekata koja se odnose na izgled zgrade'"
+    ],
+    "rizik": "srednji"
+  },
+  "napomena": "Ocjena temeljena na 20 dostupnih izvučenih datoteka u extracted/ (izvorni izvor: Kriteriji za kvalitativni odabir, Kriteriji za odabir ponude, Obavijest o nadmetanju, Izmjena obavijesti, Projektni zadatak, Troškovnik, Upute za ponuditelje, UVJETI I ZAHTJEVI ..., Odgovori). Dvije datoteke ('Ažurirani dokumeni...') sadrže samo 27-32 znaka ekstrahiranog teksta (vjerojatno prazne/skenirane priloge ili artefakt ekstrakcije) i nisu mogle biti iskorištene u ocjeni; sudeći po nazivu riječ je o administrativnim ažuriranim popratnim dokumentima, ne o dokumentaciji o nabavi, pa se ne očekuje da bi njihov sadržaj promijenio ocjenu transparentnosti."
+}

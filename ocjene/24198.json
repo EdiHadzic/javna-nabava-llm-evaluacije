@@ -1,0 +1,40 @@
+{
+  "postupak_id": 24198,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 4,
+      "obrazlozenje": "Kriterij ENP je precizno razrađen: cijena (60 bodova) s eksplicitnom matematičkom formulom, te dva dodatna kvalitativna kriterija (po 20 bodova svaki) definirana kao binarno da/ne (dostavljena izjava o pruženom dodatnom pregledu ili 0 bodova). Mjerljivost je visoka, no binarni 'sve ili ništa' način bodovanja kvalitativnih kriterija je grublji od gradiranog sustava i ne omogućuje diferencijaciju između ponuda koje djelomično ispunjavaju kriterij.",
+      "citat": "C=(Cmin/Cpp)x60"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 5,
+      "obrazlozenje": "Opis predmeta nabave iznimno je konkretan: navedeno je točno 18 vrsta pregleda po spolu (interna medicina, EKG, UZV abdomena, RTG, ginekologija, mamografija, laboratorijske pretrage s poimeničnim parametrima, urologija, itd.), s točnim brojem korisnika (224 žene, 60 muškaraca) i mjestom izvršenja. Opis je operacionalno usporediv među ponuditeljima bez da je vezan uz specifičnog dobavljača.",
+      "citat": "Pregled liječnika specijalista kardiologije (uključuje ultrazvuk srca s Color Doplerom)"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 4,
+      "obrazlozenje": "Dostupan je pun set dokumenata potreban za samostalnu izradu ponude: Opći podaci, Upute za ponuditelje, Kriteriji kvalitativnog odabira, Kriterij za odabir ponude, Troškovnik (s količinama po stavci), te obrasci Prilog 1-5 (izjave o dodatnim pregledima, popis osoblja, popis usluga, prijedlog ugovora). Jedini nedostatak: samostalni dokument 'Tehničke specifikacije MN-17-24' sadrži samo jednu rečenicu upute da su specifikacije 'u Troškovniku' — sadržajno ispravno (Troškovnik doista sadrži pun opis), ali formalno prazan dokument koji upućuje na drugi prilog.",
+      "citat": "Tehničke specifikacije predmeta nabave opisane su u Troškovniku koji čini sastavni dio ove Dokumentacije o nabavi."
+    },
+    "prosjecna_ocjena": 4.33
+  },
+  "restriktivnost": {
+    "prisutno": true,
+    "indikatori": [
+      {
+        "opis": "Zahtjev da odabrani ponuditelj mora omogućiti kompletni sistematski pregled (18 vrsta specijalističkih pregleda, uklj. kardiologiju, pulmologiju, neurologiju, urologiju, ginekologiju, mamografiju, RTG, laboratorij) svakom od 284 djelatnika unutar jednog radnog dana, na jednoj lokaciji u gradu Zadru — praktički zahtijeva da ponuditelj interno raspolaže gotovo cijelim rasponom bolničkih specijalizacija na jednom mjestu, što prirodno favorizira veću bolničku ustanovu (kakva je i odabrani ponuditelj, Opća bolnica Zadar) nad manjim privatnim poliklinikama, čak i uz dopušteno podugovaranje.",
+        "citat": "Odabrani ponuditelj je dužan omogućiti svakom djelatniku obavljanje kompletnog sistematskog pregleda unutar jednog radnog dana."
+      },
+      {
+        "opis": "Mjesto izvršenja ograničeno je isključivo na područje grada Zadra, što dodatno sužava krug potencijalnih ponuditelja na one s kapacitetom točno u gradu (ne u cijeloj županiji).",
+        "citat": "Svi ostali pregledu obavit će se u prostoru odabranog ponuditelja koji se nalazi na području grada Zadra."
+      },
+      {
+        "opis": "Zaprimljena je samo jedna ponuda (od javne bolnice), a ugovorena vrijednost (114.800,56 EUR) je 74 % viša od procijenjene vrijednosti (66.000,00 EUR); naručitelj je ponudu prihvatio bez pregovora/ponovnog nadmetanja isključivo zato što je imao osigurana sredstva — okolnost koja je posljedica, ali i pokazatelj, uskog kruga sposobnih ponuditelja.",
+        "citat": "Iako je cijena navedene ponude veća od procijenjene vrijednosti nabave, Naručitelj je prihvatio ponudu s obzirom na to da ima osigurana sredstva."
+      }
+    ],
+    "rizik": "srednji"
+  },
+  "napomena": "Svi relevantni dokumenti pročitani i čitljivi (nema OCR/ekstrakcijskih praznina osim praznog Odluka o odabiru__Prilozi.zip.txt, koji nije sadržajno relevantan). Financijski/referentni pragovi (min. 1 usluga u vrijednosti procijenjene nabave u zadnje 3-4 god., police osiguranja 25.000 EUR po štetnom događaju) sami po sebi nisu nerazmjerni; rizik restriktivnosti proizlazi prvenstveno iz operativnog zahtjeva 'sve na jednom mjestu, u jednom danu' kombiniranog s geografskim ograničenjem na grad Zadar, a potkrijepljen je stvarnim ishodom postupka (1 ponuda, cijena znatno iznad procjene)."
+}

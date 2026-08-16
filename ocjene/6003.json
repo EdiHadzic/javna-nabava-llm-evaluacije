@@ -1,0 +1,27 @@
+{
+  "postupak_id": 6003,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriteriji odabira (cijena 90 bodova, jamstvo 10 bodova) definirani su egzaktnom matematičkom formulom za cijenu i jasnom bodovnom tablicom za jamstvo (36/48/60 mjeseci = 0/5/10 bodova), bez prostora za subjektivnu interpretaciju.",
+      "citat": "Bodovna vrijednost prema ovom kriteriju izračunava se prema sljedećoj formuli: CP = (P1/Pt)*90"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 5,
+      "obrazlozenje": "Tehnička specifikacija precizno navodi 11 lokacija s pripadajućim podsustavima (videonadzor, protuprovala, kontrola prolaza), zahtjeve kompatibilnosti s postojećom opremom, rokove, uvjete servisiranja i jamstva, uz izričitu dopuštenost jednakovrijednih proizvoda.",
+      "citat": "Mrežni snimači sustava videonadzora moraju biti kompatibilni sa postojećom softverskom platformom naručitelja (Smavia Viewing Client, Dameier Device Manager, NetConfig)"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 4,
+      "obrazlozenje": "Dostupni su detaljna tehnička specifikacija, opsežan troškovnik po lokacijama s tipovima/proizvođačima opreme, kriteriji kvalitativnog odabira i kriteriji odabira ponude. Dokument 'Prilozi.zip' je na disku 0-bajtna izvorna arhiva (nepoznat sadržaj, poznati artefakt neuspjelog preuzimanja), pa se ne može procijeniti nedostaje li time bitan sadržaj.",
+      "citat": "Ponuditelj je dužan upisati tip opreme u stupac br. III i proizvođača u stupac br. IV bez obzira nudi li troškovnikom opisanu ili jednakovrijednu opremu."
+    },
+    "prosjecna_ocjena": 4.67
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak"
+  },
+  "napomena": "Troškovnik navodi konkretne proizvođače/modele (Dallmeier/Smavia, Paradox, Bosch) dosljedno uz klauzulu 'ili jednakovrijedan', što je zakonski dopušteno (čl. 200. ZJN2016) i ne tretira se kao restriktivnost. Zahtjev kompatibilnosti s postojećim Dallmeier/Smavia sustavom objektivno je opravdan jer se za 10/11 lokacija radi o nadogradnji postojeće infrastrukture, ne o novoj instalaciji. Financijski i referentni pragovi (police osiguranja i minimalna vrijednost ranijih radova) točno odgovaraju procijenjenoj vrijednosti nabave (91.000 EUR), bez nesrazmjera. Zaprimljena je samo 1 ponuda (zajednica ponuditelja), što nije uzeto u obzir pri ocjeni transparentnosti/restriktivnosti dokumentacije (izvan opsega ovog zadatka), ali je relevantan kontekst za interpretaciju u 5.2/5.3."
+}

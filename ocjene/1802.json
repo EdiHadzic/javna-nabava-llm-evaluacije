@@ -1,0 +1,36 @@
+{
+  "postupak_id": 1802,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 3,
+      "obrazlozenje": "Kriterij za odabir ponude je jasno naveden (cijena, značaj 100%), ali dokument dostupan u extracted/ jest obavijest o dodjeli ugovora, ne izvorna dokumentacija o nabavi, pa se ne može provjeriti jesu li postojali dodatni uvjeti/pragovi. Budući da se radi o pregovaračkom postupku bez prethodne objave s jednim mogućim ponuditeljem, kriterij je formalno prisutan ali suštinski bez natjecateljske funkcije.",
+      "citat": "Cijena: Naziv kriterija Značaj Cijena 100,00"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 2,
+      "obrazlozenje": "Opis predmeta nabave u dostupnom dokumentu je vrlo općenit (održavanje postojećih programa 12 mjeseci) i eksplicitno upućuje na Troškovnik kao prilog dokumentacije o nabavi koji nije prisutan u extracted/ za ovaj postupak, pa se stvarna razina detalja ne može ocijeniti iz raspoloživog teksta.",
+      "citat": "Opis predmeta nabave nalazi se u specifikaciji predmeta nabave – Troškovniku koji je prilog ove Dokumentacije o nabavi (Prilog II.)."
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 1,
+      "obrazlozenje": "U extracted/ za ovaj postupak nalazi se isključivo obavijest o dodjeli ugovora (post-hoc dokument); dokumentacija o nabavi, tehnička specifikacija, troškovnik i kriteriji za kvalitativni odabir nisu prisutni te se potpunost dokumentacije za samostalnu izradu ponude ne može utvrditi.",
+      "citat": "Obavijest o dodijeli ugovora — Rezultati postupka nabave"
+    },
+    "prosjecna_ocjena": 2.0
+  },
+  "restriktivnost": {
+    "prisutno": true,
+    "indikatori": [
+      {
+        "opis": "Postupak je proveden kao pregovarački postupak bez prethodne objave poziva na nadmetanje, s pravnom osnovom zaštite isključivih prava/intelektualnog vlasništva, čime je po definiciji unaprijed ograničen na jednog određenog gospodarskog subjekta.",
+        "citat": "zbog zaštite isključivih prava, uključujući prava intelektualnog vlasništva pružiti uslugu može samo određeni gospodarski subjekt"
+      },
+      {
+        "opis": "Zaprimljena je samo jedna ponuda, od tvrtke čiji naziv odgovara samom nazivu softvera koji je predmet održavanja (PAKEL d.o.o. za 'Program Pakel'), što upućuje na ovisnost o postojećem dobavljaču (vendor lock-in) bez mogućnosti stvarnog natjecanja.",
+        "citat": "Broj zaprimljenih ponuda: 1 ... Ugovaratelj - PAKEL d.o.o."
+      }
+    ],
+    "rizik": "visok"
+  },
+  "napomena": "U Diplomski/Postupci/1802/extracted/ nalazi se samo jedna datoteka: obavijest o dodjeli ugovora. Nema dokumentacije o nabavi, tehničke specifikacije, troškovnika niti kriterija za kvalitativni odabir (u skladu s prirodom pregovaračkog postupka bez prethodne objave, koji nema javni poziv na nadmetanje). Ocjene transparentnosti stoga odražavaju ono što je vidljivo isključivo iz dostupnog dokumenta, ne stvarnu kvalitetu izvorne dokumentacije o nabavi koja nije dostupna. Restriktivnost je, s druge strane, jasno utvrdiva već iz same pravne osnove postupka (isključiva prava/IP) i podatka o jednoj zaprimljenoj ponudi."
+}

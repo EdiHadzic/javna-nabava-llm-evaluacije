@@ -1,0 +1,27 @@
+{
+  "postupak_id": 14573,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 4,
+      "obrazlozenje": "Kriterij cijene ima potpuno jasnu i objektivnu formulu (C = (Cmin/Cp)*30). Nefinancijski kriterij (specifično iskustvo ključnog stručnjaka 1, 70 od 100 bodova) također ima jasnu bodovnu tablicu vezanu uz broj izrađenih strateških dokumenata. Međutim, dokumentacija je tijekom postupka triput mijenjana (Izmjena/Izmjena1/Izmjena2), a iz odgovora na pitanja vidljivo je da su pojedini pojmovi (npr. 'minimalna razina 7.1.' HKO-a, opseg prihvatljivih referentnih dokumenata) izvorno zbunjivali ponuditelje te su naknadno pojednostavljeni/pojašnjeni. Dva ponuditelja (MIGEO i URBANEX) su se pritom pozvala na identičnu referencu s različitim, međusobno isključivim ulogama nominiranog stručnjaka, što je zahtijevalo dodatno pojašnjenje naručitelja - znak da dokaz iskustva nije bio posve nedvosmislen na prvi pogled.",
+      "citat": "Budući da je ponuditeljima zbunjujuća minimalna razina 7.1. Naručitelj će navedeni opis kriterija iz tehničke i stručne sposobnosti promijeniti"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 5,
+      "obrazlozenje": "Tehničke specifikacije (opis zadatka) iznimno su detaljne: predmet nabave razrađen je kroz 4 jasno definirane faze (teritorijalna analiza, mapiranje dobrih praksi, radionice/sastanci, izrada strategije), svaka s popisom obveznih elemenata, metodologije rada, relevantnih dionika, jezika isporuke i preciznih rokova po fazi. Opis je dovoljno konkretan da omogući usporedivost ponuda, a istovremeno dovoljno širok da ne isključuje razumne alternative - potvrđeno time da je zaprimljeno 15 ponuda od vrlo raznorodnih gospodarskih subjekata (instituti, obrti, konzultantske tvrtke, zajednice ponuditelja).",
+      "citat": "Teritorijalna analiza treba obuhvaćati: 1. Geografski opis područja 2. Zajednice i dionike 3. Gospodarstvo i turizam 4. Infrastrukturu i mobilnost 5. Okoliš"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dostupan je pun set dokumentacije o nabavi: opći podaci, kriteriji kvalitativnog odabira s detaljnim uputama za ESPD, kriteriji za odabir ponude s formulom bodovanja, upute za ponuditelje s odredbama o jamstvima, troškovniku, dostavi i otvaranju ponuda, tehničke specifikacije te prijedlog ugovora. Naručitelj je dodatno kroz 'Odgovore' odgovorio iscrpno na brojna pitanja zainteresiranih gospodarskih subjekata, čime je dokumentacija ostala potpuna i ažurna do isteka roka. Praktična potvrda potpunosti: 15 valjano zaprimljenih ponuda, samo jedna odbijena zbog izostanka jamstva za ozbiljnost ponude (formalni, ne sadržajni razlog).",
+      "citat": "Elektronička ponuda mora sadržavati najmanje: Uvez ponude Popunjeni eESPD obrazac (ili više njih, ako je primjenjivo) Popunjen troškovnik"
+    },
+    "prosjecna_ocjena": 4.67
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak"
+  },
+  "napomena": "Nema reference na specifičan proizvod/marku niti nerazmjerne financijske pragove. Jedina strukturna napomena vrijedna spomena: nefinancijski kriterij (iskustvo ključnog stručnjaka 1) nosi čak 70% ukupnih bodova naspram 30% za cijenu, što snažno favorizira ponuditelje s bogatim portfeljem prethodnih strateških dokumenata iz turizma - ovo je legitiman, uobičajen mehanizam probira kvalitete (ne prilagodba jednom određenom ponuditelju), a naručitelj je kroz odgovore na pitanja kriterij dosljedno širio (prihvaćen dodatan smjer obrazovanja - šumarstvo; prihvaćene reference vezane uz muzeje/posjetiteljske centre) i odbio sužavanje kriterija kada je to zatražio jedan zainteresirani gospodarski subjekt, što ide protiv teze o restriktivnosti prema određenom ponuditelju. Dvije priložene datoteke (RJESENJE DKOM.pdf, PRESUDA_VUS.pdf) odnose se na potpuno drugi, nepovezani postupak javne nabave (izgradnja sustava odvodnje, naručitelj Koprivničke vode d.o.o.) - naručitelj AGRRA ih je uvrstio u dokumentaciju isključivo kao pravni presedan kojim je obrazložio prekoračenje roka za donošenje odluke o odabiru (Odluka o odabiru to izrijekom citira), pa nisu korišteni kao dokaz u ovoj ocjeni. Zabilježen je i spor dvaju ponuditelja (MIGEO - odabrani, i URBANEX) oko iste reference (Strategija razvoja turizma Grada Buje-Buie) s dva različita nominirana stručnjaka - naručitelj je to razriješio provjerom javno dostupnog zapisnika Gradskog vijeća, što ukazuje na aktivnu due diligence, a ne na propust. Nije pročitan cjelovit sadržaj najvećih priloga (PRILOG 1_POJASNJENJE REFERENCI, 187KB; Zapisnik o pregledu i ocjeni, 164KB) zbog opsega, no ključni dokumenti (poziv na nadmetanje, kriteriji, upute, tehničke specifikacije, sve tri izmjene, odgovori na pitanja, odluka o odabiru, obavijest o dodjeli) pročitani su u cijelosti."
+}

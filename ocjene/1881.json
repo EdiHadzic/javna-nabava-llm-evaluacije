@@ -1,0 +1,27 @@
+{
+  "postupak_id": 1881,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij za odabir (ekonomski najpovoljnija ponuda) potpuno je operacionaliziran matematičkom formulom s jasnim ponderima (cijena 90 %, rok odaziva na reklamaciju 10 %), preciznim pragovima bodovanja za necjenovni kriterij (tri jasno omeđena vremenska intervala s pripadajućim bodovima) i pravilom razrješenja jednakog rangiranja (ranije zaprimljena ponuda). Nema prostora za subjektivnu interpretaciju.",
+      "citat": "Rok odaziva na reklamaciju... u roku od 0:00 do 07:59 sati... 10 bodova... 08:00 do 23:59 sati... 5 bodova... 24:00 do 48:00 sati... 0 bodova"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Opis predmeta nabave (dva artikla: voćni nektar breskva i naranča, s minimalnim udjelom voćnog sadržaja i pakiranjem) dovoljno je konkretan za usporedivu ponudu te je popraćen opsežnim zahtjevima o ambalaži, roku trajanja, temperaturi isporuke i deklaraciji. Sama tehnička specifikacija je vrlo kratka (jedna stranica, uglavnom upućuje na opću prehrambenu regulativu) što ostavlja nešto manje prostora za detaljniju usporedbu kvalitete među ponuditeljima nego kod složenijih predmeta nabave, no za jednostavan prehrambeni proizvod ovakve razine detalja je razumna i ne izgleda restriktivno.",
+      "citat": "Voćni nektar breskva, udio voćnog sadržaja min 40%; min. 0,20 l tetrapak ili tetra brik sa slamkom"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dostupan je pun set dokumenata potreban za samostalnu izradu ponude: Opći podaci o postupku, Tehničke specifikacije, Troškovnik, Kriteriji za kvalitativni odabir gospodarskog subjekta (s detaljnim uputama o ESPD-u i načinu dokazivanja), zaseban dokument o kriteriju ENP s formulom, Upute za ponuditelje (jamstva, način dostave, rokovi) te Obavijest o nadmetanju. Svi dokumenti međusobno su konzistentni (isti evidencijski broj, procijenjena vrijednost, kriteriji).",
+      "citat": "Elektronička ponuda mora sadržavati najmanje: Uvez ponude, Popunjeni eESPD obrazac..., Popunjen troškovnik..."
+    },
+    "prosjecna_ocjena": 4.67
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak"
+  },
+  "napomena": "Pročitani su svi relevantni dokumenti iz extracted/ (Opći podaci, Tehničke specifikacije, Troškovnik, Kriteriji kvalitativnog odabira, Kriterij ENP, Upute za ponuditelje, Obavijest o nadmetanju). Nema referenci na točno određeni proizvod/marku niti nesrazmjerno visokih financijskih/referentnih pragova (jamstvo za ozbiljnost ponude 800 EUR i referentni prag u visini procijenjene vrijednosti oba su proporcionalna vrijednosti nabave od 28.400 EUR). Naručitelj transparentno objavljuje i popis gospodarskih subjekata s kojima je u sukobu interesa (t. 1.3. Općih podataka), što je pozitivan signal transparentnosti, ne restriktivnosti."
+}

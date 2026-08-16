@@ -1,0 +1,36 @@
+{
+  "postupak_id": 15486,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 4,
+      "obrazlozenje": "Kriterij za odabir je ekonomski najpovoljnija ponuda s jasno razrađenom formulom: cijena nosi 80 bodova (formula P = Pn/Pr*80), a kvaliteta 20 bodova prema jedinom, binarno mjerljivom tehničkom kriteriju (uređaj ne koristi alkohol i ksilen, DA/NE uz obvezni dokaz). Kriterij je nedvosmislen i lako provjerljiv, no svodi necjenovni dio na samo jedan podatak.",
+      "citat": "broj bodova = (najniža ponuđena cijena / cijena ponude) * 80"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 2,
+      "obrazlozenje": "Troškovnik sadrži 16 tehničkih zahtjeva i inače je razrađen, ali stavka 1.1. eksplicitno propisuje da uređaj koji se uzima u najam mora biti kompatibilan s otopinama za bojenje točno određenog proizvođača (Roche, model HE 600) zbog ranije sklopljenog ugovora o potrošnom materijalu. Time je opis sužen na de facto jednog dobavljača/proizvođača umjesto na funkcionalne zahtjeve koje bi mogli ispuniti razumni alternativni ponuditelji.",
+      "citat": "uređaj koji se nabavlja u najam mora biti kompatibilan sa otopinama za bojenje patohistoloških preparata proizvođača Roche - HE 600"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 4,
+      "obrazlozenje": "Dostupni su svi ključni dokumenti: opći podaci o postupku, kriteriji kvalitativnog odabira s ESPD uputama, kriteriji ENP, upute za ponuditelje, troškovnik, prijedlog ugovora, obavijest o nadmetanju, odluka o odabiru i zapisnik o pregledu i ocjeni. Zasebna datoteka 'Tehničke specifikacije' upućuje na troškovnik (nije duplicirana praznina), no 'Prilozi.zip' je ekstrahiran kao potpuno prazna datoteka (0 bajtova) pa je nepoznato je li nedostaje dodatna dokumentacija.",
+      "citat": "Tehničke specifikacije predmeta nabave su sadržane u samom troškovniku predmeta nabave koji je sastavni dio DON-a."
+    },
+    "prosjecna_ocjena": 3.33
+  },
+  "restriktivnost": {
+    "prisutno": true,
+    "indikatori": [
+      {
+        "opis": "Tehnička specifikacija izravno imenuje proizvođača (Roche) i model uređaja/otopina (HE 600) kao uvjet kompatibilnosti, obrazlažući to ranije sklopljenim zasebnim ugovorom o potrošnom materijalu za bojenje kod istog proizvođača — čime se krug prihvatljivih ponuditelja unaprijed sužava na one koji nude opremu kompatibilnu s tim konkretnim brendom.",
+        "citat": "uređaj koji se nabavlja u najam mora biti kompatibilan sa otopinama za bojenje patohistoloških preparata proizvođača Roche - HE 600"
+      },
+      {
+        "opis": "Ishod postupka odgovara sumnji na sužen krug ponuditelja: zaprimljena je samo jedna ponuda, a odabrani (i jedini) ponuditelj je upravo ROCHE d.o.o., isti proizvođač naveden u tehničkoj specifikaciji.",
+        "citat": "Broj zaprimljenih ponuda: 1"
+      }
+    ],
+    "rizik": "visok"
+  },
+  "napomena": "Svi relevantni dokumenti za ocjenu (DON, troškovnik, kriteriji odabira, upute, obavijesti, odluka o odabiru, zapisnik o pregledu i ocjeni) uspješno su pročitani i sadržajno su bogati. Jedina praznina je 'Prilozi.zip.txt' (0 bajtova) čiji sadržaj nije poznat. Nalaz o restriktivnosti posebno je jak jer specifikacija izravno imenuje proizvođača, a jedini zaprimljeni ponuditelj je upravo taj proizvođač."
+}

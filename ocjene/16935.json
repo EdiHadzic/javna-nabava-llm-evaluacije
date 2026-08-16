@@ -1,0 +1,27 @@
+{
+  "postupak_id": 16935,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij za odabir ponude je ekonomski najpovoljnija ponuda (ENP) s dva jasno definirana i mjerljiva podkriterija: cijena (90 bodova, formula C=(Cmin/Cp)x90) i jamstveni rok na izvedene radove (10 bodova, formula J=(Jo/Jn)*10, s definiranim minimumom 0 mj./24 mj. i maksimumom koji se boduje od 36 mj.). Formule, pragovi i način bodovanja detaljno su razrađeni u zasebnom dokumentu 'Kriterij za odabir ENP', a primjena je dosljedno dokumentirana i u Zapisniku o pregledu i ocjeni (izračuni po ponuditelju).",
+      "citat": "Ponuda s najnižom ponuđenom cijenom dobiva 90 bodova... C= (Cmin/Cp) x 90"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Opis predmeta nabave u Obavijesti o nadmetanju i Općim podacima svodi se na uputu da su detalji dani u troškovniku, no sâm troškovnik (uspješno ekstrahiran iz .xls) sadrži konkretne, mjerljive stavke po pozicijama (demontaža, krovni paneli s PIR izolacijom, limarski i elektrotehnički radovi) s količinama, dimenzijama i normama (npr. debljina izolacije, klasa reakcije na požar), uz izričitu dopuštenost jednakovrijednih rješenja umjesto uskog vezivanja uz jedan proizvod. Time je opis dovoljno konkretan za usporedivu ponudu, a da ne isključuje razumne alternative.",
+      "citat": "Debljina izolacije PIR 8 cm. Dužina kosine krova 14,40 m... ili jednakovrijedno"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 4,
+      "obrazlozenje": "Dostupan je pun set dokumenata potreban za samostalnu izradu ponude: Opći podaci, Upute za ponuditelje, Kriteriji za kvalitativni odabir gospodarskog subjekta, Kriterij za odabir ENP, troškovnik i predložak Izjave o jamstvenom roku. Zaseban dokument 'tehničke specifikacije.docx' je vrlo kratak (uglavnom upućuje na zakone i na troškovnik kao stvarni nositelj tehničkih podataka), što dokumentaciju čini funkcionalno potpunom ali ne i najpreglednijom (tehnički podaci raspršeni po dva dokumenta umjesto objedinjeni). Naručitelj je transparentno objavio i podatke o sukobu interesa (član povjerenstva vlasnik obrta koji nije sudjelovao u postupku), što dodatno potvrđuje razinu transparentnosti u dokumentaciji.",
+      "citat": "Naručitelj je definirao troškovnik na način da omogućuje svim gospodarskim subjektima jednak pristup postupku javne nabave"
+    },
+    "prosjecna_ocjena": 4.33
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak"
+  },
+  "napomena": "Pročitane su sve relevantne .txt datoteke iz extracted/ (Obavijest o nadmetanju, Opći podaci, Upute za ponuditelje, Kriteriji za kvalitativni odabir, Kriterij za odabir ENP, tehničke specifikacije, troškovnik, Odluka o odabiru, Zapisnik o pregledu i ocjeni, Izjava o jamstvenom roku). Troškovnik ne sadrži reference na specifičan proizvod/marku niti neproporcionalne pragove (uvjet reference: minimalno jedan rad u vrijednosti barem pola procijenjene vrijednosti nabave, standardno za ovu vrstu postupka); tehnička norma za reakciju na požar izričito dopušta 'jednakovrijedno' rješenje, što smanjuje rizik restriktivnosti. Jedna datoteka u extracted/ (APD Tehno Lim.rar.txt, prazna) i jedna gotovo prazna (MARIJA ODŽAKOVIĆ - OSOBNA ISKAZNICA, 2 znaka) odnose se na dokumente odabranog ponuditelja dostavljene nakon otvaranja ponuda (dokaz državljanstva prokuristice), ne na dokumentaciju o nabavi, pa ne utječu na ocjenu transparentnosti postupka prema ponuditeljima. Naručitelj (Osnovna škola Biograd) je transparentno objavio popis gospodarskih subjekata s kojima je u sukobu interesa (član stručnog povjerenstva ujedno vlasnik obrta 'Bliss'), sukladno čl. 76. st. 2. t. 2. ZJN 2016 - taj subjekt nije bio među ponuditeljima."
+}

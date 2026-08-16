@@ -1,0 +1,32 @@
+{
+  "postupak_id": 33060,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriteriji za odabir ponude (ENP) su potpuno kvantificirani formulama (cijena 80 bodova, dodatni jamstveni rok 20 bodova, s eksplicitnim rasponom min/maks i formulom bodovanja); kriteriji sposobnosti (1 referenca ≥100.000 EUR) su brojčano precizni i vezani na konkretnu pravnu osnovu.",
+      "citat": "Ponuda s najnižom cijenom dobiva 80,00 bodova... Naručitelj je ograničio najviši dozvoljeni iznos za kriterij 36,00"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Predmet nabave razložen je na jasne funkcionalne cjeline (staze, potporni/ogradni zidovi, rasvjeta, klupe) i popraćen detaljnim troškovnikom po stavkama i lokacijama; sam dokument 'Tehničke specifikacije' je uglavnom pravni boilerplate koji upućuje na zaseban Projekt i troškovnik.",
+      "citat": "Planirano uređenje sastoji se od sljedećih funkcionalnih cjelina: -Izgradnja pješačkih staza -Izgradnja potpornih i ogradnih zidova -Postavljanje rasvjetnih tijela -Postavljanje urbane opreme – klupe."
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dostupan je pun set dokumenata potreban za samostalnu izradu ponude: opći podaci, kriteriji kvalitativnog odabira i odabira ponude, tehničke specifikacije, detaljan troškovnik, prijedlog ugovora, projekt uređenja te objavljeni odgovori na upite (uklj. ispravak troškovnika tijekom postupka).",
+      "citat": "ODGOVOR: Naručitelj prihvaća zahtjev. Izmjena troškovnika bit će objavljena."
+    },
+    "prosjecna_ocjena": 4.67
+  },
+  "restriktivnost": {
+    "prisutno": true,
+    "indikatori": [
+      {
+        "indikator": "Traženi referentni prag tehničke sposobnosti (1 ugovor ≥100.000 EUR) iznosi cca. 91% procijenjene vrijednosti nabave, blizu gornje granice proporcionalnosti, može otežati sudjelovanje manjih/novijih gospodarskih subjekata, iako ostaje unutar zakonske granice.",
+        "citat": "Vrijednost izvršenih radova mora se odnositi na 1 (jednu) referenciju iz prije izvršenih ugovora, čija vrijednost iznosi najmanje 100.000,00 eura bez PDV-a."
+      }
+    ],
+    "rizik": "nizak",
+    "napomena": "Nema indikacija prilagodbe specifičnom proizvođaču/marki proizvoda - tehničke specifikacije eksplicitno i dosljedno navode klauzulu 'ili jednakovrijedno', a materijali navedeni u troškovniku generični su i standardni za građevinske radove."
+  }
+}

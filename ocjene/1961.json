@@ -1,0 +1,30 @@
+{
+  "postupak_id": 1961,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriteriji odabira ponude potpuno su kvantificirani (Cijena 90 bodova, Jamstveni rok 10 bodova) uz precizne matematičke formule i tablicu bodovanja. Uvjeti sposobnosti (registar, ekonomska sposobnost, tehnička sposobnost - referenca) također su brojčano određeni i mjerljivi.",
+      "citat": "Ponuda s najnižom cijenom dobiva 90,00 bodova, dok se ostale ponude boduju prema formuli"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Tehnička specifikacija (Glavni projekt, Troškovnik) vrlo je detaljna - dimenzije, materijali, boje (RAL kodovi), norme kvalitete (HRN EN 1270, EN 749, HR EN 14877) - što omogućuje usporedivost ponuda, a pritom se za ključne certifikate dopušta i jednakovrijedno rješenje, pa opis nije zatvoren isključivo na jedan proizvod.",
+      "citat": "Mora imati uvjerenje (certifikat) o kvaliteti i sigurnosti, a u svemu prem HR EN 14877:2013 ili jednakovrijedno."
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dokumentacija sadrži sve elemente potrebne za samostalnu izradu ponude: opće podatke, kriterije kvalitativnog odabira, kriterije za odabir ponude, upute za ponuditelje, glavni projekt s tehničkim opisom i grafičkim prilozima te detaljan troškovnik po stavkama. Jedina praznina je Prilozi.zip (0 B), no ostali dokumenti pokrivaju sadržaj.",
+      "citat": "Dokumentacija o nabavi se ne naplaćuje te se može preuzeti u cijelosti na internetskoj stranici"
+    },
+    "prosjecna_ocjena": 4.67
+  },
+  "restriktivnost": {
+    "prisutno": true,
+    "indikatori": [
+      "Tvrtka T.A.U. OPREMA d.o.o. izradila je Glavni projekt (tehničku specifikaciju) predmetne nabave, a zatim je i sama podnijela ponudu u istom postupku - potencijalni sukob interesa/informacijska prednost u izradi specifikacije, iako je naručitelj ovo eksplicitno adresirao u Zapisniku i T.A.U. nije odabran (rangiran 2. s 77,23 boda naspram 100 boda pobjednika).",
+      "citat: 'Ponuditelj T.A.U. OPREMA d.o.o. sudjelovao je u pripremi postupka javne nabave na način da je glavni projekt navedenog postupka izradila T.A.U. OPREMA d.o.o.'"
+    ],
+    "rizik": "srednji"
+  },
+  "napomena": "Sva ključna dokumentacija (opći podaci, kriteriji, upute, glavni projekt, troškovnik, zapisnik, odluka o odabiru) pročitana i dostupna u dobroj kvaliteti; samo Prilozi.zip.txt prazan (0 B). Restriktivnost nije klasičan slučaj referenci na marku/patent nego strukturni sukob interesa (projektant kao ponuditelj), koji je naručitelj sam prepoznao i dokumentirao kao mjeru zaštite tržišnog natjecanja - relevantno za 3.1./4.2. jer ilustrira informacijsku asimetriju čak i kad ne rezultira materijalnom prednošću."
+}

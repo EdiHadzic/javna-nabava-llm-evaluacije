@@ -1,0 +1,33 @@
+{
+  "postupak_id": 17243,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij za odabir ponude (ekonomski najpovoljnija ponuda) potpuno je matematički definiran: cijena nosi 90% bodova prema eksplicitnoj formuli P = Pn/Pr * 90, a rok isporuke 10% prema jasnoj bodovnoj ljestvici s tri praga (0-12h, 12,01-24h, 24,01-36h) i definiranim maksimalnim dopuštenim rokom. Definirano je i pravilo za rangiranje jednako bodovanih ponuda (vrijeme zaprimanja). Nema subjektivnih ili nejasno operacionaliziranih elemenata.",
+      "citat": "P = Pn / Pr * 90 ... Isporuka u roku od 0 do 12 sati: 10 bodova"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Opis predmeta nabave dan je kroz vrlo detaljan troškovnik za svaku od 38 grupa (materijal, sastav, dimenzije, gramaža, norme sukladnosti npr. EN 14605, EN 13795), što omogućuje visoku usporedivost ponuda. Razina detalja je generički funkcionalna (opisuje svojstva materijala, ne proizvođača) u velikoj većini stavki, što je pozitivno. Ocjena nije 5 jer barem jedna stavka eksplicitno referencira konkretan model/marku opreme (mikroskop Zeiss OPMI) čime se opis vezuje uz određeni proizvod, a ne isključivo funkcionalna svojstva - iako je riječ o jedinom takvom slučaju od stotina stavki i vjerojatno odražava potrebu kompatibilnosti s postojećom opremom naručitelja.",
+      "citat": "Navlaka za mikroskop Zeiss OPMI 65mm, pakirana u paket od 5 komada, sterilna"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 4,
+      "obrazlozenje": "Dokumentacija je sadržajno potpuna za samostalnu izradu ponude: opći podaci o postupku, kriteriji kvalitativnog odabira (osnove za isključenje, uvjeti sposobnosti, način dokazivanja), kriterij za odabir ponude, troškovnik po grupama s tehničkim specifikacijama, obrazac ponude (Prilog 1) i prijedlog ugovora. Naručitelj je aktivno odgovarao na upite gospodarskih subjekata i po potrebi mijenjao stavke troškovnika (npr. usklađivanje raspona veličine drena prema tržišnoj dostupnosti), što ukazuje na transparentnu i responzivnu komunikaciju. Ocjena nije 5 jer je zaseban dokument 'Tehničke specifikacije.docx' svediv na jednu rečenicu-preusmjeravanje na troškovnik (bez samostalnog sadržaja), a 20-ak priloženih zip arhiva ('Prilozi (n).zip') na disku su izvorno 0-bajtne (poznat artefakt neuspjelog preuzimanja s portala, ne greška ekstrakcije), pa njihov stvarni sadržaj i namjena ostaju nepoznati.",
+      "citat": "Odgovor: Troškovnik, grupa 9 stavka 28 Redon dren CH 8-20 Mijenja se i glasi – Redon dren CH 8-18"
+    },
+    "prosjecna_ocjena": 4.33
+  },
+  "restriktivnost": {
+    "prisutno": true,
+    "indikatori": [
+      {
+        "opis": "Grupa 4, stavka 51 troškovnika izravno referencira konkretan komercijalni model opreme (mikroskop Zeiss OPMI) za koji se traži pripadajuća navlaka odgovarajuće dimenzije, umjesto isključivo funkcionalnog/genericnog opisa proizvoda.",
+        "citat": "Navlaka za mikroskop Zeiss OPMI 65mm, pakirana u paket od 5 komada, sterilna"
+      }
+    ],
+    "rizik": "nizak",
+    "napomena_rizika": "Riječ je o jednoj stavci (od stotina, unutar samo jedne od 38 grupa) koja opisuje pomoćni potrošni materijal (navlaku) čija dimenzija/oblik mora odgovarati postojećoj opremi naručitelja - tipičan i tehnički opravdan slučaj kompatibilnosti s već posjedovanom imovinom, ne referenca na sam predmet glavne nabave niti indikacija isključenja alternativnih dobavljača potrošnog materijala. Nema drugih naznaka pretjerano visokih financijskih/referentnih pragova (kriteriji sposobnosti u dokumentaciji ograničeni su na upis u registar te uzorke/kataloge kao dokaz sukladnosti robe, bez zahtjeva za minimalnim prometom ili brojem referentnih ugovora)."
+  },
+  "napomena": "Postupak je opsežan (38 grupa/lotova iste vrste - medicinski potrošni materijal za jednokratnu upotrebu, Opća bolnica Zadar), s jedinstvenim krovnim kriterijem za odabir i kriterijima kvalitativnog odabira primijenjenim jednako na sve grupe. Pročitani su svi dostupni .txt dokumenti u extracted/ direktoriju: Opći podaci o postupku nabave, Kriteriji za kvalitativni odabir, Kriterij za odabir ponude, Tehničke specifikacije, Prilog 1 (obrazac ponude), Prilog 5/Troškovnik (primjer grupa 4 detaljno pregledan, ostale grupe strukturno identične), Odgovori na upite, te su ostali dokumenti (Obavijest o nadmetanju, Odluka o odabiru, Zapisnici o pregledu i ocjeni, Obavijesti o dodjeli) provjereni listingom ali nisu bili nužni za ocjenu transparentnosti/restriktivnosti dokumentacije o nabavi. 20 zip privitaka na disku izvorno su 0 bajtova (preuzimanje s portala), stoga njihov sadržaj nije mogao biti uzet u obzir."
+}

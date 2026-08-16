@@ -1,0 +1,29 @@
+{
+  "postupak_id": 3366,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 4,
+      "obrazlozenje": "Kriterij ENP je jasno razložen: cijena 70 bodova s eksplicitnom matematičkom formulom (C=CN/CP*70), kvaliteta 30 bodova kroz tri konkretno navedene dodatne tehničke karakteristike s fiksnim brojem bodova svaka (10+10+10). Mjerljivost je dobra, ali provjera se temelji na samoizjavi ponuditelja (DA/NE uz referencu na katalog) koja se dodatno provjerava tek na zahtjev, što ostavlja prostor za subjektivnost pri ocjeni.",
+      "citat": "C=CN/CP*70 ... Dodatne tehničke karakteristike – G ... 30,00"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 5,
+      "obrazlozenje": "Tehnička specifikacija (sadržana u Troškovniku) iznimno je detaljna i precizna za medicinski uređaj ove složenosti - navodi konkretne modalitete ventilacije, brojčane raspone parametara, zahtjeve monitoringa, alarme, sučelje i napajanje, uz generičku klauzulu 'ili jednakovrijedno' za opremu opisanu markom/kataloškim brojem, što omogućuje usporedive ponude bez nepotrebnog suženja tržišta u samoj osnovnoj specifikaciji.",
+      "citat": "Respiracijski volumen, u minimalnom rasponu 2-300 ml ... PEEP, u minimalnom rasponu 0-35 mbar"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 4,
+      "obrazlozenje": "Dostupna je gotovo cjelovita dokumentacija: Upute za ponuditelje, Opći podaci, Kriteriji za kvalitativni odabir, Troškovnik s tehničkom specifikacijom, PRILOG 2 (izračun ENP), PRILOG 3 (prijedlog ugovora) i PRILOG 4 (izjava o jamstvenom roku) - dovoljno za samostalnu izradu ponude. Ocjena nije 5 jer je 'Prilozi.zip' ekstrahiran kao prazna (0 bajtova) datoteka pa nije poznato je li sadržavao dodatne, potencijalno relevantne priloge (npr. standardne EOJN obrasce).",
+      "citat": "Elektronička ponuda mora sadržavati najmanje: Uvez ponude, Popunjeni eESPD obrazac, Popunjen troškovnik"
+    },
+    "prosjecna_ocjena": 4.33
+  },
+  "restriktivnost": {
+    "prisutno": true,
+    "indikatori": [
+      "Dodatni (bodovani) tehnički kriterij u PRILOG 2 traži 'Kompatibilnost i povezivost respiratora s postojećim monitorima vitalnih funkcija serije Infinity' (10 od ukupno 100 bodova) - 'Infinity' je konkretno ime proizvodne linije monitora proizvođača Dräger, bez naznačene klauzule 'ili jednakovrijedno' uz taj specifični kriterij (za razliku od opće klauzule za stavke Troškovnika). Postupak je dobio upravo Dräger Medical Croatia d.o.o. s maksimalnih 30/30 bodova na kvaliteti, što je u skladu s pretpostavkom da referenca na vlastitu liniju proizvoda daje prednost tom proizvođaču/ekosustavu (npr. bolnice koje već imaju Dräger Infinity monitore prirodno favoriziraju Dräger respirator)."
+    ],
+    "rizik": "visok"
+  },
+  "napomena": "Pročitane su sve dostupne .txt datoteke u extracted/ (14 sadržajnih datoteka; 'Prilozi.zip.txt' prazna, 0 bajtova - vjerojatno neuspjelo preuzimanje arhive, ne utječe na temeljnu ocjenu jer su ključni dokumenti dostupni izvan zip-a). Postupak ima samo 2 ponude, od kojih je jedna (AnalyticPharma) odbijena zbog formalnog nedostatka (prazan troškovnik), a ne zbog neispunjavanja brend-specifičnog kriterija kvalitete - ipak, prisutnost imenom navedene proizvodne linije u bodovanom kriteriju ostaje samostalan nalaz restriktivnosti neovisno o tom ishodu."
+}

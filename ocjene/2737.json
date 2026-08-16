@@ -1,0 +1,31 @@
+{
+  "postupak_id": 2737,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij ENP je posve mjerljiv i formalno definiran matematičkom formulom za oba pod-kriterija (cijena i jamstveni rok), s jasnom bodovnom tablicom za pretvaranje ponuđenog jamstvenog roka u bodove i eksplicitnim pravilom za slučaj nedostavljanja izjave (nula bodova, minimalni rok 24 mjeseca).",
+      "citat": "C = (Cmin / Cp) x 90",
+      "napomena_dimenzije": null
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Iako zaseban dokument 'Tehničke specifikacije' upućuje na Troškovnik, sam Troškovnik sadrži vrlo detaljan opis svake stavke radova (dimenzije, materijali, debljine slojeva, metode ugradnje, opći uvjeti izvedbe po vrstama radova), dovoljno konkretan za usporedivu ponudu, uz generičke nazive materijala (npr. 'ili jednako vrijedno') koji ne isključuju alternative.",
+      "citat": "Izrada plivajućeg cementnog estriha d=10 cm. Estrih mikroarmirati i to uključiti u cijenu. Površinu podijeliti u polja od max 25 m2.",
+      "napomena_dimenzije": null
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 4,
+      "obrazlozenje": "Dostupni su svi ključni dijelovi dokumentacije o nabavi (opći podaci, kriteriji kvalitativnog odabira, upute za ponuditelje, kriterij za odabir ponude, detaljan troškovnik s općim uvjetima izvedbe), dovoljni za samostalnu izradu ponude. Manjak: prilog 'Prilozi.zip' ekstrahiran je kao prazna datoteka (0 bajtova), pa dio popratnih obrazaca (npr. izjava o jamstvu, ovlaštenje) nije bio dostupan za provjeru u ovoj ocjeni.",
+      "citat": "Tehničke specifikacije sadržane su u Troškovniku.",
+      "napomena_dimenzije": null
+    },
+    "prosjecna_ocjena": 4.33
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak",
+    "obrazlozenje": "Financijski uvjet (kumulativni promet u 3 godine ≥ procijenjena vrijednost, 195.000 EUR) i tehnički uvjet (1-5 referenci istih/sličnih radova u zadnjih 5 godina, ukupne vrijednosti ≥ 195.000 EUR) proporcionalni su procijenjenoj vrijednosti nabave i standardni za radove ove veličine. Troškovnik za opremu/materijale koristi generičke opise s praznim poljima 'TIP: ___' za slobodan upis ponuditelja i formulacijom 'ili jednako vrijedno', bez upućivanja na specifičnu marku, patentirano rješenje ili proizvođača."
+  },
+  "napomena": "Sve relevantne .txt datoteke iz extracted/ pročitane (Kriteriji za kvalitativni odabir, Kriterij za odabir ponude, Obavijest o nadmetanju, Opći podaci o postupku nabave, Tehničke specifikacije, Upute za ponuditelje, TROŠKOVNIK). Dokumenti vezani uz dodjelu ugovora (Obavijest o dodjeli, Odluka o odabiru, Zapisnik) nisu korišteni za ovu ocjenu jer se odnose na fazu nakon dodjele, ne na transparentnost/restriktivnost same dokumentacije o nabavi. 'Prilozi.zip.txt' ekstrahiran je prazan (0 bajtova) - moguća manja ograničenja u ocjeni potpunosti dokumentacije zbog toga."
+}

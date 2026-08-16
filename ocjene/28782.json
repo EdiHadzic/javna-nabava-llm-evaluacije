@@ -1,0 +1,44 @@
+{
+  "postupak_id": 28782,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij odabira je isključivo cijena (ENP), s eksplicitno danom formulom bodovanja i jasnim pravilom za rangiranje jednako bodovanih ponuda (vrijeme zaprimanja). Nema nejasnih ili nemjerljivih ne-cjenovnih kriterija.",
+      "citat": "Naručitelj je u ovom postupku nabave odredio cijenu kao jedini kriterij za odabir, sukladno čl. 284. stavku 5. ZJN 2016."
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Opis predmeta nabave vrlo je detaljan (11 taksativno navedenih poslova tjelesne/tehničke zaštite, CPV oznaka, trajanje ugovora), a troškovnik dodatno konkretizira predmet po lokacijama, satnici i okvirnim količinama (npr. konkretne katastarske čestice objekata). Umanjuje ocjenu to što zaseban dokument 'Tehnička specifikacija' ne sadrži samostalan tehnički opis nego samo upućuje na troškovnik.",
+      "citat": "Crpna stanica Boljkovac (lokacija: č.z. 775 k.o. Grbe) - 24-satni prihvat signala sa sustava tehničke zaštite naručitelja (Centralni dojavni sustav)"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dostupan je pun i međusobno usklađen skup dokumenata: opći podaci, kriteriji kvalitativnog odabira gospodarskog subjekta, kriteriji za odabir ponude, upute za ponuditelje, prijedlog ugovora, obrazac troškovnika i propisana izjava (Prilog 2). Sadržaj ponude je precizno specificiran.",
+      "citat": "Elektronička ponuda mora sadržavati najmanje: Uvez ponude, Popunjeni eESPD obrazac, Popunjen troškovnik, Prijedlog ugovora, Izjava_prilog 2"
+    },
+    "prosjecna_ocjena": 4.67
+  },
+  "restriktivnost": {
+    "prisutno": true,
+    "indikatori": [
+      {
+        "opis": "Uvjet reference postavljen na razini pune procijenjene vrijednosti nabave (170.000 EUR) ostvarene kroz jednu jedinu uslugu, što je na gornjoj granici proporcionalnosti dopuštene ZJN-om.",
+        "citat": "Gospodarski subjekt mora dokazati da je u 2024. godini i tijekom tri godine koje joj prethode uredno izvršio najmanje jednu uslugu čija je vrijednost 170.000,00 eura"
+      },
+      {
+        "opis": "Traženi minimalni iznos osiguranja od odgovornosti iz djelatnosti jednak je punoj procijenjenoj vrijednosti nabave.",
+        "citat": "Osiguranje za pokriće odgovornosti iz obavljanja zaštitarskih djelatnosti 170.000,00 EUR"
+      },
+      {
+        "opis": "Kumulativni zahtjev za četiri različite ISO certifikacije (9001, 27001, 45001, 14001) za uslugu fizičke zaštite; certifikat o informacijskoj sigurnosti (ISO/IEC 27001) posebno je neuobičajen zahtjev za ovu vrstu usluge i podiže ulaznu barijeru.",
+        "citat": "Certifikat o sukladnosti sustava gospodarskog subjekta s normama osiguranja kvalitete prema normi HRN ISO 9001:2015 za područje predmeta nabave."
+      },
+      {
+        "opis": "Zahtjev za minimalno 20 poimenično navedenih licenciranih zaštitara već u ponudi (ESPD), uz dodatne uvjete (2 interventne ekipe u krugu 50 km, 2 blindirana vozila, 2 elektrokemijska spremnika, vlastita radijska mreža) - visok kumulativni operativni prag za ugovor srednje vrijednosti.",
+        "citat": "Gospodarski subjekt mora dokazati da će za pružanje predmetne usluge imati na raspolaganju minimalno 20 licenciranih zaštitara."
+      }
+    ],
+    "rizik": "srednji"
+  },
+  "napomena": "Dokumentacija je potpuna i interno dosljedna; datoteka 'Tehnička specifikacija.docx.txt' sadrži samo jednu rečenicu koja upućuje na troškovnik - ovo se čini namjernim dizajnom dokumentacije (spec. integrirana u troškovnik), ne artefaktom neuspjele ekstrakcije. Zaprimljena je samo jedna ponuda (MEDITERAN SECURITY d.o.o.), a ponuđena cijena (182.555,00 EUR bez PDV-a) premašuje procijenjenu vrijednost (170.000,00 EUR) za oko 7,4% - naručitelj je to eksplicitno naveo kao razlog za osiguranje dodatnih sredstava u financijskom planu. Nema indikacija prilagodbe specifikacije određenom proizvodu/marki ili patentiranom rješenju; restriktivnost ovdje proizlazi iz kumulativne visine financijskih/tehničkih pragova, ne iz izravnog favoriziranja imenovanog ponuditelja."
+}

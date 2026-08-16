@@ -1,0 +1,27 @@
+{
+  "postupak_id": 29041,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriteriji za odabir ponude precizno su definirani i u potpunosti mjerljivi: cijena nosi 90 bodova (formula na temelju omjera prema najnižoj cijeni), a kvaliteta (ambalaža/pakiranje) 10 bodova s tri jasno razgraničena i unaprijed obodovana stupnja (10/5/0 bodova) te propisanim dokazom (Izjava o ambalaži).",
+      "citat": "povratna ambalaža (ponovna i višekratna uporaba ambalaže) 10 bodova kartonska i PVC ambalaža koje se može reciklirati 5 bodova nepovratna i nerazgradiva ambalaža 0 bodova"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 2,
+      "obrazlozenje": "Tehnička specifikacija svedena je na opći paušalni navod o usklađenosti sa zakonskim propisima o hrani, bez ijedne konkretne tehničke karakteristike (klasa/kategorija mesa, sadržaj masti, uvjeti temperature/transporta, veličina komada i sl.) za bilo koju od preko 25 stavki troškovnika; opis predmeta u praksi je prepušten samo nazivu artikla u troškovniku (npr. 'JUNETINA -BUT BEZ KOSTI').",
+      "citat": "Minimalne tehničke specifikacije predmeta nabave određene su u opisu u Troškovniku."
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 4,
+      "obrazlozenje": "Dostupan je pun standardni set dokumenata (Opći podaci, Upute za ponuditelje, Kriteriji kvalitativnog odabira, Kriteriji za odabir ponude, tehn. specifikacija, troškovnik po tri lokacije isporuke, obrazac izjave o ambalaži) dovoljan za samostalnu izradu ponude; jedini nedostatak je oskudnost same tehničke specifikacije (v. gore), a ne nepotpunost skupa dokumenata.",
+      "citat": "Elektronička ponuda mora sadržavati najmanje: Uvez ponude Popunjeni eESPD obrazac (ili više njih, ako je primjenjivo) Popunjen troškovnik"
+    },
+    "prosjecna_ocjena": 3.67
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak"
+  },
+  "napomena": "Pročitane su sve dostupne .txt datoteke u extracted/ (14 datoteka; 'Odluka o odabiru__Prilozi.zip.txt' prazna, 0 bajtova - nepodržani ZIP artefakt, bez utjecaja na ocjenu jer se odnosi na fazu nakon dodjele). Zaprimljena je samo jedna ponuda (AGRO MALEŠ d.o.o.), no to je vjerojatnije posljedica logistički zahtjevne isporuke na otoke (Dugi otok, Ugljan) i niše lokalnog tržišta mesa nego prilagođenosti specifikacije određenom ponuditelju - nema referenci na marku/proizvođača niti nesrazmjernih financijskih/referentnih pragova; traženi HACCP certifikat standardan je i proporcionalan zahtjev za nabavu svježeg mesa."
+}

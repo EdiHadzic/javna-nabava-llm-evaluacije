@@ -1,0 +1,27 @@
+{
+  "postupak_id": 3739,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriteriji za odabir ponude jasno su definirani i u potpunosti mjerljivi za sve tri grupe: cijena nosi 80% udjela, jamstveni rok 20%. Formula je dosljedno i provjerljivo primijenjena u Zapisniku o pregledu i ocjeni (identičan izračun bodova za sve ponuditelje u svim grupama), bez subjektivnih ili nejasno operacionaliziranih potkriterija.",
+      "citat": "Cijena s PDV: 80,000000 bodova Jamstveni rok: 20,000000 bodova Ukupno: 100,000000 bodova"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 2,
+      "obrazlozenje": "Opis predmeta nabave u dostupnim datotekama svodi se na jednu kratku rečenicu po grupi (bez specifikacije tipa/kapaciteta klimatizacijske opreme, materijala, standarda izvedbe i sl.), a stvarna tehnička specifikacija i troškovnik nalaze se u prilogu koji je na disku ekstrahiran kao prazna datoteka (0 bajtova), pa razina detalja nije provjerljiva iz dostupnog teksta.",
+      "citat": "Izvođenje strojarskih radova na instaliranju klimatizacije u OŠ Novigrad"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 2,
+      "obrazlozenje": "Dokumentacija o nabavi (troškovnik, detaljne tehničke specifikacije, upute za popunjavanje ESPD-a) nije prisutna u extracted/ direktoriju - jedina priložena arhiva (Prilozi.zip) ekstrahirana je kao prazna (0 bajtova). Dostupni su samo obavijest o nadmetanju, zapisnici o ocjeni, odluke o odabiru/poništenju i korespondencija s jednim ponuditeljem, što ponuditelju bez pristupa izvornoj arhivi ne bi omogućilo samostalnu izradu ponude.",
+      "citat": "sve u skladu s opisima iz troškovnika koji su sastavni dio Dokumentacije o nabavi"
+    },
+    "prosjecna_ocjena": 3.0
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak"
+  },
+  "napomena": "Ocjena je ograničena nedostatkom stvarne tehničke dokumentacije: prilog 'Prilozi.zip' ekstrahiran je kao prazna datoteka (0 bajtova), pa detaljan opis predmeta i troškovnik nisu bili dostupni za analizu - moguća prilagođenost specifikacije ne može se u potpunosti isključiti bez uvida u taj dokument. Zahtjev za referentnim radovima (kumulativna vrijednost ≥ procijenjena vrijednost grupe, jedan ugovor ≥ 50% te vrijednosti) primijenjen je neutralno - isti kriterij odbio je ponudu lokalnog ponuditelja GEMAS d.o.o. u obje grupe (2 i 3) jer referenca (mješoviti ugovor adaptacije i opremanja kuhinje) nije dokazano zadovoljavala prag, što ne ukazuje na favoriziranje ili diskriminaciju određenog ponuditelja. Grupa 1 poništena je jer nije pristigla nijedna ponuda."
+}

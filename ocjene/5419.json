@@ -1,0 +1,40 @@
+{
+  "postupak_id": 5419,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriteriji za odabir ponude potpuno su jasno i mjerljivo definirani kroz dvije eksplicitne bodovne tablice: cijena (80% značaja, bodovanje prema rangu cijene) i operativni troškovi - udaljenost benzinske postaje (20%, bodovanje prema km-bandovima), uz propisanu metodu provjere (interaktivna karta HAK-a) i sankciju za krivo iskazivanje.",
+      "citat": "Bodovi dobiveni po prvom i drugom kriteriju se zbrajaju i mogu iznositi maksimalno 100 bodova po ponudi."
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Opis predmeta nabave (dizelsko gorivo za vozila/strojeve, okvirne količine po dvije stavke u troškovniku, mjesto i uvjeti isporuke, mehanizam formiranja cijene vezan uz MPC) dovoljno je konkretan za usporedivu ponudu za standardiziranu robu. Zasebni prilog s 'detaljnim tehničkim specifikacijama' naveden je ali nije dostupan u pročitanim tekstualnim datotekama (vjerojatno unutar praznog Prilozi.zip), pa potpuna razina detalja nije provjerljiva iz ovog izvora.",
+      "citat": "Isporuka dizelskog goriva za potrebe službenih automobila, specijalnih komunalnih vozila, radnih strojeva i dr."
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 4,
+      "obrazlozenje": "Dostupna je gotovo cjelovita dokumentacija (opći podaci, kriteriji kvalitativnog odabira, upute za ponuditelje, obavijest o nadmetanju, troškovnik, zapisnik o pregledu i ocjeni, odluka o odabiru, obavijest o dodjeli) koja bi omogućila samostalnu izradu ponude. Nedostaje sadržaj zasebnog priloga s tehničkim specifikacijama (Prilozi.zip ekstrahiran kao prazan), stoga ne ocjena 5.",
+      "citat": "Detaljan troškovnik se nalazi u zasebnom prilogu – Troškovnik."
+    },
+    "prosjecna_ocjena": 4.33
+  },
+  "restriktivnost": {
+    "prisutno": true,
+    "indikatori": [
+      {
+        "opis": "Kriterij 'operativni troškovi' (20% ukupnih bodova) boduje isključivo geografsku blizinu benzinske postaje ponuditelja sjedištu naručitelja (do 1 km = 20 bodova, 3-5 km = 10 bodova, preko 5 km = 0 bodova), uz eliminaciju za krivo iskazivanje udaljenosti - kriterij faktički favorizira ponuditelje s već postojećom postajom u neposrednoj blizini Benkovca.",
+        "citat": "Krivo iskazivanje udaljenosti imati će za posljedicu eliminaciju ponuditelja iz nadmetanja."
+      },
+      {
+        "opis": "Dodatni zahtjev da ponuditelj mora omogućiti opskrbu gorivom 365 dana godišnje u sjedištu naručitelja i istovremeno na benzinskim postajama diljem cijele RH sužava krug sposobnih ponuditelja na velike lance s nacionalnom mrežom postaja.",
+        "citat": "Ponuditelj mora omogućiti Naručitelju opskrbu gorivom i na benzinskim postajama na području RH (u slučaju službenih putovanja i sl.)."
+      },
+      {
+        "opis": "Ishod postupka konzistentan je s ograničenom konkurencijom: zaprimljena je samo jedna ponuda (INA, dominantni nacionalni distributer goriva), što je u skladu s pretpostavkom da kombinacija lokacijskog kriterija i zahtjeva nacionalne pokrivenosti sužava tržište na malen broj velikih subjekata.",
+        "citat": "Broj zaprimljenih ponuda: 1"
+      }
+    ],
+    "rizik": "nizak"
+  },
+  "napomena": "Pročitane su sve dostupne .txt datoteke u extracted/ (11 datoteka). Prilozi.zip.txt ekstrahiran je kao prazan (0 bajtova) - vjerojatno sadrži zaseban prilog s 'detaljnim tehničkim specifikacijama' na koji dokumentacija upućuje, pa taj dio nije bilo moguće provjeriti. Postupak je zaprimio samo jednu ponudu, što ograničava mogućnost usporedbe konkurentnosti kriterija s drugim ponuditeljima; rizik restriktivnosti ocijenjen je 'nizak' jer je zahtjev za geografskom pokrivenošću operativno opravdan prirodom nabave (kontinuirana opskrba gorivom vozila javnog subjekta), a ne upućuje na prilagodbu specifičnom proizvodu/marki."
+}

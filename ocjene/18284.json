@@ -1,0 +1,36 @@
+{
+  "postupak_id": 18284,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij za odabir ponude je isključivo cijena (100 % značaja), s eksplicitnom formulom bodovanja i primjerom izračuna na šest decimala. Nema nejasnih ili subjektivnih podkriterija, pa je metoda odabira potpuno predvidljiva unaprijed.",
+      "citat": "Ekonomski najpovoljnija ponuda utvrđuje se na temelju Cijene. Cijena 100,00 bodova."
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Zaseban dokument 'Tehničke specifikacije' je formalno prazan (samo upućuje na troškovnik), no sam troškovnik sadrži detaljan opis poslova i zadataka zaštitara/telefonista (18 konkretnih obveza) te preciznu količinu (365 dana x 24 sata = 8.760 sati), što omogućuje usporedive ponude.",
+      "citat": "obavlja i sve ostale poslove sukladno naprijed navedenim propisima koji reguliraju ovu djelatnost... 8.760 sati"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dostupan je pun set dokumenata potreban za samostalnu izradu ponude: Opći podaci, Upute za ponuditelje, Kriteriji za kvalitativni odabir (vrlo opsežni, sve osnove isključenja i uvjeti sposobnosti detaljno razrađeni po ZJN2016), Kriteriji za odabir ponude, troškovnik i prijedlog ugovora.",
+      "citat": "Elektronička ponuda mora sadržavati najmanje: Uvez ponude, Popunjeni eESPD obrazac, Popunjen troškovnik... Prijedlog ugovora"
+    },
+    "prosjecna_ocjena": 4.67
+  },
+  "restriktivnost": {
+    "prisutno": true,
+    "indikatori": [
+      {
+        "opis": "Traženi minimalni iznos police osiguranja od odgovornosti iz obavljanja privatne zaštite (133.000 EUR po štetnom događaju, 265.500 EUR agregatno) je otprilike 2,7 puta veći od procijenjene godišnje vrijednosti same nabave (49.108 EUR), što je nesrazmjerno visok financijski uvjet za ugovor ove veličine.",
+        "citat": "s namanjim iznosom osiguranja po štetnom doađaju od 133.000,00 eura i najmanjim agregatnim limitom od 265.500,00 eura"
+      },
+      {
+        "opis": "Zahtijeva se istovremeno posjedovanje tri norme/certifikata (ISO 9001 kvaliteta, ISO 27001 informacijska sigurnost, ISO 45001 zaštita zdravlja na radu) plus ISO 14001 za okoliš, za uslugu fizičke zaštite i rada na telefonskoj centrali procijenjene vrijednosti tek 49.108 EUR/god. ISO 27001 (upravljanje informacijskom sigurnošću) posebno nije očito povezan s temeljnom prirodom usluge fizičkog čuvanja, što sužava krug sposobnih ponuditelja na veće, formalnije certificirane subjekte.",
+        "citat": "važeći certifikat uspostavljanja upravljanja informacijskom sigurnošću – ISO 27001:2013, izdan od nadležnog tijela za izdavanje certifikata"
+      }
+    ],
+    "rizik": "visok"
+  },
+  "napomena": "Pročitani svi ključni dokumenti postupka (Opći podaci, Upute za ponuditelje, Kriteriji za kvalitativni odabir, Kriteriji za odabir ponude, Tehničke specifikacije, Troškovnik, Zapisnik o pregledu i ocjeni, Obavijest o dodjeli ugovora). Zaprimljene su 2 ponude (Storm Security, Noky Security), obje su ispunile sve tražene uvjete uklj. ISO certifikate i osiguranje, pa restriktivni uvjeti u praksi nisu doveli do isključenja niti u ovom slučaju spriječili valjano nadmetanje, ali ostaju formalno nesrazmjerni vrijednosti nabave."
+}

@@ -1,0 +1,29 @@
+{
+  "postupak_id": 11600,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij ENP potpuno je operacionaliziran: fiksni ponderi (cijena 90, jamstveni rok 10), eksplicitna matematička formula za bodovanje cijene te diskretna tablica bodova za jamstveni rok (0-10 bodova po rasponima mjeseci), uz pravilo za jednako rangirane ponude (vrijeme zaprimanja). Nema prostora za diskrecijsku ocjenu.",
+      "citat": "Ponuda s najnižom cijenom dobiva 90,00 bodova, dok se ostale ponude boduju prema formuli"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 5,
+      "obrazlozenje": "Predmet nabave opisan je kroz tehnički opis opsega radova po točnim mjestima ugradnje (=J4, =J20, ormar SDV-a, ormar mjerenja) uz referencu na stavke troškovnika, te kompletan izvedbeni elektrotehnički projekt E-31/2023 (21.151 redak, sheme, popis opreme) priložen kao prilog. Gotovo sve stavke troškovnika dopuštaju 'ili jednakovrijedan', čime opis ostaje dovoljno precizan za usporedivost ponuda bez nepotrebnog suženja kruga ponuditelja.",
+      "citat": "Izvedbeni projekt E 31/2023 knjiga E1 prilog je ove tehničke specifikacije."
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Prisutni su svi standardni sastojci DON-a: opći podaci, upute za ponuditelje s detaljnim uvjetima jamstva/plaćanja/rokova, kriteriji kvalitativnog odabira s ESPD uputama, kriteriji za odabir ponude, tehnička specifikacija s prilogom (izvedbeni projekt), troškovnik, prijedlog ugovora, izjava o integritetu, izjava o jamstvenom roku, zapisi o pitanjima/odgovorima i izmjeni dokumentacije s obrazloženjem, te obavijest o dodjeli. Nema naznaka nedostajućih priloga potrebnih za samostalnu izradu ponude.",
+      "citat": "Elektronička ponuda mora sadržavati najmanje: Uvez ponude Popunjeni eESPD obrazac ... Popunjen troškovnik"
+    },
+    "prosjecna_ocjena": 5.0
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [
+      "Uvjet tehničke sposobnosti traži iskustvo s konkretnim modelima uređaja relejne zaštite (terminal polja REF 543, relej EOR-D) uz obvezu dostave protokola ispitivanja tih uređaja - na prvi pogled sužava krug ponuditelja na iskustvo s određenom opremom. Međutim, riječ je o VEĆ UGRAĐENOJ opremi u postojećoj TS Benkovac s kojom novi radovi moraju biti kompatibilni (parametriranje postojećih terminala), a ne o preferiranoj marki robe koja se nabavlja - sva roba koja se stvarno nabavlja u troškovniku dosljedno dopušta 'ili jednakovrijedan'. Iznos jamstva za ozbiljnost ponude (2.600 EUR) razmjeran je procijenjenoj vrijednosti (89.500 EUR, cca. 2,9%). Zaprimljene su 2 valjane ponude, što ne upućuje na prekomjerno suženo tržište."
+    ],
+    "rizik": "nizak"
+  },
+  "napomena": "Pročitane su sve relevantne .txt datoteke iz extracted/ (opći podaci, upute za ponuditelje, kriteriji za odabir ponude, kriteriji kvalitativnog odabira, tehnička specifikacija, prilog - izvedbeni projekt E-31/2023, troškovnik, izmjena/odgovori na pitanja, obavijest o dodjeli, zapisnik o pregledu i ocjeni). Datoteka 'Prilozi.zip.txt' je prazna (0 bajtova) - vjerojatno neuspjela ekstrakcija arhive, ali sadržaj nije bio presudan jer je glavna tehnička dokumentacija dostupna kroz zaseban PDF prilog tehničke specifikacije."
+}

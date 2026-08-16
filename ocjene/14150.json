@@ -1,0 +1,27 @@
+{
+  "postupak_id": 14150,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij za odabir ponude (ekonomski najpovoljnija ponuda) potpuno je jasno i matematički definiran: cijena 80% bodova po formuli C = Cmin/Cp * 80, kvaliteta 20% bodova prema broju referentnih projekata glavnog projektanta (1 projekt = 5 bodova, ..., 4 i više = 20 bodova). Formula, pragovi i dokazi su nedvosmisleni i objektivno provjerljivi.",
+      "citat": "1 projekt - 5 bodova / 2 projekta - 10 bodova / 3 projekta - 15 bodova / 4 i više projekata - 20 bodova"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 5,
+      "obrazlozenje": "Projektni zadatak (Prilog 2.) iznimno je detaljan: navodi točne površine (GBP 3.318 m2), fazu izvedbe, sadržaj glavnog i izvedbenog projekta po strukama, obvezne elaborate, horizontalna EU načela, DNSH zahtjeve i standarde isporuke. Opis je uporediv za sve ponuditelje (temelji se na postojećem Idejnom projektu) i ne isključuje razumne alternative jer ne propisuje konkretne proizvode/marke, samo funkcionalne i zakonske zahtjeve.",
+      "citat": "Glavni projekt za ovaj zahvat u prostoru minimalno sadrži: Arhitektonski projekt, Građevinski projekt – projekt konstrukcije, Projekt elektrotehničkih instalacija..."
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dostupan je pun set dokumentacije potreban za samostalnu izradu ponude: Opći podaci, Kriteriji za kvalitativni odabir (s ESPD uputama), Upute za ponuditelje, Kriterij za odabir ENP (bodovna formula), Projektni zadatak, referentni Idejni projekt, obrazac za dokazivanje iskustva stručnjaka (Obrazac 1) i troškovnik u .xlsx formatu (prazan predložak za popunjavanje cijena, sukladno uputi da se troškovnik dostavlja s cijenama i bez cijena, ne nedostatak dokumenta). Deset gospodarskih subjekata uspješno je dostavilo ponude, što posredno potvrđuje dostatnost i razumljivost dokumentacije.",
+      "citat": "Troškovnik se dostavlja u .xlsx obliku s cijenama i bez cijena."
+    },
+    "prosjecna_ocjena": 5.0
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak"
+  },
+  "napomena": "Uvjeti tehničke sposobnosti (4 stručnjaka po strukama, referenca u visini procijenjene vrijednosti, jamstvo 3.000 EUR na nabavu od 110.000 EUR) proporcionalni su vrijednosti i predmetu nabave, bez navođenja konkretnih proizvoda, marki ili patentiranih rješenja; zaprimljeno je 10 ponuda od različitih gospodarskih subjekata iz više hrvatskih regija (i jedan iz BiH), što snažno upućuje na odsutnost restriktivnosti u praksi. Postupak ima izniman opseg i kvalitetu dokumentacije (Projektni zadatak, Idejni projekt, jasna ENP formula). Naručitelj je transparentno objavio podatak o sukobu interesa člana povjerenstva s trećom stranom (obrt Bliss) koja nije sudjelovala kao ponuditelj, primjer dobre prakse. Ugovorena vrijednost (58.000 EUR) znatno je niža od procijenjene (110.000 EUR, -47%), ali to je izvan opsega ove ocjene transparentnosti/restriktivnosti."
+}

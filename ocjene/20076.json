@@ -1,0 +1,31 @@
+{
+  "postupak_id": 20076,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriteriji za odabir ponude (cijena i vrijeme odaziva na intervenciju) potpuno su jasno definirani, matematički operacionalizirani formulama za bodovanje, s točno određenim relativnim značajem (90 % i 10 %) i granicama (min. 2 sata, maks. 12 sati za vrijeme odaziva). Ista formulacija dosljedno se ponavlja u Obrascu 1., Uputama za ponuditelje i Obavijesti o nadmetanju, bez nejasnoća o načinu izračuna.",
+      "citat": "Ymin/Yp x 90 ... Vmin/Vp x 10, pri čemu su Vp – vrijeme odaziva koje je ponuđeno, Vmin – najkraće vrijeme odaziva"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Tehnička specifikacija (Obrazac 2.) i Troškovnik vrlo su konkretni: popisane su sve lokacije (ulice, trgovi, mjesni odbori) s okvirnim brojem ukrasnih elemenata po lokaciji, definirani rokovi montaže/demontaže, minimalno i maksimalno vrijeme odaziva na intervenciju te obveze oko održavanja i skladištenja opreme. Opis pritom ostaje dovoljno širok da ne isključuje razumne alternative (dopušta se 'iste ili slične usluge' pri dokazivanju referenci). Ocjena nije 5 jer je dio zahtjeva (kvaliteta 'idejnog rješenja') opisan kvalitativno bez mjerljivih parametara kvalitete izvan cijene i vremena odaziva.",
+      "citat": "Minimalni obuhvat ukrašavanja je područje sljedećih ulica i trgova... LOKACIJA BROJ UKRASNIH ELEMENATA (okvirno komada)"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dostupan je pun set dokumentacije potreban za samostalnu izradu ponude: Opći podaci o postupku nabave, Upute za ponuditelje, Kriteriji za kvalitativni odabir gospodarskog subjekta (s detaljnim pravnim osnovama, pitanjima za ESPD i načinom dokazivanja za svaku stavku), Obrasci 1-6 (kriterij, tehnička specifikacija, izjave), popunjivi Troškovnik s jediničnim stavkama i popisom potrošnog materijala. Nema uočenih praznina niti proturječja među dokumentima.",
+      "citat": "Elektronička ponuda mora sadržavati najmanje: Uvez ponude, Popunjeni eESPD obrazac, Popunjen troškovnik..."
+    },
+    "prosjecna_ocjena": 4.67
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [
+      "Tehnička i stručna sposobnost traži minimalno 2 osobe SSS elektrostruke osposobljene za rad pod naponom i 1 osobu osposobljenu za rukovanje hidrauličnom platformom te minimalno 1 vozilo s podiznom platformom radne visine min. 12 m - zahtjevi su razmjerni prirodi usluge (rad na visini i pod naponom) i nisu numerički pretjerani.",
+      "Referentni uvjet (1-3 usluge, min. vrijednost pola procijenjene vrijednosti = 25.000 EUR, u tekućoj i tri prethodne godine) uobičajen je i ne prelazi standardne granice iz ZJN 2016.",
+      "Nema referenci na točno određen proizvod, marku ili patentirano rješenje niti nesrazmjerno visokih financijskih pragova."
+    ],
+    "rizik": "nizak"
+  },
+  "napomena": "Pročitane su sve dostupne .txt datoteke u extracted/ (Obavijest o nadmetanju, Opći podaci, Kriteriji za kvalitativni odabir, Upute za ponuditelje, Obrasci 1-6, Troškovnik, Zapisnik o pregledu i ocjeni, Analiza valjanih ponuda, Obavijest o dodjeli ugovora, Odluka o odabiru). Dokumentacija je kvalitetno i konzistentno izrađena. Zabilježeno kao kontekst (ne kao restriktivnost temeljena na dokumentaciji): u postupku je zaprimljena samo 1 ponuda (MAREX ELEKTROSTROJ d.o.o.), što može odražavati usku ponudu na tržištu ove sezonske/specijalizirane usluge, a ne nužno restriktivnost specifikacije."
+}

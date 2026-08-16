@@ -1,0 +1,31 @@
+{
+  "postupak_id": 2711,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij ENP raščlanjen je na cijenu (90%) i rok isporuke (10%), s potpuno eksplicitnim matematičkim formulama bodovanja za oba potkriterija te jasno definiranim dokazima (Izjava o roku isporuke, Prilog 4). Nema prostora za diskrecijsko tumačenje pri bodovanju.",
+      "citat": "Ponuda s najniže ponuđenom cijenom dobiva 90 bodova, a ostale ponude se boduju prema formuli: C = (Cmin/Cpp) x 90"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 3,
+      "obrazlozenje": "Tehnička specifikacija iznimno je detaljna (dimenzije, pogon, oprema, rasvjeta), no brojni parametri zadani su vrlo uskim rasponima (npr. dužina, širina, međuosovinski razmak, kapacitet baterija) koji funkcionalno odgovaraju jednom konkretnom modelu vozila, što graniči s isključivanjem razumnih alternativa unatoč klauzulama 'ili jednakovrijedno' za materijale/boju.",
+      "citat": "Dužina autobusa (mm): 14500 - 15000"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dokumentacija sadrži sve elemente potrebne za samostalnu izradu ponude: Opće podatke, Upute za ponuditelje, Kriterije kvalitativnog odabira, zasebne priloge Tehničke specifikacije i Troškovnik, formulu ENP-a te DNSH obrazac uz jasnu uputu o načinu dostave i jamstvima.",
+      "citat": "Detaljan troškovnik se nalazi u zasebnom prilogu – Troškovnik."
+    },
+    "prosjecna_ocjena": 4.33
+  },
+  "restriktivnost": {
+    "prisutno": true,
+    "indikatori": [
+      "Vrlo uski numerički rasponi za gotovo sve dimenzije i tehničke parametre vozila (dužina, širina, međuosovinski razmak, kapacitet baterije, snaga motora), koji u praksi odgovaraju jednom konkretnom modelu (ponuđeno vozilo proizvođača TAM-EUROPE d.o.o. zadovoljava DA na svaku pojedinu stavku bez odstupanja) — citat: 'Kapacitet baterija (kW)min. 130-150'",
+      "Unatoč otvorenom postupku objavljenom i u Službenom listu EU (TED), zaprimljena je samo jedna ponuda — citat: 'Broj zaprimljenih ponuda: 1'",
+      "Zahtjev za vrstu baterije naveden je vrlo specifično ('Litij-željezo-fosfat'), doduše uz klauzulu jednakovrijednosti koja djelomično ublažava rizik brand-specifičnosti — citat: 'Vrsta baterija Litij-željezo-fosfat ili jednakovrijedno'"
+    ],
+    "rizik": "srednji"
+  },
+  "napomena": "Pročitano svih 15 dostupnih .txt datoteka u extracted/ (dokumentacija o nabavi u 4 dijela, tehnička specifikacija, troškovnik, obavijest o nadmetanju i izmjena, DNSH obrazac, zapisnik o pregledu i ocjeni u dvije inačice - html i OCR-ozna pdf inačica djelomično nečitka ali sadržajno potvrđena čistijom html verzijom, obavijest o dodjeli, odluka o odabiru u dvije inačice, te PRILOZI.pdf s izvatkom iz registra, kaznenim uvjerenjima, poreznom potvrdom i korespondencijom o pojašnjenju ponude). Nedostaje samostalan dokument 'ZAPISNIK.pdf' čitljivost je slaba (OCR artefakti) ali dupliciran je čitljivom html inačicom iste datoteke te nije utjecao na ocjenu."
+}

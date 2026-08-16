@@ -1,0 +1,44 @@
+{
+  "postupak_id": 900001,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij za odabir ponude (ekonomski najpovoljnija ponuda) razrađen je do razine potpuno mjerljivih formula i tablica bodovanja: cijena se boduje eksplicitnom formulom (omjer najpovoljnije i ponuđene cijene x 30), dodatni jamstveni rok bodovnom skalom po mjesecima (2,5/5 bodova), a 9 stavki 'dodatnih funkcionalnih karakteristika opreme' pojedinačno je bodovano (5-10 bodova po stavci, ukupno 65) uz eksplicitan zahtjev za dokazom (katalog/izjava proizvođača) po stavci. Nema prostora za diskrecijsku ocjenu naručitelja izvan unaprijed zadanih pravila.",
+      "citat": "Broj bodova = cijena najpovoljnije ponude x 30 / ponuđena cijena"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Opis predmeta nabave je neujednačen po stavkama: za mobilni operacijski stol (stavka 3) opis je vrlo precizan (točne dimenzije, materijali, broj sekcija, kutovi nagiba), dok je opis samog robotskog kirurškog sustava (stavka 1, glavni predmet nabave vrijedan većeg dijela procijenjene vrijednosti) postavljen funkcionalno-generički ('sposoban izvoditi minimalno-invazivne zahvate', 'najmanje tri robotske ruke'), čime se omogućuje širi krug ponuditelja ali ostavlja više prostora tumačenju. Naručitelj je u Pojašnjenju III izričito obrazložio da je opis namjerno 'poprilično široko postavljen, bez preciziranja detalja' kako ne bi ograničio tržišno natjecanje.",
+      "citat": "Višenamjenski robotski kirurški sustav: daljinski upravljani robotski sustav sposoban izvoditi minimalno-invazivne kirurške zahvate"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dokumentacija je iznimno potpuna i interno konzistentna: DON (III. izmjena), troškovnik, tehnička specifikacija, svi prilozi (izjave, tablica dodatnih funkcionalnih karakteristika, prijedlog ugovora), tri pojašnjenja/izmjene, zapisnik o javnom otvaranju, opsežan zapisnik o pregledu i ocjeni ponuda (30 točaka, kronološki dokumentirana sva upotpunjavanja) i odluka o odabiru — svi dokumenti međusobno se pozivaju i podudaraju (npr. brojevi klase/urudžbenog zapisa, iznosi, datumi). Samostalna izrada ponude bila je u potpunosti moguća na temelju dostupne dokumentacije.",
+      "citat": "DIO II.: Troškovnik DIO III. Tehnička specifikacija predmeta nabave DIO IV. 1. Ugovor o javnoj nabavi – prijedlog DIO V."
+    },
+    "prosjecna_ocjena": 4.67
+  },
+  "restriktivnost": {
+    "prisutno": true,
+    "indikatori": [
+      {
+        "opis": "Minimalna tehnička specifikacija (stavke 1.1-1.7, glavni robotski sustav) formulirana je namjerno generički i naručitelj je u Pojašnjenju III eksplicitno odbio dva zahtjeva gospodarskog subjekta da suzi/promijeni specifikaciju, obrazlažući da bi to narušilo tržišno natjecanje. Ovo govori PROTIV restriktivnosti u obveznom dijelu specifikacije.",
+        "citat": "Propisane tehničke specifikacije sukladne su potrebama Naručitelja, nisu ograničavajuće za niti jednog potencijalnog ponuditelja te omogućuju ravnopravno tržišno natjecanje."
+      },
+      {
+        "opis": "Nasuprot tome, 'kriterij kvalitete - dodatne funkcionalne karakteristike opreme' (65 od ukupno 100 bodova, dominantan dio kriterija) sadrži vrlo specifične tehničko-funkcionalne stavke (npr. sustav praćenja pokreta glave kirurga, integracija kirurškog stola s robotskim sustavom, nožni pedali za upravljanje) koje odgovaraju arhitekturi konkretnog proizvoda (Medtronic Hugo RAS, koji nudi Zajednica ponuditelja Sanyko/Dogan Septem), dok su iz zapisnika vidljivo sustavno bodovane s 0 kod konkurenta čiji sustav (Versius) rješava iste funkcije drugačijim, ali validnim tehnološkim pristupom (ručni kontroleri umjesto pedala, modularne jedinice umjesto integriranog stola).",
+        "citat": "Sustav praćenja pokreta glave kiruga koji spriječava nenamjerno pomicanje instrumenata kada kirug ne gleda u zaslon ili se ne nalazi ispred zaslona"
+      },
+      {
+        "opis": "Obrazloženje bodovanja konkurentske ponude (Medical Innovation Solutions, sustav Versius) izravno pokazuje da je gubitak bodova posljedica drugačijeg tehnološkog rješenja, ne lošije kvalitete: sustav nema pedale nego ručne kontrolore, i nema integrirani stol nego modularne jedinice koje se premještaju.",
+        "citat": "Versius kirurški sustav nije opremljen nožnim pedalama već je riječ o ručnim kontrolorima što ne odgovara zahtjevu Naručitelja"
+      },
+      {
+        "opis": "Bodovni razmak na 'dodatnim funkcionalnim karakteristikama' (60 naspram 35 bodova, razlika 25 bodova) bio je veći od razmaka na cijeni (19,77 naspram 30, razlika 10,23 boda u korist konkurenta) i praktički je odredio konačan ishod nadmetanja (84,77 naspram 70,00 ukupno) unatoč tome što je odabrani ponuditelj bio skuplji.",
+        "citat": "Ukupan broj bodova 84,77 70"
+      }
+    ],
+    "rizik": "srednji"
+  },
+  "napomena": "Pročitano svih 34 dokumenta u extracted/ (DON III. izmjena, tehnička specifikacija, troškovnik, zapisnik o javnom otvaranju, zapisnik o pregledu i ocjeni ponuda, odluka o odabiru, tri pojašnjenja/izmjene DON-a, svi zahtjevi/odgovori upotpunjavanja, izjave proizvođača/distributera, službena bilješka). Nekoliko datoteka (bankarske garancije, dohvat iz registra, pojedini email-ovi) ekstrahirano je kao gotovo prazno (1-58 bajtova) — vjerojatno skenirani PDF-ovi bez uspješnog OCR-a ili administrativni prilozi bez tekstualnog sadržaja; njihov izostanak nije bio presudan za ovu ocjenu jer su ključni sadržajni dokumenti (DON, tehnička specifikacija, zapisnik o pregledu i ocjeni) potpuno čitljivi i međusobno konzistentni. Ocjena restriktivnosti temelji se na razlici između obveznih minimalnih tehničkih uvjeta (generički, branjeno protiv sužavanja) i dodatnih (opcijskih, ali dominantno bodovanih) funkcionalnih kriterija kvalitete koji funkcionalno favoriziraju konkretnu tehnološku arhitekturu — ovo je interpretacijska prosudba, ne dokaz namjere, i vrijedna je provjere ljudskim ocjenjivačem u sklopu planirane validacije pouzdanosti (Cohenov kappa)."
+}

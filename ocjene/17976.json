@@ -1,0 +1,27 @@
+{
+  "postupak_id": 17976,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij za odabir ponude (ekonomski najpovoljnija ponuda) potpuno je operacionaliziran matematičkim formulama za oba potkriterija (cijena 90 %, jamstveni rok 10 %), s jasno definiranim pragovima (minimalni jamstveni rok 12 mjeseci, ponude ispod praga se odbacuju) i postupkom za slučaj izjednačenih ponuda. Kriteriji kvalitativnog odabira gospodarskog subjekta (osnove za isključenje, upis u registar, tehnička sposobnost) također su strukturirani po pravnoj osnovi, pitanju za ESPD i točnom načinu dokazivanja.",
+      "citat": "Minimalni jamstveni rok je 12 mjeseca. Ponude u kojima je iskazan jamstveni rok kraći od 12 mjeseci bit će odbačene."
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Troškovnik sadrži vrlo konkretne, mjerljive tehničke specifikacije za svih 7 stavki opreme (kapacitet u litrama, raspon temperature, debljina izolacije, dimenzije, broj polica, tip alarma i sl.), što omogućuje usporedivost ponuda. Razina detalja je visoka, ali ne nužno toliko uska da bi isključivala sve razumne alternative na tržištu medicinske opreme te vrste (dva ponuditelja su i sudjelovala). Zaseban dokument 'Tehnička specifikacija.docx' samo upućuje na Troškovnik kao stvarni izvor specifikacije, što nije nedostatak sadržaja nego organizacijska odluka naručitelja.",
+      "citat": "Mogućnost hlađenja u rasponu temperature ne manjem od -25 do -40°C"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 4,
+      "obrazlozenje": "Dostupna dokumentacija pokriva cijeli životni ciklus postupka: opće podatke, kriterije kvalitativnog odabira, upute za ponuditelje s popisom obveznog sadržaja elektroničke ponude, detaljan troškovnik, prijedlog ugovora, zapisnik o pregledu i ocjeni te odluku o odabiru/dodjeli. Dostatna je za samostalnu izradu ponude. Manji nedostatak: 'Prilozi.zip.txt' je prazan (0 bajtova) u ekstrahiranom tekstu, pa nije moguće utvrditi je li izvorna arhiva bila prazna ili je ekstrakcija zakazala (poznata, dokumentirana limitacija pipelinea za pojedine arhive).",
+      "citat": "Elektronička ponuda mora sadržavati najmanje: Uvez ponude Popunjeni eESPD obrazac (ili više njih, ako je primjenjivo) Popunjen troškovnik"
+    },
+    "prosjecna_ocjena": 4.33
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak"
+  },
+  "napomena": "Pročitane su sve dostupne .txt datoteke iz extracted/ (13 datoteka), uključujući dokumentaciju o nabavi, obavijesti, zapisnik o pregledu i ocjeni te obavijest o dodjeli. Sadržaj Prilozi.zip.txt je prazan (0 bajtova) - nije bilo moguće ocijeniti taj prilog. Tehnička specifikacija.docx.txt sadrži samo uputu da je specifikacija u Troškovniku, gdje je stvarni sadržaj i pronađen, pa to nije tretirano kao nedostatak dokumentacije. Nisu uočeni indikatori prilagođenosti specifikacije određenom ponuditelju (nema referenci na markicu/proizvođača, financijski i referentni pragovi standardni su za predmet nabave; zahtjev za upisom u očevidnik veleprodaje medicinskih proizvoda proizlazi izravno iz Zakona o medicinskim proizvodima, nije naručiteljeva dodatna restrikcija)."
+}

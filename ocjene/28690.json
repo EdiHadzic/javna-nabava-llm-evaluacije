@@ -1,0 +1,40 @@
+{
+  "postupak_id": 28690,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij za odabir (ekonomski najpovoljnija ponuda) razložen je na dvije mjerljive komponente s eksplicitnim, nedvosmislenim matematičkim formulama i jasno definiranim granicama (min./maks. jamstveni rok), objavljenim u zasebnom dokumentu i ponovljenim u Uputama za ponuditelje za obje grupe.",
+      "citat": "P = Pn / Pr * 90"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 3,
+      "obrazlozenje": "Tehnički opisi (u troškovniku) iznimno su precizni, uz dimenzije zadane na milimetar za svaku od 23 stavke u Grupi 2 - detaljnost koja bi trebala olakšati usporedivost ponuda. No, budući da nije naveden nikakav dozvoljeni raspon odstupanja, ta se preciznost u praksi pretvorila u eliminacijski kriterij: dvije ponude su u cijelosti odbijene isključivo zbog odstupanja od 5 mm na standardnim kirurškim instrumentima (npr. dužina hvatalica/škara), što ukazuje da opis nije ostavio prostora za razumne, funkcionalno jednakovrijedne alternative.",
+      "citat": "Stavka 2, traženo 195mm, ponuđeno 200mm"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dostupan je kompletan i međusobno usklađen skup dokumenata: Opći podaci o postupku, Upute za ponuditelje, Kriteriji za kvalitativni odabir (s ESPD uputama), troškovnici za obje grupe, dokument s numeričkim vrijednostima kriterija, Prijedlog ugovora te objavljeni Odgovori na pitanja ponuditelja - dovoljno za samostalnu izradu ponude bez dodatnih nejasnoća o formalnim zahtjevima.",
+      "citat": "Popunjeni eESPD obrazac (ili više njih, ako je primjenjivo) Popunjen troškovnik"
+    },
+    "prosjecna_ocjena": 4.33
+  },
+  "restriktivnost": {
+    "prisutno": true,
+    "indikatori": [
+      {
+        "opis": "Zahtjevi navode točne milimetarske dimenzije za gotovo sve stavke Grupe 2 bez ikakvog navedenog tolerancijskog raspona, a odstupanja reda veličine 5 mm na standardnim kirurškim instrumentima (npr. hvatalice, škare) dovela su do potpunog odbijanja dviju od tri sadržajno ocijenjene ponude - u konačnici je od 4 zaprimljene ponude za Grupu 2. tehnički prihvaćena samo jedna.",
+        "citat": "Stavka 10, traženo 145mm, ponuđeno 140mm"
+      },
+      {
+        "opis": "Specifikacija koristi vrlo specifičan opis proizvodne tehnike (vakuumsko varenje karbidnog pojačanja na čeljustima iglodržača) koji nadilazi funkcionalni opis potreban za usporedivost i može odgovarati konstrukciji specifičnog proizvođača.",
+        "citat": "TC zlatne drške-čeljust pojačana karbidom tehnikom vakum varenja-pojačana čvrstoća"
+      },
+      {
+        "opis": "Pitanja ponuditelja u dokumentu Odgovori pokazuju da je i samim ponuditeljima bilo nejasno je li traženo karbidno pojačanje premaz ili sastavni materijal radnog dijela - znak da je opis oblikovan oko konkretnog proizvoda, a ne generičke funkcionalne specifikacije.",
+        "citat": "je u nekim stavkama pod minimalnim tehničkim karakteristikama navedeno \"vrhovi nabora ispunjeni finim crnim karbidnim tankim rubom\""
+      }
+    ],
+    "rizik": "visok"
+  },
+  "napomena": "Pročitane su sve dostupne .txt datoteke u extracted/ (14 sadržajnih dokumenata; dvije .zip datoteke bile su prazne/0 bajtova i nisu sadržavale tekst za analizu, a dvije datoteke - Odluka o odabiru u PDF-u i Obavijest o dodjeli u Ugovori/ - sadržajno su duplikati već pročitanih HTML/Objave inačica). Ocjena restriktivnosti temelji se izravno na Zapisniku o pregledu i ocjeni ponuda, koji dokumentira stvarno isključenje dvaju ponuditelja u Grupi 2. zbog milimetarskih odstupanja na više stavki."
+}

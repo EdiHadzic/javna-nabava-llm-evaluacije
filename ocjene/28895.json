@@ -1,0 +1,29 @@
+{
+  "postupak_id": 28895,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 4,
+      "obrazlozenje": "Kriterij ENP (cijena 80 %, specifično iskustvo glavnog projektanta 20 %) definiran je preciznom matematičkom formulom (C=Cmin/Cp*80) i jasnim bodovnim pragovima za broj referentnih projekata. Transparentnost je ipak umanjena internom nedosljednošću između dva dokumenta istog postupka: 'Kriterij za odabir ENP.docx' navodi pragove '1-2 / 3-4 / 5 i više' projekata, dok 'Upute za ponuditelje' navode preklapajuće pragove '1-3 / 3-5 / 5 i više', što za rubnu vrijednost (npr. 3 projekta) ostavlja dvojbu koji broj bodova vrijedi.",
+      "citat": "1 - 3 projekta - 5 bodova 3 - 5 projekata - 10 bodova 5 i više projekata - 20 bodova"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 5,
+      "obrazlozenje": "Projektni zadatak vrlo je konkretan i tehnički detaljan (točne površine po prostorijama, faze izrade, obvezne smjernice održive gradnje, popis svih projekata i elaborata koje glavni projekt mora sadržavati), a pritom ostaje unutar opisa usluge (izrada dokumentacije), ne isključujući alternativne pristupe projektiranju jer je vezan uz već odobreno idejno rješenje što je inherentno prirodi ugovora o nastavku projektiranja.",
+      "citat": "Glavni projekt za ovaj zahvat u prostoru minimalno sadrži: Arhitektonski projekt, Građevinski projekt – projekt konstrukcije, Projekt elektrotehničkih instalacija..."
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dostupan je pun set dokumenata potreban za samostalnu izradu ponude: opći podaci, kriteriji kvalitativnog odabira, kriterij ENP, upute za ponuditelje, troškovnik, projektni zadatak, idejno rješenje (grafički prikazi), obrasci za iskustvo stručnjaka i izjave o državljanstvu/sankcijama. Troškovnik je sažet (šest faznih stavki A-F, po 1 usluga) što je uobičajeno za paušalno ugovorene projektantske usluge, ne ukazuje na nepotpunost.",
+      "citat": "A Izrada geodetskog snimka i izrada geodetske podloge za potrebe projektiranja usluga 1 ... F Konzalting poslovi usluga kpl"
+    },
+    "prosjecna_ocjena": 4.67
+  },
+  "restriktivnost": {
+    "prisutno": true,
+    "indikatori": [
+      "Obvezno idejno rješenje (oznake 04/24, srpanj 2024.) na koje se cijela projektna dokumentacija mora nasloniti izradila je tvrtka Po-mark d.o.o. Zagreb i ovlaštena projektantica Marijana Radnić Cippico, dipl. ing. arh. Ista tvrtka (PO-MARK d.o.o.) i ista projektantica sudjelovale su kao ponuditelj u ovom istom postupku nabave za izradu daljnje (glavne/izvedbene) dokumentacije, s Marijanom Radnić Cippico prijavljenom kao stručnjakom za bodovani kriterij specifičnog iskustva - stvarajući strukturnu informacijsku prednost i potencijalni sukob interesa naspram ostalih ponuditelja, iako u konačnici nisu odabrani (rangirani 2. od 4)."
+    ],
+    "rizik": "visok"
+  },
+  "napomena": "Pročitani su svi relevantni dokumenti iz extracted/ (opći podaci, kriteriji kvalitativnog odabira, kriterij ENP, upute za ponuditelje, projektni zadatak, troškovnik, obrazac specifičnog iskustva, obavijest o nadmetanju, zapisnik o pregledu i ocjeni, odluka o odabiru, obavijest o dodjeli ugovora, izjave). Prilog 3 (idejno rješenje, PDF nacrti) sadržajno je grafički pa je njegov tekstualni ekstrakt manje informativan, ali podaci o autorstvu idejnog rješenja jasno su vidljivi u Projektnom zadatku i potvrđeni u Zapisniku o pregledu i ocjeni (identitet ponuditelja PO-MARK d.o.o. i stručnjaka Marijane Radnić Cippico)."
+}

@@ -1,0 +1,40 @@
+{
+  "postupak_id": 32111,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriteriji ENP su brojčano i formulno precizno definirani (cijena 90%, iskustvo tehničkog stručnjaka 10%), s jasnom tablicom bodova, matematičkom formulom izračuna i eksplicitnim dokazima koje treba priložiti.",
+      "citat": "Cijena ponude 90% 90 bodova / Iskustvo tehničkog stručnjaka 10% 10 bodova... Bcijena = Cmin/Ci ∙ 90"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Opis predmeta nabave vrlo je konkretan, uz dosljednu klauzulu 'ili jednakovrijedno' koja sprječava potpunu isključivost, no gusto nizanje specifičnih tipova/modela (RAIN BIRD, Solem) na razini gotovo svake stavke ide na granicu prekomjerne konkretnosti.",
+      "citat": "Dinamički pop-up rasprskivač priključka 3/4\", puni krug/sektorski, dometa 7,0 - 15,2 m, za radni pritisak 1,7 - 4,5 bara... tip RAIN BIRD serija 5004 Plus ili jednakovrijedno"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 4,
+      "obrazlozenje": "Dokumentacija sadrži sve ključne dijelove i naručitelj je naknadno dopunio grafičke priloge na zahtjev ponuditelja tijekom postupka pojašnjenja; dva priložena grafička dokumenta ekstrahirana su gotovo prazno (vjerojatno skenirane/slikovne stranice), pa njihov sadržaj nije bilo moguće izravno provjeriti iz teksta.",
+      "citat": "objavljujemo grafičke priloge situacija sustava automatskog navodnjavanja i plana zelenila, iz kojih bi trebali biti u mogućnosti utvrditi količine svih materijala"
+    },
+    "prosjecna_ocjena": 4.33
+  },
+  "restriktivnost": {
+    "prisutno": true,
+    "indikatori": [
+      {
+        "indikator": "Troškovnik dosljedno navodi točan proizvođač i tip/model opreme (npr. 'tip RAIN BIRD serija 5004 Plus', 'tip Solem LR-IP-4') za desetke stavki, umjesto isključivo funkcionalnih/tehničkih zahtjeva.",
+        "rizik": "nizak"
+      },
+      {
+        "indikator": "Za sve navedene stavke postoji izričita klauzula 'ili jednakovrijedno' i definiran mehanizam dokazivanja jednakovrijednosti.",
+        "rizik": "nizak"
+      },
+      {
+        "indikator": "Naručitelj je tijekom postupka ažurirao specificirane tipove kada je ponuditelj prijavio da je referentni proizvod prestao s proizvodnjom, što pokazuje stvarnu otvorenost prema alternativama.",
+        "rizik": "nizak"
+      }
+    ],
+    "rizik": "nizak",
+    "napomena": "Dva priložena grafička/projektna dokumenta ekstrahirana su kao gotovo prazna - vjerojatno CAD/slikovni PDF bez uspješnog OCR-a, poznato ograničenje pipelinea, ne stvarni izostanak dokumentacije, budući da su ključni podaci dupliciran u Troškovniku i Tehničkoj specifikaciji."
+  }
+}

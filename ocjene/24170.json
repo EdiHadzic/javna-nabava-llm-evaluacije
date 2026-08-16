@@ -1,0 +1,36 @@
+{
+  "postupak_id": 24170,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij za odabir ponude je ekonomski najpovoljnija ponuda s dva potpuno mjerljiva parametra: cijena (90 bodova, formula prema omjeru s najnižom cijenom) i duljina jamstvenog roka (10 bodova, raspoređeno u pet jasno definiranih intervala u tablici). Nema nejasnih ili opisnih (nemjerljivih) potkriterija; naručitelj eksplicitno ne primjenjuje dodatne kvalitativne uvjete sposobnosti gospodarskog subjekta.",
+      "citat": "1 Obvezno 24 mjeseca 0,00 - 2 25 - 36 mjeseci 3,00 - 3 37 - 48 mjeseca 5,00 - 4 49 - 59 mjeseci 8,00 - 5 60 i više mjeseci 10,00"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Predmet nabave (energetska obnova javne zgrade) opisan je kroz opsežnu projektnu dokumentaciju (MAPA 1 arhitektonski projekt, MAPA 2 projekt elektroinstalacija, glavni ZOP projekt s detaljnim proračunima toplinske zaštite po HRN EN ISO normama za svaki građevni element) i troškovnik s karakteristikama umjesto marki. Razina detalja je vrlo visoka i omogućuje usporedivu ponudu, ali jedna stavka troškovnika ipak imenuje konkretan komercijalni proizvod kao referencu, što blago narušava neutralnost opisa (v. restriktivnost niže).",
+      "citat": "Ovim projektom planira se povećanje energetske učinkovitosti i ugradnja obnovljivih izvora energije predmetne zgrade"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dostupna je cjelovita dokumentacija: opći podaci o postupku, kriteriji kvalitativnog odabira, kriteriji za odabir ponude, upute za ponuditelje, detaljan troškovnik, tehnička projektna dokumentacija (dva projekta i glavni ZOP), obavijest o nadmetanju, odgovori na pitanja ponuditelja te zapisnik o pregledu i ocjeni ponuda. Dokumentacija samostalno omogućuje izradu ponude bez dodatnih nejasnoća; jedini manji nedostatak je praznina u ekstrahiranom tekstu formalne Odluke o odabiru, čiji je sadržaj u potpunosti dupliciran u Zapisniku o pregledu i ocjeni.",
+      "citat": "Detaljne tehničke specifikacije se nalaze u zasebnom prilogu. 3.1.3. Troškovnik Detaljan troškovnik se nalazi u zasebnom prilogu – Troškovnik."
+    },
+    "prosjecna_ocjena": 4.67
+  },
+  "restriktivnost": {
+    "prisutno": true,
+    "indikatori": [
+      {
+        "opis": "Stavka troškovnika za solarni kolektor referira konkretan komercijalni proizvod i model (Viessmann Vitosol 200-FM tip SV2F) bez dodane formulacije 'ili jednakovrijedno', unatoč tome što opća napomena u istom troškovniku izričito navodi da se marke i tipovi proizvoda ne smiju navoditi.",
+        "citat": "Visokoučinkoviti solarni kolektor kao Viessmann Vitosol 200-FM tip SV2F 2,3m2 (kom 3)"
+      },
+      {
+        "opis": "Kontradikcija unutar samog troškovnika: opća napomena eksplicitno zabranjuje navođenje marke/tipa, a stavka solarnog kolektora tu vlastitu smjernicu krši, što ukazuje na nedosljednu primjenu vlastitog pravila o neutralnosti specifikacije.",
+        "citat": "NAPOMENA: U Troškovniku se ne navode tipovi i marka proizvoda, već su navedene karakteristike i uvjeti koje ti proizvodi moraju zadovoljavati."
+      }
+    ],
+    "rizik": "srednji"
+  },
+  "napomena": "Pročitane su sve relevantne .txt datoteke u extracted/ (dokumentacija o nabavi, tehnička projektna dokumentacija, troškovnik, obavijesti, zapisnik o pregledu i ocjeni). Naručitelj u ovom postupku ne primjenjuje kriterije za odabir gospodarskog subjekta (uvjete sposobnosti), što pojednostavljuje ocjenu jasnoće kriterija jer ostaju samo kriteriji za odabir ponude. Datoteka 'Odluka o odabiru.pdf.txt' ekstrahirana je prazna (6 bajtova, vjerojatno OCR/scan gap), no njezin sadržaj je dupliciran u Zapisniku o pregledu i ocjeni te u obavijesti o dodjeli ugovora, pa nije utjecalo na ocjenu."
+}

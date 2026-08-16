@@ -1,0 +1,44 @@
+{
+  "postupak_id": 3436,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij ENP potpuno je kvantificiran (cijena 80 bodova, rok isporuke 20 bodova) uz eksplicitne matematičke formule bodovanja i jasne pragove za rok isporuke, bez prostora za subjektivnu ocjenu.",
+      "citat": "Ponuda s najnižom iskazanom sveukupnom cijenom bez PDV-a dobiva 80 bodova... Fi = (NC / CP) x 80"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 2,
+      "obrazlozenje": "Tehnička specifikacija sadrži 70 iznimno granularnih stavki (točan broj i raspored hidrauličkih cilindara, točne dimenzije, konkretne norme za konkretan model nadogradnje), što nadilazi funkcionalni opis potreban za usporedivost ponuda i sužava krug tehnički prihvatljivih proizvoda gotovo na jedan konkretan model.",
+      "citat": "Dvodijelnu potisnu ploču pokreću 4 hidraulička cilindra, smještena na krovu nadogradnje, izvan spremnika otpada"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dostupan je pun set dokumenata (opći podaci, obavijest o nadmetanju, kriteriji, upute za ponuditelje, troškovnik, obrasci izjava, tehnička specifikacija, odgovori na pitanja, izmjena dokumentacije), dovoljan za samostalnu izradu ponude.",
+      "citat": "Detaljan troškovnik se nalazi u zasebnom prilogu – Troškovnik."
+    },
+    "prosjecna_ocjena": 4.0
+  },
+  "restriktivnost": {
+    "prisutno": true,
+    "indikatori": [
+      {
+        "opis": "Zahtjev za certifikatom vezanim uz konkretan ponuđeni model nadogradnje, a ne uz normu općenito",
+        "citat": "Nadogradnja u potpunosti izvedena sukladno normi UNI EN 1501-1:2011 i 2006/42/CE (priložiti kopiju certifikata ovlaštenog tijela za kontrolu kvalitete, za ponuđeni model nadogradnje)"
+      },
+      {
+        "opis": "Obveza dostave izjave proizvođača/ovlaštenog zastupnika/uvoznika/distributera da je ponuditelj ovlašten prodavati baš ponuđeno podvozje i nadogradnju, čime se sposobnost veže uz postojeći distribucijski odnos s konkretnim proizvođačem",
+        "citat": "Svaki natjecatelj ili ponuditelj mora dostaviti izjavu proizvođača, zastupnika u RH, uvoznika za RH ili distributera u RH za ponuđeno podvozje komunalnog vozila u kojoj je navedeno da je ponuditelj ovlašten za prodaju ponuđenog podvozja"
+      },
+      {
+        "opis": "Iznimno precizni mehanički zahtjevi (broj i raspored hidrauličkih cilindara, omjer sabijanja, dimenzije spremnika za vrećice) tipični za opisivanje jednog konkretnog tržišnog proizvoda, a ne generičke funkcionalne potrebe",
+        "citat": "Omjer sabijanja otpada: min. 4:1, dvodijelnom punom čeličnom potisnom pločom"
+      },
+      {
+        "opis": "Ishod postupka potvrđuje praktični učinak: zaprimljena je samo jedna ponuda",
+        "citat": "Broj zaprimljenih ponuda: 1"
+      }
+    ],
+    "rizik": "visok"
+  },
+  "napomena": "Pročitano svih 17 sadržajnih .txt datoteka u extracted/ (Prilozi.zip.txt prazan, 0 bajtova, vjerojatno neuspjelo preuzimanje arhive - v. limitacija #7 u CLAUDE.md). Dokumentacija je interno dosljedna (kriteriji identični u sva tri izvora: Obavijest o nadmetanju, Kriteriji za odabir ponude, Kriterij za odabir ponude.docx). Izmjena dokumentacije (13.03.2024.) tehnička je dopuna instrumenata jamstva, ne utječe na tehničku specifikaciju niti na ocjenu restriktivnosti."
+}

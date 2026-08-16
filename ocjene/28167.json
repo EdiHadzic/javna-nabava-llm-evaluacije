@@ -1,0 +1,27 @@
+{
+  "postupak_id": 28167,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij ekonomski najpovoljnije ponude potpuno je operacionaliziran: cijena 90 bodova (formula prema najnižoj cijeni), kvaliteta 10 bodova s egzaktnim, unaprijed definiranim rasponima vremena odaziva u slučaju reklamacije i pripadajućim brojem bodova, bez prostora za diskrecijsko tumačenje.",
+      "citat": "1 - 4 SATA -10 BODOVA 5-9 SATI -5 BODOVA 10-24 SATA- 0 BODOVA"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 2,
+      "obrazlozenje": "Opis predmeta nabave svodi se na generičku uputu da su tehničke specifikacije određene u troškovniku, a sama 'Tehnička specifikacija' sastoji se isključivo od općenitih zakonskih odredbi o sigurnosti i deklariranju hrane, bez ijedne konkretne oznake kvalitete/klase, veličine, zrelosti, ambalaže ili dinamike isporuke po pojedinoj stavci; troškovnik navodi samo naziv proizvoda, okvirnu količinu i jedinicu mjere.",
+      "citat": "Minimalne tehničke specifikacije predmeta nabave određene su u opisu u Troškovniku."
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 4,
+      "obrazlozenje": "Dostupan je standardan i međusobno usklađen komplet dokumenata (Opći podaci, Kriteriji za kvalitativni odabir, Kriteriji za odabir ponude, Upute za ponuditelje, Tehnička specifikacija, Troškovnik, Izjava o vremenu odaziva) dovoljan za samostalnu izradu ponude; jedini nedostatak je prazan privitak uz Odluku o odabiru (Prilozi.zip, 0 bajtova), ali on se odnosi na fazu nakon dodjele, ne na pripremu ponude.",
+      "citat": "Elektronička ponuda mora sadržavati najmanje: Uvez ponude Popunjeni eESPD obrazac (ili više njih, ako je primjenjivo) Popunjen troškovnik"
+    },
+    "prosjecna_ocjena": 3.67
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak"
+  },
+  "napomena": "Dokumentacija je čitljiva i međusobno dosljedna (HTML/PDF/DOCX/XLSX), osim praznog 'Prilozi.zip' uz Odluku o odabiru (0 bajtova, sadržaj nedostupan, ali odnosi se na naknadnu fazu). Nema indikatora prilagođenosti specifikacije (marke, patentirana rješenja, nesrazmjerni pragovi) — traženi HACCP certifikat standardan je zahtjev za nabavu hrane. Izvan opsega fiksnih dimenzija, ali vrijedno spomena: od 3 zaprimljene ponude, 2 su odbijene isključivo jer cijena prelazi planirana sredstva naručitelja (64.000 EUR), a odabrana ponuda (63.987 EUR bez PDV-a) gotovo je identična procijenjenoj vrijednosti (99,98%) — mogući, ali ovdje neistražen, indikator preuskog budžeta ili informacijske prednosti odabranog ponuditelja."
+}

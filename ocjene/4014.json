@@ -1,0 +1,36 @@
+{
+  "postupak_id": 4014,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij za odabir ponude (ekonomski najpovoljnija ponuda) definiran je s dvije komponente (cijena 90 bodova, jamstveni rok 10 bodova), obje potpuno matematički operacionalizirane eksplicitnim formulama, uz definirane minimalne/maksimalne vrijednosti jamstvenog roka (24-60 mjeseci) i jasan postupak razrješenja izjednačenih ponuda. Kriterij je identično i dosljedno ponovljen u dokumentu 'Kriterij za odabir ponude' i u 'Upute za ponuditelje'.",
+      "citat": "PC= NC/CP x 90 ... JR =( Jr pon -24)/(Jr maks - 24 ) x 10"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Troškovnik sadrži vrlo opsežan i precizan tehnički opis za 16 kategorija predmeta nabave (dimenzije, protoci, klase točnosti, IP zaštita, komunikacijski protokoli, trajanje baterije i dr.), dovoljno detaljan za usporedivost ponuda. Ocjena nije 5 jer specifikacija sadrži zahtjeve koji sužavaju krug ponuditelja iznad razine potrebne za usporedivost (obveza istog proizvođača za sve dimenzije unutar stavke; obvezna kompatibilnost radio modula s postojećom PRIOS/wM-Bus opremom naručitelja, provjeravana fizičkim testom na dostavljenim uzorcima) - v. restriktivnost niže.",
+      "citat": "Radio modul mora biti kompatibilan sa postojećom opremom za daljinsko radijsko očitavanje koju Naručitelj trenutno koristi."
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dokumentacija je iznimno potpuna: opći podaci, obavijest o nadmetanju, kriteriji kvalitativnog odabira s detaljnim pravnim osnovama i načinom dokazivanja, troškovnik, prijedlog okvirnog sporazuma, izjave/prilozi, te zaseban dokument 'Test kompatibilnosti' koji unaprijed objašnjava metodu i kriterij prolaznosti testa kompatibilnosti uzoraka - rijetka razina proaktivne transparentnosti. Samostalna izrada ponude je moguća bez dodatnih pojašnjenja naručitelja.",
+      "citat": "Elektronička ponuda mora sadržavati najmanje: Uvez ponude, Popunjeni eESPD obrazac, Popunjen troškovnik"
+    },
+    "prosjecna_ocjena": 4.67
+  },
+  "restriktivnost": {
+    "prisutno": true,
+    "indikatori": [
+      {
+        "opis": "Obvezna fizička kompatibilnost radijskih vodomjera (stavke 2.1., 3.1., 4.1., 7.1., 8.1.) s konkretno imenovanom postojećom opremom naručitelja (Ulefone Armor 3W dlanovnik, MR MBWBLUE 868 prijemnik, MBW GPRS koncentrator, LAN-WMBUS-R4-B repeater), provjerena praktičnim testom očitavanja uzoraka - ponuda se odbija kao nepravilna ako test ne uspije.",
+        "citat": "Test kompatibilnosti će se smatrati uspješnim ukoliko se iz dostavljenih uzoraka s postojećom opremom uspješno očita serijski broj vodomjera... inače će se ponuda odbiti kao nepravilna."
+      },
+      {
+        "opis": "Zahtjev da sve dimenzije vodomjera unutar pojedine stavke troškovnika budu od istog proizvođača, što dodatno sužava mogućnost kombiniranja ponuda više dobavljača unutar iste kategorije.",
+        "citat": "Sve dimenzije vodomjera iz ove točke moraju biti od istog proizvođača."
+      }
+    ],
+    "rizik": "srednji"
+  },
+  "napomena": "Naručitelj je zahtjev za kompatibilnost eksplicitno obrazložio zasebnim dokumentom (postojeći sustav integriran u naplatni sustav, kontinuitet očitavanja) što ublažava, ali ne uklanja, strukturni rizik favoriziranja dobavljača kompatibilnih s postojećim PRIOS/wM-Bus ekosustavom. Referentni prag (min. 500.000 EUR jedna isporuka, ~32% procijenjene vrijednosti od 1.560.000 EUR) nije nerazmjeran. U postupku su zaprimljene 2 ponude (TOT-PROMET, IKOM), što ukazuje da tržište formalno nije bilo potpuno zatvoreno unatoč zahtjevu kompatibilnosti. Jedna priložena arhiva ('Prilozi zapisniku 1.rar') ekstrahirana je kao prazna (0 bajtova), no radi se o popratnom prilogu zapisniku nakon dodjele, ne o dijelu osnovne specifikacije, pa nije utjecalo na ocjenu."
+}

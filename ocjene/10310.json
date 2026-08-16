@@ -1,0 +1,27 @@
+{
+  "postupak_id": 10310,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij odabira je ekonomski najpovoljnija ponuda s dva potpuno mjerljiva i matematički definirana potkriterija: cijena (90%) prema formuli C = Cmin/Cn x 90 i udio električne energije iz obnovljivih izvora (10%) prema eksplicitnoj formuli s definiranim varijablama (Zy, Z50, Zmax). Nema nejasnih ili subjektivnih elemenata bodovanja.",
+      "citat": "C = Cmin/Cn x 90 ... Z = 10/(Zmax-Z50) x (Zy-Z50)"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Predmet nabave (opskrba električnom energijom) konkretiziran je popisom svih 11 obračunskih mjernih mjesta s adresama, tarifnim modelima i okvirnim godišnjim potrošnjama u Troškovniku, što omogućuje izravno usporedive ponude. Tekstualni opis u Obavijesti o nadmetanju je opsežniji dijelom zbog citiranja EU/nacionalne strategije za zelenu javnu nabavu nego zbog tehničkih detalja same isporuke, pa nije ocijenjeno maksimalnom ocjenom.",
+      "citat": "traži da najmanje 50% ukupne električne energije koju će isporučiti odabrani ponuditelj mora biti proizvedeno iz obnovljivih izvora energije"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 4,
+      "obrazlozenje": "Dostupni su svi ključni dokumenti: Kriteriji za kvalitativni odabir gospodarskog subjekta, Kriteriji za odabir ENP, Troškovnik s popisom mjernih mjesta, tehničke specifikacije, Upute za ponuditelje, Obavijest o nadmetanju, Zapisnik o pregledu i ocjeni ponuda i Obavijest o dodjeli ugovora - svi sadržajno potpuni i međusobno konzistentni. Jedna arhiva (APD.rar) ekstrahirana je kao prazna datoteka (v. napomena), pa njezin sadržaj nije bilo moguće ocijeniti, što je razlog za ocjenu ispod maksimalne.",
+      "citat": "Troškovnik s opisima tarifnih modela, jedinicama mjere i količinama nalazi se u Prilogu 1 i sastavni je dio dokumentacije za nadmetanje."
+    },
+    "prosjecna_ocjena": 4.33
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak"
+  },
+  "napomena": "Datoteka (root)__APD.rar.txt ekstrahirana je kao 0 bajtova unatoč tome što je izvorna .rar arhiva na disku nenulte veličine - poznat, dosad neistražen propust ekstrakcije dokumentiran u projektnim bilješkama (barem 29 sličnih slučajeva), a NE stvaran nedostatak dokumentacije u samom postupku. Ocjena potpunosti dokumentacije stoga blago snižena (4 umjesto 5) zbog jednog nepročitanog priloga, ne zbog stvarnog izostanka dokumentacije naručitelja - svi ostali, sadržajno ključni dokumenti (kriteriji odabira, troškovnik, tehnička specifikacija, upute, zapisnik o ocjeni, obavijest o dodjeli) uspješno su ekstrahirani i pročitani u cijelosti. Postupak je zaprimio samo jednu ponudu (HEP-Opskrba d.o.o.), što je uobičajeno za manje/otočne isporuke električne energije u RH i nije indikator restriktivnosti specifikacije."
+}

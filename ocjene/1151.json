@@ -1,0 +1,49 @@
+{
+  "postupak_id": 1151,
+  "broj_pojedinacnih_runova": 2,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Oba pokretanja neovisno utvrđuju da je kriterij za odabir ponude isključivo cijena (ENP, ponder 100%), s preciznom, zakonski utemeljenom formulom bodovanja (čl. 283.-284. ZJN 2016) i jasnim pravilom za slučaj izjednačenja ponuda (prednost ranije zaprimljenoj ponudi). Nema subjektivnih ili dvosmislenih ne-cjenovnih kriterija; kriteriji kvalitativnog odabira gospodarskog subjekta standardna su zakonska boilerplate praćena preciznim uputama o dokazivanju.",
+      "citat": "sukladno članku 284. stavak 5. Zakona, relativni ponder cijene utvrđuje u 100%-tnom iznosu",
+      "runovi": [
+        5,
+        5
+      ],
+      "slaganje": "puno"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Oba pokretanja slažu se da tehnička specifikacija vrlo konkretno definira predmet nabave (broj i tip soba, broj kupaonica, opremljenost, grijanje/klimatizacija, učestalost izmjene posteljine), što omogućuje usporedive ponude, te da su zahtjevi funkcionalno opravdani (broj članova posade, sigurnosni razlozi blizine luke). Ocjena nije puna 5 jer kombinacija konkretnih brojčanih zahtjeva i strogog geografskog ograničenja (max. 800 m od mjesta priveza) u praksi znatno sužava krug potencijalnih ponuditelja na malom otoku, iako to proizlazi iz same naravi predmeta nabave, a ne iz nejasnoće opisa.",
+      "citat": "Objekt u kojemu su smješteni članovi posade treba se nalaziti maksimalno 800 metara udaljen od mjesta priveza katamarana u luci (zbog izvanrednih intervencija i drugih sigurnosnih razloga).",
+      "runovi": [
+        4,
+        4
+      ],
+      "slaganje": "puno"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Oba pokretanja potvrđuju da su svi dokumenti dokumentacije o nabavi (DON) potrebni za samostalnu izradu ponude prisutni i međusobno usklađeni: Opći podaci o postupku, Upute za ponuditelje, Kriteriji za kvalitativni odabir gospodarskog subjekta, Kriteriji za odabir ponude, Tehnička specifikacija, Troškovnik, Prijedlog ugovora i obrasci Izjava. Razilaženje (4 vs. 5) proizlazi iz toga što run 1 nižom ocjenom kažnjava dvije gotovo prazne datoteke — 'Rezultati pregleda i ocjene-potpisnano.pdf.txt' (14 bajtova) i 'Prilozi.zip.txt' (0 bajtova, format nije podržan pipelineom). Neovisnom provjerom izvornika (v. napomena_resolvera) utvrđeno je da obje datoteke pripadaju POSTUPKU PREGLEDA/OCJENE I DODJELE, ne dokumentaciji o nabavi koju ponuditelj treba za izradu ponude: (a) 'Opći podaci o postupku nabave' eksplicitno navodi da su jedini zasebni prilozi DON-a tehnička specifikacija i troškovnik (Prilozi.zip se uopće ne spominje kao sastavni dio DON-a); (b) sadržaj 'Rezultati pregleda i ocjene' u potpunosti je dupliciran, i to opsežnije, u čitljivom 'Zapisnik o pregledu i ocjeni.pdf.txt' (analiza ponuda, bodovanje, rangiranje, prijedlog odabira, stručno povjerenstvo); (c) sam Zapisnik potvrđuje da je ponuditelj dostavio sve tražene priloge (izjave, izvadak iz zemljišne knjige, rješenje o kategorizaciji, tlocrt) te da su ocijenjeni potpunima — dakle Prilozi.zip je najvjerojatnije arhiva upravo tih naknadno dostavljenih priloga ponuditelja, a ne dio DON-a. Budući da rubrika ocjenjuje potpunost dokumentacije 'za samostalnu izradu ponude', a ne potpunost cjelokupnog spisa postupka, izostanak čitljivog sadržaja tih dviju post-dodjelnih datoteka ne umanjuje ovu ocjenu.",
+      "citat": "Ponuditelj je dostavio sve tražene Izjave, Izvadak iz zemljišne knjige, Rješenje o odobrenju za pružanje ugostiteljskih usluga u domaćinstvu, odnosno rješenje o kategorizaciji objekta i tlocrt smještajnog prostora.",
+      "runovi": [
+        4,
+        5
+      ],
+      "slaganje": "djelomicno"
+    },
+    "prosjecna_ocjena": 4.67
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak",
+    "runovi_prisutno": [
+      false,
+      false
+    ],
+    "slaganje": "puno"
+  },
+  "napomena": "Pročitane su sve relevantne .txt datoteke iz extracted/ (15 datoteka): opći podaci, oba dokumenta kriterija, tehnička specifikacija, troškovnik, upute za ponuditelje, izjave, prijedlog ugovora, odluka o odabiru (dvije verzije), zapisnik o pregledu i ocjeni, obavijesti o nadmetanju i o dodjeli ugovora. Dvije datoteke nemaju iskoristiv ekstrahirani sadržaj — 'Prilozi.zip.txt' (0 bajtova, arhiva, format nije podržan pipelineom) i 'Rezultati pregleda i ocjene-potpisnano.pdf.txt' (14 bajtova/1 prazan redak, vjerojatno sken bez OCR-a) — no obje su, prema neovisnoj provjeri, post-dodjelni/evaluacijski artefakti, ne dio dokumentacije o nabavi potrebne za izradu ponude, te njihov sadržaj (analiza i rangiranje ponuda) postoji u cijelosti u čitljivom 'Zapisnik o pregledu i ocjeni.pdf.txt'. Postupak: nabava usluge smještaja posade katamarana (linija 9403 Ist-Molat-Zadar), naručitelj Jadrolinija, procijenjena vrijednost 31.000 EUR, otvoreni postupak za društvene i druge posebne usluge, zaprimljena 1 ponuda (Gordana Starešinić, Ist), ugovoreno 30.744 EUR bez PDV-a.",
+  "napomena_resolvera": "Tri od četiri elementa (jasnoća kriterija, razina detalja opisa, restriktivnost) potpuno su se poklopila brojčano i sadržajno između dva runa (slaganje: puno) — obrazloženja sintetiziraju obje verzije bez potrebe za dodatnom provjerom. Jedino je 'potpunost_dokumentacije' bila djelomično razilaženje (4 vs. 5, razlika 1 bod, obrazloženja sadržajno kompatibilna — oba prepoznaju iste dvije prazne/gotovo prazne datoteke, ali se razilaze u prosudbi jesu li relevantne za ocjenu). Umjesto usrednjavanja, resolver je samostalno pročitao 'Zapisnik o pregledu i ocjeni.pdf.txt' (potvrđen kao potpun i sadržajno dupliciran s 'Rezultati pregleda i ocjene'), 'Prilozi.zip.txt' i 'Rezultati pregleda i ocjene-potpisnano.pdf.txt' (oba potvrđeno prazna), te unakrsno provjerio 'Opći podaci o postupku nabave.html.txt' i 'Upute za ponuditelje.html.txt' radi utvrđivanja što doista čini dokumentaciju o nabavi (DON) potrebnu za izradu ponude. Zaključak: obje sporne datoteke pripadaju fazi pregleda/ocjene/dodjele, ne DON-u, pa je run_2-ova ocjena (5) bolje utemeljena na doslovnoj formulaciji rubrike ('potpuna za samostalnu izradu ponude'). Razina pouzdanosti finalne ocjene: visoka — jedino razilaženje bilo je granično (1 bod, ne rascjep) i razriješeno je izravnom provjerom izvornika, a ne proizvoljnim odabirom jednog runa."
+}

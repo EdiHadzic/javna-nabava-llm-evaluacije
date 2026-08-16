@@ -1,0 +1,30 @@
+{
+  "postupak_id": 29281,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriteriji za odabir ponude su potpuno kvantificirani i mjerljivi: cijena nosi 90 od 100 bodova s eksplicitnom matematičkom formulom, a jedini ne-cjenovni kriterij (rok isporuke) ima potpuno jasnu, diskretnu bodovnu tablicu (24h/48h/72h) i propisan dokaz (IZJAVA O ROKU ISPORUKE). Uvjeti sposobnosti (HACCP/ISO 22000) navedeni su s točnom pravnom osnovom i načinom dokazivanja.",
+      "citat": "Rok isporuke – 24 sata od narudžbe 10 bodova Rok isporuke – 48 sata od narudžbe 5 bodova Rok isporuke – 72 sata od narudžbe 0 bodova"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 3,
+      "obrazlozenje": "Zaseban dokument 'tehn.specif.' sadrži samo opće odredbe o zdravstvenoj ispravnosti i deklariranju hrane, bez konkretnih tehničkih parametara po artiklu - stvarna specifikacija prepuštena je troškovniku. Troškovnik je opsežan (preko 200 stavki), no za više artikala izvorno je izostala ključna informacija o pakiranju/vrsti proizvoda (riža, brašno, gramaža goveđe/pileće kocke, je li grašak/mahuna konzervirana ili smrznuta), što je ponuditelje prisililo na naknadni upit i naručitelja na naknadno pojašnjenje kroz modul Pitanja/Pojašnjenja.",
+      "citat": "STAVKA 34. KOCKA GOVEĐA – MOLIMO VAS DA UPIŠTET GRAMAŽU KOCKE, NE POSTOJI KOCKA OD 1 KG, POSTOJI 40 GR ILI 120 GR"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Skup dokumenata je standardan i cjelovit za samostalnu izradu ponude: opći podaci, tehničke specifikacije, detaljan troškovnik po lokacijama (Sali/Preko/Zadar), kriteriji kvalitativnog odabira s ESPD uputama, kriteriji za odabir ponude s formulom bodovanja, upute za ponuditelje te gotov obrazac (Izjava o roku isporuke). Nejasnoće u troškovniku razriješene su pravovremenim službenim odgovorom prije roka za dostavu ponuda, čime je dokumentacija u konačnici omogućavala potpunu i usporedivu ponudu.",
+      "citat": "nastavno na Vaš upit odovoramo kako slijedi: Sali: stavka 3 riža - pakiranje 1 kg stavka 4 brašno- pakiranje 1 kg"
+    },
+    "prosjecna_ocjena": 4.33
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [
+      "Troškovnik referira konkretan brend ('kao Vegeta original') za stavku 'Dodatak jelima od sušenog povrća', ali uz obveznu formulaciju 'ili jednakovrijedno', čime je zadovoljen zakonski zahtjev neutralnosti prema određenom proizvodu - indikator je prisutan, ali s minimalnim rizikom zbog eksplicitne dopuštenosti jednakovrijedne alternative.",
+      "Zahtjev za HACCP/ISO 22000 certifikatom proporcionalan je i zakonski uvjetovan (Zakon o hrani, Zakon o higijeni hrane) za nabavu prehrambenih proizvoda te se ne smatra neproporcionalnim ograničenjem."
+    ],
+    "rizik": "nizak"
+  },
+  "napomena": "Pročitane su sve dostupne .txt datoteke u extracted/ (11 sadržajnih dokumenata; Odluka o odabiru__Prilozi.zip.txt je prazna, 0 bajtova, bez utjecaja na ocjenu jer sadržajni dokumenti dokumentacije o nabavi i odgovori na upite postoje i potpuni su). Postupak JN-4/24, Dom za starije i nemoćne osobe Zadar, procijenjena vrijednost 150.000,00 EUR, otvoreni postupak, CPV 15800000."
+}

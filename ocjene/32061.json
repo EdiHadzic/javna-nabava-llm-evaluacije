@@ -1,0 +1,27 @@
+{
+  "postupak_id": 32061,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij ENP potpuno je operacionaliziran matematičkom formulom za cijenu (90 bodova, linearna formula) i diskretnom bodovnom ljestvicom za rok isporuke (10 bodova, tri jasno definirana praga u satima).",
+      "citat": "Maksimalni broj bodova (90) dodijelit će se ponudi s najnižom cijenom... C = NC/CP*90"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 5,
+      "obrazlozenje": "Troškovnici (4 grupe, ukupno 67 stavki) opisuju svaku stavku s konkretnim mjerama, materijalom, bojom i motivom, uz raspone koji omogućuju usporedivost ponuda bez isključivanja razumnih alternativa proizvođača/dobavljača.",
+      "citat": "Kosokutni lijes smeđe boje, izrađen od drva mekih listača, dužine 190-200 cm, max. visine 50 cm, max. širine uzglavlja 65 cm i max. širine donožja 45 cm"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dostupna je puna dokumentacijska cjelina: opći podaci, tehnička specifikacija, 4 popunjiva troškovnika, detaljne upute za ponuditelje i kriteriji za kvalitativni odabir s ESPD uputama.",
+      "citat": "Elektronička ponuda za svaku ponuđenu grupu mora sadržavati najmanje: Uvez ponude, Popunjeni eESPD obrazac, Popunjen troškovnik, Vrijednosti kriterija za odabir ponude, Jamstvo za ozbiljnost ponude, Katalog proizvoda"
+    },
+    "prosjecna_ocjena": 5.0
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak",
+    "napomena": "Kolona 'Model i/ili broj iz kataloga' u troškovniku je polje koje ponuditelj sam popunjava (nije zadan proizvođač/marka). Materijali su opisani generički, bez patentiranih rješenja. Iznosi jamstva za ozbiljnost ponude proporcionalni su procijenjenoj vrijednosti. Kriteriji za kvalitativni odabir traže samo upis u strukovni/obrtni registar."
+  }
+}

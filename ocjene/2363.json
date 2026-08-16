@@ -1,0 +1,27 @@
+{
+  "postupak_id": 2363,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij ekonomski najpovoljnije ponude potpuno je operacionaliziran: cijena (80%) i jamstveni rok za otklanjanje nedostataka (20%), s eksplicitnim matematičkim formulama, minimalnim/maksimalnim granicama (24-60 mjeseci) i pravilom za slučaj izjednačenih ponuda. Primjena formule vidljiva je i u Zapisniku o pregledu i ocjeni (izračun po ponuditelju).",
+      "citat": "CP = (CPmin / CPpon) x 80 ... J = (Jo / Jn) x 20"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 3,
+      "obrazlozenje": "Opis predmeta u obavijestima i općim podacima je konzistentan ali generički (upućuje na vanjski 'Glavni projekt' i troškovnik). Sama tehnička dokumentacija nije bila moguća za objavu na EOJN-u zbog opsežnosti i dostupna je isključivo na zasebnoj mrežnoj stranici naručitelja, a Troškovnik (.xlsx) u ovom je uzorku izdvojen prazan, pa se stvarna razina tehničke konkretnosti ne može potpuno verificirati iz dostupnog teksta.",
+      "citat": "Naručitelj nije u mogućnosti staviti na raspolaganje posredstvom Elektroničkog oglasnika javne nabave RH... dostupna s mrežnih stranica Naručitelja"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 3,
+      "obrazlozenje": "Upute za ponuditelje, kriteriji kvalitativnog odabira i obrasci (ESPD, izjava o jamstvenom roku) potpuno su prisutni i detaljni. Međutim, ključna tehnička dokumentacija (Glavni projekt) fizički je odvojena od EOJN dokumentacije o nabavi (samo na naručiteljevoj web-stranici), a Troškovnik je u ekstrahiranom uzorku prazan (0 bajtova) - nije moguće utvrditi je li ovo stvarna praznina ili artefakt ekstrakcije .xlsx formata.",
+      "citat": "projektno-tehnička dokumentacija neograničeno i u cijelosti dostupna s mrežnih stranica Naručitelja... (...).zip"
+    },
+    "prosjecna_ocjena": 3.67
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak"
+  },
+  "napomena": "Dvije .txt datoteke u extracted/ prazne su (0 bajtova): Troskovnik...xlsx.txt i Pojasnjenje Tines.7z.txt - vjerojatno artefakt ekstrakcijskog pipelinea, ne stvarni izostanak dokumenta (Upute za ponuditelje eksplicitno referenciraju priloženi troškovnik). Financijski prag (godišnji promet >= procijenjene vrijednosti u 3 od zadnjih 5 godina) i referentni uvjet (1-4 slična izvedena rada u vrijednosti >= procijenjene vrijednosti) standardni su i naručitelj je eksplicitno naveo da prag ne prelazi dvostruku procijenjenu vrijednost ('nije primjenjivo' u Prijedlogu odabira) - nema indikacija prilagođenosti specifičnom ponuditelju. Postupak je imao 2 ponuditelja; jedan (HAPILAN d.o.o.) isključen je zbog neispunjavanja uvjeta godišnjeg prometa, ne zbog restriktivnosti specifikacije. Pregled Nacrta ugovora (113 KB) ne otkriva reference na marke/proizvođače - jedini pogodak za 'certifikati' odnosi se na opći zahtjev dostave tehničkih listova/certifikata za ugrađene materijale, generička odredba bez vezivanja uz određenog ponuditelja."
+}

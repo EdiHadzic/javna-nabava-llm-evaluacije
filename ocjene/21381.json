@@ -1,0 +1,30 @@
+{
+  "postupak_id": 21381,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij za odabir ponude (Izmijenjeni Obrazac 1.) precizno je matematički definiran: cijena nosi 70 % (formula Ymin/Yp x 70), a specifično iskustvo tehničkog stručnjaka 30 %, razrađeno po pet tehničkih stručnjaka s eksplicitnom tablicom broja projekata i pripadajućih bodova. Kriterij je bio predmet dvije izmjene tijekom postupka (proširenje pa vraćanje na izvorni uvjet 'ishođena građevinska dozvola' za referentne projekte) nakon prigovora zainteresiranih gospodarskih subjekata u fazi Odgovora, što je razriješeno prije roka za dostavu ponuda uz odgovarajuće produljenje roka, pa konačna verzija ostaje nedvosmislena.",
+      "citat": "Ponuda s najniže ponuđenom cijenom dobiva 70 bodova, a ostale ponude se boduju prema formuli Ymin/Yp x 70"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Tehnička specifikacija i projektni zadatak vrlo su opsežni i konkretni (popis svih projekata i elaborata koje glavni i izvedbeni projekt moraju sadržavati, popis zakona/pravilnika/normi, format i broj primjeraka isporuka, rokovi po fazama), što omogućuje usporedive ponude. Ocjena nije 5 jer je Obrazac 2. (Tehnička specifikacija) tijekom postupka dopunjen u dijelu 'Sadržaj projekta' (popis odvojenih troškovnika) nakon što je izvorna verzija bila nepotpuna u tom segmentu, a naznaka da se izbjegavaju termini 'prema izboru investitora/projektanta' upućuje na svjesnu težnju za konkretnošću, ali i na to da je prvotni nacrt zahtijevao naknadnu doradu.",
+      "citat": "Termine kao „prema izboru investitora“, „prema izboru projektanta“, ne koristiti, već sve mora biti unaprijed definirano."
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 4,
+      "obrazlozenje": "Dokumentacija sadrži sve standardne sastavnice (Kriteriji kvalitativnog odabira s detaljnim pravnim osnovama/dokazivanjem za svaku osnovu isključenja, Obrasci 1-8, tehnička specifikacija, troškovnik, projektni zadatak, idejni projekt kao podloga). Ipak, tri odvojena kruga izmjena i dopuna dokumentacije (dva puta Obrazac 1., jednom Obrazac 4. i Obrazac 2.) tijekom faze postavljanja pitanja pokazuju da izvorna dokumentacija nije bila potpuna/dosljedna za samostalnu izradu ponude bez dodatnih pojašnjenja, iako su sve nejasnoće razriješene prije roka za dostavu ponuda.",
+      "citat": "Naručitelj je uvidio potrebu nadopune Obrasca 2. – Tehnička specifikacija predmeta nabave u dijelu „Sadržaj projekta“"
+    },
+    "prosjecna_ocjena": 4.33
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [
+      "Predmet nabave temelji se na Idejnom projektu koji je izradio treći gospodarski subjekt ('Block-projekt' d.o.o.) 2021., što je potencijalni rizik informacijske prednosti tog subjekta pri budućem nadmetanju za izradu Glavnog/Izvedbenog projekta; Naručitelj je to eksplicitno prepoznao i mitigirao sukladno čl. 199. ZJN 2016 (dostavljanjem cjelokupne dokumentacije svim zainteresiranima i produljenjem rokova), pa ostaje tek nizak rezidualni rizik, ne stvarna restriktivnost.",
+      "Naručitelj je nakon upita jednog gospodarskog subjekta privremeno PROŠIRIO (ne suzio) prihvatljivost referentnih projekata (uključivanjem projekata obnove od potresa bez građevinske dozvole), što je drugi ponuditelj prigovorio kao nepovezano s predmetom nabave; Naručitelj je zahtjev prihvatio i vratio kriterij na izvorni, stroži uvjet (ishođena građevinska dozvola) prije isteka roka. Epizoda ukazuje na osjetljivost oko definicije referentnog iskustva, ali krajnji ishod nije restriktivan niti pogoduje određenom ponuditelju - naprotiv, spriječeno je moguće favoriziranje."
+    ],
+    "rizik": "nizak"
+  },
+  "napomena": "Pročitano je svih 29 dostupnih .txt datoteka u extracted/ (4 'Privitci X. dio.pdf.txt' datoteke su gotovo prazne, po svemu sudeći prazni razdjelni listovi/naslovnice, bez sadržajnog gubitka). Postupak je prošao kroz tri kruga pitanja/odgovora i izmjena dokumentacije s produljenjima roka, što je transparentno dokumentirano i razriješeno prije roka za dostavu ponuda. Zaprimljene su 4 ponude (3 od MSP-ova), a ugovor je dodijeljen ponuditelju iz druge NUTS regije (Varaždin, HR062) po vrijednosti 55.000 EUR naspram procijenjenih 94.000 EUR (-41,5 %), što ne upućuje na restriktivnost usmjerenu prema lokalnom/specifičnom ponuditelju."
+}

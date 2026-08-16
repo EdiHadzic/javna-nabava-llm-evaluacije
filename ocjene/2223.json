@@ -1,0 +1,27 @@
+{
+  "postupak_id": 2223,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij za odabir ponude je isključivo cijena (100% ponder), s jasno navedenom formulom bodovanja i preciznom definicijom najniže cijene kao mjerila; nema dvosmislenih ili kvalitativnih potkriterija koji bi ostavljali prostor za nejasno vrednovanje.",
+      "citat": "Kriterij odabira je najniža cijena s PDV-om prihvatljive, prikladne i pravilne ponude."
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Tehnička specifikacija sadrži konkretne, provjerljive parametre (datumi, broj i struktura sudionika po kategorijama, tip pansiona, broj i oprema dvorana, minimalna kategorizacija smještaja), no dio brojki je okviran jer ovisi o ishodu nižih razina natjecanja, što je izrijekom i obrazloženo pa ne umanjuje usporedivost ponuda.",
+      "citat": "Naručitelj je u Tehničkoj specifikaciji i Troškovniku odredio okvirne (očekivane) količine za navedeni predmet nabave s obzirom da u ovom trenutku ne može imati točne podatke"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dokumentacija je potpuna i standardno strukturirana (Opći podaci, Upute za ponuditelje, Kriteriji za kvalitativni odabir, Kriteriji za odabir ponude, Tehnička specifikacija, Troškovnik), s jasnim uputama za popunjavanje troškovnika i eESPD-a; postupak pojašnjenja dokumentiran je urednim zapisnikom bez naznaka nedostajućih elemenata.",
+      "citat": "Elektronička ponuda mora sadržavati najmanje: Uvez ponude Popunjeni eESPD obrazac (ili više njih, ako je primjenjivo) Popunjen troškovnik"
+    },
+    "prosjecna_ocjena": 4.67
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak"
+  },
+  "napomena": "Zaprimljena je samo 1 ponuda (SUNCE HOTELI d.d.), no u dokumentaciji nisu pronađeni indikatori namjerne prilagodbe specifikacije (nema referenci na točno određeni proizvod/marku, financijski/referentni pragovi za tehničku sposobnost su minimalni - tek izjava o mogućnosti izvršenja usluge bez brojčanih pragova); zahtjev da smještaj bude u mjestu održavanja natjecanja i minimalna kategorizacija 3* su razumno vezani uz svrhu nabave, ne uz konkretnog ponuditelja. Nizak broj ponuda vjerojatnije proizlazi iz uske niše (specifična lokacija, kapacitet, dvorane) nego iz restriktivnosti dokumentacije. Pročitane su sve dostupne .txt datoteke u extracted/ folderu (14 dokumenata)."
+}

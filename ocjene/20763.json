@@ -1,0 +1,27 @@
+{
+  "postupak_id": 20763,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij odabira (ekonomski najpovoljnija ponuda) potpuno je operacionaliziran zasebnim dokumentom 'Kriteriji za odabir ponude' koji za svih 6 grupa daje eksplicitne formule bodovanja (cijena 90 bodova, jamstveni rok 10 bodova), matematički izraz izračuna bodova na šest decimala, jasno omeđen raspon dopuštenog jamstvenog roka (24-60 mjeseci) i pravilo za rangiranje jednako bodovanih ponuda (ranije zaprimljena ponuda). Identična, mjerljiva metodologija primijenjena je dosljedno na sve grupe.",
+      "citat": "Naručitelj je ograničio najviši dozvoljeni iznos za kriterij 60,00 Naručitelj je ograničio najniži dozvoljeni iznos za kriterij 24,00"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 5,
+      "obrazlozenje": "Tehničke specifikacije za svih 6 grupa sadrže vrlo konkretan opis postojećeg stanja (točne dimenzije objekata, debljine slojeva, vrste oštećenja, materijali) i popis radova koje je potrebno izvesti, uz priložene fotografije lokacija/oštećenja. Opis je dovoljno detaljan da omogući usporedive ponude (troškovnik po stavkama), a pritom ostaje generički u pogledu materijala/tehnologije (npr. 'druga odabrana tehnologija izvođenja' dopuštena kao alternativa skeli) te ne isključuje razumne alternative izvođenja.",
+      "citat": "Trenutno stanje unutarnjih zidova montažnog, generatorskog i dijela turbinskog kata je: - horizontalne pukotine na nizvodnom i uzvodnom zidu - vertikalna pukotina širine zazora do 1,5 mm na zapadnom zidu"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dostupna je puna dokumentacija za samostalnu izradu ponude po svakoj od 6 grupa: opći podaci, kriteriji kvalitativnog odabira s uputama o ESPD-u i načinu dokazivanja, kriteriji za odabir ponude, upute za ponuditelje (uvjeti dostave, jamstva po grupama, rokovi), zasebne tehničke specifikacije i troškovnici po grupi te prijedlog ugovora. Svih 6 arhiva 'Prilozi (n).zip' ekstrahirano je kao prazno, ali provjera na disku potvrđuje da su izvorne arhive 0 bajtova (poznati artefakt neuspjelog preuzimanja dokumentiran u projektnim bilješkama), a ne stvarni nedostatak dokumentacije naručitelja — svi bitni prilozi (troškovnik, tehnička specifikacija) postoje kao zasebne, uspješno ekstrahirane datoteke po grupi.",
+      "citat": "Elektronička ponuda za svaku ponuđenu grupu mora sadržavati najmanje: Uvez ponude Popunjeni eESPD obrazac (ili više njih, ako je primjenjivo) Popunjen troškovnik"
+    },
+    "prosjecna_ocjena": 5.0
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak"
+  },
+  "napomena": "Postupak je podijeljen u 6 grupa (građevinsko održavanje na hidroelektranama HEP-Proizvodnja, PP HE Jug); kriteriji, uvjeti sposobnosti i način bodovanja identično su strukturirani za sve grupe. Financijski/referentni prag tehničke sposobnosti postavljen je točno na visinu procijenjene vrijednosti pojedine grupe (proporcionalno, uobičajena praksa, ne prekoračuje EU okvir). Tehnički stručnjaci (skelari, inženjer gradilišta) traženi su samo za Grupu 3, razmjerno opsegu radova na visini opisanom u toj grupi. Nema referenci na specifičan proizvod, marku ili patentirano rješenje u tehničkim specifikacijama - spomen 'Armstrong ploča' u opisu Grupe 4 odnosi se na opis postojećeg (zatečenog) stanja stropa, ne na zahtjev za novu ugradnju te marke. Pet 'Prilozi.zip' datoteka ekstrahiralo se prazno zbog potvrđeno 0-bajtnih izvornih arhiva (v. napomena uz potpunost_dokumentacije) - nije utjecalo na ocjenu jer su svi ključni prilozi dostupni zasebno."
+}

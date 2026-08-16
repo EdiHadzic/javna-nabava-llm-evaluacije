@@ -1,0 +1,39 @@
+{
+  "postupak_id": 7623,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriteriji za odabir ponude (cijena 90 %, udaljenost radionice 10 %) definirani su matematičkom formulom s potpuno mjerljivim ulaznim podacima; formula za cijenu je transparentna (CP = Pmin/Ppon*90), a bodovanje udaljenosti dano je preko jasne tablice pragova (0/5/10 bodova) uz propisanu, objektivnu metodu mjerenja (HAK interaktivna karta).",
+      "citat": "CP = Pmin / Ppon * 90 ... Udaljenost od sjedišta naručitelja do radionice (UR) 10 UR < 10 km 10"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Opis predmeta nabave razrađen je po grupama (FORD, MAZDA, FIAT) uz zaseban, stavka-po-stavka troškovnik s konkretnim vrstama radova/dijelova i okvirnim količinama po vozilu (uključujući brojeve šasije i registarske oznake), što omogućuje usporedivu ponudu. Nešto je manje detalja u zasebnom dokumentu 'Tehničke specifikacije' koji je zapravo generička izjava o sukladnosti, a stvarna razrada leži u troškovniku.",
+      "citat": "1 prednje pločice gar 8 ... 7 ule motor 5w30 lit 44 ... UKUPNO bez PDV-a: 0"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 4,
+      "obrazlozenje": "Dostupan je širok skup dokumenata potreban za samostalnu izradu ponude: Obavijest o nadmetanju, Opći podaci o postupku nabave, Kriteriji za kvalitativni odabir gospodarskog subjekta, Upute za ponuditelje, Tehnička specifikacija/izjava, troškovnici po grupama te obrasci izjava (zajednička ponuda, solidarna odgovornost, kriteriji, jamstvo). Blagi minus jer se dokumentacija na više mjesta poziva na 'zaseban prilog' za detaljne tehničke specifikacije koji suštinski ne nadilazi sadržaj troškovnika.",
+      "citat": "Detaljne tehničke specifikacije se nalaze u zasebnom prilogu."
+    },
+    "prosjecna_ocjena": 4.33
+  },
+  "restriktivnost": {
+    "prisutno": true,
+    "indikatori": [
+      {
+        "opis": "Za grupu FORD traži se dokaz da je ponuditelj ovlašteni servis marke vozila na području Zadarske županije od proizvođača/generalnog uvoznika, što praktički sužava krug mogućih ponuditelja na (najčešće) jednog ovlaštenog zastupnika marke u županiji.",
+        "citat": "Gospodarski subjekt koji dostavlja ponudu za vozila mora dokazati da je ovlašteni servis za marku vozila, na području Zadarske županije od strane proizvođača/generalnog uvoznika ili ovlaštenog predstavnika za Republiku Hrvatsku."
+      },
+      {
+        "opis": "Obveza ugradnje isključivo originalnih dijelova marke vozila dodatno vezuje izvršenje uz ovlaštene distribucijske kanale proizvođača, što ograničava neovisne servisere bez pristupa originalnim dijelovima.",
+        "citat": "Obveza ponuditelja je ponuditi originalne dijelova za marku vozila, te na ugrađene originalne dijelove i izvedene usluge dati garanciju/jamstvo u trajanju minimalno 12 mjeseci."
+      },
+      {
+        "opis": "Kriterij udaljenosti dodjeljuje pun broj bodova (10/10) tek za udaljenost radionice ispod 10 km od sjedišta naručitelja, a 0 bodova za udaljenost preko 20 km - vrlo strog geografski prag koji, u kombinaciji s uvjetom ovlaštenog servisa, dodatno sužava krug realnih ponuditelja unutar županije. Naručitelj obrazloženje temelji na objektivnoj potrebi (hitna medicinska vozila, brzina servisiranja), pa je rizik ublažen legitimnom svrhom, ali učinak sužavanja tržišta ostaje prisutan."
+      }
+    ],
+    "rizik": "srednji"
+  },
+  "napomena": "Pročitani su svi relevantni dokumenti iz extracted/ (Obavijest o nadmetanju, Opći podaci o postupku nabave, Kriteriji za kvalitativni odabir, Upute za ponuditelje, Formula za ENP, Tehnička specifikacija, troškovnici po grupama, izjave). Dokumenti vezani uz naknadne faze (Zapisnici o pregledu i ocjeni, Odluke o odabiru/poništenju, Obavijest o dodjeli) nisu korišteni za ocjenu transparentnosti dokumentacije o nabavi jer se odnose na fazu nakon objave natječaja; napomena: dva 'Prilozi.zip' priloga ekstrahirana su prazna (0 bajtova), pa njihov sadržaj nije mogao biti uzet u obzir."
+}

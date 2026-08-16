@@ -1,0 +1,38 @@
+{
+  "postupak_id": 30396,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriteriji za odabir ponude (ENP) potpuno su precizno definirani: cijena 90 bodova, jamstveni rok 10 bodova, s eksplicitnim matematičkim formulama, jedinicom mjere (godina, cijeli broj) i ograničenjima min/max vrijednosti. Kriteriji kvalitativnog odabira gospodarskog subjekta razrađeni su po ZJN2016 s jasnim pravnim osnovama, pitanjima za ESPD i načinom dokazivanja za svaki podkriterij.",
+      "citat": "Naručitelj je ograničio najviši dozvoljeni iznos za kriterij 5,00. Naručitelj je ograničio najniži dozvoljeni iznos za kriterij 2,00"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Opis predmeta nabave vrlo je konkretan i oslanja se na opsežnu projektnu dokumentaciju (8 mapa glavnog/izvedbenog projekta po strukama) i detaljan troškovnik po stavkama. Međutim, barem jedna skupina stavki (strojarske instalacije, npr. rekuperator) sadržavala je toliko precizne tehničke parametre (točne dimenzije u mm, težina u kg preuzeta iz kataloga) da je prema izričitom navodu ponuditelja u Odgovorima odgovarala samo jednom proizvodu na tržištu.",
+      "citat": "navedene karakteristike zadovoljava samo jedan proizvod čije su karakteristike preuzete u opis stavke"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dokumentacija je iznimno opsežna i cjelovita za samostalnu izradu ponude: puna projektna dokumentacija (arhitektura, konstrukcija, VIK, elektro, strojarstvo, dizalo, vatrodojava, fizika zgrade), elaborati zaštite na radu i od požara, energetska iskaznica, izvješće revidenta, troškovnik, tehničke specifikacije, prijedlog ugovora, obrasci i 108 objavljenih pitanja/pojašnjenja s odgovorima naručitelja.",
+      "citat": "Naručitelj odgovara kako je od svih navedenih kriterija potrebno zadovoljiti minimalni volumni protok, minimalni vanjski statički tlak te minimalnu visinu"
+    },
+    "prosjecna_ocjena": 4.67
+  },
+  "restriktivnost": {
+    "prisutno": true,
+    "indikatori": [
+      {
+        "indikator": "Više stavki troškovnika strojarskih instalacija sadržavalo je tehničke parametre (dimenzije u mm, težina u kg) izravno preuzete iz kataloga jednog konkretnog proizvoda, na što je ponuditelj eksplicitno upozorio kao na ograničavajuće za sudjelovanje.",
+        "rizik": "srednji",
+        "citat": "čime se ograničava sudjelovanje zainteresiranih gospodarskih subjekata jer navedene karakteristike zadovoljava samo jedan proizvod čije su karakteristike preuzete u opis stavke"
+      },
+      {
+        "indikator": "Naručitelj je na prigovor odgovorio djelomičnim ublažavanjem (dopušteno odstupanje +/-10% za većinu parametara), ali je zadržao tri stroga minimalna zahtjeva bez dodatnog obrazloženja tehničke nužnosti baš tih pragova.",
+        "rizik": "srednji",
+        "citat": "potrebno zadovoljiti minimalni volumni protok, minimalni vanjski statički tlak te minimalnu visinu do rekuperatora od 260 cm, dok je sve ostale parametre dozvoljeno je odstupanje od +/-10%"
+      }
+    ],
+    "rizik": "srednji",
+    "napomena": "Nije pročitano svih ~155 datoteka u extracted/ (dio su opsežne projektne mape po sheet-ovima stolarije, pojedinačni post-award dokumenti). Pretražen je pun tekstualni sadržaj Troškovnika i log Pitanja/Pojašnjenja (108 upita) radi detekcije restriktivnosti."
+  }
+}

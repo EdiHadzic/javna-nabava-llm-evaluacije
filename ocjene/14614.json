@@ -1,0 +1,43 @@
+{
+  "postupak_id": 14614,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij ENP potpuno je operacionaliziran: cijena nosi 90 bodova s eksplicitnom formulom (najniža cijena = max bodova, ostale razmjerno), a jamstveni rok nosi 10 bodova prema jasnoj bodovnoj tablici po rasponima mjeseci (0/2/5/7/10 bodova). Bodovi se računaju na šest decimala, a pravilo za jednako rangirane ponude (ranije zaprimljena) izričito je navedeno.",
+      "citat": "Ponuda s najnižom cijenom dobiva 90,00 bodova... Rbr Opis Broj bodova... 5 60 mjeseci i više 10,00"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Tehnička specifikacija vrlo je detaljna i mjerljiva (dimenzije, materijali, IP zaštita, standardi HRN EN 61439/62208, debljine, razmaci sabirnica) za svaku od šest vrsta ormara i za mehanizme brava, što omogućuje usporedivu ponudu. Gotovo svuda gdje se spominje norma ili konkretan proizvod dosljedno je dodana klauzula jednakovrijednosti, čime se ublažava rizik prekomjernog suženja tržišta unatoč vrlo tehničkoj razini detalja.",
+      "citat": "Ponuđeni ormarići mogu imati bolje karakteristike od traženih... ili jednakovrijedno"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dostupan je pun set dokumentacije potreban za samostalnu izradu ponude: opći podaci o postupku, tehnička specifikacija, troškovnik (xlsx), kriteriji za odabir ponude i za kvalitativni odabir gospodarskog subjekta, upute za ponuditelje, prijedlog okvirnog sporazuma, izjava o integritetu i izjava o jamstvenom roku. Upute za popunjavanje troškovnika i način dostave detaljno su razrađeni.",
+      "citat": "Elektronička ponuda mora sadržavati najmanje: Uvez ponude, Popunjeni eESPD obrazac..., Popunjen troškovnik"
+    },
+    "prosjecna_ocjena": 4.67
+  },
+  "restriktivnost": {
+    "prisutno": true,
+    "indikatori": [
+      {
+        "opis": "Zahtjev da profil ključa za mehanizme brava (cilindar/polucilindar) mora biti izrađen isključivo za naručitelja, kao ekskluzivni, patentom ili modelom zaštićeni profil s rokom važenja 20 godina te s pripadajućim sustavom ovlaštenog kopiranja ključa.",
+        "citat": "Profil ključa – mehanizam mora biti izrađen isključivo za naručitelja – ekskluzivni profil.",
+        "napomena": "Ima legitimno tehničko opravdanje (kompatibilnost s već instaliranim sustavom brava na terenu, stavke troškovnika izričito traže 'PREMA POSTOJEĆEM KLJUČU'), ali strukturno sužava krug ponuditelja na one koji imaju pristup postojećem patentiranom profilu/sustavu kopiranja ključeva."
+      },
+      {
+        "opis": "Konkretni trgovački nazivi za polucilindar i bravicu, iako uz klauzulu jednakovrijednosti.",
+        "citat": "Trgovački naziv: 848/10-30 ili jednakovrijedan",
+        "napomena": "Klauzula 'ili jednakovrijedno' formalno omogućuje alternative, ali u kombinaciji s zahtjevom podudaranja s postojećim ključem praktična zamjenjivost je upitna."
+      },
+      {
+        "opis": "Troškovnik navodi konkretan proizvod za betonski KRO ormar uz jednakovrijednu alternativu.",
+        "citat": "\"MAREX\" ILI JEDNAKOVRIJEDAN PROIZVOD",
+        "napomena": "Standardna praksa uz klauzulu jednakovrijednosti, nizak samostalni rizik."
+      }
+    ],
+    "rizik": "srednji"
+  },
+  "napomena": "Svi relevantni dokumenti postupka bili su dostupni i čitljivi (bez OCR/ekstrakcijskih praznina). Kontekstualno (izvan opsega ove ocjene, ali relevantno za interpretaciju): postupak je zaprimio samo jednu ponudu (ŠARE d.o.o.), što je konzistentno s, ali samo po sebi ne dokazuje, umjereni rizik restriktivnosti utvrđen kod stavki brava/ključeva."
+}

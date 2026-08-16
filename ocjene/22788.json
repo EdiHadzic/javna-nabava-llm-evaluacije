@@ -1,0 +1,27 @@
+{
+  "postupak_id": 22788,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriteriji za odabir ponude u potpunosti su formalizirani i mjerljivi: naslanjaju se izravno na Uredbu o uvjetima i vrednovanju kriterija za davanje koncesije i sklapanje ugovora o javnoj usluzi (NN 31/14), koja propisuje egzaktne bodovne tablice za svaki tehnički element (brzina, udobnost, starost broda, iskustvo, održavanje) po tipu broda/linije, te matematičke formule za tehnički i ekonomsko-financijski koeficijent. Ponder 50% cijena / 50% tehnički kriteriji eksplicitno je naveden i u Obavijesti o nadmetanju i u Uputama za ponuditelje, bez prostora za diskrecijsku ocjenu naručitelja.",
+      "citat": "1. tehnički kriteriji 50%; 2. ekonomsko-financijski kriteriji 50%. Najpovoljnijim ponuditeljem smatrat će se brodar koji... ostvari najveći broj bodova."
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 5,
+      "obrazlozenje": "Predmet nabave (usluga javnog prijevoza na tri državne trajektne linije) opisan je vrlo konkretno: točne rute i luke pristajanja, trajanje ugovora (6+4 godine s uvjetom starosti broda za produljenje), CPV oznaka, te opsežan zaseban dokument (Program državne potpore SGEI, ~560 kB teksta) koji detaljno obrazlaže pravni okvir, metodologiju izračuna naknade i 'razumne dobiti' te godišnju/ukupnu naknadu razloženu po liniji i razdoblju. Opis je nužno uzak jer je riječ o zakonom utvrđenim državnim linijama (Odluka o uspostavljanju državnih linija, NN 150/2023), a ne o proizvoljnom suženju od strane naručitelja.",
+      "citat": "Detaljne tehničke specifikacije se nalaze u zasebnom prilogu."
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dokumentacija je iznimno cjelovita: Dio I (opći podaci), Dio II (upute za ponuditelje), kriteriji kvalitativnog odabira, poseban dokument s propisanom formulom rangiranja (Uredba NN 31/14), troškovnik, ESPD upute, program državne potpore, te objavljeni odgovori naručitelja na upit gospodarskog subjekta (modul Pitanja/Pojašnjenja). Nakon dodjele dostupni su i odluka o odabiru s detaljnim obrazloženjem bodovanja te zapisnici o pregledu i ocjeni ponuda. Nema uočenih praznina u dostupnoj dokumentaciji potrebnoj za samostalnu izradu ponude.",
+      "citat": "Elektronička ponuda mora sadržavati najmanje: Uvez ponude, Popunjeni eESPD obrazac, Popunjen troškovnik, Dokumentacija / dokazi za kriterija za odabir ponude"
+    },
+    "prosjecna_ocjena": 5.0
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak"
+  },
+  "napomena": "Postupak je jedan od 6 ugovora o trajektnim linijama/PSO spomenutih u tekstu rada kao glavni doprinos visokom HHI u sektoru usluga (v. 5.3.) - zaprimljena je samo 1 ponuda (JADROLINIJA, dosadašnji državni operater). Kriteriji koji boduju dugogodišnje iskustvo brodara u obavljanju javnog prijevoza (do 10 bodova za 11+ godina iskustva) strukturno pogoduju uhodanim operaterima, ali proizlaze izravno iz nacionalne Uredbe (NN 31/14) koja se identično primjenjuje na sve ovakve PSO natječaje, a ne iz specifikacije koju je ovaj naručitelj prilagodio jednom ponuditelju - stoga nije označeno kao restriktivnost u smislu ove ocjene, no relevantno je za interpretaciju niske konkurentnosti u 5.3. Sva pročitana dokumentacija bila je dobro strukturirana i čitljiva (native PDF/HTML/XLSX ekstrakcija, bez OCR/scan problema)."
+}

@@ -1,0 +1,31 @@
+{
+  "postupak_id": 2803,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij odabira ponude (ekonomski najpovoljnija ponuda) posve je jasno definiran matematičkim formulama za oba podkriterija (cijena i rok isporuke), s jasnim ponderima, maksimalnim bodovima i postupanjem u rubnim slučajevima (nedostava izjave, jednako rangirane ponude). Kriteriji kvalitativnog odabira gospodarskog subjekta detaljno prate zakonsku ESPD strukturu (osnove za isključenje, tehnička sposobnost, način dokazivanja) bez dvosmislenosti.",
+      "citat": "a) Cijena ponude - C 90 90%; b) Rok isporuke - G 10 10%; Maksimalni broj bodova 100"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 2,
+      "obrazlozenje": "Opis predmeta nabave sadržavao je izvorno izravnu referencu na zaštićeno ime konkretnog proizvođača (ConMed, model AirSeal®), što je gospodarski subjekt formalno prijavio kao pogodovanje. Naručitelj je djelomično ispravio dokumentaciju (uklonio naziv proizvoda i odrednicu 'trolumensko crijevo'), no u konačnom troškovniku ostala je vrlo specifična numerička karakteristika (ULPA filter 0,01 mikrona) za koju je podnositelj prigovora izričito naveo da je ima samo taj isti proizvođač - dakle opis ostaje sužen na uskom tehničkom parametru čak i nakon ispravka.",
+      "citat": "8. Kompatibilan s ULPA filterom od 0,01 mikrona"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 4,
+      "obrazlozenje": "Dostupni su svi ključni dijelovi dokumentacije potrebni za samostalnu izradu ponude: opći podaci, tehnička specifikacija/troškovnik, upute za ponuditelje s formulama bodovanja, kriteriji kvalitativnog odabira, prilozi (izjava o roku isporuke, izjava o jamstvenom roku, prijedlog ugovora). Manji nedostatak: zasebna datoteka 'Tehnička specifikacija' sadrži tek uputnu rečenicu da je specifikacija zapravo u troškovniku, što je pomalo nespretno strukturirano, ali sadržajno nije nepotpuno.",
+      "citat": "Elektronička ponuda mora sadržavati najmanje: Uvez ponude, Popunjeni eESPD obrazac, Popunjen troškovnik"
+    },
+    "prosjecna_ocjena": 3.67
+  },
+  "restriktivnost": {
+    "prisutno": true,
+    "indikatori": [
+      "Izvorni troškovnik izravno je navodio zaštićeno trgovačko ime i model konkretnog proizvođača: 'jasno i nedvojbeno je istaknuto da se radi o proizvodu tvrtke ConMed, model AirSeal® (zaštićeno ime)' (prigovor gospodarskog subjekta, Odgovori)",
+      "Naručitelj je sam u službenoj obavijesti o izmjeni priznao propust: 'uočio pogrešku (korištenje trgovačkog naziva) i nedostatke u tehničkoj specifikaciji predmeta nabave za koje nije znao ranije' (Izmjena 2, 18.03.2024.)",
+      "Unatoč prihvaćanju prigovora ('Naručitelj prihvaća zatražene izmjene'), konačni troškovnik i dalje sadrži usku numeričku karakteristiku (ULPA filter 0,01 mikrona) za koju je podnositelj prigovora naveo 'Ovu karakteristiku ima samo gore navedeni proizvođač' - ispravak je bio samo djelomičan"
+    ],
+    "rizik": "visok"
+  },
+  "napomena": "Pregledani su svi ključni dokumenti postupka (Kriteriji za kvalitativni odabir, Kriterij za odabir najpovoljnije ponude, Obavijest o nadmetanju, Opći podaci, Tehnička specifikacija, Troškovnik, Upute za ponuditelje, Odgovori/prigovor, sve 3 Izmjene, Odluka o odabiru, Obavijest o dodjeli ugovora). Ovaj postupak je izuzetno rijedak slučaj gdje je pogodovanje specifičnom ponuditelju formalno dokumentirano vlastitim priznanjem naručitelja u službenoj objavi izmjene, a ne tek indirektno zaključeno iz teksta specifikacije - stoga visoka pouzdanost restriktivnost-nalaza. Nisu pojedinačno pregledani Prilog 2/3/5, zapisnici o pregledu i ocjeni ponuda te prazna 'Prilozi.zip' ekstrakcija, jer nisu bili nužni za ocjenu transparentnosti/restriktivnosti."
+}

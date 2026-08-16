@@ -1,0 +1,36 @@
+{
+  "postupak_id": 4982,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij za odabir ponude je isključivo cijena (100% relativnog značaja), s eksplicitno navedenom formulom bodovanja i pravilom za slučaj jednakog rangiranja. Nema dvosmislenosti niti podložnih tumačenju ne-cjenovnih kriterija.",
+      "citat": "Ekonomski najpovoljnija ponuda utvrđuje se na temelju Cijene. Cijena 100,00"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Tehničke specifikacije definiraju konkretne rokove uručenja po kategorijama pošiljaka i prometu (unutarnji/međunarodni), postupanje s otočnim pošiljkama i isključenja iz roka, a Troškovnik razrađuje predmet do razine masenih razreda i dopunskih usluga, što omogućuje usporedive ponude. Opis je pretežno standardiziran prema Zakonu o poštanskim uslugama, bez dodatne kvantitativne prognoze prometa po pojedinim rutama.",
+      "citat": "uručenje 85% poštanskih pošiljaka najbrže kategorije u roku od jednog radnog dana, odnosno 95% u roku od dva radna dana"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dostupan je pun set dokumentacije (opći podaci, kriteriji za odabir ponude, kriteriji kvalitativnog odabira s uputama, tehničke specifikacije, troškovnik, upute za ponuditelje, prijedlog okvirnog sporazuma) te odgovori na pitanja zainteresiranih gospodarskih subjekata kojima je naručitelj izmijenio dokumentaciju, što pokazuje funkcionalan postupak pojašnjenja.",
+      "citat": "Odgovor: Prihvaća se prijedlog zainteresiranog gospodarskog subjekta te se članak 5. stavak 2. Okvirnog sporazuma mijenja"
+    },
+    "prosjecna_ocjena": 4.67
+  },
+  "restriktivnost": {
+    "prisutno": true,
+    "indikatori": [
+      {
+        "opis": "Uvjet tehničke i stručne sposobnosti zahtijeva fizičku poslovnu mrežu (minimalno 4 poslovnice, uključujući urede na najmanje dva od sedam otoka administrativno pripadajućih Gradu Zadru) koju u praksi posjeduje samo davatelj univerzalne poštanske usluge, čime se krug potencijalnih ponuditelja sužava na de facto jednog subjekta.",
+        "citat": "najmanje jednu poslovnicu na kopnenom administrativnom području Grada Zadra te najmanje po jednu poslovnicu za dva otoka... minimalno 4 (četiri) poslovnice"
+      },
+      {
+        "opis": "Ishod postupka potvrđuje učinak uvjeta: zaprimljena je samo jedna ponuda, od HP - Hrvatska pošta d.d. (jedini davatelj univerzalne poštanske usluge u RH), bez konkurencije.",
+        "citat": "Broj zaprimljenih ponuda: 1 ... Ugovaratelj - HP - Hrvatska pošta d.d."
+      }
+    ],
+    "rizik": "srednji"
+  },
+  "napomena": "Pročitane su sve raspoložive .txt datoteke iz extracted/ (opći podaci, oba kriterija, tehničke specifikacije, troškovnik, upute za ponuditelje, prijedlog okvirnog sporazuma, odgovori, odluka o odabiru, zapisnik o pregledu i ocjeni, obavijest o dodjeli). Zahtjev za mrežom poslovnica na otocima objektivno je vezan uz opseg usluge (dostava na otocima koji administrativno pripadaju Gradu Zadru), no praktični učinak je sužavanje tržišta na jednog ponuditelja (HP - Hrvatska pošta d.d.), stoga je rizik ocijenjen kao srednji, a ne visok - nije riječ o proizvoljnom favoriziranju markom/patentom, već o infrastrukturnom pragu koji odražava strukturnu koncentraciju na poštanskom tržištu."
+}

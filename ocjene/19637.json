@@ -1,0 +1,27 @@
+{
+  "postupak_id": 19637,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij ENP potpuno je operacionaliziran: cijena (90 bodova) i jamstveni rok za otklanjanje nedostataka (10 bodova) imaju eksplicitne matematičke formule, tablicu bodovanja s rasponima (24-60 mjeseci), definirane minimalne/maksimalne vrijednosti i dokaz koji se traži (izjava o ponuđenom jamstvenom roku). Nema prostora za subjektivnu interpretaciju.",
+      "citat": "Ponuda s najnižom cijenom dobiva 90,00 bodova, dok se ostale ponude boduju prema formuli"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Opis predmeta nabave u obavijesti je sažet, ali upućuje na opsežnu tehničku dokumentaciju (Projektna dokumentacija ~570 kB izvučenog teksta, detaljan Troškovnik s pozicijama, dimenzijama, klasama betona C25/30 i C30/37, promjerima cijevi) koja omogućuje usporedivu ponudu. Prisutna je standardna klauzula jednakovrijednosti za tehničke specifikacije, čime se izbjegava nepotrebno sužavanje kruga ponuditelja unatoč navođenju konkretnih tehničkih parametara.",
+      "citat": "Niveliranje terena i izgradnja grobnica na NGGGZ, grobna cjelina G1, grobna polja V, VI i VIII, sve detaljno opisano u Troškovniku i projektnoj dokumentaciji"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dostupan je pun set dokumentacije potreban za samostalnu izradu ponude: Opći podaci, Upute za ponuditelje, Kriteriji za kvalitativni odabir i za odabir ponude, Troškovnik, Projektna dokumentacija, Prijedlog ugovora. Naručitelj je prije roka za dostavu ponuda uočio i ispravio nedosljednost između Uputa (t. 4.2.3) i Prijedloga ugovora te objavio ažurirani troškovnik s izmjenama označenim crvenom bojom, čime je dokumentacija ostala interno usklađena.",
+      "citat": "Naručitelj je uvidio potrebu ažuriranja troškovnika te objavljuje novi izmijenjeni troškovnik (Troškovnik - I izmjene). Izmjene su označene crvenom bojom."
+    },
+    "prosjecna_ocjena": 4.67
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak"
+  },
+  "napomena": "Pregledani ključni dokumenti (Obavijest o nadmetanju, Opći podaci, Kriteriji za kvalitativni odabir, Kriteriji za odabir ponude, Upute za ponuditelje, Izmjena dokumentacije, dio Troškovnika i Projektne dokumentacije, zahtjevi/pojašnjenja tijekom postupka, Obavijest o dodjeli ugovora). Referentni uvjet (do 3 izvršena rada u zbroju najmanje u visini procijenjene vrijednosti nabave) standardna je proporcionalna formulacija prema čl. 259. ZJN 2016, ne prekoračuje uobičajene pragove. U troškovniku nisu pronađene reference na konkretne marke/proizvođače bez klauzule jednakovrijednosti; tehnički opisi (klase betona, dimenzije, DN promjeri cijevi) generički su i uobičajeni za građevinske troškovnike. Postupak je dovršen s 4 zaprimljene ponude (3 od malih/srednjih poduzetnika), što ukazuje na razumnu razinu tržišnog natjecanja, ne na sužen krug ponuditelja."
+}

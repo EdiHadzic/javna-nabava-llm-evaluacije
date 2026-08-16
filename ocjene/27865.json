@@ -1,0 +1,27 @@
+{
+  "postupak_id": 27865,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij ENP potpuno operacionaliziran egzaktnim formulama za oba pod-kriterija (cijena i jamstveni rok), s ponderima, maksimalnim bodovima i minimalnim pragom jamstvenog roka - potpuno mjerljivo i bez prostora za diskreciju.",
+      "citat": "C = Cmin / Cp x 80 ... JR = JRp / JRmax x 20 ... Minimalni jamstveni rok je 24 mjeseca."
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Opis predmeta tehnički je vrlo konkretan (dimenzije, dubine iskopa, klase betona/armature, zaštitni slojevi) i omogućuje usporedivu ponudu bez sužavanja na specifičnog ponuditelja; jedina slabost je što grafički dio idejnog projekta (nacrti/situacija) nije čitljiv u izvučenom tekstu.",
+      "citat": "Iskop zemlje će se vršiti do dubine od 20-30 cm... na koju se izvodi armirano-betonska ploča debljine 15 cm... razred tlačne čvrstoće betona najmanje C30/37, čelik za armiranje B500B"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 4,
+      "obrazlozenje": "Dostupan je pun set dokumenata (DON s prilozima, troškovnik, kriteriji za kvalitativni odabir, upute za ponuditelje, idejni projekt tekstualni dio, odgovori na pitanja) dovoljan za samostalnu izradu ponude; zasebna 'Tehničke specifikacije' datoteka gotovo je prazna, ali to je namjerno jer izravno upućuje na idejni projekt i troškovnik koji su potpuni, a grafički dio idejnog projekta nije verificiran (vjerojatno slikovni sadržaj bez OCR-a).",
+      "citat": "Tehničke specifikacije predmeta nabave navedene su u Idejnom projektu sanacije pješačke staze (prilog 1) i Troškovniku (prilog 2)"
+    },
+    "prosjecna_ocjena": 4.33
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak"
+  },
+  "napomena": "Financijski prag (kumulativni promet u visini procijenjene vrijednosti, 70.550 EUR) i tehnički referentni prag (1-3 slična ugovora ukupne vrijednosti minimalno u visini procijenjene vrijednosti) proporcionalni su predmetu, standardni za male vrijednosti i ne prelaze uobičajene omjere. Nema referenci na specifičnu marku/proizvođača u troškovniku niti u tehničkim specifikacijama; naprotiv, izričito je dopuštena ponuda jednakovrijednog proizvoda. Grafički dio idejnog projekta (situacija, nacrti) nije sadržajno vidljiv u ekstrahiranom tekstu (samo ponavljajuća zaglavlja) - vjerojatno OCR/scan gap, nije presudno za ocjenu jer troškovnik sadrži sve potrebne količine i tehničke opise. Postupak je zaprimio samo jednu ponudu, ali to je vjerojatno posljedica lokacije (otok Zverinac) i male vrijednosti nabave, ne restriktivnosti dokumentacije."
+}

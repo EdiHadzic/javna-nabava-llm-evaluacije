@@ -1,0 +1,27 @@
+{
+  "postupak_id": 23988,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij ENP je potpuno operacionaliziran matematičkom formulom (B=C+RI), s preciznom formulom za bodovanje cijene (C=NC/CP*90) i jasno definiranim, diskretnim pragovima za rok isporuke (tri kategorije s točno navedenim satima isporuke po lokaciji i pripadajućim bodovima 10/5/0). Nema prostora za subjektivnu ocjenu naručitelja pri bodovanju.",
+      "citat": "Maksimalni broj bodova (90) dodijelit će se ponudi s najnižom cijenom."
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Samostalni dokument 'Tehničke specifikacije' izrazito je sažet (svega tri retka, upućuje na troškovnik i traži kvalitetu I. klase/EX-EXCELENT), no stvarna razina detalja predmeta nabave nalazi se u opsežnom troškovniku od 101 stavke, gdje je za gotovo svaku vrstu cvijeća/zelenila navedena minimalna duljina stabljike, boja, oblik grane i jedinica mjere, što omogućuje usporedivu ponudu bez da isključuje razumne alternative dobavljača.",
+      "citat": "ALSTROMERIA (grana s više cvjetova, raznih boja, duljina stabljike min. 70 cm)"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dokumentacija sadrži sve standardne dijelove (opći podaci, kriteriji kvalitativnog odabira, kriterij za odabir ponude, upute za ponuditelje, tehničke specifikacije, troškovnik, prilozi za izjavu o roku isporuke i ovlaštenje za zastupanje). Zapisnik o pregledu i ocjeni potvrđuje da su obje zaprimljene ponude ocijenjene kao potpune i valjane prema obliku i sadržaju, što upućuje na to da je dokumentacija bila dostatna za samostalnu izradu ponude. Naručitelj je i pravovremeno ispravio grešku u troškovniku putem službene izmjene objave prije roka za dostavu ponuda.",
+      "citat": "dostavio je ponudu koja u potpunosti zadovoljava uvjete iz Dokumentacije o nabavi i kriterij za odabir ponude sa brojem bodova 100,00"
+    },
+    "prosjecna_ocjena": 4.67
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak"
+  },
+  "napomena": "Pročitane su sve relevantne .txt datoteke iz extracted/ (opći podaci, kriteriji kvalitativnog odabira, kriterij za odabir ponude, tehničke specifikacije, troškovnik, upute za ponuditelje, obavijest o nadmetanju i njena izmjena, zapisnici o otvaranju i o pregledu i ocjeni, odluka o odabiru). Uvjeti sposobnosti (kvalitativni odabir) ograničeni su tek na upis u registar, bez dodatnih financijskih ili referentnih pragova, što je u skladu s niskim rizikom restriktivnosti. Jamstvo za ozbiljnost ponude (2.800 EUR) razmjerno je procijenjenoj vrijednosti (218.950 EUR, ~1,3%). Postupak je imao dva valjana ponuditelja s natjecateljskim ishodom (90,0 vs 80,1 bodova), što dodatno potvrđuje da specifikacija nije bila isključujuća. Prilog 'Odluka o odabiru__Prilozi.zip' ekstrahiran je kao prazna datoteka (0 bajtova), no radi se o post-award prilogu koji nije relevantan za ocjenu transparentnosti dokumentacije o nabavi prije dostave ponuda."
+}

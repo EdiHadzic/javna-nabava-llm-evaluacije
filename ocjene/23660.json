@@ -1,0 +1,36 @@
+{
+  "postupak_id": 23660,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij za odabir ponude (ekonomski najpovoljnija ponuda) potpuno je razrađen u zasebnom dokumentu s dvije komponente (cijena 90 bodova, rok isporuke 10 bodova), potpunom matematičkom formulom za bodovanje cijene i jasnom bodovnom tablicom za rok isporuke po diskretnim pragovima, bez prostora za subjektivnu diskreciju povjerenstva.",
+      "citat": "Rok isporuke u kalendarskim danima Broj bodova do 7 dana 1 bod do 5 dana 5 bodova do 2 dana 10 bodova"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Zaseban dokument 'Tehničke specifikacije' gotovo je prazan i upućuje isključivo na troškovnik, no sam troškovnik sadrži konkretne mjerne i tehničke podatke (dimenzije, promjeri, duljine kabela, površine elektroda) za svaku stavku, dovoljne za usporedivu ponudu. Opis je, međutim, sustavno vezan uz nazivlje jednog proizvođača (Erbe) i njegove linije proizvoda (VIO/ICC/ACC), što opis čini konkretnim ali i uskim.",
+      "citat": "GRUPA 31: OPREMA ZA ELEKTROKIRURŠKI GENERATOR ERBOTOM ICC 300-H PROIZVOĐAČA ERBE"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dostupna je cjelovita dokumentacija potrebna za samostalnu izradu ponude: opći podaci, kriteriji za odabir ponude s formulama, opsežni kriteriji kvalitativnog odabira gospodarskog subjekta (ESPD, osnove za isključenje, tehnička i stručna sposobnost, norme kvalitete), upute za ponuditelje, troškovnik, prijedlog ugovora i izjava o roku isporuke. Nema naznaka nedostajućih priloga niti praznih/nepopunjenih dijelova dokumentacije o nabavi.",
+      "citat": "Elektronička ponuda mora sadržavati najmanje: Uvez ponude Popunjeni eESPD obrazac (ili više njih, ako je primjenjivo) Popunjen troškovnik"
+    },
+    "prosjecna_ocjena": 4.67
+  },
+  "restriktivnost": {
+    "prisutno": true,
+    "indikatori": [
+      {
+        "opis": "Naslov predmetne grupe u troškovniku izravno imenuje proizvođača i model opreme s kojom stavke moraju biti kompatibilne, umjesto da se ograniči na generičke tehničke/funkcionalne zahtjeve.",
+        "citat": "GRUPA 31: OPREMA ZA ELEKTROKIRURŠKI GENERATOR ERBOTOM ICC 300-H PROIZVOĐAČA ERBE"
+      },
+      {
+        "opis": "Više stavki troškovnika (npr. stavke 7-10: bipolarni kabel, bipolarna pinceta, držači elektrode s evakuacijom dima) referira nazive proizvodnih linija proizvođača Erbe (VIO, ICC, ACC) BEZ dodane napomene 'ili jednakovrijedno', za razliku od stavki 1-6 koje tu napomenu imaju. Sukladno čl. 200. ZJN2016 upućivanje na marku/proizvođača bez mogućnosti jednakovrijedne zamjene predstavlja povredu načela otvorenog tržišnog natjecanja.",
+        "citat": "7. Bipolarni kabel VIO,ICC,ACC,standard,za bipolarne pincete dužina 4m"
+      }
+    ],
+    "rizik": "srednji"
+  },
+  "napomena": "Pročitane su sve 16 .txt datoteke u extracted/. Restriktivnost je najvjerojatnije zahtjev kompatibilnosti s već instaliranom opremom (elektrokirurški generator Erbotom ICC 300-H) koju naručitelj već posjeduje - uobičajen i često opravdan razlog za vezivanje potrošnog materijala uz postojeći sustav - a sâm predmet nabave (filteri, stavke 11-12 troškovnika) opisan je generički putem promjera priključka (Ø 22 mm) bez reference na marku. Ipak, izostanak klauzule 'ili jednakovrijedno' kod dijela stavki koje se izravno referiraju na proizvođačevo nazivlje (Erbe VIO/ICC/ACC) formalni je i sadržajni nedostatak koji sužava krug potencijalnih ponuditelja, stoga je rizik ocijenjen kao srednji, a ne nizak ili visok. Dokument 'Tehničke specifikacije' sadrži samo 3 retka i upućuje na troškovnik kao stvarni izvor specifikacija - tretiran je kao dio cjeline s troškovnikom, ne kao zaseban nedostatak. Postupak je završio dodjelom ugovora ponuditelju MEL-MEDIKAL d.o.o. (95 bodova od 100), dok je druga zaprimljena ponuda (AnalyticPharma d.o.o.) odbijena zbog neispunjenog troškovnika, ne zbog neispunjavanja tehničkih specifikacija vezanih uz marku - ovaj ishod je naveden radi konteksta, ne kao dokaz o (ne)postojanju restriktivnosti u samoj specifikaciji."
+}

@@ -1,0 +1,27 @@
+{
+  "postupak_id": 12967,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij za odabir ponude je jasno definiran i u potpunosti numerički mjerljiv: cijena nosi 90 bodova, jamstveni rok za otklanjanje nedostataka 10 bodova. Zapisnik o pregledu i ocjeni potvrđuje da je taj kriterij dosljedno i transparentno primijenjen (izračun bodova prikazan po ponuditelju).",
+      "citat": "Broj bodova: 90,000000 ... Jamstveni rok za otklanjanje nedostataka: 10,000000"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 2,
+      "obrazlozenje": "Opis predmeta nabave u obavijesti o nadmetanju je generički i upućuje isključivo na prilog (troškovnik) za konkretne tehničke karakteristike, bez ikakvog opisa sadržanog u samoj obavijesti. Iz zapisnika o pregledu i ocjeni vidljivo je da troškovnik sadrži vrlo konkretne, brojčano izražene stavke (npr. kut nagiba, tlak u kPa, kapacitet usisa u l/min), ali sam taj dokument (Prilozi.zip) nije dostupan u izdvojenom tekstu, pa se stvarna razina detalja ne može izravno provjeriti iz dostupnih dokumenata.",
+      "citat": "4K Gastroenterološki stup, a sve sukladno opisu u specifikaciji predmeta nabave – troškovniku koji čini sastavni dio DoN."
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 2,
+      "obrazlozenje": "Administrativni dokumenti (obavijest o nadmetanju, tri izmjene, odluka o odabiru, obavijest o dodjeli, zapisnik o pregledu i ocjeni) su potpuni i međusobno konzistentni. Međutim, ključni prilog naveden kao sastavni dio dokumentacije o nabavi (troškovnik/tehnička specifikacija, u Prilozi.zip) izdvojen je kao prazan (0 bajtova), pa samostalna izrada ponude ne bi bila moguća isključivo na temelju dostupnog izdvojenog teksta.",
+      "citat": "Ponuđene stavke u Troškovniku pod rednim brojevima: 1.14; 4.1; 4.2; 4.3; 5.4; 5.8 ne udovoljavaju zatrazenom."
+    },
+    "prosjecna_ocjena": 3.0
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak"
+  },
+  "napomena": "Prilozi.zip.txt je prazan (0 bajtova) — vjerojatno poznati pipeline artefakt (arhive koje se ekstrahiraju u 0 bajtova unatoč nenultoj izvornoj datoteci, v. CLAUDE.md limitacija #7), pa glavna specifikacija predmeta nabave (troškovnik) nije bila dostupna za izravnu analizu. Ocjena razine detalja opisa i procjena restriktivnosti stoga se oslanjaju isključivo na neizravne tragove iz Zapisnika o pregledu i ocjeni (npr. konkretne brojčane stavke poput kuta nagiba max. 160°, tlaka 90kPa, kapaciteta usisa), koji ne sadrže reference na marku/proizvođača niti nesrazmjerne financijske pragove (jamstvo 3.000 EUR na procijenjenu vrijednost 115.000 EUR, ~2,6%, uobičajeno). Od 3 zaprimljene ponude, 2 su odbijene (jedna zbog nedostavljenog jamstva i neispunjenog troškovnika, druga zbog neispunjavanja 6 konkretnih tehničkih stavki troškovnika), što ukazuje na razmjerno strog tehnički pregled, ali bez dostupnog troškovnika ne može se sa sigurnošću isključiti mogućnost suptilne prilagodbe specifikacije jednom ponuditelju."
+}

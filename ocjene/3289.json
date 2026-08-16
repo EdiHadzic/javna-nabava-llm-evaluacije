@@ -1,0 +1,27 @@
+{
+  "postupak_id": 3289,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij ENP potpuno je operacionaliziran eksplicitnim formulama s definiranim granicama za oba potkriterija: cijena (90 bodova) po formuli C=(Cmin/Cp)x90, i kvaliteta - jamstveni rok (10 bodova) po formuli J=(Jo/Jn)x10, s jasno propisanim minimalnim (0) i maksimalnim (36 mjeseci) vrijednostima te pravilom da se ponude bez izjave tretiraju kao zakonski minimum. Zapisnik o pregledu i ocjeni dosljedno primjenjuje te formule na sve četiri ponude.",
+      "citat": "C= (Cmin/Cp) x 90"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 5,
+      "obrazlozenje": "Opis predmeta nabave oslanja se na detaljan građevinski projekt i troškovnik s po stavkama razrađenim opisima (dimenzije, klase betona, granulacije materijala, dužine sekcija, metode ugradnje), što omogućuje izravno usporedive ponude. Tehnička specifikacija upućuje na opće HRN/ISO norme (npr. za zavarivanje armature, geotekstile, beton), a ne na specifične proizvođače ili marke, čime opis ostaje precizan bez neopravdanog suženja kruga ponuditelja - potvrđeno time da su 4 ponuditelja dostavila valjane ponude koje su sve zadovoljile tehničke zahtjeve.",
+      "citat": "betonom za podmorske radove C35/45 upotrebom kontraktora. Dimenzije temelja su cca 30X60 cm."
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dostupan je pun set dokumentacije potreban za samostalnu izradu ponude: Opći podaci o postupku nabave, Kriteriji za kvalitativni odabir (s ESPD uputama), Upute za ponuditelje, detaljna tehnička specifikacija (Glavni građevinski projekt sanacije), potpuni troškovnik po stavkama, predložak izjave o jamstvenom roku, kao i objavljeni odgovori na pitanja ponuditelja i izmjena dokumentacije. Nema naznaka nedostajućih priloga ili nejasnih uputa o načinu dostave.",
+      "citat": "Elektronička ponuda mora sadržavati najmanje: Uvez ponude Popunjeni eESPD obrazac ... Popunjen troškovnik"
+    },
+    "prosjecna_ocjena": 5.0
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak"
+  },
+  "napomena": "Pročitani su svi relevantni dokumenti u extracted/ (Opći podaci, Kriteriji za kvalitativni odabir, Upute za ponuditelje, Obavijest o nadmetanju, tehnička specifikacija - Glavni građevinski projekt, troškovnik, Zapisnik o pregledu i ocjeni, Obavijest o dodjeli ugovora). Referentni uvjet (minimalno jedan izvršen rad u vrijednosti procijenjene vrijednosti nabave, unutar 5 prethodnih godina) proporcionalan je i definiran široko (bilo koja izgradnja/rekonstrukcija građevine u morskim uvjetima, ne samo identičan tip zahvata), a tehnička specifikacija upućuje isključivo na opće norme (HRN/ISO), bez referenci na konkretne proizvođače, marke ili patentirana rješenja. Postupak je privukao 4 ponuditelja, od kojih je jedan isključen zbog krivog oblika jamstva za ozbiljnost ponude (bankarska garancija umjesto tražene bjanko zadužnice/novčanog pologa) - administrativni, ne sadržajni razlog, i nije pokazatelj restriktivnosti specifikacije. Naručitelj je transparentno objavio i popis gospodarskih subjekata s kojima je u sukobu interesa (2 subjekta), što je dodatni pozitivan signal transparentnosti."
+}

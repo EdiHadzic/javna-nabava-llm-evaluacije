@@ -1,0 +1,27 @@
+{
+  "postupak_id": 17477,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij ekonomski najpovoljnije ponude potpuno je operacionaliziran: cijena (80 bodova, eksplicitna formula) i rok isporuke (20 bodova, tablica s točnim rasponima dana i pripadajućim bodovima). Nema prostora za diskrecijsko tumačenje.",
+      "citat": "Ponuda s najniže ponuđenom cijenom dobiva 80 bodova, a ostale ponude se boduju prema formuli"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Tehnička specifikacija (Obrazac 3.) sadrži 69 pojedinačno numeriranih zahtjeva s preciznim min./max. vrijednostima (kW, mm, kg, ccm, Nm), što omogućuje potpuno usporedive ponude, ali razina detalja je vrlo visoka za dio karakteristika (npr. debljina čelika, broj vodilica) što graniči s uskim opisom; opća klauzula 'ili jednakovrijedno' donekle to ublažava.",
+      "citat": "Debljina čelika podnice utovarnog prostora min. 6 mm, čvrstoće čelika min. 450 HB"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dostupna je cjelovita dokumentacija za samostalnu izradu ponude: kriterij za odabir, tehnička specifikacija, troškovnik, uvjeti plaćanja, kriteriji kvalitativnog odabira (ESPD upute), opći podaci o postupku i odgovori na upite ponuditelja tijekom postupka.",
+      "citat": "Ponuditelj je dostavio dokumente tražene dokumentacijom o nabavi"
+    },
+    "prosjecna_ocjena": 4.67
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak"
+  },
+  "napomena": "Naručitelj eksplicitno navodi da ne koristi opise koji upućuju na određenu marku/proizvođača te da je svaka eventualna uputa popraćena klauzulom 'ili jednakovrijedno'; financijski i referentni pragovi (promet ≥ procijenjena vrijednost, reference ≥ 50% procijenjene vrijednosti) proporcionalni su, a izričito je navedeno da traženi godišnji promet ne prelazi dvostruku vrijednost nabave. Zaprimljena je samo 1 ponuda unatoč otvorenom postupku - vjerojatnije odraz uskog tržišta specijaliziranih komunalnih vozila (podvozje+nadogradnja+financijski leasing) nego namjerno sužavanje specifikacije, ali vrijedno je napomenuti kao kontekst."
+}

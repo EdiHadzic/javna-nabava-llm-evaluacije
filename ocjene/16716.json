@@ -1,0 +1,33 @@
+{
+  "postupak_id": 16716,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 3,
+      "obrazlozenje": "Kriterij za odabir ponude (cijena 80 bodova, iskustvo ključnog stručnjaka 20 bodova prema jasnoj tablici broj_projekata→bodovi) je numerički precizno definiran u konačnoj verziji. No, dokumentacija je u izvornoj objavi sadržavala stvarnu unutarnju proturječnost: kriterij je bodovao iskustvo stručnjaka na poziciji 'nadzornog inženjera gradilišta', dok je predmet nabave i tražena tehnička sposobnost bio 'Voditelj projekta gradnje' - dvije nespojive uloge. Više gospodarskih subjekata je u modulu Pitanja/Pojašnjenja moralo tražiti razjašnjenje prije nego što je naručitelj priznao grešku i izmijenio dokumentaciju. Jedan ponuditelj je pritom već predao ponudu prema starom (pogrešnom) kriteriju prije objave ispravka, što je unijelo dodatnu nesigurnost u fer usporedivost ponuda.",
+      "citat": "Nije jasno koje stučnjake Naručitelj boduje posšto isti nisu niti traženi kroz tehničku i stručnu sposobnost"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Opis predmeta nabave (usluge voditelja projekta gradnje) razrađen je opsežno i konkretno: navedene su faze angažmana, popis zaduženja (financijsko/pravno/tehničko savjetovanje, koordinacija sudionika gradnje, sazivanje tjednih sastanaka, vođenje zapisnika), te struktura i rokovi obveznih izvješća (početno, kvartalna, završno) s definiranim sadržajem svakog. Opis je dovoljno konkretan da omogući usporedivu ponudu, bez pretjerane uskoće koja bi isključivala razumne alternative pružatelja usluge.",
+      "citat": "Razvoj sustava kontrole projekta te praćenje i kontrola realizacije, što uključuje izradu i prikaz planiranog vremenskog izvršenja s angažiranim resursima"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 2,
+      "obrazlozenje": "Nekoliko značajnih elemenata dokumentacije ostalo je nepotpuno ili nedostupno ponuditeljima u trenutku formiranja cijene. Prijedlog ugovora, koji je sadržavao ključne odredbe o opsegu poslova, dinamici plaćanja i podjeli rizika, naručitelj je tijekom postupka potpuno povukao iz dokumentacije o nabavi ('zbog propusta') umjesto da ga ispravi, uz najavu da će se uvjeti ugovora definirati tek naknadno s odabranim ponuditeljem - nakon što su ponuditelji već formirali cijenu. Više konkretnih upita o opsegu obveza (npr. koje dokumente izvršitelj mora pribaviti) ostalo je bez sadržajnog odgovora, samo uz uputu da će se to riješiti naknadno. Dodatno, dostavljeni troškovnik (Prilog 2) sadrži samo jednu paušalnu stavku bez razrade, a u ekstrahiranoj verziji cijene su i dalje iskazane u HRK unatoč tome što je naručitelj u odgovorima potvrdio izmjenu u EUR. Zasebna 'Tehnička specifikacija', na koju opći podaci upućuju kao na priloženi dokument, nije pronađena među izdvojenim datotekama.",
+      "citat": "Naručitelj je zbog propusta u prijedlogu ugovora odlučio da prijedlog ugovora neće biti sastavni dio dokumentacije o nabavi."
+    },
+    "prosjecna_ocjena": 3.0
+  },
+  "restriktivnost": {
+    "prisutno": true,
+    "indikatori": [
+      {
+        "opis": "Izvorna verzija uvjeta tehničke i stručne sposobnosti (prije izmjene) tražila je da nominirani stručnjak ima iskustvo na minimalno 5 prethodnih projekata kao uvjet SPOSOBNOSTI (eliminacijski prag), dodatno uz iste projekte korištene za bodovanje - gospodarski subjekt je to izričito ocijenio nerazmjernim i restriktivnim s obzirom na predmet i vrijednost nabave (160.000 EUR). Naručitelj je zahtjev prihvatio i uvjet ublažio na 'minimalno jedna osoba' bez praga broja projekata za samu sposobnost.",
+        "citat": "može se smatrati restriktivno i ne razmjerno predmetu nabave"
+      }
+    ],
+    "rizik": "nizak",
+    "napomena_rizika": "Indikator se odnosi na dokumentiranu povijest postupka (izvorna verzija dokumentacije), ne na konačnu, izmijenjenu verziju prema kojoj su ponude ocijenjene - naručitelj je restriktivan uvjet ispravio nakon zaprimljenog upita, prije roka za dostavu ponuda. Rizik je stoga nizak, ali se detektirana pojava bilježi jer pokazuje da je restriktivan prag prvotno bio postavljen i tek naknadno ispravljen na inicijativu ponuditelja, a ne naručitelja."
+  },
+  "napomena": "Postupak ima neuobičajeno bogatu evidenciju odgovora naručitelja (Odgovori.html, 13 pitanja) koja otkriva stvarnu dinamiku ispravljanja dokumentacije tijekom postupka - to je bilo ključno za ocjenu jasnoće kriterija i restriktivnosti, jer izvorna dokumentacija (Kriteriji za odabir ponude / Kriteriji za kvalitativni odabir) prikazuje već ispravljeno, konačno stanje, dok je stvarna slika manje transparentna nego što bi se iz same konačne dokumentacije zaključilo. Pročitane datoteke: Opći podaci o postupku nabave, Kriteriji za odabir ponude, Kriteriji za kvalitativni odabir gospodarskog subjekta, Upute za ponuditelje, Odgovori, Prilog 2 - Troškovnik. Nisu pojedinačno čitane: 4 datoteke 'Izmjena - Obavijest o izmjenama' (redundantne s Odgovori.html po sadržaju izmjena), Obavijest o nadmetanju, Odluka o odabiru, Zapisnik o pregledu i ocjeni (post-award dokumenti, izvan opsega ocjene transparentnosti dokumentacije o nabavi), Prilog 1 (obrazac životopisa, prazan predložak), Prilozi.zip (0 bajtova ekstrahirano)."
+}

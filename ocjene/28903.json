@@ -1,0 +1,27 @@
+{
+  "postupak_id": 28903,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij ENP jasno je razdvojen na cijenu (80 bodova) i jedan mjerljiv nefinancijski kriterij (dodatni jamstveni rok, 20 bodova), s eksplicitnom matematičkom formulom bodovanja, gornjom (36 mj.) i donjom (0 mj.) granicom te jasnim postupanjem u slučaju nepopunjavanja polja (default 0 bodova, ponuda se ne odbija). Nema dvosmislenosti niti subjektivnih elemenata ocjenjivanja.",
+      "citat": "Naziv kriterija Relativni značaj / Maksimalni broj bodova Cijena 80,00"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Opis predmeta nabave vrlo je konkretan: troškovnik navodi točne dimenzije, materijale i norme (klasa betona, kvaliteta čelika, dimenzije klupa/nadstrešnice), potkrijepljen Glavnim projektom i Projektom konstrukcije. Razina detalja je visoka ali ne neproporcionalno uska jer je svugdje dosljedno praćena klauzulom 'ili jednakovrijedno', što ostavlja prostor alternativnim rješenjima.",
+      "citat": "Korišteni su pocinčani čelični profili []70x70x5 mm. Kvaliteta čelika S235. Visina nadstrešnice je 140 cm."
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 4,
+      "obrazlozenje": "Dostupan je pun set dokumenata potreban za samostalnu izradu ponude (Opći podaci, Kriteriji za odabir, Kriteriji kvalitativnog odabira, Upute za ponuditelje, Troškovnik, Prijedlog ugovora, Glavni projekt u dvije mape). Manji nedostatak: samostalni dokument 'Tehničke specifikacije' sadrži gotovo isključivo pravni bojlerplejt o jednakovrijednosti bez stvarnih tehničkih parametara — ti su stvarno smješteni u troškovniku i projektnoj dokumentaciji, što je uobičajena praksa za radove, ali formalno razdvaja tehnički sadržaj od naslova koji ga najavljuje.",
+      "citat": "Predmet nabave su radovi hortikulturnog uređenja... u skladu s troškovnikom i tehničkim specifikacijama, glavnim projektom i projektom konstrukcije, a koji su dio ove dokumentacije o nabavi."
+    },
+    "prosjecna_ocjena": 4.33
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak"
+  },
+  "napomena": "Pročitane sve .txt datoteke u extracted/ (20 dok.), uklj. dvije velike PDF mape Glavnog projekta (Mapa 1 arhitektonski, Mapa 2 konstrukcija) pretražene grepom na markere marke/tipa/proizvođača i nesrazmjernih uvjeta iskustva — nema pogodaka. Nema navoda konkretne marke/patenta/proizvođača; svugdje dosljedno stoji klauzula 'ili jednakovrijedno' (čl. 210/212 ZJN 2016). Primjeri biljnih vrsta (npr. BUXUS SEMPERVIRENS, LAVANDULA) navedeni su izrijekom kao 'npr.', ne kao obvezujuća marka. Referentni uvjet (kumulativno 200.000 EUR u 1-2 reference) odgovara točno 100% procijenjene vrijednosti nabave — na gornjoj granici uobičajene prakse, ali unutar dopuštenog i eksplicitno označeno kao 'pogodno za MSP', pa nije ocijenjeno kao restriktivni indikator. Napomena o kontekstu (izvan sheme ocjenjivanja): u postupku je zaprimljena samo jedna ponuda (AMK Gradnja d.o.o.)."
+}

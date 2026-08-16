@@ -1,0 +1,36 @@
+{
+  "postupak_id": 20803,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriteriji za odabir ponude (ekonomski najpovoljnija ponuda) potpuno su kvantificirani formulama i tablicama bodovanja (cijena 90 bodova, jamstveni rok 10 bodova s eksplicitnom tablicom raspona vrijednosti i pripadajućih bodova). Kriteriji kvalitativnog odabira gospodarskog subjekta (tehnička i stručna sposobnost) mjerljivo su definirani brojčanim pragom vezanim uz procijenjenu vrijednost nabave, bez ostavljanja prostora za subjektivnu ocjenu.",
+      "citat": "Zbroj vrijednosti (bez PDV-a) najviše 3 (tri) izvršena rada mora biti minimalno u visini procijenjene vrijednosti nabave."
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Predmet nabave opisan je vrlo detaljno kroz idejni projekt, tehničke specifikacije i opsežan stavkovni troškovnik (promet, vodovod, oborinska i fekalna odvodnja, javna rasvjeta, DTK mreža). Detaljnost mjestimično prelazi u pretjeranu preciznost kod pojedinih stavki (npr. rasvjetna tijela definirana točnim modelom i tehničkim parametrima na jednu decimalu), što je ocjenu spustilo s maksimalne, budući da razina detalja djelomično graniči s ograničavanjem alternativa umjesto da samo osigurava usporedivost ponuda.",
+      "citat": "Nabava i prijevoz cestovne LED svjetiljke asimetrične optike, metalik sive boje DB702S s kućištem izrađenim od tlačno lijevanog aluminija... Dimenzije 628x235x110mm (±10%)"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 4,
+      "obrazlozenje": "Dokumentacija je opsežna i uključuje sve uobičajene sastavnice (opći podaci, upute za ponuditelje, kriteriji, ESPD upute, idejni projekt, tehničke specifikacije, troškovnik, prijedlog ugovora). Naručitelj je tijekom postupka aktivno odgovarao na zahtjeve za pojašnjenjem i dopunio dokumentaciju (npr. objavio DWG podlogu za svjetlotehnički proračun te izmijenjeni troškovnik nakon uočenih nedosljednosti), što potvrđuje da je izvorna dokumentacija imala manje praznine koje su naknadno otklonjene, a ne da je bila sustavno nepotpuna.",
+      "citat": "U Prilogu - Tehničke specifikacije Naručitelj stavlja na raspolaganje podlogu u dwg-u s ucrtanim pozicijama stupova i svjetiljki za potrebe izrade svjetlotehničkog proračuna"
+    },
+    "prosjecna_ocjena": 4.33
+  },
+  "restriktivnost": {
+    "prisutno": true,
+    "indikatori": [
+      {
+        "opis": "Tehnička specifikacija za cestovnu LED svjetiljku navodi konkretnu tržišnu oznaku modela (DB702S) uz vrlo uske tolerancije tehničkih parametara (dimenzije ±10%, točno definirane snage na jednu decimalu, masa, klasa bliještanja, optika), što odgovara obrascu prepisivanja specifikacije jednog konkretnog proizvoda u tehničku dokumentaciju.",
+        "citat": "Nabava i prijevoz cestovne LED svjetiljke asimetrične optike, metalik sive boje DB702S... maksimalno 57,9W na početku životnog vijeka i maksimalno 60,5 W na kraju životnog vijeka, minimalno 8164 lm"
+      },
+      {
+        "opis": "Naručitelj u Odgovorima potvrđuje opću mogućnost nuđenja jednakovrijednih proizvoda (klauzula 'ili jednakovrijedno' iz dokumentacije), što djelomično ublažava rizik, ali ne uklanja ga u potpunosti jer dokazivanje jednakovrijednosti kod tako precizno definiranih parametara ostaje zahtjevno za ponuditelje koji ne nude točno taj proizvod.",
+        "citat": "smatra se da gospodarski subjekt može nuditi jednakovrijedno"
+      }
+    ],
+    "rizik": "srednji"
+  },
+  "napomena": "Pročitane su sve relevantne .txt datoteke u extracted/ osim jedne vrlo velike (21 MB) OCR-ane tehničke nacrtne dokumentacije (grafički prilog projekta), koja zbog opsega nije čitana u cijelosti, i jedne prazne (0 bajtova, javna rasvjeta .dwg). Ocjena se temelji na dokumentaciji o nabavi, kriterijima, uputama za ponuditelje, idejnom projektu, troškovniku te razmjeni pojašnjenja/odgovora tijekom postupka, što je bilo dostatno za pouzdanu ocjenu transparentnosti i restriktivnosti."
+}

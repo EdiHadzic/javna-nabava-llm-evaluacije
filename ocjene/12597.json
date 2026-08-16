@@ -1,0 +1,30 @@
+{
+  "postupak_id": 12597,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij za odabir ponude (ekonomski najpovoljnija ponuda) potpuno je operacionaliziran u zasebnom dokumentu 'Kriteriji za odabir ponude': dva mjerljiva podkriterija (cijena 90 bodova, duljina jamstvenog roka 10 bodova), s eksplicitnim matematičkim formulama, zaokruživanjem na šest decimala, definiranim minimalnim/maksimalnim pragovima (24-60 mjeseci) i potpunom tablicom bodovanja po intervalima. Nema prostora za diskrecijsku ili nejasnu ocjenu.",
+      "citat": "Ponuda s najnižom cijenom dobiva 90,00 bodova, dok se ostale ponude boduju prema formuli... Veća ponuđena vrijednost donosi više bodova prema formuli"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Opis predmeta nabave (rekonstrukcija i dogradnja dječjeg vrtića) potkrijepljen je opsežnom projektno-tehničkom dokumentacijom u 7 zasebnih mapa (arhitektura/požar, statika, vodovod i kanalizacija, elektroprojekt, strojarski projekt, fizika zgrade, dizalo), što omogućuje ponuditeljima izradu usporedive ponude bez nerazmjernog suženja kruga potencijalnih izvođača (postoji standardna klauzula 'ili jednakovrijedno'). Ocjena nije 5 jer sam troškovnik (najkonkretniji nositelj detalja o količinama i stavkama) nije bio dostupan u izdvojenom tekstu (v. napomena).",
+      "citat": "Predmetni radovi izvode se sukladno Glavnom arhitektonskom projektu s prikazom mjera zaštite od požara zajedničke oznake ZOP-231057."
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 4,
+      "obrazlozenje": "Dostupna je gotovo cjelovita dokumentacija potrebna za samostalnu izradu ponude: opći podaci, kriteriji kvalitativnog odabira s uputama o ESPD-u i dokazivanju, kriteriji za odabir ponude, upute za ponuditeljima (jamstva, način dostave, rokovi, žalbeni postupak) te 7 tehničkih mapa. Nedostaje jedino uvid u sam popunjeni obrazac troškovnika (izvorna .xls datoteka ekstrahirana je kao prazna - poznato ograničenje pipeline ekstrakcije, ne nužno stvarni nedostatak dokumentacije, potvrđeno posredno kroz Zapisnik o pregledu koji citira vrlo detaljne stavke troškovnika).",
+      "citat": "Detaljan opis predmeta nabave te vrsta i opseg radova su utvrđeni projektnom dokumentacijom i troškovnikom koji su sastavni dio ove Dokumentacije o nabavi."
+    },
+    "prosjecna_ocjena": 4.33
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [
+      "Jedna referenca na komercijalnu marku (aparat za gašenje požara 'proizvođača Pastor') u tehničkoj mapi 1, ali eksplicitno praćena klauzulom jednakovrijednosti pa ne predstavlja stvarno isključivanje alternativa.",
+      "Referentni uvjet tehničke sposobnosti (600.000,00 EUR kumulativne vrijednosti prijašnjih radova, uz max. 3 potvrde) odnosi se na oko 73,5% procijenjene vrijednosti nabave (815.788,91 EUR) - visoko, ali unutar uobičajenog raspona za radove te vrste, ne procjenjuje se kao nerazmjerno."
+    ],
+    "rizik": "nizak"
+  },
+  "napomena": "Pročitani su svi relevantni .txt dokumenti u extracted/ osim 7 velikih tehničkih mapa (MAPA 1-7, ukupno >2MB teksta) koje su samo ciljano pretražene (grep) na indikatore favoriziranja marke/proizvođača, a ne pročitane u cijelosti riječ po riječ - opravdano njihovim opsegom i inženjerskim, ne nabavno-proceduralnim karakterom. Datoteka '(root)__1_ TROŠKOVNIK DV_BODULIĆ.xls.txt' ekstrahirana je kao potpuno prazna (0 bajtova) - poznato ograničenje extract_pipeline.py za pojedine .xls datoteke (v. CLAUDE.md limitacija #5), pa detaljna razina troškovnika nije bila izravno dostupna za ocjenu, nego posredno rekonstruirana iz citata u Zapisniku o pregledu i ocjeni ponuda. Postupak je dovršen (2 ponude, oba ponuditelja prošla sve provjere, transparentan i dokumentiran postupak ispravka računske greške), što posredno potvrđuje kvalitetu izvorne dokumentacije."
+}

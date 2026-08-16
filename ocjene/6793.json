@@ -1,0 +1,39 @@
+{
+  "postupak_id": 6793,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriteriji za odabir ponude potpuno su jasni i mjerljivi: ENP na temelju cijene (80 bodova) i jamstvenog roka (20 bodova), s eksplicitnom matematičkom formulom bodovanja, minimalnim/maksimalnim dozvoljenim vrijednostima za jamstveni rok (12-36 mjeseci) i pravilom za jednako rangirane ponude. Kvalitativni uvjeti sposobnosti (isključenje, upis u registar, tehnička sposobnost) standardni su prema ZJN2016 s jasno navedenim pravnim osnovama i načinom dokazivanja (ESPD).",
+      "citat": "Ponuda s najnižom cijenom dobiva 80,00 bodova, dok se ostale ponude boduju prema formuli"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 3,
+      "obrazlozenje": "Tehnička specifikacija iznimno je detaljna (desetci parametara s preciznim min./max. numeričkim vrijednostima - dimenzije, snaga motora, kapacitet baterije, promjeri četki i ventilatora itd.). Razina detalja omogućuje usporedivost ponuda, no gustoća i preciznost pragova (npr. točno 'max. 500 kg', 'max. 3.000 mm', 'min. 2.800 okr/min') tipična je za specifikaciju 'prepisanu' prema tehničkom listu jednog konkretnog proizvoda, što graniči s neopravdanim sužavanjem kruga potencijalnih ponuditelja na jedan model/marku.",
+      "citat": "Max. ukupna dužina s četkama i sjedalom 3.000 mm"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 4,
+      "obrazlozenje": "Dostupan je pun standardni set dokumentacije (Opći podaci, Upute za ponuditelje, Kriteriji za kvalitativni odabir, Kriteriji za odabir ponude, Tehničke specifikacije, Troškovnik) dovoljan za samostalnu izradu ponude, uključujući i pravovremenu izmjenu dokumentacije (dopuna troškovnika prije roka). Ocjena nije 5 jer je jedna priložena datoteka (PRILOZI uz Zapisnik o pregledu i ocjeni ponuda, .rar) ekstrahirana kao prazna (0 bajtova) - riječ je o poslijeodabirnom prilogu, ne o samoj dokumentaciji o nabavi, pa ne utječe na mogućnost izrade ponude, ali ograničava potpunu provjerljivost postupka pregleda ponuda iz ove analize.",
+      "citat": "Elektronička ponuda mora sadržavati najmanje: Uvez ponude Popunjeni eESPD obrazac (ili više njih, ako je primjenjivo) Popunjen troškovnik"
+    },
+    "prosjecna_ocjena": 4.0
+  },
+  "restriktivnost": {
+    "prisutno": true,
+    "indikatori": [
+      {
+        "opis": "Zahtjev za dostavu ovlaštenja proizvođača kojim se ponuditelj ovlašćuje da nudi baš 'predmetni stroj' i da je ovlašten za njegovo servisiranje - takav uvjet praktički ograničava krug ponuditelja na ovlaštene distributere jedne konkretne marke/modela, umjesto da se sposobnost servisiranja dokazuje općenito (npr. servisnom mrežom, brojem ovlaštenih servisera).",
+        "citat": "Priložiti ovlaštenje proizvođača kojim se ovlašćuje ponuditelj da nudi predmetni stroj na ovom nadmetanju i da je ovlašten za servisiranje"
+      },
+      {
+        "opis": "Obveza dostave kataloga s izričito 'navedenom markom proizvoda' uz ponudu, u kombinaciji s ovlaštenjem proizvođača iz prethodne točke, pojačava rizik da je specifikacija oblikovana prema unaprijed poznatom, konkretnom proizvodu.",
+        "citat": "Ponuditelj je obvezan dostaviti katalog ili prospekt u PDF-formatu, s točnim tehničkim specifikacijama, navedenom markom proizvoda"
+      },
+      {
+        "opis": "Tehnička specifikacija sadrži vrlo velik broj usko postavljenih numeričkih pragova (dimenzije, težina, snaga, kapacitet, brzina vrtnje ventilatora i sl.) tipičnih za specifikaciju izvedenu iz tehničkog lista jednog konkretnog modela, a ne iz funkcionalnih zahtjeva koje bi moglo zadovoljiti više proizvođača."
+      }
+    ],
+    "rizik": "srednji"
+  },
+  "napomena": "Pročitani su svi relevantni .txt dokumenti iz extracted/ (Opći podaci, Obavijest o nadmetanju + izmjena, Kriteriji za kvalitativni odabir, Kriteriji za odabir ponude, Upute za ponuditelje, Tehničke specifikacije, Troškovnik, Zapisnik o pregledu i ocjeni, Odluka o odabiru, Obavijest o dodjeli ugovora). Jedna datoteka (PRILOZI...rar.txt) prazna je (0 bajtova, poznat propust ekstrakcije .rar arhiva, v. CLAUDE.md limitacija #7) - riječ je o prilogu zapisniku o ocjeni ponuda, ne o dokumentaciji o nabavi, pa ne utječe na ocjenu transparentnosti same natječajne dokumentacije. Naručitelj je u Općim podacima naveo subjekt s kojim je u sukobu interesa (obrt za ribarstvo) - potpuno nepovezan s predmetom nabave (čistilica) i nije sudjelovao u postupku, pa se ne tretira kao indikator restriktivnosti, već kao pozitivan pokazatelj transparentnosti (proaktivno objavljivanje). Za informaciju (nije korišteno kao osnova ocjene): zaprimljena je samo 1 ponuda (GRADATIN d.o.o.), što je u skladu sa strukturnim indikatorima restriktivnosti uočenim u dokumentaciji, ali samo po sebi ne dokazuje uzročnost."
+}

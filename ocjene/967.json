@@ -1,0 +1,49 @@
+{
+  "postupak_id": 967,
+  "broj_pojedinacnih_runova": 2,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij za odabir ponude (ekonomski najpovoljnija ponuda, ENP) potpuno je operacionaliziran: eksplicitna formula B=C+RI, formula za bodovanje cijene (C=NC/CP*90) s definiranim varijablama, te tri jasno razgraničena, mjerljiva praga za rok isporuke (10/5/0 bodova) s točno navedenim satima i lokacijama isporuke, uz eksplicitno pravilo za slučaj nedostavljanja izjave o roku isporuke i pravilo za jednako rangirane ponude (raniji primitak). Nema prostora za diskrecijsko tumačenje.",
+      "citat": "C= NC/CP*90 ... a) Isporuka od narudžbe najkasnije idući dan do 07:30 sati... 10 bodova. b)... 5 bodova. c)... 0 bodova.",
+      "runovi": [
+        5,
+        5
+      ],
+      "slaganje": "puno"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Troškovnik sadrži 102 stavke (rezano cvijeće i zelenilo) s jedinicom mjere, okvirnom količinom i klasom kvalitete (EX — međunarodna standardna klasa kvalitete rezanog cvijeća, ne robna marka), a za dio stavki i mjerljive dimenzije (visina stabljike, opseg cvjetne glavice) ili boju. Opis je dovoljno konkretan za usporedivost ponuda i ne isključuje alternativne dobavljače jer ne referencira konkretnu marku/kultivar/proizvođača. Ocjena nije 5 jer tekst Općih podataka (t. 3.1.2.) izrijekom upućuje na zaseban prilog 'Tehničke specifikacije' koji u prikupljenoj dokumentaciji nije dostupan, pa potpunost opisa predmeta nabave izvan troškovnika nije moguće u cijelosti potvrditi.",
+      "citat": "RUŽA CRVENA , visina stabljike 60-80 cm, min opseg cvjetne glavice (pupa) cca13 cm",
+      "runovi": [
+        4,
+        4
+      ],
+      "slaganje": "puno"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 3,
+      "obrazlozenje": "Dostupna je okosnica dokumentacije (Opći podaci, Upute za ponuditelje, Kriteriji za kvalitativni odabir, Kriterij za odabir ponude, popunjiv troškovnik s 102 stavke, obrasci Prilog 3/4/5), no Opći podaci o postupku nabave (t. 3.1.2.) eksplicitno i posebno (odvojeno od t. 3.1.3. Troškovnik) obećavaju zaseban prilog 'Tehničke specifikacije'. Neovisnom provjerom sirovih preuzetih datoteka na razini postupka (izvan extracted/) potvrđeno je da je 'Prilozi.zip' na izvornoj razini 0 bajtova, a preostala dva arhivska paketa ('DON-...zip', 'Odluka-...zip') sadrže isključivo duplikate već poznatih dokumenata (troškovnik, upute, kriteriji, obrasci, odluka, zapisnik) — dakle nigdje u stvarno preuzetoj dokumentaciji ne postoji poseban dokument 'Tehničke specifikacije'. To znači da nedostatak nije artefakt ekstrakcijskog pipelinea nego stvarna praznina u dokumentaciji koju je naručitelj stavio na raspolaganje ponuditeljima — isti nedostatak susreo bi i stvarni ponuditelj. Riječ je stoga o umjerenom, a ne tek manjem/kozmetičkom nedostatku transparentnosti, unatoč tome što preostala dokumentacija ostaje dostatna za izradu ponude na temelju troškovnika.",
+      "citat": "3.1.2. Tehničke specifikacije Detaljne tehničke specifikacije se nalaze u zasebnom prilogu.",
+      "runovi": [
+        4,
+        3
+      ],
+      "slaganje": "djelomicno"
+    },
+    "prosjecna_ocjena": 4.0
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak",
+    "runovi_prisutno": [
+      false,
+      false
+    ],
+    "slaganje": "puno"
+  },
+  "napomena": "Pregledano je svih 15 relevantnih .txt datoteka u extracted/ te dodatno, radi razrješenja neslaganja o potpunosti dokumentacije, i sadržaj triju sirovih arhiva na razini postupka (Prilozi.zip — 0 bajtova; DON-REZANO CVIJEĆE I ZELENILO.zip i Odluka-REZANO CVIJEĆE I ZELENILO.zip — sadrže isključivo duplikate već izdvojenih dokumenata, bez ikakvog zasebnog dokumenta 'Tehničke specifikacije'). Dvije datoteke (Odluka o odabiru 0224.pdf.txt i Zapisnik o pregledu i ocjeni ponuda 0224.pdf.txt) ekstrahirane su prazne, ali istovjetan sadržaj dostupan je u paralelnim, uspješno ekstrahiranim inačicama (Odluka o odabiru.html.txt, Zapisnik o pregledu i ocjeni.pdf.txt), pa taj gubitak nije značajan. Troškovnik je generičan po vrsti robe (cvijeće/zelenilo prema botaničkoj vrsti i standardnoj klasi kvalitete EX), bez referenci na marku, patentirano rješenje ili nesrazmjerne financijske/referentne pragove (jamstvo za ozbiljnost ponude 4.000 EUR, ~2,6% procijenjene vrijednosti od 152.350 EUR, proporcionalno). Postupak je otvoreni, zaprimljene su 2 ponude (obje od gospodarskih subjekata iz Splitsko-dalmatinske županije, nijedna iz Zadarske gdje je sjedište naručitelja — relevantno za 5.3., izvan opsega ove ocjene transparentnosti), odabrana ekonomski najpovoljnija ponuda (GERBERA obrt) sa 100 bodova.",
+  "napomena_resolvera": "Jasnoća kriterija i razina detalja opisa: puna suglasnost oba runa (identične ocjene, sadržajno usklađena obrazloženja i citati) — finalna ocjena preuzeta bez izmjene. Potpunost dokumentacije: runovi su se razišli za točno 1 bod (4 vs 3) uz sadržajno kompatibilna obrazloženja (oba identificiraju isti nalaz — nedostupnost zasebnog priloga 'Tehničke specifikacije' referenciranog u t. 3.1.2. Općih podataka), pa je riječ o 'djelomičnom' slaganju, ne o rascjepu. Budući da su citati oba runa gotovo identični (ista rečenica iz izvora) i sami po sebi nisu bili dovoljni za razrješenje, resolver je samostalno provjerio ne samo extracted/ tekst nego i sirove preuzete arhive na razini cijelog postupka (Prilozi.zip, DON-*.zip, Odluka-*.zip) kako bi utvrdio je li nedostatak artefakt ekstrakcijskog pipelinea ili stvarna praznina u dokumentaciji. Potvrđeno je potonje: Prilozi.zip je 0 bajtova već na izvornoj razini, a preostale arhive ne sadrže nikakav dodatni dokument s tehničkim specifikacijama. Ta neovisna provjera bila je odlučujuća i preteže prema nižoj vrijednosti (3, u skladu s run_2) jer se radi o stvarnom, a ne tek kozmetičkom nedostatku transparentnosti dokumentacije koji bi pogodio i stvarnog ponuditelja. Restriktivnost: puna suglasnost (oba runa 'false', 'nizak' rizik) — bez potrebe za dodatnom provjerom. Ukupna pouzdanost finalne ocjene: visoka na dvije od tri dimenzije transparentnosti i na restriktivnosti (puno slaganje), umjereno visoka na potpunosti dokumentacije (djelomično slaganje razriješeno neovisnom provjerom izvornih arhiva, ne samo extracted/ teksta)."
+}

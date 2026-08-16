@@ -1,0 +1,34 @@
+{
+  "postupak_id": 29765,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriteriji za odabir ponude su eksplicitno i jasno definirani sa preciznom formulom za bodovanje. Cijena nosi 90 bodova (s jasnom formulom: Cmin/Cp * 90), kvaliteta (rok odaziva na reklamaciju) nosi 10 bodova s minimalnim (1 sat) i maksimalnim (3 sata) rokom jasno specificiranim.",
+      "citat": "Ekonomski najpovoljnija ponuda utvrđuje se na temelju: Cijene i kvalitete. Cijena: 90 bodova. Kvaliteta (Rok odaziva na reklamaciju isporučenog proizvoda): 10 bodova. Minimalno vrijeme odaziva je 1 sat od trenutka zaprimanja poziva na reklamaciju. Maksimalno vrijeme odaziva je 3 sata."
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Opis predmeta nabave je detaljno specificiran kroz troškovnik sa preciznim nazivima proizvoda i minimalnim težinama (npr. 'Croissant marmelada min. 75 gr.', 'Krafna čokolada min. 80 gr.'). Kvaliteta je regulirana referencama na hrvatske i EU zakone o sigurnosti hrane (HACCP, ISO 22000, Uredba EU 1169/2011). Specifikacije su dovoljno konkretne za kvalitetu ali nisu toliko uske da bi isključile razumne alternative.",
+      "citat": "Predmet nabave su kruh, svježa peciva i kolači za potrebe Naručitelja za razdoblje od 12 mjeseci. Ponuđena roba mora u cijelosti zadovoljiti sve tražene tehničke uvjete i specifikacije koje se nalaze u troškovniku. Red.Br. proizvoda: Croissant marmelada min. 75 gr., Krafna čokolada min. 80 gr., Burek rolani mini sir min.180 gr., te ostali proizvodi s minimalnim težinama."
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dostupna je cjelovita dokumentacija potrebna za samostalnu izradu ponude. Uključene su: opći podaci o postupku, detaljne tehničke specifikacije s minimalnim težinama, troškovnik s cijenama po stavkama, upute za ponuditelje, detaljni kriteriji za kvalitativni odabir gospodarskog subjekta, kriteriji za odabir ponude s formulama za bodovanje, upis u registre, zahtjevi za dokazivanje sposobnosti (referentne isporuke, HACCP certifikat).",
+      "citat": "Elektronička ponuda mora sadržavati najmanje: Popunjeni eESPD obrazac, Popunjen troškovnik, Vrijednosti kriterija za odabir ponude, Dokumentacija/dokazi za kriterija za odabir ponude. Detaljne tehničke specifikacije se nalaze u zasebnom prilogu. Detaljan troškovnik se nalazi u zasebnom prilogu – Troškovnik."
+    },
+    "prosjecna_ocjena": 4.7
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [
+      {
+        "indikator": "Samo jedna ponuda zaprimljena",
+        "rizik": "srednji",
+        "opis": "Samo 1 ponuda od ukupnog broja ponuda - mogući pokazatelj slabe konkurencije, ali specifikacije nisu namjerno ograničene na određenog ponuditelja",
+        "citat": "Broj zaprimljenih ponuda: 1"
+      }
+    ],
+    "rizik": "nizak"
+  },
+  "napomena": "Specifikacije su generički opisane po vrstama proizvoda i minimalnim težinama bez navođenja određenih marki ili proizvođača. Zahtjev za HACCP certifikat je standard za prehrambene proizvode i nije specifičan za određenog dobavljača. Tehnička i stručna sposobnost dokazuje se popisom prethodnih isporuka (ukupna vrijednost najmanje koliko procijenja vrijednost) što je razumno za robu od 76.040 EUR. Niska konkurencija (samo 1 ponuda) može biti uzrokovana drugim faktorima (veličina tržišta, lokalna nabava, specifičnosti školskog catering-a) nego ograničavajućim specifikacijama. Dokumentacija je opsežna i detaljno razrađena sa jasnim kriterijima i formulama za bodovanje."
+}

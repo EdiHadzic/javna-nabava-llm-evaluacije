@@ -1,0 +1,27 @@
+{
+  "postupak_id": 6741,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij ENP je za sve tri grupe identično i precizno definiran: cijena 80 bodova, jamstveni rok 20 bodova, s eksplicitnim matematičkim formulama za oba parametra, jasno određenim minimalnim (24 mj.) i maksimalnim (60 mj.) rasponom jamstva, načinom postupanja kod nedostavljenih dokaza (dodjela 0 bodova) i pravilom za rangiranje kod izjednačenih ponuda.",
+      "citat": "Ponuda u kojoj je iskazan minimalni jamstveni rok (24 mjeseca) dobiva 0 bodova. Ponuda u kojoj je iskazan najduži jamstveni rok (60 mjeseci) dobiva 20 bodova."
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Troškovnici sve tri grupe sadrže vrlo konkretne tehničke specifikacije (dimenzije s dopuštenim odstupanjem, materijali, norme HRN EN, snage uređaja, kapaciteti), što omogućuje usporedivost ponuda. Konkretnost je ublažena dosljednom klauzulom 'ili jednakovrijedno' uz gotovo svaku materijalnu/normativnu odrednicu (npr. inox AISI 304 ili jednakovrijedno), čime se izbjegava potpuno isključenje alternativa, no gustoća vrlo specifičnih tehničkih parametara (osobito kod videonadzora i kuhinjske opreme) ostavlja postupku određenu tehničku uskost.",
+      "citat": "Odstupanje od projektiranih dimenzija moguće je u granicama +/-5%, osim ukoliko je naznačeno da je tražena minimalna ili maksimalna mjera"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dostupan je kompletan skup dokumenata potreban za samostalnu izradu ponude: Obavijest o nadmetanju, Opći podaci, Kriteriji za odabir ponude, Kriteriji za kvalitativni odabir, Upute za ponuditelje, Tehničke specifikacije, popunjivi troškovnici za sve tri grupe (uz automatske formule), Prijedlog ugovora te svi propisani prilozi (izjave, popis referenci). Nema naznaka nedostajućih dijelova dokumentacije o nabavi.",
+      "citat": "Detaljan troškovnik se nalazi u zasebnom prilogu – Troškovnik."
+    },
+    "prosjecna_ocjena": 4.67
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak"
+  },
+  "napomena": "Pročitani svi relevantni .txt dokumenti iz extracted/ (Obavijest o nadmetanju, Opći podaci, Kriteriji za odabir ponude, Kriteriji za kvalitativni odabir, Upute za ponuditelje, Tehničke specifikacije, tri troškovnika, prilozi/ugovor). Ekstrakcija je čitka i potpuna za sve formate (pdf/html/docx/xls/xlsx). Nema referenci na konkretne marke/proizvođače ni patentirana rješenja; svugdje gdje se navode norme ili materijali (npr. inox AISI 304) dosljedno stoji 'ili jednakovrijedno'. Referentni prag tehničke sposobnosti (isporuke iste/slične robe) postavljen je na razini procijenjene vrijednosti pojedine grupe (33.000/12.000/2.000 EUR naspram 33.000/12.100/2.100 EUR), što je na gornjoj granici uobičajene prakse ali unutar zakonskog okvira, stoga nije ocijenjeno kao nesrazmjerno."
+}

@@ -1,0 +1,36 @@
+{
+  "postupak_id": 32175,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij ENP jasno definiran s dvije mjerljive komponente (cijena 90 bodova, jamstveni rok 10 bodova), formula za bodovanje cijene eksplicitno navedena, a jamstveni rok boduje se po fiksnoj, potpuno nedvosmislenoj tablici.",
+      "citat": "2 godine- 0 bodova 3 godine- 3 boda 4 godine- 6 bodova 5 godina i više -10 bodova"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 5,
+      "obrazlozenje": "Predmet nabave opisan kroz cjelovit Glavni projekt (5 mapa: arhitektura, elektro, ViK, strojarski + zaštita od požara) i detaljan stavkovni troškovnik, što omogućuje potpuno usporedive ponude bez neopravdanog suženja na jednog dobavljača.",
+      "citat": "GLAVNI PROJEKT - MAPA 1 - KNJIGA 1 ... PROJEKT ARHITEKTURE I PROJEKT RACIONALNE UPORABE ENERGIJE I TOPLINSKE ZAŠTITE ZGRADE"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dostupni su svi elementi potrebni za samostalnu izradu ponude: ESPD upute, popunjivi troškovnik, upute za ponuditelje s jasnim uvjetima jamstva/plaćanja/rokova, te potpuna projektna dokumentacija po strukama.",
+      "citat": "Elektronička ponuda mora sadržavati najmanje: Uvez ponude Popunjeni eESPD obrazac ... Popunjen troškovnik"
+    },
+    "prosjecna_ocjena": 5.0
+  },
+  "restriktivnost": {
+    "prisutno": true,
+    "indikatori": [
+      {
+        "indikator": "Troškovnik u dvije stavke (G.3.9. i G.6.A.3.) referira konkretnu tržišnu marku 'YTONG' za izgubljenu oplatu/blokove nadozida bez lokalno navedene formulacije 'ili jednakovrijedno' uz te stavke.",
+        "rizik": "nizak"
+      },
+      {
+        "indikator": "Opća klauzula jednakovrijednosti u dokumentu 'Opći podaci o postupku nabave' eksplicitno pokriva sve stavke troškovnika s markom/tipom, što ublažava rizik.",
+        "rizik": "nizak"
+      }
+    ],
+    "rizik": "nizak",
+    "napomena": "Uvjet reference i traženi tehnički stručnjaci su standardni i proporcionalni. Spomen marke 'YTONG' tretiran je kao slab, nizak-rizik indikator jer je pokriven općom klauzulom jednakovrijednosti na razini cijele dokumentacije."
+  }
+}

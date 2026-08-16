@@ -1,0 +1,31 @@
+{
+  "postupak_id": 3178,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij odabira (ekonomski najpovoljnija ponuda) razrađen je posebnim dokumentom s eksplicitnom matematičkom formulom za oba potkriterija (cijena 90%, udaljenost radionice 10%), uključujući bodovne pragove i pravilo za rješavanje izjednačenja (ranije zaprimljena ponuda).",
+      "citat": "CP = Pmin / Ppon * 90 ... UR = > 20 km 0 ... 10 km =< UR < 20 km 5 ... UR < 10 km 10"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 5,
+      "obrazlozenje": "Opis predmeta nabave sveden je do razine pojedinačnog vozila: troškovnik po grupi (marki) navodi svaki automobil s registracijskom oznakom, brojem šasije (VIN), godinom i modelom, uz stavke rezervnih dijelova i okvirne količine potrebne za popravak/održavanje, što omogućuje usporedivu i preciznu ponudu.",
+      "citat": "Marka, model: CITROEN JUMPER 2.2 HDI/110kw ,ZD 440NC,ZD 430NC, ZD 410 NC,ZD 419-IN,ZD417IN"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dostupan je pun set dokumenata: obavijest o nadmetanju, opći podaci o postupku nabave, kriteriji za kvalitativni odabir (ESPD, isključenja, sposobnost), formula bodovanja, tehnička specifikacija/izjave, troškovnik po svakoj od 6 grupa (marki vozila) i propisani obrasci (izjava o zajedničkoj ponudi, solidarnoj odgovornosti, jamstvu). Sadržaj je unutarnje konzistentan (vrijednosti grupa, kriteriji, rokovi podudaraju se u svim dokumentima).",
+      "citat": "Detaljne tehničke specifikacije se nalaze u zasebnom prilogu... Detaljan troškovnik se nalazi u zasebnom prilogu – Troškovnik."
+    },
+    "prosjecna_ocjena": 5.0
+  },
+  "restriktivnost": {
+    "prisutno": true,
+    "indikatori": [
+      "Zahtjev da ponuditelj bude ovlašteni servis proizvođača/generalnog uvoznika za ponuđenu marku vozila, ograničen na područje Zadarske županije, primjenjuje se samo na grupe FORD i VOLKSWAGEN dok su ta vozila u jamstvenom roku - eksplicitno obrazloženo očuvanjem tvorničke garancije, ne proizvoljno.",
+      "Obveza nuđenja originalnih dijelova za marku vozila u svih 6 grupa (podjela po markama Citroen/Ford/Peugeot/Volkswagen/Mazda/Fiat) - ali dokumentacija izričito dopušta jednakovrijedne proizvode identične tražene tehničke specifikacije, čime se ublažava zaključavanje na jednog dobavljača.",
+      "Geografsko ograničenje mjesta izvršenja (radionica mora biti u Zadarskoj županiji) za sve grupe - obrazloženo troškovima prijevoza/vremena za hitna medicinska vozila, ne favoriziranjem imenovanog ponuditelja."
+    ],
+    "rizik": "nizak"
+  },
+  "napomena": "Podjela u 6 grupa prema marki vozila prirodna je posljedica sastava postojećeg voznog parka naručitelja (Zavod za hitnu medicinu), a ne umjetnog prilagođavanja specifikacije određenom ponuditelju - svaka grupa otvorena je bilo kojem ovlaštenom serviseru te marke, uz dopuštenu jednakovrijednost dijelova. Pregledano je 8 ključnih dokumenata (obavijest o nadmetanju, opći podaci, kriteriji kvalitativnog odabira, formula bodovanja, tehnička specifikacija, 2 troškovnika, upute za ponuditelje); ostatak foldera (zapisnici o pregledu i ocjeni ponuda, odluke o odabiru/poništenju, prilozi) odnosi se na fazu nakon dodjele i nije korišten za ovu ocjenu transparentnosti dokumentacije o nabavi."
+}

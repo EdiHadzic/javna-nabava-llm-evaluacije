@@ -1,0 +1,27 @@
+{
+  "postupak_id": 8809,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriteriji za odabir ponude (ekonomski najpovoljnija ponuda) potpuno su mjerljivi i matematički definirani: cijena 80% s eksplicitnom formulom, te dvije kvalitativne stavke (udaljenost skladišta i odaziv na reklamacije) svaka 10% s jasnim ljestvicama bodovanja po rasponima (km odnosno sati). Nema prostora za subjektivnu ocjenu.",
+      "citat": "formula : P = Pl/Pt * 80, gdje je P – broj bodova koji je ponuda dobila za ponuđenu cijenu"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Troškovnik po grupama (Svježe meso, Mesni proizvodi) navodi konkretne artikle, jedinice mjere i okvirne godišnje količine, uz dodatne kvalitativne zahtjeve (HACCP/ISO 22000, min. udjeli mesa/bjelančevina za pojedine proizvode, rok valjanosti, dinamika dostave). Opis je dovoljno konkretan za usporedivu ponudu, a zahtjevi (npr. minimalni udjeli mesa) odgovaraju uobičajenim tržišnim specifikacijama prehrambenih proizvoda, ne isključuju razumne alternative.",
+      "citat": "Minimalni rok valjanosti isporučene namirnice mora biti najmanje 70% od ukupnog roka valjanosti namirnice."
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dostupna je cjelovita dokumentacija: opći podaci o postupku, upute za ponuditelje s detaljno razrađenim kriterijima po grupama, kriteriji za kvalitativni odabir (ESPD, osnove za isključenje, tehnička i stručna sposobnost s jasno definiranom minimalnom razinom - referenca u iznosu procijenjene vrijednosti), te troškovnici/tehničke specifikacije za obje grupe. Sve što je potrebno za samostalnu izradu ponude prisutno je i međusobno usklađeno.",
+      "citat": "Prema obrascu troškovnik/specifikacija predmeta nabave za svaku grupu koji je sastavni dio ove dokumentacije za nadmetanje."
+    },
+    "prosjecna_ocjena": 4.67
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak"
+  },
+  "napomena": "Dvije priložene arhive (Prilozi (1).zip, Prilozi.zip) ekstrahirane su kao prazne (0 bajtova) - poznati artefakt ekstrakcijskog pipeline-a (v. CLAUDE.md limitacija #7), no glavni dokumenti (troškovnici, tehničke specifikacije, kriteriji, upute) dostupni su u drugim, uspješno ekstrahiranim datotekama pa procjena nije bila uskraćena za ključni sadržaj. Zahtjevi tehničke i stručne sposobnosti (referenca u visini procijenjene vrijednosti nabave) proporcionalni su i uobičajeni, nema naznaka favoriziranja određenog ponuditelja niti brendiranih/patentiranih specifikacija."
+}

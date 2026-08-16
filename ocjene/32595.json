@@ -1,0 +1,36 @@
+{
+  "postupak_id": 32595,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriteriji za odabir ponude (ENP: cijena 60% / vrijeme reakcije 40%) su precizno matematički definirani formulama i bodovnim tablicama po razinama pogreške (A-D), bez prostora za dvosmislenost u primjeni.",
+      "citat": "CP= (Cmin/Cp) x 60"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 3,
+      "obrazlozenje": "Tehnička specifikacija nabraja module i funkcionalnosti dovoljno konkretno za razumijevanje opsega, ali predmet je definiran kao održavanje točno određenog, već instaliranog vlasničkog sustava naziva 'Airport Software' s propisanom tehnološkom platformom (Oracle, IBM WebSphere Liberty, IBM MQ), čime je opis nužno vezan uz postojeće rješenje umjesto generičkih funkcionalnih zahtjeva.",
+      "citat": "Aplikacijska platforma Programskog sustava „Airport Software“"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dostupni su svi ključni dokumenti za samostalnu izradu ponude: opći podaci, upute za ponuditelje, kriteriji kvalitativnog odabira, kriterij odabira ponude s formulama, tehnička specifikacija, troškovnik i prilog s tehnološkom platformom.",
+      "citat": "Elektronička ponuda mora sadržavati najmanje: Uvez ponude Popunjeni eESPD obrazac (ili više njih, ako je primjenjivo) Popunjen troškovnik"
+    },
+    "prosjecna_ocjena": 4.33
+  },
+  "restriktivnost": {
+    "prisutno": true,
+    "indikatori": [
+      {
+        "indikator": "Predmet nabave je održavanje specifičnog, imenovanog vlasničkog programskog sustava ('Airport Software') uz propisanu, konkretnu tehnološku platformu (Oracle baza, IBM WebSphere Liberty, IBM MQ, Windows Server), što u praksi krug sposobnih ponuditelja sužava gotovo isključivo na izvornog razvijatelja/dosadašnjeg održavatelja sustava.",
+        "citat": "Aplikacijska platforma Programskog sustava „Airport Software“ ... Database server Oracle"
+      },
+      {
+        "indikator": "Ishod postupka potvrđuje praktični učinak suženog kruga ponuditelja: zaprimljena je samo jedna ponuda.",
+        "citat": "Broj zaprimljenih ponuda: 1"
+      }
+    ],
+    "rizik": "visok",
+    "napomena": "Restriktivnost je dijelom inherentna prirodi ugovora (održavanje već postojećeg sustava), ali kombinacija imenovanog vlasničkog proizvoda, specifičnog tehnološkog steka i stvarnog ishoda (1 ponuda) opravdava visoku ocjenu rizika."
+  }
+}

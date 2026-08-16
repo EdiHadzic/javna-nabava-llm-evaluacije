@@ -1,0 +1,27 @@
+{
+  "postupak_id": 20459,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij za odabir ponude (ekonomski najpovoljnija ponuda) razrađen je u zasebnom dokumentu s eksplicitnom matematičkom formulom bodovanja za oba podkriterija (cijena 90 bodova, jamstveni rok za otklanjanje nedostataka 10 bodova), uključujući tablicu bodova po intervalima jamstvenog roka (24-60 mjeseci) i pravilo za jednako rangirane ponude. Nema prostora za diskrecijsku ili nejasnu ocjenu.",
+      "citat": "Ponuda s najnižom cijenom dobiva 90,00 bodova, dok se ostale ponude boduju prema formuli"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Predmet nabave (rekonstrukcija pristupne ceste) opisan je kroz potpunu projektnu dokumentaciju (Glavni projekt prometnice, vodovoda i odvodnje, tri opsežne mape s tehničkim opisom, situacijama i troškovničkim stavkama pozvanim na HRN norme i OTU za radove na cestama), dovoljno konkretno za usporedivu ponudu, uz standardnu klauzulu 'ili jednakovrijedno' koja sprječava sužavanje na jednog dobavljača. Ocjena nije 5 jer je izvorni troškovnik sadržavao grešku (oznake u kunama umjesto eura) koju je naručitelj morao ispraviti Izmjenom nakon upita ponuditelja, što ukazuje na nesavršenost prvotne razine detalja/točnosti.",
+      "citat": "Naručitelj je izmijenio troškovnik te stavlja na raspolaganje zainteresiranim gospodarskim subjektima novi troškovnik (Troškovnik - I izmjena)"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dostupna je cjelovita dokumentacija za samostalnu izradu ponude: Opći podaci o postupku, Kriteriji kvalitativnog odabira gospodarskog subjekta, Kriteriji za odabir ponude, Upute za ponuditelje, detaljan Troškovnik, te potpuni Glavni projekt (tri mape s tehničkim opisom i nacrtima) i Prijedlog ugovora. Sve stavke potrebne za popunjavanje ESPD-a, troškovnika i ponude jasno su navedene.",
+      "citat": "RAZINA RAZRADE PROJEKTA: GLAVNI PROJEKT"
+    },
+    "prosjecna_ocjena": 4.67
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak"
+  },
+  "napomena": "Pregledani su svi dostupni .txt dokumenti u extracted/ (opći podaci, kriteriji, upute, izmjena, odgovori na upite, troškovnik, prijedlog ugovora, zapisnik o pregledu i ocjeni, odluka o odabiru, obavijest o dodjeli). Tri vrlo velike PDF datoteke glavnog projekta (Mapa_1/2/3, ukupno ~10MB teksta, tehnički nacrti i opisi prometnice/vodovoda/odvodnje) pregledane su uzorkovanjem (početak dokumenta, pretraga po ključnim riječima za indikatore favoriziranja marke/proizvođača) zbog opsega, ne redak po redak - pretraga nije pronašla reference na konkretnu marku, patentirano rješenje ili neproporcionalne referentne pragove (uvjet reference: zbroj do 3 rada >= procijenjena vrijednost, standardno proporcionalno). Postupak je imao 5 ponuda, jednu odbijenu zbog prekoračenja osiguranih sredstava i jedan zahtjev za pojašnjenjem ESPD popisa radova upućen odabranom ponuditelju, uredno riješen u roku - uobičajen tijek postupka, ne ukazuje na netransparentnost."
+}

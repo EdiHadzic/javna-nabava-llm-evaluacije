@@ -1,0 +1,27 @@
+{
+  "postupak_id": 24671,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij za odabir (ekonomski najpovoljnija ponuda) potpuno je operacionaliziran matematičkim formulama za oba potkriterija (cijena 90 bodova, jamstveni rok 10 bodova), s definiranim maksimalnim i minimalnim vrijednostima, načinom dokazivanja i pravilom za jednako rangirane ponude — ne ostavlja prostor za diskrecijsko tumačenje.",
+      "citat": "Ponuda s najnižom ponuđenom cijenom dobiva 90 bodova, a ostale ponude se boduju prema formuli: C= (Cmin/Cp) x 90"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 5,
+      "obrazlozenje": "Opis predmeta nabave potkrijepljen je punim glavnim elektrotehničkim projektom (tehnički opis, nacrti, jednopolne sheme) i detaljnim troškovnikom koji svaku stavku definira performansno (snaga, IP/IK zaštita, lumen, CRI, dimenzije, primjenjive norme) uz izričitu klauzulu 'ili jednakovrijedno' i prazno polje za upis ponuđenog proizvoda — dovoljno konkretno za usporedivost ponuda, bez brendiranja opreme koja se nabavlja.",
+      "citat": "min 20W, IP44, IK07, 230V/50Hz, 2780lm, 4000K, CRI>80, LED min 60.000 h L80F50 na Tp=65°C, EEI A++, dimenzije Ø130x130mm"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dostupan je pun set dokumenata potreban za samostalnu izradu ponude: opći podaci, kriteriji kvalitativnog odabira s ESPD uputama, upute za ponuditelje, obrazac izjave o jamstvenom roku, detaljan troškovnik i tehnička specifikacija (glavni projekt) — svi tekstualno potpuno i čitljivo izvučeni (bez OCR/prazan-tekst artefakata).",
+      "citat": "Cijena za svaku točku troškovnika mora obuhvatiti dobavu, montažu, spajanje po potrebi, uzemljenje te dovođenje stavke u stanje potpune funkcionalnosti."
+    },
+    "prosjecna_ocjena": 5.0
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak"
+  },
+  "napomena": "Referentni uvjet (1 izvršeni rad u zadnjih 5 g. u vrijednosti barem jednake procijenjenoj, 70.715 EUR) razmjeran je i standardan, ne restriktivan. Jedina brend-specifična referenca u troškovniku ('VJ Clivet') odnosi se na postojeću/planiranu vanjsku jedinicu klimatizacijskog sustava iz zasebnog strojarskog projekta (točka spajanja, ne stavka koja se nabavlja u ovoj elektro-nabavi), pa nije tretirana kao indikator restriktivnosti. Postupak je zaprimio 6 ponuda (potvrđeno u Obavijesti o dodjeli ugovora), što je u skladu s ocjenom niske restriktivnosti."
+}

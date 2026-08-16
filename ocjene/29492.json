@@ -1,0 +1,36 @@
+{
+  "postupak_id": 29492,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij za odabir ponude potpuno je operacionaliziran matematičkom formulom za cijenu (90% ponderacija) i eksplicitnom bodovnom skalom za rok isporuke (10%), s jasno definiranim rasponima i maksimalno dopuštenim rokom nakon kojeg se ponuda odbacuje kao neprihvatljiva.",
+      "citat": "Isporuka u roku od 0 do 12 sati: 10 bodova Isporuka u roku od 12,01 do 24 sata: 5 bodova Isporuka u roku od 24,01 do 36 sati: 0 bodova"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 3,
+      "obrazlozenje": "Većina od 13 grupa troškovnika opisana je generičkim nazivima djelatne tvari, jedinicom mjere, oblikom i planiranom godišnjom količinom (npr. INN nazivi lijekova), što omogućuje usporedive ponude. Međutim, u Grupi 1 dvije stavke (kolagenske spužvice) izravno su opisane pozivanjem na komercijalni naziv jednog proizvođača bez ikakve formulacije 'ili jednakovrijedno', a naručitelj je izričito odbio zahtjev ponuditelja za brisanjem tih stavki unatoč upozorenju da su u ekskluzivnoj distribuciji jedne veledrogerije.",
+      "citat": "kolagen spužvica 2,5x3,0x0,5 kao Tachosil"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 4,
+      "obrazlozenje": "Dostupna je puna dokumentacija: opći podaci o postupku, kriteriji kvalitativnog odabira s ESPD uputama, kriterij odabira ponude, prijedlog ugovora, obrazac ponude (Prilog 1) i zaseban troškovnik (Prilog 5) za svaku od 13 grupa. Zaseban dokument 'Tehničke specifikacije' sadrži samo uputnicu na troškovnik, bez dodatne razrade, a odgovori na upite pokazuju da je dokumentacija naknadno dorađivana (brisanje/izmjena stavki), što ukazuje na manje propuste u izvornoj verziji.",
+      "citat": "Tehničke specifikacije za predmet nabave su sastavni dio troškovnika."
+    },
+    "prosjecna_ocjena": 4.0
+  },
+  "restriktivnost": {
+    "prisutno": true,
+    "indikatori": [
+      {
+        "opis": "Dvije stavke u Grupi 1 (kolagenske spužvice, dimenzija 2,5x3,0x0,5 i 9,5x4,8x0,5) specificirane su izravnim pozivanjem na komercijalni naziv proizvoda jednog proizvođača ('kao Tachosil'), bez propisane formulacije 'ili jednakovrijedno'.",
+        "citat": "kolagen spužvica 9,5x4,8x0,5 kao Tachosil"
+      },
+      {
+        "opis": "Ponuditelj je tijekom postupka izričito upozorio da su te stavke u ekskluzivnoj distribuciji jedne veledrogerije i zatražio njihovo brisanje, no naručitelj je zahtjev odbio i zadržao izvornu specifikaciju.",
+        "citat": "Grupa 1, stavke 3 i 4 – molimo brisanje stavaka iz grupe pošto su iste u ekskluzivnoj distribuciji jedne veledrogerije Odgovor: Ne prihvaća se"
+      }
+    ],
+    "rizik": "srednji"
+  },
+  "napomena": "Grupa 1 je unatoč spornim stavkama ipak zaprimila 2 ponude (nije bio slučaj nadmetanja s jednim ponuditeljem), pa učinak restriktivnosti na stvarnu konkurenciju nije potvrđen brojem ponuda, ali dokumentirana odluka naručitelja da zadrži brand-specifičnu stavku unatoč izričitom upozorenju na ekskluzivnu distribuciju predstavlja jasan, citatom potkrijepljen indikator prilagođenosti specifikacije. Postupak je podijeljen u 13 grupa; ocjena se odnosi na cjelokupnu dokumentaciju postupka, a ne na pojedinu grupu zasebno. Dio priloga (Odluka o odabiru/poništenju .zip prilozi) ekstrahiran je kao prazan (0 bajtova) i nije mogao biti pregledan, ali sadržajno relevantni dokumenti (kriteriji, troškovnici, upute, odgovori, obavijesti) bili su dostupni i pročitani u cijelosti."
+}

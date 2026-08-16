@@ -1,0 +1,28 @@
+{
+  "postupak_id": 4706,
+  "napomena_dostupnosti": "U mapi extracted/ dostupna je isključivo jedna datoteka: 'Obavijest o dodjeli ugovora - Rezultati postupka nabave.pdf.txt'. Ne postoji dokumentacija o nabavi, tehnička specifikacija, kriteriji za kvalitativni odabir niti obavijest o nadmetanju — postupak je od Naručitelja izravno dodijeljen (izuzet od ZJN-a temeljem isključivog zakonskog prava, čl. 30. st. 1. t. 15. ZJN2016), zaprimljeno je 0 ponuda. Ocjena je stoga nužno ograničena na ono što je vidljivo iz administrativne obavijesti o dodjeli, ne iz stvarne natječajne dokumentacije.",
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 2,
+      "obrazlozenje": "Naveden je samo naziv kriterija ('Cijena') bez formule, pondera ili metodologije ocjenjivanja ponuda; budući da nije zaprimljena nijedna ponuda, kriterij nikad nije stvarno primijenjen niti dodatno razrađen u dostupnom dokumentu.",
+      "citat": "Kriterij za odabir ponude Cijena: Naziv kriterija Cijena"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 1,
+      "obrazlozenje": "Opis predmeta nabave svodi se na identičan kratki naziv ponovljen na tri mjesta u dokumentu, bez ikakvih tehničkih detalja (opseg usluge, broj/vrsta plovila, učestalost, kadrovski ili tehnički uvjeti izvršenja).",
+      "citat": "Usluga priveza i odveza brodova u luci Preko"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 1,
+      "obrazlozenje": "U korpusu ne postoji nikakva natječajna dokumentacija (troškovnik, tehnički uvjeti, obrasci) jer je postupak zakonski izuzet od primjene ZJN-a i dodijeljen bez provedbe natječaja; jedini dostupni dokument je naknadna administrativna obavijest o već sklopljenom ugovoru.",
+      "citat": "predmetni postupci nabave usluga priveza i odveza brodova Jadrolinije izuzeti od primjene Zakona o javnoj nabavi"
+    },
+    "prosjecna_ocjena": 1.33
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak",
+    "napomena": "Nema dostupne tehničke specifikacije niti kriterija za kvalitativni odabir koje bi bilo moguće analizirati na prilagođenost određenom ponuditelju u klasičnom smislu (brendirani proizvod, nesrazmjerni pragovi). Dodjela je izravna, temeljem isključivog zakonskog prava (čl. 30. st. 1. t. 15. ZJN2016) srodnom javnom tijelu (Županijska lučka uprava Zadar), uz 0 zaprimljenih ponuda — riječ je o potpunom izuzeću od konkurentnog postupka, a ne o restriktivno sastavljenoj specifikaciji unutar formalno provedenog natječaja."
+  }
+}

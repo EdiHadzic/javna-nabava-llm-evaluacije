@@ -1,0 +1,40 @@
+{
+  "postupak_id": 27901,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij ENP definiran je s dva jasno ponderirana i matematički operacionalizirana elementa (cijena 90 bodova, rok isporuke 10 bodova), s objavljenom formulom za bodovanje cijene i eksplicitnom tablicom bodova po ponuđenom roku isporuke. Bodovanje u Zapisniku o pregledu i ocjeni (npr. Ghia Sport 90+10=100, EP-ING 71,15+0=71,15) potpuno je sljedivo i reproducibilno iz objavljenih kriterija, bez prostora za diskrecijsku ocjenu.",
+      "citat": "Rbr Opis Broj bodova Pojašnjenje 1 30 dana 10,00 - 2 40 dana 6,00 - 3 50 dana 3,00 - 4 60 dana 0,00 -"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Tehnička specifikacija sadrži konkretne, mjerljive parametre (broj sjedala, minimalna visina sekcije, visinska razlika redova, materijal i zaštita konstrukcije, tip gazišta). Konačna verzija (v3) jasna je i unutarnje konzistentna, ali do te verzije došlo je tek nakon niza pojašnjenja u kojima su ponuditelji ukazali na grubu grešku u izvornom nacrtu (npr. tražena 'visina tribine 375 cm' uz razmak redova od 25 cm, matematički nemoguća kombinacija, naknadno ispravljena na 125 cm) i na prekruta ograničenja (minimalna širina sekcije 220 cm), što ukazuje da izvorna dokumentacija nije bila dovoljno promišljena/precizna prije prve objave.",
+      "citat": "Svaka sekcija u treba sadržavati minimalno 5 redova sjedala, minimalne visine sekcije 1,25 m"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dokumentacija je potpuna za samostalnu izradu ponude: uključuje Opće podatke, detaljne Kriterije kvalitativnog odabira (ESPD, osnove za isključenje, dokazivanje), Kriterije za odabir ponude s formulama, Tehničke specifikacije, popunjiv Troškovnik i opsežne Upute za ponuditelje (jamstva, plaćanje, jezik, rok valjanosti, žalbeni rok). Sve tri stvarno pristigle ponude (Montažne tribine d.o.o., Ghia Sport d.o.o., EP-ING d.o.o.) ocijenjene su formalno i sadržajno valjanima te potpunima, što posredno potvrđuje dostatnost dokumentacije.",
+      "citat": "Elektronička ponuda mora sadržavati najmanje: Uvez ponude Popunjeni eESPD obrazac (ili više njih, ako je primjenjivo) Popunjen troškovnik"
+    },
+    "prosjecna_ocjena": 4.67
+  },
+  "restriktivnost": {
+    "prisutno": true,
+    "indikatori": [
+      {
+        "opis": "Minimalna širina sekcije tribine (220 cm) izvorno je obrazložena vlastitim potrebama naručitelja, a ne funkcionalnim/sigurnosnim razlogom, dok je jedan ponuditelj eksplicitno naveo da ta dimenzija u kombinaciji s traženim 'Rješenjem o tipskom proizvodu' sužava tržište na jednog ponuditelja (poziv na čl. 4. ZJN). Naručitelj je zahtjev naknadno ublažio (dopustio uže sekcije) tek nakon ponovljenog prigovora.",
+        "citat": "Naručitelj već posjeduje montažne tribine te je odredio dimenziju sekcije kao minimalnu širinu i minimalnu visinu sukladno svojim potrebama."
+      },
+      {
+        "opis": "Tip ograde (stupovi i horizontale, 'brodski sustav') izvorno je obrazložen estetskom usklađenošću s već posjedovanom opremom naručitelja, a ne sigurnosnim/tehničkim kriterijem, što je klasičan obrazac prilagodbe specifikacije poznatom/postojećem proizvodu. Naknadno je i ovaj zahtjev ublažen dopuštanjem alternativne (vertikalne) izvedbe ograde.",
+        "citat": "Naručitelj želi istaknuti da već posjeduje tribine s stupovima i horizontalama pa bi vizualno bilo skladnije kad bi ograda bila u istoj izvedbi."
+      },
+      {
+        "opis": "Ponuditelj je u pisanom upitu izrijekom optužio naručitelja da kombinacija dimenzijskih zahtjeva i traženog rješenja o tipskom projektu ograničava postupak na isključivo jednog ponuditelja, pozivajući se na načelo zabrane neopravdanog favoriziranja iz ZJN-a.",
+        "citat": "ograničava mogućnost ponude zainteresiranim ponuditeljima isključivo na jednog ponuditelja što čini kršenje javne nabave"
+      }
+    ],
+    "rizik": "srednji"
+  },
+  "napomena": "Analizirane su sve relevantne .txt datoteke u extracted/ (opći podaci, kriteriji kvalitativnog odabira, kriteriji za odabir ponude, tehničke specifikacije v3, troškovnik, upute za ponuditelje, odgovori na upite, obavijest o nadmetanju, zapisnik o pregledu i ocjeni, odluka o odabiru). Dvije popratne potvrde iz faze odabira (BS-EN-1090 certifikat i EN-ISO-3834-2 certifikat) ekstrahirane su gotovo prazno (1-9 znakova, vjerojatno skenirani dokumenti bez uspješnog OCR-a), ali nisu relevantne za ocjenu transparentnosti/restriktivnosti dokumentacije nabave. Nalaz restriktivnosti temelji se prvenstveno na modulu 'Odgovori', gdje je vidljiv iterativni proces u kojem su ponuditelji uspješno osporili dio izvorno preuskih zahtjeva (naručitelj je 7 puta izmijenio dokumentaciju i produžio rok), a postupak je na kraju privukao 3 neovisna ponuditelja s valjanim ponudama, što ublažava, ali ne poništava, indikatore prilagodbe specifikacije poznatoj/postojećoj opremi naručitelja."
+}

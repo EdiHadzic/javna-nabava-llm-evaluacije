@@ -1,0 +1,40 @@
+{
+  "postupak_id": 4605,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij za odabir (ekonomski najpovoljnija ponuda) razrađen je s dvije potpuno mjerljive komponente (cijena 90%, jamstveni rok 10%), svaka s eksplicitnom matematičkom formulom, definiranim minimumom (12 mjeseci jamstva) i posljedicom nepoštivanja (odbačaj ponude). Kriterij je dosljedno ponovljen identično u tri dokumenta (Kriterij za odabir ponude, Upute za ponuditelje, Obavijest o nadmetanju).",
+      "citat": "Cijena 90% Formula: P = Pn / Pr * 90 ... Jamstveni rok 10% Formula: G = Gt / G1 * 10"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Tehnička specifikacija iznimno je detaljna (83 stavke, po modulima: sigurnosni, glavni, tlak, EMG, protok, volumen, kolica) i omogućuje izravnu usporedbu ponuda. Međutim, dio parametara zadan je kao točno određena, neobično precizna vrijednost (a ne raspon), npr. frekvencija obnavljanja i uzorkovanja signala, što graniči s prekomjernom preciznošću tipičnom za prepisivanje iz specifikacije jednog proizvođača (v. restriktivnost niže) — zato ocjena nije maksimalna unatoč izvrsnoj konkretnosti.",
+      "citat": "Frekvencija obnavljanja 22.05 kHz (frekvencija uzorkovanja 1.4 MHz)"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dostupan je kompletan skup dokumenata potreban za samostalnu izradu ponude: Opći podaci, Upute za ponuditelje, Kriteriji za kvalitativni odabir gospodarskog subjekta, Kriterij za odabir ponude, tehnička specifikacija i troškovnik (usklađeni), te Prijedlog ugovora. Sva polja (jamstva, plaćanje, jezik, rok valjanosti ponude) eksplicitno su popunjena, bez praznih uputa 'vidi drugdje' koje ne vode nikamo.",
+      "citat": "Elektronička ponuda mora sadržavati najmanje: Uvez ponude, Popunjeni eESPD obrazac, Popunjen troškovnik, Prijedlog ugovora"
+    },
+    "prosjecna_ocjena": 4.67
+  },
+  "restriktivnost": {
+    "prisutno": true,
+    "indikatori": [
+      {
+        "opis": "Više tehničkih parametara zadano je kao jedna neobično precizna vrijednost umjesto raspona ili minimalnog praga, karakteristično za prepisivanje specifikacije iz kataloga jednog konkretnog proizvođača.",
+        "citat": "Frekvencija obnavljanja 22.05 kHz (frekvencija uzorkovanja 1.4 MHz)"
+      },
+      {
+        "opis": "Zadržana gramatička/tipfeler pogreška ('veči' umjesto 'veći') unutar tehničkog parametra upućuje na doslovno kopiranje teksta iz izvornog (vjerojatno prijevodnog) materijala proizvođača bez uređivanja.",
+        "citat": "CCMR veči od 120dB"
+      },
+      {
+        "opis": "Vrlo uska, jednoznačna vrijednost ulazne impedancije bez raspona.",
+        "citat": "Ulazna impedance 10 MOhm"
+      }
+    ],
+    "rizik": "srednji"
+  },
+  "napomena": "Pročitane su sve 13 .txt datoteke u extracted/ (dokumentacija o nabavi, tehnička specifikacija/troškovnik, obavijest o nadmetanju, zapisnik o pregledu i ocjeni, odluka o odabiru, obavijest o dodjeli ugovora, prijedlog ugovora, izjava o neulaganju žalbe). Nema izostanka dokumenata niti praznih ekstrakcija. Naznake restriktivnosti temelje se isključivo na neobično preciznim tehničkim parametrima (bez raspona), ne na eksplicitnom navođenju marke/modela ili nesrazmjernim financijskim/referentnim pragovima — otud rizik 'srednji', a ne 'visok'. Dodatni kontekst: od 2 zaprimljene ponude, jedna (AnalyticPharma d.o.o.) odbijena je zbog nepopunjenog troškovnika i nedostavljenog jamstva za ozbiljnost ponude, ne zbog neispunjavanja tehničke specifikacije — što ne potvrđuje niti isključuje restriktivnost specifikacije kao uzrok niske konkurencije."
+}

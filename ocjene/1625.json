@@ -1,0 +1,49 @@
+{
+  "postupak_id": 1625,
+  "broj_pojedinacnih_runova": 2,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Oba pokretanja neovisno utvrđuju potpunu operacionalizaciju kriterija ekonomski najpovoljnije ponude: cijena nosi 70 bodova prema jasnoj formuli u odnosu na najnižu ponudu, a preostalih 30 bodova kvalitete raspoređeno je na dva mjerljiva potkriterija — certifikati (fiksna tablica bodova prema broju posjedovanih certifikata: 15/10/5/0) i dodatna stručnost/broj osposobljenih zaštitara (jasni raspon vrijednosti s pripadajućim bodovima, uz propisan minimum i maksimum koji se priznaje). Nijedan element bodovanja ne ostavlja prostor za diskrecijsku procjenu naručitelja.",
+      "citat": "Certifikati 15,00 Dodatna stručnost zaštitara 15,00 ... Ponuda s najnižom cijenom dobiva 70,00 bodova",
+      "runovi": [
+        5,
+        5
+      ],
+      "slaganje": "puno"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Tehnička specifikacija je konkretna: navodi svih 5 lokacija, radno vrijeme po lokaciji, broj čuvarskih mjesta i popis obveza zaštitara, što omogućuje usporedive ponude (potvrđeno i troškovnikom s okvirnim brojem sati po lokaciji). Ocjena nije 5 jer je za dvije lokacije (radno vrijeme na Kneževoj i Providurovoj palači, odnosno lokacije opisane kao d) i e) u tehničkoj specifikaciji) raspored ostavljen fleksibilnim/približnim (\"cca\", \"sukladno potrebama Naručitelja\", \"okvirne količine\"), što unosi manju neodređenost u stvarni opseg posla za ponuditelje pri izračunu cijene.",
+      "citat": "1 (jedno) čuvarsko radno mjesto, u vremenu od cca 14,00 do 19,00 sati, a sukladno potrebama Naručitelja",
+      "runovi": [
+        4,
+        4
+      ],
+      "slaganje": "puno"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dostupna je cjelovita dokumentacija potrebna za samostalnu izradu ponude: opći podaci o postupku, tehnička specifikacija, troškovnik s okvirnim količinama, kriteriji kvalitativnog odabira gospodarskog subjekta, kriteriji za odabir ponude, upute za ponuditelje (uklj. eksplicitan popis minimalnog sadržaja ponude, jamstva, rokove, žalbeni postupak), prijedlog ugovora i pomoćni obrasci/prilozi. Jedno pokretanje dodatno bilježi da su dvije datoteke iz faze dodjele ('Odluka o odabiru potpisana.pdf', 'Zapisnik o pregledu i ocjeni potpisan.pdf') ekstrahirane gotovo prazne kao skenovi, ali njihovi nepotpisani, sadržajno puni ekvivalenti postoje i pročitani su, pa to ne umanjuje ocjenu potpunosti dokumentacije relevantne za pripremu ponude.",
+      "citat": "Elektronička ponuda mora sadržavati najmanje: Uvez ponude, Popunjen eESPD obrazac, Popunjen troškovnik",
+      "runovi": [
+        5,
+        5
+      ],
+      "slaganje": "puno"
+    },
+    "prosjecna_ocjena": 4.67
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak",
+    "runovi_prisutno": [
+      false,
+      false
+    ],
+    "slaganje": "puno"
+  },
+  "napomena": "Svi ključni dokumenti (opći podaci, tehnička specifikacija, kriteriji kvalitativnog odabira, kriteriji za odabir ponude, upute za ponuditelje, troškovnik, prijedlog ugovora, prilozi) uspješno su ekstrahirani i čitljivi u punom opsegu u oba pokretanja. Uvjet minimalno 25 raspoloživih zaštitara djeluje visoko u odnosu na broj istovremenih radnih mjesta (najviše 2 istovremeno), ali tehnička specifikacija to eksplicitno obrazlaže potrebom kontinuiteta 24/7 usluge uz zamjene za bolovanja/izostanke, razmjerno stvarnom opsegu sati u troškovniku (cca 11.500 sati/god.). Zahtjev referenci ograničen je na 1x procijenjenu vrijednost, bez traženog minimalnog godišnjeg prometa iznad dvostruke procijenjene vrijednosti. Certifikati ISO 9001/27001/45001 vrednuju se isključivo kao dodatni (opcionalni) bodovi kvalitete (15/100 bodova), ne kao uvjet isključenja — ponuditelj bez certifikata i dalje može konkurirati i pobijediti isključivo na temelju cijene.",
+  "napomena_resolvera": "Oba pokretanja gotovo su identična na sve tri dimenzije transparentnosti (5/5, 4/4, 5/5, prosjek 4,67 u oba) i na ukupni zaključak o restriktivnosti (prisutno: false, rizik nizak u oba) — slaganje 'puno' na svim stavkama, nije bilo potrebno samostalno čitanje izvornog teksta iz extracted/ jer nije postojao rascjep. Jedina razlika: run_2 je u sklopu svoje analize eksplicitno razmotrio i odbacio jedan mogući indikator restriktivnosti (ISO 27001 certifikat neuobičajen za djelatnost tjelesne zaštite), zaključivši da ne prelazi prag jer je riječ o dodatnim/opcionalnim bodovima kvalitete, a ne o uvjetu isključenja — ta prosudba sadržajno se poklapa s neovisnim obrazloženjem o certifikatima koje je run_1 dao u vlastitoj napomeni, pa je uključena u finalnu napomenu kao potvrđena, ne dodana u indikatore jer konačni verdikt oba runa ostaje 'nije prisutno'. Razina pouzdanosti finalne ocjene: visoka."
+}

@@ -1,0 +1,40 @@
+{
+  "postupak_id": 11014,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 4,
+      "obrazlozenje": "Naveden je jedan, nedvosmislen i mjerljiv kriterij za odabir ponude (cijena, 100% značaja), bez dodatnih podkriterija. Nema, međutim, dostupne metodologije bodovanja niti troškovnika koji bi potvrdio usporedivost ponuda, jer je zaprimljena samo jedna ponuda u pregovaračkom postupku bez prethodne objave.",
+      "citat": "Kriterij za odabir ponude Cijena: Naziv kriterija Značaj Cijena 100,00"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 1,
+      "obrazlozenje": "Opis predmeta nabave doslovno ponavlja naziv postupka bez ikakvih tehničkih pojedinosti (npr. broj/vrsta plovila, učestalost operacija priveza/odveza, opseg usluge, radno vrijeme). Jedina dodatna informacija je CPV oznaka 63723000 (Usluge priveza).",
+      "citat": "Opis nabave: USLUGE PRIVEZA I ODVEZA BRODOVA JADROLINIJE U PUTNIČKOJ LUCI GAŽENICA - ZADAR"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 1,
+      "obrazlozenje": "U mapi extracted/ dostupan je isključivo PDF 'Obavijest o dodjeli ugovora'. Nema dokumentacije o nabavi, tehničkih uvjeta/specifikacija ni troškovnika koji bi omogućili samostalnu procjenu ponude - što je dijelom posljedica same vrste postupka (pregovarački bez prethodne objave, gdje takva dokumentacija nije ni objavljena na portalu jer nije bilo poziva na nadmetanje).",
+      "citat": "Obavijest o dodijeli ugovora Rezultati postupka nabave Javni naručitelj - Direktiva 2014/24/EU"
+    },
+    "prosjecna_ocjena": 2.0
+  },
+  "restriktivnost": {
+    "prisutno": true,
+    "indikatori": [
+      {
+        "opis": "Postupak je proveden kao pregovarački bez prethodne objave poziva na nadmetanje, s obrazloženjem da samo jedan, unaprijed poznat gospodarski subjekt (nositelj koncesije) može izvršiti ugovor - čime je natjecanje unaprijed u potpunosti isključeno, a ne suženo tehničkom specifikacijom.",
+        "citat": "ugovor može izvršiti samo određeni gospodarski subjekt"
+      },
+      {
+        "opis": "Isključivo pravo izravno je vezano uz ime konkretnog gospodarskog subjekta koji je ujedno postao i jedini ponuditelj te ugovaratelj.",
+        "citat": "Prvenstvena koncesija za obavljanje lučke djelatnosti priveza i odveza brodova... dodijeljena je društvu LUKA ZADAR d.d."
+      },
+      {
+        "opis": "Zaprimljena je samo jedna ponuda, od istog subjekta kojem je unaprijed pravno pripisano isključivo pravo izvršenja.",
+        "citat": "Broj zaprimljenih ponuda: 1"
+      }
+    ],
+    "rizik": "visok"
+  },
+  "napomena": "Dostupan je samo jedan dokument (obavijest o dodjeli ugovora); nema dokumentacije o nabavi ni tehničke specifikacije, dijelom zbog same prirode postupka (pregovarački bez prethodne objave). Restriktivnost ovdje ne proizlazi iz tehničke specifikacije prilagođene ponuditelju (uobičajeni mehanizam koji ovaj kriterij inače detektira), nego iz pravno utemeljenog isključivog prava/koncesije koje je unaprijed odredilo jedinog mogućeg ponuditelja - funkcionalni učinak na tržišno natjecanje je, međutim, ekvivalentan potpunoj isključenosti konkurencije, pa je stoga označeno kao prisutno uz visok rizik."
+}

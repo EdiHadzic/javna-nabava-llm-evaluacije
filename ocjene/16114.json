@@ -1,0 +1,32 @@
+{
+  "postupak_id": 16114,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij za odabir ponude (ekonomski najpovoljnija ponuda) potpuno je operacionaliziran matematičkom formulom za cijenu (CP = CPmin/CPa x 90) i bodovnom tablicom po svakom od 6 ključnih stručnjaka za nefinancijski kriterij (RI), s jasno definiranim brojem bodova za svaku kombinaciju dokazanog dodatnog iskustva (npr. tablica scenarija a)-f) za Stručnjaka 1). Naknadno objavljena 'Analiza valjanih ponuda' pokazuje da je izračun proveden točno prema najavljenoj metodologiji (CP=90, RI=9, U=99), čime je kriterij i mjerljiv i naknadno provjerljiv.",
+      "citat": "CP = (CPmin/CPa) x 90 ... RI = KS 1 + KS 2 + KS 3 + KS 4 + KS5 + KS6"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 5,
+      "obrazlozenje": "Prilog B (Projektni zadatak) vrlo je opsežan (74.799 znakova) i detaljno specificira opseg usluge (vođenje izgradnje, nadzor, izvještavanje, koordinacija s HOPS-om, usklađenost s EBRD politikama, verifikacijska ispitivanja, tehnička podrška u pogonu) bez pozivanja na konkretnu robnu marku ili patentirano rješenje jer je riječ o intelektualnoj/nadzornoj usluzi, a ne o nabavi robe. Opis je operativno precizan (rokovi izvještaja, sadržaj tjednih/mjesečnih izvještaja) i omogućuje usporedivu ponudu.",
+      "citat": "Konzultant će pružati usluge kao tehnički savjetnik u ime Naručitelja pri izgradnji i puštanju u pogon SE Korlat te će obavljati kontrolu odgovarajuće tehničke dokumentacije..."
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dokumentacija je potpuna i interno konzistentna: Obavijest o nadmetanju, DON Dio I (Opći podaci) i Dio II (Upute za ponuditelje), Kriteriji kvalitativnog odabira s ESPD uputama, Prilog A (Prijedlog ugovora), Prilog B (Projektni zadatak), Prilog C (Troškovnik), Prilog D (Kriterij za odabir ponude s formulom), Prilozi E-J (obrasci izjava za ključne stručnjake, integritet, sankcije Rusiji). Cijeli postupak dokumentiran je do kraja (dopis za pojašnjenje, zapisnik o pregledu i ocjeni, odluka o odabiru, obavijest o dodjeli ugovora), bez vidljivih praznina.",
+      "citat": "Elektronička ponuda mora sadržavati najmanje: Uvez ponude, Popunjeni eESPD obrazac, Popunjen troškovnik..."
+    },
+    "prosjecna_ocjena": 5.0
+  },
+  "restriktivnost": {
+    "prisutno": true,
+    "indikatori": [
+      "Otvoreni postupak s procijenjenom vrijednosti 1.650.000,00 EUR (objava i u EOJN i u Službenom listu EU) zaprimio je samo jednu (1) valjanu ponudu, što je neuobičajeno nisko za postupak ove vrijednosti i upućuje na uzak krug sposobnih ponuditelja.",
+      "Tehnička i stručna sposobnost zahtijeva kumulativno, kombinirano iskustvo istog stručnjaka (Ključni stručnjak 1) istovremeno na izgradnji elektrane s priključkom na visokonaponsku mrežu OD 110 kV ili više I na izgradnji neintegrirane sunčane elektrane snage veće od 2 MW - vrlo uska kombinacija koja isključuje stručnjake sa samo jednim od dva iskustva.",
+      "Zahtijeva se i posebno, samostalno iskustvo u projektima (su)financiranim od strane EBRD-a ili sličnih međunarodnih financijskih institucija, što dodatno sužava krug kvalificiranih ponuditelja na one koji su prethodno radili na EBRD projektima.",
+      "Naručitelj je za svaki od 6 uvjeta dao opsežno obrazloženje nužnosti (obzirom na veličinu/kompleksnost/specifičnost projekta SE Korlat), što ukazuje na svjesno i dokumentirano opravdanje uvjeta, a ne na proizvoljno postavljanje praga - stoga rizik nije ocijenjen kao visok."
+    ],
+    "rizik": "srednji"
+  },
+  "napomena": "Sva ključna dokumentacija dostupna je i međusobno konzistentna (DON, prilozi, zapisnik, odluka o odabiru, obavijest o dodjeli). Postupak je sektorska nabava (HEP d.d. za ENERGETSKI PARK KORLAT d.o.o.) izgradnje sunčane elektrane financirane djelomično od EBRD-a. Jedina pristigla ponuda (FRACTAL d.o.o.) prihvaćena je gotovo bez odstupanja od procijenjene vrijednosti (1.635.000 EUR naspram 1.650.000 EUR procijenjenih), a njezini nominirani stručnjaci imaju reference na srodne projekte (VE Korlat, VE Bruvno, SE Cres, SE Bukovica) što je dosljedno uskom krugu tržišta s traženim kombiniranim iskustvom, ali nije dovoljno za zaključak o izravnom favoriziranju određenog ponuditelja."
+}

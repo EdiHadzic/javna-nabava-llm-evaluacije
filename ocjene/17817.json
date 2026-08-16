@@ -1,0 +1,39 @@
+{
+  "postupak_id": 17817,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 4,
+      "obrazlozenje": "Kriterij za odabir ponude (cijena 90 %, jamstveni rok 10 %) definiran je egzaktnom formulom i lako je provjerljiv i usporediv (vidljivo i u stvarnoj primjeni na 5 ponuda u Zapisniku o pregledu i ocjeni). Kriteriji kvalitativnog odabira (reference, tehnički stručnjaci) su detaljno razrađeni s jasnim brojčanim pragovima. Međutim, izvorna verzija dokumentacije sadržavala je zahtjev koji je, prema vlastitom priznanju naručitelja u odgovoru, premašivao minimalnu razinu sposobnosti dopuštenu čl. 256. st. 3. ZJN-a (ograničenje struke inženjera gradilišta i preuska definicija 'sličnih radova'), pa je ocjena umjerena umjesto maksimalne.",
+      "citat": "Naručitelj prilikom razmatranja ovog pitanja i formiranja zahtjeva nije uzeo u obzir stavak (3) članka 256. ZJN"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Opis predmeta nabave vrlo je konkretan: tehnički parametri stavki troškovnika navode točne fizikalne karakteristike (toplinska provodnost, protupožarna otpornost, dimenzije), a odgovori na pitanja dodatno precizirali su brojne stavke (dimenzije rešetki, profila vodomjera, debljine izolacije i sl.). Istovremeno, velik broj (>40) tehničkih pojašnjenja i nekoliko produljenja roka bio je nužan jer opis pojedinih stavki (sheme bravarije/stolarije, postojeće instalacije) nije bio unaprijed dovoljno precizan, pa ponuditelji nisu mogli usporedivo ponuditi bez dodatnih upita ili obilaska objekta.",
+      "citat": "toplinska provodnost Λ ≤ 0,038 W/(mK); delaminacijska čvrstoća ≥ 80,0 kPa, tlačna čvrstoća ≥ 40kPa"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 4,
+      "obrazlozenje": "Dostupna je opsežna projektna dokumentacija (arhitektonski, elektrotehnički, strojarski i fotonaponski glavni projekti za sve tri zgrade, u punom opsegu ekstrahirani kao vrlo veliki tekstualni fajlovi), kriteriji kvalitativnog odabira, upute za ponuditelje i detaljan Q&A. Za samostalnu izradu ponude nedostaju sheme stolarije/bravarije (naručitelj eksplicitno navodi da po pravilniku nisu obavezan dio Glavnog projekta) te za neke elemente postojeće stanje nije poznato ni samom naručitelju jer stara dokumentacija nije sačuvana. Dvije .xls datoteke Troškovnika ekstrahirane su kao prazne (poznato ograničenje pipeline-a za pojedine .xls formate), što onemogućuje izravnu provjeru detalja troškovnika iz ovog seta datoteka, no njegov sadržaj posredno je vidljiv kroz opsežne odgovore na pitanja.",
+      "citat": "Nije bilo mogućnosti uvida u postojeću dokumentaciju jer ista nije sačuvana te nije bilo mogućnosti da se otvori postojeći fasadni sustave i utvrdi o kakvom se sustavu radi."
+    },
+    "prosjecna_ocjena": 4.0
+  },
+  "restriktivnost": {
+    "prisutno": true,
+    "indikatori": [
+      {
+        "opis": "Izvorni zahtjev za inženjera gradilišta ograničen samo na 'arhitektonsku ili građevinsku struku', bez elektrotehničke/strojarske - ponuditelj je prigovorio da premašuje minimalnu razinu sposobnosti dopuštenu čl. 256. st. 3. ZJN-a; naručitelj je prihvatio i izmijenio dokumentaciju prije roka za dostavu ponuda.",
+        "citat": "molimo izmjenu Dokumentacije o nabavi u dijelu Kriterija za kvalitativni odabir gospodarskog subjekta... da se u zahtjevu inženjera gradilišta uz navod „arhitektonske ili građevinske struke“ doda i \"elektrotehničke ili strojarske struke\" ... Odgovor: Prihvaća se."
+      },
+      {
+        "opis": "Izvorna definicija 'sličnih radova' za reference (5.3.1.3) isključivala je radove izgradnje, čime su isključeni subjekti koji su izvodili kompleksnije, ali usporedive radove; ponuditelj je prigovorio kršenju ZJN-a, naručitelj je prihvatio i proširio definiciju.",
+        "citat": "Postojećom definicijom iz postupka nabave isključuju se gospodarski subjekti koji su vršili znatno kompleksnije radove... što krši odredbe ZJN-a... Odgovor: Prihvaća se."
+      },
+      {
+        "opis": "Troškovnik na više mjesta zahtijeva navođenje proizvođača/marke/tipa artikla uz obvezu dokazivanja jednakovrijednosti - standardna i zakonom dopuštena praksa (ne referira se na jedan konkretan brend bez mogućnosti jednakovrijednosti), stoga nije ocijenjeno kao značajan rizik, ali ostaje mehanizam koji potencijalno pogoduje ponuditeljima bliskim projektantovoj referentnoj specifikaciji."
+      }
+    ],
+    "rizik": "nizak"
+  },
+  "napomena": "Ocjena temeljena na svim relevantnim manjim/srednjim datotekama iz extracted/ (Obavijest o nadmetanju, Opći podaci, Upute za ponuditelje, Kriteriji kvalitativnog odabira, Odgovori na pitanja u cijelosti, Podaci o numeričkim vrijednostima kriterija, IZJAVA DNSH, Zapisnik o pregledu i ocjeni, Odluka o odabiru, Obavijest o dodjeli ugovora). Tri vrlo velika arhitektonska/elektrotehnička/strojarska/fotonaponska Glavna projekta (3-4 MB teksta svaki, po zgradi) nisu čitana u cijelosti zbog opsega, ali njihovo postojanje i veličina potvrđuju opsežnu tehničku dokumentaciju; njihov sadržaj posredno je procijenjen kroz brojna pitanja/odgovore koji ih referenciraju. Dvije .xls datoteke Troškovnika ekstrahirane su prazne (poznato ograničenje ekstrakcijskog pipelinea za pojedine .xls formate), pa detaljan sadržaj troškovnika po stavkama nije izravno pročitan, već posredno rekonstruiran iz Q&A. Postupak je završen s 5 valjanih ponuda i širokim rasponom cijena (6,15-9,19 mil. EUR), što ukazuje na stvarnu tržišnu konkurenciju unatoč zabilježenim indikatorima početne restriktivnosti (koji su ispravljeni prije roka za dostavu ponuda)."
+}

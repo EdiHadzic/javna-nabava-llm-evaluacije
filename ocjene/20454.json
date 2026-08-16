@@ -1,0 +1,44 @@
+{
+  "postupak_id": 20454,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriteriji za odabir ponude (cijena 90 %, kvaliteta - odaziv na reklamaciju 10 %) potpuno su matematički operacionalizirani za svih 14 grupa: dane su eksplicitne formule bodovanja, zaokruživanje na šest decimala, gornji dozvoljeni prag za ne-cjenovni kriterij (48 sati) te pravilo za rangiranje jednako bodovanih ponuda. Nema dvosmislenosti u načinu izračuna niti u dokazima koji se traže.",
+      "citat": "Naručitelj je ograničio najviši dozvoljeni iznos za kriterij 48,00"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 3,
+      "obrazlozenje": "Opis predmeta nabave svodi se gotovo isključivo na stavke troškovnika (naziv artikla, jedinica mjere, okvirna količina), bez zasebnog dokumenta s detaljnim tehničkim specifikacijama - dokument 'Teh. specifikacije.docx' sadrži samo jednu rečenicu koja upućuje na troškovnik. Dio stavki ima koristan minimalni opis (npr. min/max gramaža, IQF metoda), ali više stavki upućuje na konkretnu komercijalnu marku ('kao Zdenka', 'kao nutella', 'kao vegeta', 'kao Podravac', 'kao kneipp', 'kao keksi piknik') bez propisane formulacije 'ili jednakovrijedno', što snižava preciznost i usporedivost opisa predmeta nabave. Q&A razmjena (grupa 5, stavke 1-2) pokazuje da je izvorni opis za dio artikala bio nedovoljno precizan sve dok nije naknadno dopunjen.",
+      "citat": "Tehnička specifikacija predmeta nabave određena je u troškovniku koji je prilog ove dokumnetacije za nadmetanje."
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 4,
+      "obrazlozenje": "Dokumentacija je opsežna i strukturirana (Opći podaci, Kriteriji kvalitativnog odabira, Kriteriji za odabir ponude, Upute za ponuditelje, zaseban troškovnik za svaku od 14 grupa, iznosi jamstva po grupi, ESPD upute) te omogućuje samostalnu izradu ponude. Naručitelj je pravodobno odgovarao na pitanja gospodarskih subjekata i dopunjavao dokumentaciju (izmjene troškovnika grupe 5). Manji minus: tehnička specifikacija nije izdvojena kao samostalan dokument nego stopljena s troškovnikom, a nekoliko priloženih izjava/potvrda ponuditelja u uzorku ekstrakcije su gotovo prazne (vjerojatno format/OCR ograničenje, ne nužno manjkavost same dokumentacije naručitelja).",
+      "citat": "Naručitelj je prihvatio prijedlog gospodarskog subjekta te promijenio stavku 1 u troškovniku grupe 5."
+    },
+    "prosjecna_ocjena": 4.0
+  },
+  "restriktivnost": {
+    "prisutno": true,
+    "indikatori": [
+      {
+        "opis": "Više stavki troškovnika u različitim grupama upućuje na konkretnu komercijalnu marku ('kao [marka]') bez propisane dopune 'ili jednakovrijedno', što je suprotno standardnoj praksi neutralnog opisivanja predmeta nabave i može pogodovati ponuditeljima koji već nude točno taj proizvod.",
+        "citat": "topljeni sir (kao Zdenka)"
+      },
+      {
+        "opis": "Isti obrazac ponavlja se za više različitih robnih marki kroz nekoliko grupa (mliječni proizvodi, dodaci jelima, napitci), što ukazuje na sustavan, a ne izoliran propust u formulaciji troškovnika.",
+        "citat": "namaz od lješnjak (kao nutella) max.500g."
+      },
+      {
+        "opis": "Dodatan primjer marke bez klauzule o jednakovrijednosti u grupi 'Dodaci jelima'.",
+        "citat": "dodatak jelima (kao vegeta) max. 2/1"
+      },
+      {
+        "opis": "Dodatan primjer u grupi 'Napitci', gdje je naveden konkretan proizvod strane marke bez alternative.",
+        "citat": "napitak od žitarica (kao kneipp)"
+      }
+    ],
+    "rizik": "srednji"
+  },
+  "napomena": "Pročitani su svi ključni dokumenti postupka (Opći podaci o postupku nabave, Obavijest o nadmetanju, Kriteriji za kvalitativni odabir gospodarskog subjekta, Kriteriji za odabir ponude, Upute za ponuditelje, troškovnici svih 14 grupa, Odgovori na pitanja, Odluka o poništenju za grupu 13, Teh. specifikacije). Postupak je podijeljen u 14 grupa (procijenjena vrijednost 730.000,00 EUR ukupno) za istog naručitelja (Psihijatrijska bolnica Ugljan) pa je transparentnost/restriktivnost ocijenjena na razini cjelokupnog postupka jer su kriteriji za odabir ponude i struktura dokumentacije identični za sve grupe. Grupa 13 (Kruh) poništena je jer nije pristigla nijedna valjana ponuda - činjenica zabilježena radi konteksta, ali nije uzeta kao pokazatelj restriktivnosti jer nema izravne poveznice s opisom predmeta ili uvjetima sposobnosti. Nekoliko priloženih dokaznih dokumenata ponuditelja (npr. pojedine izjave, jedan xls) ekstrahirano je kao gotovo prazan tekst (1-4 znaka) - vjerojatno format/skenirano ograničenje ekstrakcije, ne utječe na ocjenu jer se radi o sporednim prilozima, ne o dokumentaciji o nabavi."
+}

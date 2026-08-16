@@ -1,0 +1,36 @@
+{
+  "postupak_id": 21323,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriteriji za odabir ponude potpuno su eksplicitni i mjerljivi za svih 9 grupa: ekonomski najpovoljnija ponuda temelji se na cijeni (90 bodova) i roku isporuke (10 bodova), s potpunom matematičkom formulom bodovanja cijene i konkretnom tablicom bodova za rok isporuke (do 2/5/7 dana), te jasnim pravilom za rješavanje izjednačenih ponuda (ranije zaprimljena ponuda). Nema dvosmislenosti niti subjektivnih elemenata u ocjenjivanju.",
+      "citat": "Ponuda s najnižom cijenom dobiva 90,00 bodova, dok se ostale ponude boduju prema formuli"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 3,
+      "obrazlozenje": "Tehničke specifikacije po stavkama troškovnika iznimno su detaljne (dimenzije, materijali, norme kvalitete poput EN 455/ISO 13485/MDR EU 2017/745), što uglavnom omogućuje usporedivu ponudu. Međutim, kod dijela stavki (Grupa 1: set za NPWT terapiju rana; cijela Grupa 9: nastavci za shaver) opis koristi naziv proizvođačeve tehnologije/sustava ('AIRLOCK tehnologija', 'shaver tipa APS II') umjesto isključivo funkcionalnih/generičkih karakteristika, čime se opis vezuje uz kompatibilnost s postojećim (vjerojatno već instaliranim) OEM sustavom, a ne uz otvoren, tehnologijski neutralan opis.",
+      "citat": "Nastavak za shaver tipa APS II nož, agresivni meniscus cutter, 3.5mm x 13cm, jednokratni"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 4,
+      "obrazlozenje": "Dokumentacija je opsežna i praktički potpuna za samostalnu izradu ponude: Opći podaci, Kriteriji za odabir ponude, Kriteriji za kvalitativni odabir (ESPD upute po osnovama isključenja), Upute za ponuditelje, Tehničke specifikacije s uputom na zaseban troškovnik, te 9 zasebnih troškovnika (po jedan za svaku grupu) s detaljnim stavkama, jedinicama mjere i planiranim količinama. Manji nedostatak: nekoliko priloženih datoteka na disku prazno je ili gotovo prazno ('Troškovnik grupa 1 RS.pdf' svega 2 znaka, tri 'Prilozi.zip' datoteke od 0 bajtova) što upućuje na moguće greške u arhiviranju/ekstrakciji dijela priloga, no sadržaj tih dokumenata dostupan je u drugom formatu (xlsx troškovnici), pa ne priječi izradu ponude.",
+      "citat": "Detaljan troškovnik se nalazi u zasebnom prilogu – Troškovnik."
+    },
+    "prosjecna_ocjena": 4.0
+  },
+  "restriktivnost": {
+    "prisutno": true,
+    "indikatori": [
+      {
+        "opis": "Cijela Grupa 9 (procijenjena vrijednost 41.400,00 EUR, drugo najveće od 9 grupa) sastoji se isključivo od nastavaka za shaver opisanih prema proizvođačevoj nomenklaturi 'tipa APS II', koja odgovara Arthrexovom vlasničkom shaver sustavu (potvrđeno prisutnošću Arthrexove dokumentacije o sukladnosti za 'Shaver and Power Systems' u prilozima postupka). Time je opis de facto vezan uz kompatibilnost s jednim proizvođačevim sustavom, a ne uz generičku funkcionalnu specifikaciju. Ishod dodjele to potvrđuje: grupu je dobio upravo Arthrex Adria d.o.o.",
+        "citat": "Nastavak za shaver tipa APS II, nož, agresivni meniscus cutter, 4.0 mm x 13 cm, jednokratni"
+      },
+      {
+        "opis": "U Grupi 1 (stavke 6-8) set za terapiju rana negativnim tlakom opisan je pomoću naziva proizvođačeve tehnologije ('AIRLOCK tehnologija') umjesto isključivo funkcionalnih karakteristika, što sužava krug ponuditelja na dobavljače kompatibilne s tim konkretnim NPWT sustavom (u prilozima postupka prisutna je i dokumentacija proizvoda RENASYS/Smith&Nephew serije, npr. 'RENASYS-F Foam Dressing Kit EU DoC', 'Renasys Touch Canister DoC').",
+        "citat": "sterilan poliuretanski oblog, AIRLOCK tehnologija, sa silikonskim kontaktnim slojem"
+      }
+    ],
+    "rizik": "srednji"
+  },
+  "napomena": "Pročitani su svi dostupni dokumenti u extracted/ (Opći podaci, Kriteriji za odabir ponude, Kriteriji za kvalitativni odabir, Tehničke specifikacije, svih 9 troškovnika po grupama, Obavijest o nadmetanju, Obavijest o dodjeli ugovora, Odluka o poništenju). Restriktivnost je prisutna, ali umjerenog rizika: vezivanje specifikacije uz konkretnu proizvođačevu tehnologiju kod potrošnog materijala kompatibilnog s već postojećom opremom (shaver sustav, NPWT pumpa) uobičajena je i često pravno opravdana praksa u zdravstvenoj nabavi, no ipak objektivno sužava krug potencijalnih ponuditelja na ovlaštene distributere tog proizvođača, što se poklapa s niskim brojem zaprimljenih ponuda (2) za Grupu 9. Tri grupe (3, 4, 8) poništene su jer nije pristigla nijedna ponuda, ali radi se o niskovrijednim, generički opisanim stavkama (npr. filteri za sterilizacijske kontejnere, podložne majice) bez naznaka restriktivnosti u opisu, pa je izostanak ponuda vjerojatnije posljedica niske vrijednosti/administrativnog troška sudjelovanja nego prilagođenosti specifikacije."
+}

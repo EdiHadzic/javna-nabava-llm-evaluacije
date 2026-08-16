@@ -1,0 +1,31 @@
+{
+  "postupak_id": 21545,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij za odabir ponude (ekonomski najpovoljnija ponuda) potpuno je operacionaliziran: cijena nosi 80 bodova, rok isporuke 20 bodova, s eksplicitnom matematičkom formulom bodovanja (linearna interpolacija za cijenu, tablica raspona za rok isporuke), zaokruživanjem na šest decimala i jasnim pravilom za slučaj izjednačenih ponuda (vrijeme zaprimanja). Dokument 'Kriteriji za odabir ponude' u potpunosti je samostalan i mjerljiv, bez prostora za diskrecijsko tumačenje.",
+      "citat": "Ponuda s najnižom cijenom dobiva 80,00 bodova, dok se ostale ponude boduju prema formuli"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 3,
+      "obrazlozenje": "Tehnička specifikacija iznimno je detaljna (38 stavki za traktor, 20 za malčer), ali velik broj stavki definiran je vrlo uskim min-max rasponima (npr. snaga motora samo 80-87 KS, obujam motora 3820-3900 cm3, točno određene dimenzije guma, mjenjač isključivo '5 brzina; 10 naprijed + 10 nazad'). Zainteresirani gospodarski subjekt izričito je zatražio proširenje tih raspona navodeći da isključuju dio tržišta; naručitelj je zahtjev u cijelosti odbio bez detaljne tehničke argumentacije razmjernosti. Razina detalja stoga premašuje ono što je nužno za usporedivost ponuda i graniči s isključivanjem razumnih alternativa (materijalizirano kroz svega 1 zaprimljenu ponudu).",
+      "citat": "Snaga motora:minimalno 80 KS , maksimalno 87 KS"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dostupna je cjelovita dokumentacija za samostalnu izradu ponude: opći podaci o postupku, upute za ponuditelje s detaljnim uvjetima jamstva i načinom dostave, kriteriji kvalitativnog odabira s ESPD uputama, kriteriji za odabir ponude s formulama bodovanja, tehnička specifikacija (uklj. ispravljenu inačicu nakon izmjene) i prazan troškovnik obrazac spreman za popunjavanje. Sve potrebne obrasce i upute ponuditelj je mogao preuzeti bez dodatnog kontaktiranja naručitelja.",
+      "citat": "Elektronička ponuda mora sadržavati najmanje: Uvez ponude Popunjeni eESPD obrazac (ili više njih, ako je primjenjivo) Popunjen troškovnik"
+    },
+    "prosjecna_ocjena": 4.33
+  },
+  "restriktivnost": {
+    "prisutno": true,
+    "indikatori": [
+      "Zainteresirani gospodarski subjekt u pisanom upitu izričito je naveo da specifikacija mjenjača (isključivo 5 brzina po grupi) pogoduje jednoj skupini proizvođača te zatražio ublažavanje više tehničkih parametara (snaga motora, obujam motora, spremnik goriva, mjenjač, dimenzije guma, protok hidraulike, težina) radi omogućavanja šireg kruga ponuditelja.",
+      "Naručitelj je odbio sve predložene izmjene bez detaljne tehničke argumentacije zašto baš ti uski rasponi (a ne blago prošireni, ali i dalje funkcionalno ekvivalentni rasponi koje je predložio upitnik) odgovaraju stvarnim potrebama.",
+      "Ishod potvrđuje rizik: unatoč dokazanom interesu tržišta (postavljen upit prije dostave ponuda), zaprimljena je samo jedna ponuda (IMPULS-LEASING d.o.o.), što je znatno ispod prosjeka uzorka za usluge."
+    ],
+    "rizik": "visok"
+  },
+  "napomena": "Pregledano svih 13 .txt datoteka u extracted/. Datoteka 'Prilog zapisniku o pregledu i ocjeni ponuda.pdf.txt' (skenirana tehnička specifikacija ponuditelja) OCR je izvukao u znatno degradiranom, djelomično zrcaljenom obliku (mješavina obrnutih nizova znakova), ali sadržaj je unakrsno provjeren i potvrđen usporedbom s čitljivom 'Prva izmjena tehničke specifikacije' datotekom, pa nije utjecao na ocjenu. Restriktivnost je procijenjena kao 'visok' rizik prvenstveno zbog kombinacije: eksplicitne pisane optužbe o pogodovanju određenoj skupini proizvođača, odbijanja bez razmjerne argumentacije, i stvarnog ishoda od samo jedne zaprimljene ponude."
+}

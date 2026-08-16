@@ -1,0 +1,31 @@
+{
+  "postupak_id": 12319,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 3,
+      "obrazlozenje": "Kriterij odabira je formalno naveden (cijena, značaj 100%), ali bez metodologije bodovanja ili usporedbe ponuda; u pregovaračkom postupku bez prethodne objave sa samo jednim pozvanim gospodarskim subjektom kriterij nema stvarnu funkciju usporedbe ponuda.",
+      "citat": "Cijena                                                                                                      100,00"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 2,
+      "obrazlozenje": "Opis predmeta nabave svodi se na jednu opću rečenicu bez ikakve tehničke specifikacije, opsega usluga, razine usluge (SLA), broja sati ili sličnih mjerljivih parametara.",
+      "citat": "Nabava usluga održavanja programiranja i ispitivanja bolničkog informacijskog sustava za potrebe Specijalne bolnice za ortopediju Biograd na Moru."
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 1,
+      "obrazlozenje": "Jedini dostupan dokument je naknadna obavijest o dodjeli ugovora; ne postoji objavljena dokumentacija o nabavi (tehnička specifikacija, troškovnik, uvjeti sposobnosti) jer je riječ o pregovaračkom postupku bez prethodne objave poziva na nadmetanje s jednim unaprijed određenim gospodarskim subjektom - samostalna izrada ponude od strane trećih strana nije ni bila moguća.",
+      "citat": "Pregovarački postupak bez prethodne objave poziva na nadmetanje"
+    },
+    "prosjecna_ocjena": 2.0
+  },
+  "restriktivnost": {
+    "prisutno": true,
+    "indikatori": [
+      "Izravna dodjela ugovora jednom gospodarskom subjektu (Ericsson Nikola Tesla d.d.) bez javnog poziva na nadmetanje, opravdana isključivim tehničkim pravom/mogućnošću održavanja sustava koji je naručitelj ranije kupio od istog dobavljača (vendor lock-in).",
+      "Zaprimljena je samo jedna ponuda, od jedinog pozvanog ponuditelja."
+    ],
+    "rizik": "visok",
+    "napomena_indikatori": "Citati koji potkrepljuju indikatore: \"samo jedan gospodarski subjekt iz tehničkih razloga može održavati bolnički program koji je kupljen od njega\"; \"Broj zaprimljenih ponuda: 1\""
+  },
+  "napomena": "Dostupan je samo jedan dokument u extracted/ (obavijest o dodjeli ugovora); ne postoji tehnička dokumentacija, troškovnik niti poziv na nadmetanje jer je riječ o pregovaračkom postupku bez prethodne objave (čl. 131. st. 1. t. 2. podtočka b) ZJN2016, nepostojanje tržišnog natjecanja iz tehničkih razloga). Ocjene transparentnosti stoga se odnose isključivo na sadržaj ove obavijesti, a ne na cjelovitu dokumentaciju o nabavi koja u ovom tipu postupka nije ni bila javno objavljena."
+}

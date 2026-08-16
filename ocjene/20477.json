@@ -1,0 +1,31 @@
+{
+  "postupak_id": 20477,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij za odabir ponude (ekonomski najpovoljnija ponuda) potpuno je razrađen: cijena 70 bodova s eksplicitnom formulom razmjerno najnižoj ponudi, kvaliteta 30 bodova prema jasnoj tablici bodovanja specifičnog iskustva glavnog nadzornog inženjera (1/2/3 izvršene usluge = 10/20/30 bodova). Dokazi, način izračuna i posljedica nedostavljanja izjave (0 bodova) izričito su navedeni.",
+      "citat": "1 izvršena usluga 10,00 ... 2 izvršene usluge 20,00 ... 3 izvršene usluge 30,00"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Tehničke specifikacije opisuju predmet (stalni stručni nadzor i koordinacija ZNR na izgradnji 8. faze kolektora), konkretnu lokaciju s katastarskim česticama, trajanje (36 mjeseci) i razrađen popis obveza nadzornog inženjera (koordinacijski sastanci, mjesečna izvješća, kontrola rokova, primopredaja i sl.). Opis je dovoljno konkretan za usporedivu ponudu, no ostaje na razini generičkog opisa poslova nadzora bez posebnih tehničkih parametara specifičnih baš za ovaj kolektor (npr. dubine, profila cjevovoda), stoga ne postiže najvišu ocjenu.",
+      "citat": "Uslugom stalnog stručnog nadzora u fazi izvođenja radova potrebno je obuhvatiti nadzor nad izvođenjem svih građevinskih i obrtničkih radova, kao i svih ostalih radova i isporuka"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 4,
+      "obrazlozenje": "Dostupan je pun komplet dokumentacije potreban za izradu ponude: Opći podaci, Upute za ponuditelje (vrlo detaljne, uklj. jamstva, rokove, žalbeni postupak), Kriteriji kvalitativnog odabira, Kriteriji za odabir ponude, Tehničke specifikacije, Prijedlog ugovora i Obrazac izjave za stručnjaka. Jedina slabija točka je Troškovnik koji sadrži samo jednu paušalnu stavku bez raščlambe komponenti usluge, što ostavlja prostor za različito tumačenje opsega paušala među ponuditeljima (razlika ponuđenih cijena kretala se od 38.950 do 111.600 EUR s PDV-om za istu uslugu).",
+      "citat": "1.\tUsluga stručnog nadzora i koordinatora II na izgradnji 8. faze glavnog kolektora visoke zone Grada Zadra\tkom\t1\t0"
+    },
+    "prosjecna_ocjena": 4.33
+  },
+  "restriktivnost": {
+    "prisutno": true,
+    "indikatori": [
+      "Kriterij kvalitete boduje isključivo iskustvo stručnog nadzora radova 'na kopnu i pod vodom', pri čemu je jedan ponuditelj u fazi pitanja/odgovora izričito osporio takvu formulaciju kao neopravdano usko i predložio širu alternativu (opće iskustvo na vodnokomunalnoj infrastrukturi bez uvjeta podvodnih radova); naručitelj je zahtjev zadržao bez izmjene.",
+      "Ponuditelj je također upitao zašto se traži angažman stručnjaka za elektroinstalacijske i strojarske radove te glavnog nadzornog inženjera kada, prema njegovim navodima, elektro i strojarski projekt/troškovnik uopće ne postoje u dokumentaciji predmeta nabave; naručitelj je zahtjev obrazložio potrebom nadzora nad izmještanjem plinovoda i elektroinstalacija, ali dokumentacija DON-a ne sadrži zaseban elektro/strojarski troškovnik ili projekt koji bi to potkrijepio."
+    ],
+    "rizik": "nizak",
+    "napomena_riziku": "Unatoč osporavanju kriterija u fazi pitanja/odgovora, nijedan ponuditelj nije uložio žalbu DKOM-u, a sva tri valjana ponuditelja (KLing, RADIX ING, ANIVA-INŽENJERING) ostvarila su maksimalnih 30/30 bodova po spornom kriteriju specifičnog iskustva, uz širok raspon ponuđenih cijena (38.950-111.600 EUR bez PDV-a od 4 ponuditelja). To upućuje da sporni kriteriji u praksi nisu stvarno isključili ili ograničili konkurenciju, pa je procijenjeni rizik nizak unatoč prisutnosti indikatora u tekstu dokumentacije."
+  },
+  "napomena": "Pregledana je sva relevantna tekstualna dokumentacija (Opći podaci, Upute za ponuditelje, oba kriterija dokumenta, Tehničke specifikacije, Troškovnik, Odgovori na pitanja, Zapisnik o pregledu i ocjeni ponuda, Obrazac izjave za stručnjaka). Dvije vrlo velike datoteke (~66 MB i ~41 MB, projektni nacrti/tehnička dokumentacija 8. faze) namjerno nisu čitane u cijelosti zbog nerazmjerne veličine u odnosu na svrhu ocjene transparentnosti postupka nabave usluge nadzora (ne predstavljaju dokumentaciju o nabavi koju ponuditelj treba za izradu ponude, već podlogu projekta radova nad kojima se vrši nadzor); ocjena se temelji na dokumentima koji stvarno definiraju uvjete, kriterije i opis usluge nadzora."
+}

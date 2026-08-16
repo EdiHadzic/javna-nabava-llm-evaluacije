@@ -1,0 +1,36 @@
+{
+  "postupak_id": 2816,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij odabira (ekonomski najpovoljnija ponuda) potpuno je operacionaliziran matematičkim formulama za oba pondera (cijena 90%, jamstveni rok 10%), s eksplicitno navedenim donjim pragom jamstva i posljedicom nepoštivanja (odbačaj ponude).",
+      "citat": "P = Pn / Pr * 90 ... Ponude u kojima je iskazan jamstveni rok kraći od 12 mjeseci bit će odbačene."
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 3,
+      "obrazlozenje": "Opis predmeta nabave je iznimno detaljan (preko 40 tehničkih stavki), no razina numeričke preciznosti pojedinih parametara (npr. točan broj procesnih kanala tvorbenika slike, točan broj elemenata sondi) nadilazi funkcionalni opis potreba i nalikuje kopiranju specifikacije konkretnog proizvoda, što može sužavati krug ponuditelja koji mogu ponuditi tehnički ekvivalentno, ali brojčano drukčije rješenje.",
+      "citat": "Tvorbenik slike (beamformer) s min. 385.000 procesnih kanala."
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dostupna je cjelovita dokumentacija: opći podaci, upute za ponuditelje, kriteriji kvalitativnog odabira, detaljne tehničke specifikacije, troškovnik i prijedlog ugovora, međusobno usklađeni i dovoljni za samostalnu izradu ponude bez dodatnih upita.",
+      "citat": "Elektronička ponuda mora sadržavati najmanje: Uvez ponude Popunjeni eESPD obrazac (ili više njih, ako je primjenjivo) Popunjen troškovnik"
+    },
+    "prosjecna_ocjena": 4.33
+  },
+  "restriktivnost": {
+    "prisutno": true,
+    "indikatori": [
+      {
+        "opis": "Ekstremno precizni numerički pragovi za pojedine komponente uređaja (dijagonala monitora, kontrastni omjer, broj procesnih kanala beamformera) koji nadilaze uobičajenu funkcionalnu specifikaciju i mogu odgovarati točno jednom modelu na tržištu.",
+        "citat": "LED HD monitor dijagonale min. 23,5'', rezolucije min. 1920 x1080 piksela... Kontrastni odnos min.: 180.000:1."
+      },
+      {
+        "opis": "Vrlo specifičan zahtjev za broj elemenata sondi (npr. min. 192, min. 960, min. 160) po tipu sonde, brojčane vrijednosti tipične za specifikacijske listove pojedinih proizvođača.",
+        "citat": "Linearna matrična sonda s više redova kristala: ... broj elemenata: min. 960"
+      }
+    ],
+    "rizik": "srednji"
+  },
+  "napomena": "Dokumentacija je iznimno cjelovita i formalno transparentna (jasne formule, kompletni prilozi), no tehnička specifikacija sadrži brojne visoko-precizne numeričke pragove karakteristične za specifikacije 'skrojene' prema jednom proizvodu/modelu, bez eksplicitnog navođenja marke - rizik procijenjen kao srednji, a ne visok, jer nema izravne reference na brend, patentirano rješenje ili nesrazmjerne financijske/referentne uvjete. U postupku su zaprimljene samo 2 ponude; jedna je odbijena zbog administrativnih razloga (nedostavljeno jamstvo za ozbiljnost ponude, neispunjen troškovnik, cijena iznad osiguranih sredstava), što nije izravan dokaz restriktivnosti specifikacije, ali je u skladu s uskim krugom sposobnih ponuditelja."
+}

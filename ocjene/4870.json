@@ -1,0 +1,30 @@
+{
+  "postupak_id": 4870,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriteriji ENP (cijena 80 bodova, rok izvođenja pojedinačnih naloga 20 bodova) definirani su egzaktnom formulom za cijenu i jasnom bodovnom skalom po danima za rok, bez prostora za diskrecijsku ocjenu.",
+      "citat": "Rok izvođenja pojedinačnih naloga: do 20 dana 20 bodova, od 20 do 40 dana 10 bodova, od 40 dana do 60 dana 0 boda"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 3,
+      "obrazlozenje": "Tehnički opis stavki (tampon 0-32mm, BNHS 16A) je konkretan, ali stvarna osnova za cijenu ponude ostala je nejasna do te mjere da je ponuditelj morao tražiti pojašnjenje je li u troškovnik potrebno upisati jediničnu ili ukupnu cijenu za okvirnu količinu - temeljna dvosmislenost za usporedivost ponuda.",
+      "citat": "da li se u rubrici troškovnika cijena bez PDV-a upisuje ukupna cijena za okvirno predviđenu količinu ili jedinična cijena za m2"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 4,
+      "obrazlozenje": "Svi standardni dijelovi dokumentacije prisutni su i međusobno konzistentni (opći podaci, kriteriji kvalitativnog odabira, upute za ponuditelje, tehnička specifikacija, troškovnik, prijedlog ugovora), no napomena u troškovniku o nominalnoj količini 1,00 ostavlja dvosmislenost koja je zahtijevala naknadno objašnjenje.",
+      "citat": "NAPOMENA : NUDE SE CIJENE ZA KOLIČINU 1,00 A TOČNE KOLIČINE ĆE SE UTVRDITI GRAĐEVINSKOM KNJIGOM U SKLADU SA RADNIM NALOZIMA."
+    },
+    "prosjecna_ocjena": 4.0
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [
+      "Tražena oprema (razastirač asfalta, valjak 8t, manji valjak 4t, grejder, freza za asfalt) standardna je oprema za radove asfaltiranja nerazvrstanih cesta, nije vezana uz određenu marku/proizvođača i proporcionalna je opsegu radova.",
+      "Nema financijskih pragova (prometa, referenci) navedenih u kriterijima sposobnosti izvan uobičajenog ESPD samoprijavljivanja."
+    ],
+    "rizik": "nizak"
+  },
+  "napomena": "Dvije datoteke (Zapisnik.pdf.txt, Odluka o odabiru _2_.pdf.txt) ekstrahirane su gotovo prazne (3-7 bajtova), no sadržajno su dupliciran(e) u Zapisnik o pregledu i ocjeni.pdf.txt i Odluka o odabiru _3_.pdf.txt/Odluka o odabiru.html.txt, pa nema izgubljenog sadržaja relevantnog za ocjenu. Zanimljivo: naručitelj je transparentno objavio popis gospodarskih subjekata s kojima je u sukobu interesa (GOLEMI, vl. Vinko Golem; GOLEMI d.o.o.; SENSUM d.o.o.) u Općim podacima o postupku nabave."
+}

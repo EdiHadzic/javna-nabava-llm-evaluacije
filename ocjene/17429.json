@@ -1,0 +1,27 @@
+{
+  "postupak_id": 17429,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriteriji za odabir ekonomski najpovoljnije ponude potpuno su precizirani matematičkom formulom (cijena 90 bodova, starost vozila 10 bodova) uz eksplicitnu tablicu pretvorbe godine prve registracije u broj bodova za starost vozila, identičnu za svih 7 grupa. Ne ostavlja prostor za diskrecijsko tumačenje pri bodovanju.",
+      "citat": "C= (Cmin/Cp) x 90 ... Starost vozila do 2 godine 10 bodova, od 2 do 3 godine 9 bodova..."
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Opis predmeta nabave po grupama je konkretan i mjerljiv - za svaku od 7 linija naveden je tip/kapacitet vozila (npr. autobus 15+1, osobno vozilo 8+1 ili 4+1), potreba za pratnjom njegovateljice gdje je primjenjivo, te detaljan raspored ruta, stajališta, vremena polaska/dolaska i broja učenika po relaciji u troškovniku. Sam tekst 'Tehničke specifikacije - sve grupe' je vrlo sažet (svega nekoliko rečenica), ali suštinski sadržaj (rute, kapaciteti, satnica) nalazi se u troškovnicima, što ukupno omogućuje usporedivu ponudu bez pretjeranog suženja na jednog ponuditelja.",
+      "citat": "GRUPA 1. LINIJA BIOGRAD NA MORU - vozilo za prijevoz, autobus minimalno 15+1 sjedalo - UZ PRATNJU NJEGOVATELJICE"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dostupan je pun set dokumenata potreban za samostalnu izradu ponude: Opći podaci o postupku, Obavijest o nadmetanju, Upute za ponuditelje, Kriteriji za kvalitativni odabir gospodarskog subjekta (s detaljnim uputama o ESPD-u i načinu dokazivanja za svaki uvjet), Kriteriji za odabir ENP (formula i tablice bodovanja), Tehničke specifikacije i zaseban Troškovnik za svaku od 7 grupa s rutama i vremenima. Sve potrebne informacije za pripremu ponude (uvjeti sposobnosti, kriteriji, jamstva, rokovi) jasno su strukturirane.",
+      "citat": "Detaljan troškovnik se nalazi u zasebnom prilogu – Troškovnik... Kriteriji za kvalitativni odabir gospodarskog subjekta s uputama"
+    },
+    "prosjecna_ocjena": 4.67
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak"
+  },
+  "napomena": "Pretraga dokumentacije (Upute za ponuditelje, Kriteriji za kvalitativni odabir) nije pronašla reference na točno određenu marku/proizvođača vozila niti neproporcionalne financijske/referentne pragove - traženi kapaciteti vozila (autobus 15+1, osobna vozila 8+1/4+1) i zahtjev da vozilo ne bude starije od 19 godina izravno su vezani uz stvarni broj djece po liniji i sigurnosne razloge navedene u obrazloženju kriterija starosti vozila. Jamstva za ozbiljnost ponude (300-500 EUR) i referentni uvjet (min. 1 usluga vrijednosti barem pola procijenjene vrijednosti grupe) razmjerni su malim vrijednostima grupa (10.068-27.945 EUR). Grupa 7 (Sukošan) naknadno je poništena jer je jedini ponuditelj (Patagonia d.o.o.) isključen zbog poreznog duga - razlog nije povezan s restriktivnošću dokumentacije. Pročitani su svi ključni dokumenti postupka (opći podaci, obavijest o nadmetanju, kriteriji kvalitativnog odabira, kriteriji ENP, tehničke specifikacije, troškovnik grupe 1, odluka o poništenju, izmjena obavijesti); zapisnici o pregledu i ocjeni ponuda i odluke po pojedinim grupama nisu pojedinačno čitani jer ne mijenjaju ocjenu transparentnosti same dokumentacije o nabavi."
+}

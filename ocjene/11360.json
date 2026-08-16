@@ -1,0 +1,27 @@
+{
+  "postupak_id": 11360,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij ENP potpuno je operacionaliziran: cijena 80 bodova, jamstveni rok 20 bodova, uz eksplicitnu matematičku formulu za cijenu i preciznu bodovnu skalu (24-60 mjeseci) s jasno definiranim rasponima i pripadajućim bodovima. Nema prostora za subjektivnu ocjenu.",
+      "citat": "Ponuda s najnižom cijenom dobiva 80,00 bodova, dok se ostale ponude boduju prema formuli"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Troškovnik sadrži konkretne stavke s dimenzijama, materijalima i normama (npr. dimenzije gola, debljina sportske podloge, granulacija SBR/EPDM slojeva), što omogućuje usporedive ponude. Tehnička specifikacija upućuje na 'ili jednakovrijedno' za norme, čime se izbjegava neopravdano sužavanje kruga ponuditelja.",
+      "citat": "Dobava i ugradba aluminijskog nogometnog i rukometnog gola koji se pričvršćuje u podlogu. Gol dimenzija 3x2 m sa mrežom."
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dostupan je pun set dokumenata potreban za samostalnu izradu ponude: Opći podaci, Tehničke specifikacije, Troškovnik, Kriteriji za kvalitativni odabir, Kriteriji za odabir ponude, Upute za ponuditelje, te prilozi 1-4 (popis radova, izjava o stručnjacima, izjava o jamstvenom roku, prijedlog ugovora). Svi su čitljivo ekstrahirani i međusobno konzistentni.",
+      "citat": "Elektronička ponuda mora sadržavati najmanje: Uvez ponude Popunjeni eESPD obrazac (ili više njih, ako je primjenjivo) Popunjen troškovnik"
+    },
+    "prosjecna_ocjena": 4.67
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak"
+  },
+  "napomena": "Svi relevantni dokumenti u extracted/ bili su čitljivi i sadržajni (Prilozi.zip.txt prazan, ali sadržaj je dostupan pojedinačno kao zasebni .docx prilozi). Uvjet reference (≥93.000 EUR, jednak procijenjenoj vrijednosti) proporcionalan je vrijednosti nabave; traži se samo 1 inženjer gradilišta/voditelj radova, standardni zahtjev za radove ove vrste. Nema referenci na marku/proizvođača niti nesrazmjernih pragova. Zapisnik o pregledu i ocjeni potvrđuje 2 valjane ponude (EDEL SPORT i CESTOGRADNJA, različiti gradovi), što je konzistentno s ocjenom niskog rizika restriktivnosti."
+}

@@ -1,0 +1,36 @@
+{
+  "postupak_id": 5528,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriteriji za odabir ponude su potpuno kvantificirani i mjerljivi: cijena se boduje formulom C = Cl/Ct * 20, a kvalitativni dio (Q) razlaže se na tri podkriterija (Q.1.1, Q.1.2, Q.1.3) s eksplicitnom tablicom bodova po broju referenci/nagrada. I kriteriji za kvalitativni odabir gospodarskog subjekta (upis u registar, popis glavnih usluga, tehnički stručnjaci) definirani su s jasnim pravnim osnovama, pitanjima za ESPD i načinom dokazivanja.",
+      "citat": "C = Cl/Ct * 20 ... UKUPNO (Q): 80"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Sam dokument 'Tehnička specifikacija predmeta nabave' iznimno je kratak i upućuje isključivo na Idejno rješenje i troškovnik kao stvarni izvor detalja, no Idejno rješenje je opsežan i razrađen prilog (preko 120.000 znakova) koji stvarno omogućuje usporedivu ponudu. Troškovnik je strukturiran po fazama (pripremna dokumentacija, glavni projekt, izvedbeni projekt, projekt unutarnjeg uređenja) s pojedinačnim stavkama za svaku vrstu elaborata/projekta.",
+      "citat": "Tehnička specifikacija predmeta nabave određena je Idejnim rješenjem i troškovnikom."
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 4,
+      "obrazlozenje": "Dostupan je širok i međusobno usklađen skup dokumenata: Idejno rješenje, Geotehnički elaborat, Troškovnik, Kriteriji za kvalitativni odabir, Kriteriji za odabir ponude, Upute za ponuditelje, konzervatorski posebni uvjeti, opis uvjeta sukladno posebnim propisima (uklj. sankcijski režim EU/Rusija) i predlošci obrazaca (životopis, izjave). Dokumentacija omogućuje samostalnu izradu ponude bez očitih praznina.",
+      "citat": "PRIPREMNA DOKUMENTACIJA UKUPNO / GLAVNI PROJEKT UKUPNO / IZVEDBENI PROJEKT UKUPNO / PROJEKT UNUTARNJEG UREĐENJA I OPREMANJA UKUPNO"
+    },
+    "prosjecna_ocjena": 4.33
+  },
+  "restriktivnost": {
+    "prisutno": true,
+    "indikatori": [
+      {
+        "opis": "Pobjednički (i jedini valjani) ponuditelj MARINA PROJEKT 2020 d.o.o. sâm je izradio Idejno rješenje koje čini temelj cjelokupne tehničke specifikacije ove nabave (izrada projektno-tehničke dokumentacije za daljnje faze), što mu daje značajnu informacijsku prednost pred potencijalnim konkurentima i otvara pitanje sukoba interesa, iako ga naručitelj nije formalno utvrdio.",
+        "citat": "Idejno rješenje nove zgrade Sveučilišnog centra... izrađeno od strane Marina projekt 2020 u rujnu 2023. godine"
+      },
+      {
+        "opis": "U konačnici je pristigla samo jedna valjana ponuda (upravo od tvrtke koja je izradila idejno rješenje); dva druga gospodarska subjekta (Alfaplan d.o.o., Jurcon Projekt d.o.o.) dostavila su omotnice izvan roka za dostavu ponuda pa nisu ni razmatrana, što ukazuje na vrlo ograničenu stvarnu konkurenciju.",
+        "citat": "Gospodarski subjekt Alfaplan d.o.o. nije kao ponuditelj dostavio elektroničku ponudu, odnosno nije unutar propisanog roka dostavio ponudu."
+      }
+    ],
+    "rizik": "srednji"
+  },
+  "napomena": "Pročitani su svi relevantni dokumenti u extracted/ (obavijest o nadmetanju, kriteriji za kvalitativni odabir, kriteriji za odabir ponude, tehnička specifikacija, troškovnik, konzervatorski posebni uvjeti, opis uvjeta sukladno posebnim propisima, zapisnik o pregledu i ocjeni, odluka o odabiru, odgovori na upite). Kvaliteta ekstrakcije dobra, tekst čitljiv. Restriktivnost ovdje nije klasičan slučaj uskog opisa/brenda, nego strukturna informacijska asimetrija zbog prethodne uključenosti pobjednika u izradu temeljnog idejnog rješenja - relevantno za teorijski okvir 3.1. (ekonomija informacija, negativna selekcija) unatoč naručiteljevoj izjavi da sukob interesa nije utvrđen."
+}

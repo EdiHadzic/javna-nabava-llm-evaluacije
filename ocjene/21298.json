@@ -1,0 +1,36 @@
+{
+  "postupak_id": 21298,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij ENP (cijena 90 %, jamstveni rok 10 %) potpuno je operacionaliziran: navedene su točne formule bodovanja za oba kriterija, minimalni prag koji se boduje (24 mjeseca), način zaokruživanja bodova (šest decimala) i traženi dokaz (Izjava o trajanju jamstvenog roka, PRILOG III). Nema prostora za diskrecijsko tumačenje.",
+      "citat": "Minimalno trajanje jamstva koje se boduje je 24 (dvadesetčetiri) mjeseca, a ponude u kojima se nudi kraće jamstvo... ostvarit će nula (0,00) bodova"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Predmet nabave (sanacija dva gata) opisan je vrlo konkretno kroz opsežan troškovnik s jasnim stavkama, dimenzijama, klasama betona i količinama za svaku pojedinu radnju, što omogućuje usporedive ponude. Ocjena je smanjena s 5 na 4 jer dvije stavke troškovnika referenciraju konkretan komercijalni proizvod/tehnologiju ('Mozaik Plano', 'ALS 2 tehnologija') bez vidljive klauzule 'ili jednakovrijedno', što blago sužava opis izvan čisto funkcionalnih zahtjeva (v. restriktivnost niže).",
+      "citat": "Tip i kvaliteta kamena kao Mozaik Plano, gornja površina kamena buretana. Kamen mora biti otporan na utjecaj mora."
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dostupna je cjelovita dokumentacija potrebna za samostalnu izradu ponude: Upute za ponuditelje, Kriteriji za odabir ponude, Kriteriji za kvalitativni odabir gospodarskog subjekta (s detaljnim uvjetima sposobnosti i načinom dokazivanja), troškovnik po cjelinama s rekapitulacijom, PRILOG III i PRILOG IV. PRILOG II ('Tehničke specifikacije') sadrži tek uputnicu na troškovnik, ali to nije stvarni nedostatak jer su tehničke specifikacije doista detaljno razrađene unutar samog troškovnika.",
+      "citat": "Elektronička ponuda mora sadržavati najmanje: Uvez ponude, Popunjeni eESPD obrazac, Popunjen troškovnik, Vrijednosti kriterija za odabir ponude"
+    },
+    "prosjecna_ocjena": 4.67
+  },
+  "restriktivnost": {
+    "prisutno": true,
+    "indikatori": [
+      {
+        "opis": "Referenca na konkretan komercijalni proizvod/tip kamena ('Mozaik Plano') za kameno opločenje, bez vidljive klauzule 'ili jednakovrijedno' u dostupnoj dokumentaciji, u obje troškovničke cjeline.",
+        "citat": "Tip i kvaliteta kamena kao Mozaik Plano, gornja površina kamena buretana."
+      },
+      {
+        "opis": "Opis rasvjetnih stupova referencira specifičnu, imenovanu tehnologiju baterije/punjenja ('ALS 2 tehnologija', BMS sustav za brže punjenje) umjesto čisto funkcionalnih zahtjeva (npr. min. kapacitet, min. broj sati rada), što može favorizirati određenog dobavljača solarne rasvjete.",
+        "citat": "solarnim led lampama s 3 režima osvjetljenja (M1, M2, M3) litij-ionskom baterijom s uključenim BMS sustavom za brže punjenje, ALS 2 tehnologijom za produljeno vrijeme osvjetljenja"
+      }
+    ],
+    "rizik": "srednji"
+  },
+  "napomena": "Pročitane su sve .txt datoteke u extracted/ (14 datoteka; Prilozi.zip.txt je prazan/0 bajtova - izvorna arhiva je vjerojatno već sadržana u pojedinačno izdvojenim prilozima, nije utjecalo na ocjenu). PRILOG II - Tehničke specifikacije.docx.txt sadrži samo 2 retka teksta (uputnica na troškovnik) - nije tretirano kao nedostatak dokumentacije jer je sadržaj stvarno prisutan u troškovniku. Izvan formalnog opsega ove rubrike (koja se odnosi na prilagođenost specifikacije, ne na sukob interesa), ali vrijedno bilježenja za daljnju provjeru: odabrani ponuditelj je 'KLANAC GRADITELJSTVO d.o.o.', a jedna od tri članice stručnog povjerenstva navedena je kao 'ŽELJKA KLANAC' - podudarnost prezimena nije objašnjena niti spomenuta u Zapisniku o pregledu i ocjeni, a naručitelj u svojoj službenoj izjavi o sukobu interesa (odjeljak 1.3.) ne navodi ni odabranog ponuditelja niti drugog ponuditelja (FRACASSO PRODUCTION d.o.o.) među gospodarskim subjektima u sukobu interesa."
+}

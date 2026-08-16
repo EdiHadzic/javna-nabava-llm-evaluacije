@@ -1,0 +1,36 @@
+{
+  "postupak_id": 8947,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriteriji ENP (cijena 90 bodova, jamstveni rok 10 bodova) definirani su matematički precizno, s eksplicitnom formulom za cijenu i tablicom bodovanja za jamstveni rok (uz jasan minimum od 2 i maksimum od 6 godina, ponude ispod minimuma se odbijaju). Nema prostora za diskrecijsku interpretaciju.",
+      "citat": "Bodovi će se dodijeliti sukladno tablici: ... 2,00 2,00 0,00 minimalni jamstveni rok 3,00 4,00 5,00 5,00 6,00 10,00"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Troškovnik (oprema, rasvjeta, multimedija) sadrži vrlo konkretne tehničke specifikacije (snaga, dimenzije, protokoli, certifikati) koje omogućuju usporedivost ponuda, uz opću klauzulu jednakovrijednosti za sve stavke. Za većinu multimedijalnih stavki eksplicitno je navedeno 'ili jednakovrijedno', što ublažava rizik prekomjerne uskosti, no razina detalja kod pojedinih stavki (v. restriktivnost niže) graniči s opisom konkretnog proizvoda.",
+      "citat": "Ukoliko se u Troškovniku upućuje ... podrazumijeva se da ponuditelj može ponuditi jednakovrijedan proizvod ... u svakom slučaju smatra da je takva uputa popraćena izrazom „ili jednakovrijedno“"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dostupna je cjelovita dokumentacija: Opći podaci, Kriteriji za odabir ponude, Kriteriji za kvalitativni odabir, Upute za ponuditelje, troškovnik podijeljen po cjelinama (oprema/rasvjeta/multimedija) te dodatno, na zahtjev ponuditelja, arhitektonski i elektrotehnički projekt. Naručitelj je putem modula Pitanja/Pojašnjenja transparentno odgovorio i razjasnio opseg nabave.",
+      "citat": "Naručitelj objavljuje Arhitektonski projekt i Glavni projet - elektrotehnički projekt ... Predmetna nabava ne obuhvaća sve radove navedene u Arhitektonskom i Glavnom projektu već samo opremanje, rasvjetu i multimediju"
+    },
+    "prosjecna_ocjena": 4.67
+  },
+  "restriktivnost": {
+    "prisutno": true,
+    "indikatori": [
+      {
+        "opis": "Tehnička specifikacija livestreaming kamere koristi izraz 'Dual Pixel CMOS AF' - zaštićeni naziv tehnologije specifičnog proizvođača (Canon), a ne generički pojam, unatoč postojanju opće klauzule jednakovrijednosti u dokumentaciji.",
+        "citat": "4K UHD slika uz značajke kao što su Dual Pixel CMOS AF, s 15x optičkim zumiranjem i napredna kvaliteta Full HD slike"
+      },
+      {
+        "opis": "Specifikacija prijenosnog računala navodi vrlo uske kombinirane parametre (broj jezgri, veličina cachea, takt) koji zajedno odgovaraju uskom rasponu konkretnih tržišnih modela procesora, što smanjuje broj potencijalno prihvatljivih ponuda.",
+        "citat": "procesor 12. generacije (14 jezgri, 24M cache, do 4,70 GHz"
+      }
+    ],
+    "rizik": "srednji"
+  },
+  "napomena": "Pročitane su sve relevantne .txt datoteke u extracted/ (dokumentacija o nabavi, kriteriji, troškovnik, odgovori na upite, zapisnici). Referentni uvjet tehničke sposobnosti (min. 50.000 EUR isporuka, uz procijenjenu vrijednost 57.476,20 EUR) proporcionalan je i nije ocijenjen kao restriktivan. Restriktivnost je ograničena na pojedine tehničke stavke multimedijalne opreme, ne na postupak u cjelini."
+}

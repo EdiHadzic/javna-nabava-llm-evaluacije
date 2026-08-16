@@ -1,0 +1,27 @@
+{
+  "postupak_id": 30383,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij odabira (ekonomski najpovoljnija ponuda) potpuno je operacionaliziran: eksplicitne formule za bodovanje cijene (90 bodova) i roka isporuke (10 bodova), s konkretnom tablicom bodova po danima isporuke i jasnim pravilom za slučaj izjednačenih ponuda. Identično razrađeno za obje grupe predmeta nabave.",
+      "citat": "Ponuda s najnižom cijenom dobiva 90,00 bodova... do 2 dana 10,00 bodova; do 5 dana 5,00 bodova; do 7 dana 1,00 bod"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Samostalni dokument 'Tehničke specifikacije' sveden je na jednu rečenicu koja upućuje na troškovnik, ali stvarni tehnički opis nalazi se u troškovnicima obiju grupa i vrlo je konkretan (materijal, broj veličina, kut fleksije, broj debljina umetaka) — dovoljno da omogući usporedivu ponudu, uz zahtjev da ponuditelj nudi cijelu grupu proizvoda odjednom, uobičajen za ortopedske implantate i ne djeluje neproporcionalno usko s obzirom da su specifikacije generičke.",
+      "citat": "femoralna komponenta s mogućnošću duboke fleksije do 155°... femoralna komponenta za žrtvovanje stražnje ukrižene sveze u najmanje 8 veličina"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dostupan je pun set dokumentacije: opći podaci, kriteriji za odabir ponude, opsežni kriteriji kvalitativnog odabira (osnove za isključenje, uvjeti sposobnosti, reference, uzorci/katalozi, ISO/CE dokazi), upute za ponuditelje s detaljima o jamstvima, roku ponude, terminu otvaranja, prijedlog ugovora i troškovnici za obje grupe.",
+      "citat": "Elektronička ponuda za svaku ponuđenu grupu mora sadržavati najmanje: Uvez ponude, Popunjeni eESPD obrazac..., Popunjen troškovnik..."
+    },
+    "prosjecna_ocjena": 4.67
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak",
+    "napomena": "Zaprimljene su 2 ponude za svaku grupu, što potvrđuje realnu konkurenciju unatoč specifičnosti predmeta nabave (ortopedski implantati). Tehnički zahtjevi detaljni su ali generički formulirani — nema navoda konkretne marke, patentiranog rješenja ni proizvođača. Referentni uvjet standardan je i nije nesrazmjeran."
+  }
+}

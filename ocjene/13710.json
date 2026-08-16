@@ -1,0 +1,27 @@
+{
+  "postupak_id": 13710,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriteriji za odabir ponude potpuno su eksplicitni i matematički definirani: cijena 90 bodova, jamstveni rok 10 bodova, s preciznom formulom za bodovanje cijene i tablicom raspona (24-72+ mjeseci) za bodovanje jamstvenog roka. Nema prostora za subjektivnu ocjenu naručitelja.",
+      "citat": "Ponuda s najnižom cijenom dobiva 90,00 bodova, dok se ostale ponude boduju prema formuli"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Tehnička specifikacija detaljno opisuje tehničke zahtjeve za sve kategorije osigurača (NN i SN) pozivanjem na konkretne norme (HRN EN, DIN, IEC) uz izričito prihvaćanje jednakovrijednih normi, čime se izbjegava sužavanje na jednog proizvođača. Detaljne tablice tehničkih podataka postoje samo za dio stavki troškovnika (10-12, 31-77), dok ostale stavke imaju samo tekstualni opis u troškovniku bez zasebne tablice, što ostavlja nešto manje prostora za izravnu usporedivost ponuda na tim stavkama.",
+      "citat": "odgovarajuća veličina (D II ili D III) i nazivna struja definirana u troškovniku"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dokumentacija je iznimno potpuna: opći podaci, kriteriji kvalitativnog odabira, kriteriji odabira ponude, upute za ponuditelje, tehnička specifikacija s tablicama, troškovnik, prijedlog okvirnog sporazuma, izjava o integritetu, izjava o jamstvenom roku. Postupak sadrži i odgovore naručitelja na pitanje ponuditelja (uočena i ispravljena neusklađenost oznaka veličine u troškovniku), što potvrđuje funkcionalan mehanizam pojašnjenja.",
+      "citat": "Elektronička ponuda mora sadržavati najmanje: Uvez ponude Popunjeni eESPD obrazac (ili više njih, ako je primjenjivo) Popunjen troškovnik"
+    },
+    "prosjecna_ocjena": 4.67
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak"
+  },
+  "napomena": "Postupak sektorskog naručitelja (HEP-ODS) za okvirni sporazum osigurača za NN i SN. Tehnička specifikacija je normativno definirana (HRN EN, DIN, IEC) uz eksplicitnu klauzulu o prihvaćanju jednakovrijednih normi i bez referenci na konkretne proizvođače/marke. Uvjet tehničke sposobnosti traži minimalno jednu referencu isporuke u iznosu jednakom ili većem od 265.000,00 EUR, što odgovara 100% procijenjene vrijednosti nabave - na granici uobičajene prakse, ali ne toliko nesrazmjerno da bi se ocijenilo restriktivnim (nije npr. višestruko premašena vrijednost ugovora). Pregledani su svi relevantni dokumenti u extracted/ (opći podaci, kriteriji kvalitativnog odabira, kriteriji odabira ponude, upute za ponuditelje, tehnička specifikacija, troškovnik, obavijest o nadmetanju, odgovori na pitanja); dokumenti vezani uz fazu nakon dodjele ugovora (zapisnik o pregledu i ocjeni, odluka o odabiru, obavijesti o dodjeli) pregledani su samo radi konteksta, nisu korišteni za ocjenu transparentnosti dokumentacije o nabavi."
+}

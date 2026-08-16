@@ -1,0 +1,27 @@
+{
+  "postupak_id": 32455,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriteriji za odabir ponude su precizno matematički definirani: financijski kriterij (86% bodova) izračunava se eksplicitnom formulom, a nefinancijski kriterij (ekološka kategorija vozila, 14% bodova) ima tablicu s točno propisanim brojem bodova za svaku moguću kombinaciju.",
+      "citat": "CP= (Cmin/Cp) x 86 ... 2 od 2 vozila (...) imaju ekološku kategoriju EURO 6 - 14 (bodova)"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Opis predmeta nabave je konkretan i operativno jasan: broj vožnji po sezoni, točna relacija i 28 stanica linije, tehnički zahtjevi za vozila. Zahtjevi su definirani generičkim kategorijama vozila, ne markom ili modelom. Ocjena nije 5 jer neki elementi (npr. detalji o zamjenskom vozilu izvan roka od 30 min) nisu do kraja razrađeni.",
+      "citat": "autobusima kategorije M3 razred II ili III (...) minimalno 49 sjedećih mjesta, klimatizacija u putničkom prostoru, ekološka kategorija vozila - minimalno EURO 5 standard"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dostupan je pun i koherentan skup dokumenata potreban za samostalnu izradu ponude. Jedina izmjena dokumentacije bila je administrativna dopuna, bez izmjene sadržajnih uvjeta.",
+      "citat": "Razlozi izmjena: Dodan je obrazac Izjava o nepostojanju osnove za zabranu dodjele ugovora o JN"
+    },
+    "prosjecna_ocjena": 4.67
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak",
+    "napomena": "Tehnički zahtjevi za vozila su generički i ne upućuju na određenog ponuditelja/proizvođača; jamstvo za ozbiljnost ponude i uvjeti sposobnosti standardni su i proporcionalni vrijednosti nabave."
+  }
+}

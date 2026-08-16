@@ -1,0 +1,27 @@
+{
+  "postupak_id": 22760,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij za odabir (ekonomski najpovoljnija ponuda) razložen je na tri jasno ponderirana i mjerljiva podkriterija (cijena 90, ISO 9001/14001 5, posjedovanje vozila/opreme 5), uz eksplicitnu matematičku formulu za bodovanje cijene i binarno (da/ne) pravilo za preostala dva. Način dokazivanja svakog podkriterija je precizno naveden (certifikat odnosno izjava u slobodnoj formi), a Zapisnik o pregledu i ocjeni pokazuje da je formula dosljedno primijenjena na obje zaprimljene ponude.",
+      "citat": "Ponuda s najniže ponuđenom cijenom dobiva 90 bodova, a ostale ponude se boduju prema formuli: P = Pn / Pr * 90"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Opis predmeta nabave sadrži konkretne operativne parametre (dinamika preuzimanja rublja dvaput dnevno s definiranim vremenskim prozorima, rokovi izvršenja 6/18 sati, dnevni kapacitet 2000 kg i 300 kom osobnog rublja) i troškovnik s razrađenim stavkama robe (plahte, jastučnice, deke, radna odjeća po vrstama, vreće) i okvirnim godišnjim količinama. Zaseban dokument 'Prilog 1. Tehnička specifikacija' je, međutim, svega dvije generičke rečenice koje upućuju natrag na troškovnik, pa detalj o kvaliteti/materijalima rublja ostaje implicitan; opis ipak omogućuje usporedivu ponudu bez očitog isključivanja razumnih alternativa.",
+      "citat": "Dnevno, za potrebe Bolnice osigurati kapacitet pranja rublja za količinu od 2000 kg rublja i 300 komada osobnog rublja."
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 4,
+      "obrazlozenje": "Dostupan je pun set standardnih dokumenata (Kriteriji kvalitativnog odabira, Opći podaci, Upute za ponuditelje, Obavijest o nadmetanju, Kriterij ENP, Prilog 1 - izjava o vozilima, Prilog 1 - tehnička specifikacija, Prilog 2 - izjava o ISO, Prilog 5 - troškovnik, te naknadno Zapisnik o pregledu i ocjeni i Odluka o odabiru), dovoljan za samostalnu izradu ponude. Numeracija priloga preskače Prilog 3 i Prilog 4, a datoteka 'Prilozi.zip' ekstrahirana je kao potpuno prazna (0 bajtova) pa nije moguće utvrditi je li nedostajala dodatna dokumentacija ili je posrijedi poznati artefakt neuspjelog preuzimanja arhive.",
+      "citat": "Elektronička ponuda mora sadržavati najmanje: Uvez ponude Popunjeni eESPD obrazac (ili više njih, ako je primjenjivo) Popunjen troškovnik"
+    },
+    "prosjecna_ocjena": 4.33
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak"
+  },
+  "napomena": "Dokument 'Prilozi.zip.txt' ekstrahiran je kao prazan (0 bajtova) - vjerojatno artefakt neuspjelog preuzimanja arhive, ne stvarni nedostatak dokumentacije, ali sadržaj nije bilo moguće provjeriti. OCR verzija 'zapisnik o pregledu i ocjeni- potpisan.pdf' djelomično je slabije čitljiva (izobličeni znakovi), no sadržaj je dupliciran u čistoj HTML/PDF inačici 'Zapisnik o pregledu i ocjeni.pdf', pa to nije utjecalo na ocjenu. Traženi uvjeti sposobnosti (osiguranje 100.000 EUR, vodopravna dozvola za ispuštanje otpadnih voda, ISO 9001/14001) djeluju proporcionalni vrsti i vrijednosti nabave (630.000 EUR, industrijsko pranje bolničkog rublja) i nisu vezani uz specifičnog ponuditelja ili marku/patentirano rješenje; u postupku su sudjelovala dva ponuditelja iz različitih županija (Zadarska i Splitsko-dalmatinska)."
+}

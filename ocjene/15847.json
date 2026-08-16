@@ -1,0 +1,27 @@
+{
+  "postupak_id": 15847,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriteriji za odabir ponude brojčano su definirani i mjerljivi (cijena 90 %, rok odaziva na reklamaciju isporučenog proizvoda 10 %), a u Zapisniku o pregledu i ocjeni ponuda primijenjena je transparentna i dosljedna formula izračuna bodova za svaku ponudu (C i Ro komponenta), bez prostora za diskrecijsko tumačenje.",
+      "citat": "Rok odaziva na reklamaciju isporučenog proizvoda                                                              10,00"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 3,
+      "obrazlozenje": "Opis predmeta nabave u dostupnoj Obavijesti o nadmetanju uglavnom je općenit (obveza isporuke nove i nekorištene robe, pakiranje po predmetima za svaki razred, rok isporuke 15 dana), dok se stvarna specifikacija predmeta (popis naslova/količina udžbenika) nalazi u Troškovniku koji nije dio ekstrahiranog korpusa za ovaj postupak. Iz dostupnog teksta stoga nije moguće ocijeniti detaljnost same specifikacije robe, samo okvirne uvjete isporuke.",
+      "citat": "Ponuditelj je u obvezi ponuditi predmet nabave u cijelosti odnosno ponuda mora obuhvatiti sve stavke Troškovnika."
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 2,
+      "obrazlozenje": "Ekstrahirani korpus za ovaj postupak ne sadrži samu Dokumentaciju o nabavi ni Troškovnik (tehničku specifikaciju robe po stavkama, obrasce), nego samo sažetu Obavijest o nadmetanju, Zapisnik o pregledu i ocjeni ponuda, Odluku o odabiru, Obavijest o dodjeli ugovora te dokaze sposobnosti odabranog ponuditelja (izvadak iz sudskog registra, potvrde o nekažnjavanju i o stanju poreznog duga). Jedina arhiva označena kao 'ažurirani popratni dokumenti' ekstrahirana je kao potpuno prazna (0 bajtova). Bez ključnih dokumenata (Troškovnik, tehnički uvjeti, obrasci ponude) ne može se potvrditi je li dostupna dokumentacija bila dostatna za samostalnu izradu ponude — dostupan je samo sažetak, ne izvorna dokumentacija o nabavi.",
+      "citat": "sukladno specifikaciji unutar troškovnika koji čini sastavni dio dokumentacije o nabavi."
+    },
+    "prosjecna_ocjena": 3.33
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak"
+  },
+  "napomena": "Ključna ograničenja izvora: (1) ekstrahirani korpus za ovaj postupak ne uključuje samu Dokumentaciju o nabavi/Troškovnik/tehničku specifikaciju, samo sažetu Obavijest o nadmetanju i post-odabirne dokumente (zapisnik, odluka, obavijest o dodjeli, dokazi sposobnosti odabranog ponuditelja Didacta d.o.o.) — ocjena razine detalja opisa i potpunosti dokumentacije stoga je ograničena na ono što je vidljivo u sažetku, ne u izvornoj specifikaciji; (2) datoteka '(root)__ažurirani popratni dokumenti.rar.txt' ekstrahirana je kao prazna (0 bajtova), pa njezin sadržaj nije mogao biti uzet u obzir; (3) zbog nedostupnosti Troškovnika, ocjena restriktivnosti (prisutno: false) temelji se samo na sažetom opisu i visini jamstva za ozbiljnost ponude (1.000 EUR na procijenjenu vrijednost 60.318 EUR, ~1,7 % — ne djeluje nesrazmjerno), ne na stvarnim tehničkim stavkama specifikacije, koje nisu bile dostupne za provjeru."
+}

@@ -1,0 +1,27 @@
+{
+  "postupak_id": 19728,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriteriji za odabir ponude (ENP) potpuno su jasno definirani i mjerljivi: cijena nosi 90 bodova, jamstveni rok 10 bodova, s eksplicitnim matematičkim formulama za izračun bodova za oba kriterija, uključujući zaokruživanje na šest decimala i pravilo za jednako rangirane ponude.",
+      "citat": "Ponuda s najnižom cijenom dobiva 90,00 bodova, dok se ostale ponude boduju prema formuli"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Zaseban dokument 'Tehnička specifikacija' svodi se na jednu rečenicu koja upućuje na troškovnik, no sâm troškovnik sadrži vrlo konkretne stavke s dimenzijama, materijalima, klasama betona i promjerima cijevi, čime je opis predmeta nabave stvarno operacionaliziran i usporediv, bez pretjeranog suženja koje bi isključivalo razumne alternative izvedbe.",
+      "citat": "Iskop u tlu, neovisno o kategoriji materijala i dubini iskopa. Širina rova 0.8m, dubina do 3.0 metara ovisno o dionici."
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 4,
+      "obrazlozenje": "Dostupni su svi ključni dijelovi dokumentacije potrebni za samostalnu izradu ponude (opći podaci, kriteriji za odabir, kriteriji kvalitativnog odabira, upute za ponuditelje, troškovnik, izjava o jamstvenom roku). Umanjeno s 5 na 4 jer je 'Prilog 1. Tehnička specifikacija' sadržajno prazan (upućuje samo na troškovnik) i jer je prilog 'Prilozi.zip' ekstrahiran kao potpuno prazna datoteka (0 bajtova), pa nije moguće utvrditi je li sadržavao dodatne obrasce ili dokumentaciju.",
+      "citat": "Detaljan troškovnik se nalazi u zasebnom prilogu – Troškovnik."
+    },
+    "prosjecna_ocjena": 4.33
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak"
+  },
+  "napomena": "Pročitane su sve dostupne .txt datoteke u extracted/ (13 datoteka; 'Prilozi.zip.txt' prazna, 0 bajtova, izvorna arhiva vjerojatno nije uspješno ekstrahirana). Kriteriji kvalitativnog odabira ograničeni su na standardne osnove za isključenje i upis u registar, bez dodatnih financijskih/referentnih uvjeta sposobnosti, što ne ukazuje na restriktivnost. Kontekstualno (izvan opsega ove ocjene): prema Obavijesti o dodjeli ugovora zaprimljena je samo 1 ponuda, što nije uzeto u obzir pri ocjeni transparentnosti/restriktivnosti dokumentacije jer se odnosi na ishod, ne na sadržaj dokumentacije."
+}

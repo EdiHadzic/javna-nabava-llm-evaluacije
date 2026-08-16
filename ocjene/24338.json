@@ -1,0 +1,32 @@
+{
+  "postupak_id": 24338,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij za odabir ponude (ekonomski najpovoljnija ponuda) je potpuno operacionaliziran matematičkom formulom za cijenu i preciznom bodovnom tablicom za produljeni jamstveni rok, s jasnim relativnim značajem (90%/10%) i pravilom za rangiranje jednako bodovanih ponuda. Nema prostora za diskrecijsko tumačenje.",
+      "citat": "KRITERIJ RELATIVNI ZNAČAJ MAX. BROJ BODOVA 1. Cijena ponude 90% 90 2. Produljeni jamstveni rok 10% 10"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Tehničke specifikacije po grupama iznimno su detaljne (parametar po parametar, s mjernim jedinicama i tolerancijama), a naručitelj je tijekom odgovora na pitanja aktivno i konstruktivno prihvaćao gotovo sve zahtjeve gospodarskih subjekata za omekšavanjem prekrutih zahtjeva (npr. tolerancije dimenzija, brisanje suvišnih funkcija vage), što je znak da je opis bio predetaljan u nacrtu, ali je otvorenim dijalogom doveden na razumnu razinu prije roka za dostavu ponuda. Ocjena nije 5 jer je jedan zahtjev (dimenzije ležaja za preglede) ostao bez tražene dodatne tolerancije unatoč obrazloženom zahtjevu ponuditelja.",
+      "citat": "Naručitelj prihvaća predmetni zahtjev i sukladno prijedlogu gospodarskog subjekta dopunjuje tehničke specifikacije grupe 2 Ostala medicinsko tehnička oprema i u ostalim stavkama."
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dokumentacija sadrži sve elemente potrebne za samostalnu izradu ponude: opće podatke, kriterije kvalitativnog odabira s uputama o dokazivanju, kriterije za odabir ponude, zasebne tehničke specifikacije i troškovnike za sve tri grupe, uvjete sukladno posebnim propisima (Zakon o medicinskim proizvodima), lokacije isporuke i objavljene odgovore na pitanja gospodarskih subjekata koji dodatno razjašnjavaju sporne točke.",
+      "citat": "Detaljne tehničke specifikacije se nalaze u zasebnom prilogu. ... Detaljan troškovnik se nalazi u zasebnom prilogu – Troškovnik."
+    },
+    "prosjecna_ocjena": 4.67
+  },
+  "restriktivnost": {
+    "prisutno": true,
+    "indikatori": [
+      {
+        "opis": "Zahtjev za automatsku interpretaciju EKG-a prema imenovanom, specifičnom algoritmu (University of Glasgow), umjesto generičkog zahtjeva za sukladnost s međunarodnim standardom interpretacije - iako je riječ o algoritmu koji licenciraju više proizvođača, imenovanje jednog konkretnog algoritma ipak sužava krug prihvatljivih uređaja.",
+        "citat": "Automatska interpretacija snimljenog EKG-a prema University of Glasgow algoritmu"
+      }
+    ],
+    "rizik": "nizak"
+  },
+  "napomena": "Pročitane su sve relevantne .txt datoteke iz extracted/ (opći podaci, kriteriji kvalitativnog odabira, kriteriji za odabir ponude za sve grupe i posebno DZ grupu, tehničke specifikacije i troškovnici za sve 3 grupe, uvjeti sukladno posebnim propisima, odgovori na pitanja, zapisnici o pregledu i ocjeni, odluka o poništenju grupe 3). Osim navedenog Glasgow-algoritam indikatora, uvjeti kvalitativnog odabira su proporcionalni (samo upis u registar i katalozi/uzorci - nema nesrazmjernih financijskih/referentnih pragova za nabavu vrijednosti 73.000 EUR). Grupa 3 (CRP analizator) naknadno je poništena iz razloga nepovezanih s transparentnošću/restriktivnošću (istek roka za povrat sredstava od Ministarstva zdravstva). Na grupu 1 pristigle su samo 2 ponude, od kojih je jedna odbijena kao nepravilna (nepotpun troškovnik/tehničke karakteristike) - nizak broj ponuditelja djelomično može odražavati usku nišu tržišta medicinske opreme, ne nužno restriktivnost specifikacija."
+}

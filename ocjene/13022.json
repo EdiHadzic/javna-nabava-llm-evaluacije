@@ -1,0 +1,40 @@
+{
+  "postupak_id": 13022,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 3,
+      "obrazlozenje": "Jedini dostupan dokument je Obavijest o dodjeli ugovora, koja navodi samo kriterij za odabir ponude (cijena, značaj 100%) - taj je podatak sam po sebi jasan i mjerljiv. Međutim, nedostaju uvjeti sposobnosti/kvalifikacijski uvjeti ponuditelja jer sama Dokumentacija o nabavi nije dio izvučenog teksta, pa se cjelovita slika kriterija ne može ocijeniti.",
+      "citat": "Kriterij za odabir ponude Cijena: Naziv kriterija Značaj Cijena 100,00"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 2,
+      "obrazlozenje": "Opis predmeta nabave je generički i upućuje na vanjske dokumente (Dokumentacija o nabavi, Troškovnik) za konkretne tehničke uvjete, koji nisu dostupni u izvučenom tekstu. Sam tekst obavijesti ne sadrži nikakve tehničke specifikacije popravka motora niti opseg radova.",
+      "citat": "odnosno uslugu popravka motora sukladno traženim uvjetima naznačenima u Dokumentaciji o nabavi i u Troškovniku"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 1,
+      "obrazlozenje": "U mapi extracted/ nalazi se isključivo Obavijest o dodjeli ugovora (dokument nakon dodjele). Dokumentacija o nabavi, tehnički uvjeti i Troškovnik, na koje se tekst obavijesti izravno poziva, nisu dostupni, pa se samostalna izrada ponude na temelju dostupnog materijala ne bi mogla provesti.",
+      "citat": "sukladno traženim uvjetima naznačenima u Dokumentaciji o nabavi i u Troškovniku"
+    },
+    "prosjecna_ocjena": 2.0
+  },
+  "restriktivnost": {
+    "prisutno": true,
+    "indikatori": [
+      {
+        "opis": "Postupak je pregovarački bez prethodne objave poziva na nadmetanje, opravdan isključivo tehničkom/brand ekskluzivnošću - naveden je unaprijed točno jedan imenovani gospodarski subjekt kao jedini ovlašteni servis za marku vozila.",
+        "citat": "ovlaštena tvrtka za pružanje usluga servisa i popravaka podvozja vozila marke „MAN“ za Republiku Hrvatsku je tvrtka „AUTO HRVATSKA PRODAJNO SERVISNI CENTRI“ d.o.o."
+      },
+      {
+        "opis": "Naručitelj je uputio poziv na dostavu ponude isključivo tom jednom, unaprijed određenom subjektu, bez ikakvog natjecanja.",
+        "citat": "Naručitelj upućuje poziv na dostavu inicijalne ponude navedenom gospodarskom subjektu jer zbog tehničkih razloga povezanih sa zaštitom isključivih prava, uslugu može izvršiti samo ovaj gospodarski subjekt"
+      },
+      {
+        "opis": "Kao izravna posljedica, zaprimljena je samo jedna ponuda - potpuno odsustvo tržišnog natjecanja.",
+        "citat": "Broj zaprimljenih ponuda: 1"
+      }
+    ],
+    "rizik": "visok"
+  },
+  "napomena": "U mapi extracted/ dostupan je samo jedan dokument - Obavijest o dodjeli ugovora (post-award izvještaj), dok Dokumentacija o nabavi, tehnički uvjeti i Troškovnik na koje se ta obavijest izravno poziva nisu prisutni. Ocjene transparentnosti stoga se temelje isključivo na sadržaju obavijesti, ne na izvornoj natječajnoj dokumentaciji, što snižava pouzdanost ocjena razine_detalja_opisa i potpunosti_dokumentacije. Restriktivnost je ovdje po prirodi postupka ekstremna (jedan imenovani ponuditelj, 0 konkurencije) jer se radi o pregovaračkom postupku bez prethodne objave temeljenom na zaštiti isključivih prava (čl. 131. st. 1. t. 2. b) ZJN 2016) - zakonski dopuštena iznimka, ali s gledišta konkurentnosti/negativne selekcije predstavlja visok rizik po definiciji korištenoj u ovoj rubrici."
+}

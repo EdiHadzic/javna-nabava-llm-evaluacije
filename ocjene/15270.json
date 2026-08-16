@@ -1,0 +1,40 @@
+{
+  "postupak_id": 15270,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriteriji za odabir ponude (ENP: cijena 90 bodova, rok isporuke 10 bodova) potpuno su jasno definirani i mjerljivi, s eksplicitnom matematičkom formulom za bodovanje cijene te preciznom ljestvicom bodova po satnim intervalima za rok isporuke, uključujući maksimalno dopušteni rok nakon kojeg se ponuda odbija.",
+      "citat": "Isporuka u roku od 0 do 12 sati: 10 bodova b) 12,01 do 24 sata: 5 bodova c) 24,01 do 36 sati: 0 bodova"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Opis predmeta nabave (tri stavke troškovnika: morcelator set, vrećice za morceliranje, set za CO2 insuflaciju) sadrži konkretne, mjerljive tehničke parametre (dužina, težina, brzina rezanja, promjer) dovoljne za usporedivu ponudu; razina detalja je visoka, no upravo ta visoka preciznost pojedinih parametara (v. restriktivnost niže) graniči s prekomjernom uskoćom.",
+      "citat": "Sterilini i jednokratni spojni rotor dugačak 2000 mm i težak 460 grama. Brzina rezanja od 200-1600 RPM."
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 4,
+      "obrazlozenje": "Dostupna je cjelovita standardna dokumentacija (opći podaci, upute za ponuditelje, kriteriji kvalitativnog odabira GS, kriteriji za odabir ponude, troškovnik) dostatna za samostalnu izradu ponude. Ocjena nije 5 jer je prilog 'Prilozi.zip' ekstrahiran kao prazan (0 bajtova) pa sadržaj tog dodatnog paketa dokumenata (ako je postojao) nije moguće provjeriti, a zaseban dokument 'Tehnička specifikacija' samo upućuje na troškovnik bez dodatnog teksta.",
+      "citat": "Elektronička ponuda mora sadržavati najmanje: Uvez ponude, Popunjeni eESPD obrazac, Popunjen troškovnik."
+    },
+    "prosjecna_ocjena": 4.33
+  },
+  "restriktivnost": {
+    "prisutno": true,
+    "indikatori": [
+      {
+        "opis": "Stavka 1. troškovnika (morcelator set) navodi neuobičajeno precizne, brendu-specifične parametre (točna dužina rotora u mm, točna težina u gramima, točan raspon brzine rezanja u RPM, promjer rezača) te naziv načina rezanja koji zvuči kao komercijalna oznaka proizvoda ('CUT / CUT PLUS'), a ne generički tehnički zahtjev, što upućuje na prilagodbu specifikaciji jednog konkretnog proizvođača.",
+        "citat": "Rezač promjera 15 mm s dvostrukim načinom rezanja CUT / CUT PLUS. Radna dužina 160 mm."
+      },
+      {
+        "opis": "Stavka 3. troškovnika (set za CO2 insuflaciju) opisuje kombinaciju vrlo specifičnih patentiranih/komercijalnih značajki (dvostruki lumen dizajn, ULPA filtracija dima, 'turbo gumb' za kontrolu protoka) koje zajedno odgovaraju karakteristikama jednog određenog komercijalnog sustava insuflacije, a ne generičkom opisu funkcionalnosti.",
+        "citat": "Dizajn s dvostrukim lumenom osigurava neprekidan protok... 01 ULPA filtracija uklanja opasni dim, plinove i štetne onečišćujuće tvari"
+      },
+      {
+        "opis": "Posredni pokazatelj: jedini konkurentski ponuditelj (AnalyticPharma d.o.o.) nije ispunio niti jednu stavku troškovnika, što je u skladu s hipotezom da tehnički zahtjevi odgovaraju asortimanu samo jednog dobavljača (odabranog RIV MEDICAL d.o.o.), premda je ponuda odbijena i zbog druga dva samostalna razloga (cijena iznad procijenjene vrijednosti, nedostavljeno jamstvo).",
+        "citat": "PONUĐENA CIJENA PRELAZI PROCJENJENU VRIJEDNOST; NIJE DOSTAVLJENO JAMSTVO ZA OZBILJNOST PONUDE; NIJE ISPUNJENA NITI JEDNA STAVKA TROŠKOVNIKA."
+      }
+    ],
+    "rizik": "srednji"
+  },
+  "napomena": "Pročitano svih 11 sadržajnih .txt datoteka u extracted/ (opći podaci, kriteriji kvalitativnog odabira GS, kriteriji za odabir ponude, obavijest o nadmetanju, obavijest o dodjeli ugovora, odluka o odabiru u dva formata, upute za ponuditelje, troškovnik, tehnička specifikacija-pokazivač, zapisnik o pregledu i ocjeni). 'Prilozi.zip.txt' ekstrahiran je kao prazna datoteka (0 bajtova) - sadržaj dodatnog arhiva, ako je postojao, nije bio dostupan za ocjenu. Postupak ima samo 2 zaprimljene ponude, od kojih je jedna odbijena (AnalyticPharma d.o.o.), a ugovor je dodijeljen RIV MEDICAL d.o.o. po cijeni bliskoj procijenjenoj vrijednosti (49.900,00 EUR naspram 50.000,00 EUR)."
+}

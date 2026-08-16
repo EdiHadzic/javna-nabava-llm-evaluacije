@@ -1,0 +1,54 @@
+{
+  "postupak_id": 1220,
+  "broj_pojedinacnih_runova": 2,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Oba pokretanja slažu se u ocjeni i razlogu: kriterij za odabir ponude (cijena 90%, jamstveni rok 10%) u potpunosti je mjerljiv — eksplicitna matematička formula za bodovanje cijene i diskretna bodovna tablica za jamstveni rok (2 god. minimalno, dodatni bodovi za 3 i 4 godine). Nema prostora za diskrecijsku/subjektivnu procjenu naručitelja.",
+      "citat": "broj bodova = (najniža cijena ponude / cijena ponude) * 90",
+      "runovi": [
+        5,
+        5
+      ],
+      "slaganje": "puno"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 5,
+      "obrazlozenje": "Oba pokretanja slažu se: tehnički opis iznimno je detaljan i lokacijski precizan — točne kilometražne dionice zamjene kolosiječne rešetke, tipovi tračnica, popis svih 45 željezničko-cestovnih prijelaza (kut, tip praga), popis 22 tunela s kilometražama, popis skretnica po kolodvorima s brojem/kutom, uz dodatnu lokacijsku evidenciju tračničkih mazalica (drugi run). Opis omogućuje potpuno usporedivu ponudu bez nejasnoća o opsegu radova.",
+      "citat": "U zoni od km 0+513,80 do km 12+300, vrši se kompletna zamjena kolosiječne rešetke (nove tračnice 49E1 te novi drveni i betonski pragovi).",
+      "runovi": [
+        5,
+        5
+      ],
+      "slaganje": "puno"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 4,
+      "obrazlozenje": "Oba pokretanja slažu se: dokumentacija je opsežna i sadrži sve standardne elemente (opći podaci, upute ponuditeljima, kriteriji kvalitativnog odabira, kriterij za odabir ponude, tehnički opis, troškovnik, uvjeti tehničke dokumentacije, obrasci, ESPD, opsežna Q&A). Ocjena umanjena s 5 na 4 jer naručitelj eksplicitno navodi da za predmetnu dionicu ne postoji izrađena projektna dokumentacija, pa je izvođač dužan sam o vlastitom trošku izraditi potrebnu dokumentaciju i ishoditi suglasnost investitora za nju — značajan teret/rizik prebačen na ponuditelja koji otežava potpuno samostalnu i preciznu izradu ponude bez dodatnog inženjerskog rada unaprijed.",
+      "citat": "Za radove na predmetnoj dionici ne postoji projektna dokumentacija. Izvođač radova dužan je za vlastitu potrebu izvođenja radova izraditi dokumentaciju koja mu je potrebna, te ishodit suglasnost od Investitora za istu.",
+      "runovi": [
+        4,
+        4
+      ],
+      "slaganje": "puno"
+    },
+    "prosjecna_ocjena": 4.67
+  },
+  "restriktivnost": {
+    "prisutno": true,
+    "indikatori": [
+      "Q&A razmjena (Odgovori.html.txt) pokazuje da je ponuditelj formalno, uz pozivanje na konkretne članke ZJN 2016 (čl. 202. st. 2., čl. 205. st. 2., čl. 206. st. 3., čl. 210. st. 3.), zatražio tehničko obrazloženje i objavu kriterija jednakovrijednosti za dva tehnička zahtjeva: (a) skretnička srca s 13% mangana (koje bidder tvrdi da je prvi put uvedeno na ovom natječaju, odstupajući od dugogodišnje prakse HŽ Infrastrukture i uobičajene europske prakse) i (b) neprihvaćanje ugradnje hrastovih pragova kao alternative. Prvi krug odgovora naručitelja bio je isključivo formulaičan (\"Naručitelj ostaje pri navodu propisanom Dokumentacijom o nabavi\"), bez ikakvog obrazloženja - potvrđeno izravnim čitanjem izvornog teksta, ne samo tuđeg citata.",
+      "Na ponovljeni, pravno potkrijepljeni prigovor ponuditelja (uz izričitu tvrdnju o mogućem pogodovanju određenom gospodarskom subjektu), naručitelj je za skretnička srca ipak dao sadržajno obrazloženje - naveo je da spec. dopušta dvije tehnologije jednakovrijednih karakteristika, da isti tip srca (uz manje izmjene) nabavlja već 30+ godina od više renomiranih europskih proizvođača, te je citirao dva konkretna precedentna projekta (Rijeka Brajdica, Zagrebačka obala) s više proizvođača skretnica na hrastovim pragovima - što objektivno oslabljuje (ali ne u potpunosti otklanja) tezu o prilagodbi specifikacije jednom određenom ponuditelju. Za hrastove pragove obrazloženje je ostalo bitno tanje (samo poziva na čl. 21. Pravilnika 314. bez stvarnog tehničkog razloga zašto se ne dopušta traženo odstupanje), a formalni kriteriji jednakovrijednosti iz čl. 210. st. 3. ZJN 2016 nikad nisu eksplicitno objavljeni unatoč izričitom zahtjevu ponuditelja - stvarni, dokumentirani propust u transparentnosti postupka, neovisno o tome je li posljedično doveo do favoriziranja.",
+      "Financijski uvjet (prosječni godišnji promet u zadnje 3 godine od najmanje 90.000.000,00 EUR, jednako punoj procijenjenoj vrijednosti nabave) i referentni uvjet (radovi u vrijednosti najmanje 40.000.000,00 EUR kroz najviše 2 ugovora u 5 godina, ~44% procijenjene vrijednosti) na gornjoj su granici uobičajene proporcionalnosti, no objašnjivi veličinom/složenošću posla (94,3 km pruge, 22 tunela, 45 prijelaza, 48-mjesečni rok) i unutar zakonski dopuštenih okvira za sektorsku nabavu ove veličine.",
+      "Stvarni ishod postupka ublažava (ne poništava) gornje nalaze: zaprimljeno je 6 ponuda (2 od malih/srednjih poduzetnika, 1 iz druge države EU-a, 3 iz trećih država), a ugovor je dodijeljen tvrtki SWIETELSKY d.o.o. koja je u obavijesti o dodjeli izrijekom označena kao malo/srednje poduzeće, uz ugovorenu vrijednost 69.711.198,63 EUR - 22,5% nižu od procijenjene. Visoki financijski/referentni pragovi i sporni tehnički zahtjevi očito nisu u praksi isključili manje/konkurentske ponuditelje niti sprječili natjecanje u cijeni."
+    ],
+    "rizik": "nizak",
+    "runovi_prisutno": [
+      false,
+      true
+    ],
+    "slaganje": "rascjep"
+  },
+  "napomena": "Postupak je velika sektorska nabava radova (HŽ Infrastruktura, obnova pruge M606 Knin-Zadar, CPV 45234100, proc. vrijednost 90 mil. EUR, 48-mjesečni rok). Pročitani su svi ključni dokumenti u extracted/, uključujući punih 67 KB Q&A razmjene (Odgovori.html.txt) i Obavijest o dodjeli ugovora radi provjere stvarnog natjecateljskog ishoda.",
+  "napomena_resolvera": "Dimenzije transparentnosti (jasnoća kriterija, razina detalja opisa, potpunost dokumentacije) podudaraju se brojčano i sadržajno između oba runa - slaganje 'puno' na sve tri, mehaničko usrednjavanje nije bilo potrebno jer nije bilo neslaganja. Restriktivnost je bila stvarni rascjep (run_1: false, run_2: true) pa je umjesto biranja između dva runa samostalno pročitan cjelokupni izvorni tekst Odgovori.html.txt (Q&A) i Obavijest o dodjeli ugovora. Nalaz: run_2 je citat 'Naručitelj ostaje pri navodu...' naveo točno (citat postoji u izvorniku), ali ga je iskoristio pomalo selektivno - ta rečenica dolazi NAKON opsežnog stvarnog tehničkog obrazloženja za skretnička srca (30-godišnja praksa, dva precedentna projekta, više proizvođača), koje run_2 nije spomenuo, dok je za hrastove pragove obrazloženje doista ostalo formalno i tanko. Neovisna prosudba: restriktivnost je 'prisutno: true' jer formalni kriteriji jednakovrijednosti (čl. 210. st. 3. ZJN 2016) nikad nisu eksplicitno objavljeni unatoč izričitom, pravno potkrijepljenom zahtjevu ponuditelja - stvaran, dokumentiran propust neovisno o ishodu. No rizik je spušten s run_2-ove ocjene 'srednji' na 'nizak' jer: (a) naručiteljevo obrazloženje za sporniji od dva zahtjeva (skretnička srca) ipak postoji i objektivno slabi tezu o pogodovanju jednom ponuditelju/proizvođaču (više dokazano kompatibilnih proizvođača), (b) stvarni ishod postupka (6 ponuda, dodjela malom/srednjem poduzetniku, cijena 22,5% ispod procjene) pokazuje da naznačeni rizici restriktivnosti nisu se materijalizirali u slabijem natjecanju. Pouzdanost finalne ocjene: visoka za transparentnost (puno slaganje na sve tri dimenzije), umjerena za restriktivnost (rascjep zahtijevao samostalnu prosudbu na temelju punog konteksta Q&A dokumenta, a ne mehaničkog izbora između runova)."
+}

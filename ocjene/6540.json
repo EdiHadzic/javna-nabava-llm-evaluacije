@@ -1,0 +1,37 @@
+{
+  "postupak_id": 6540,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij ENP potpuno je operacionaliziran: cijena 90 bodova, jamstveni rok 10 bodova, uz eksplicitnu matematičku formulu za oba dijela i tablicu bodovanja jamstvenog roka po koracima od 12 mjeseci (60-120 mj. → 0-10 bodova). Nema dvosmislenosti u načinu izračuna niti prostora za diskrecijsku ocjenu povjerenstva.",
+      "citat": "Bodovi za svaki od kriterija računa se na šest decimala, zaokruživanjem na više."
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Tehnička specifikacija sadrži opsežnu tablicu 'traženo-nuđeno' s oko 50 mjerljivih stavki (norme, dimenzije, kapaciteti, sučelja) što omogućuje izravnu usporedivost ponuda. Ocjena nije 5 jer jedna stavka imenuje konkretan tip proizvoda (uz klauzulu jednakovrijednosti), a zahtjev integracije s postojećim korisničkim karticama blago sužava krug ostvarivih rješenja na ona kompatibilna s postojećim sustavom Elektre Zadar.",
+      "citat": "Samostalni terminal za evidenciju zaduženja ključeva - tip KRDIK04 ili jednakovrijedan"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dostupan je pun standardni komplet dokumentacije - opći podaci, obavijest o nadmetanju, upute za ponuditelje, kriteriji za odabir ponude i kvalitativni odabir, tehnička specifikacija, troškovnik, prijedlog ugovora i propisane izjave - dovoljan za samostalnu izradu ponude bez dodatnih pojašnjenja.",
+      "citat": "Elektronička ponuda mora sadržavati najmanje: Uvez ponude, Popunjeni eESPD obrazac, Popunjen troškovnik, Tehničko rješenje/opis, Prijedlog ugovora"
+    },
+    "prosjecna_ocjena": 4.67
+  },
+  "restriktivnost": {
+    "prisutno": true,
+    "indikatori": [
+      {
+        "opis": "Tehnička specifikacija za RFID terminal navodi konkretan tip proizvoda konkurentskog proizvođača, iako uz klauzulu jednakovrijednosti propisanu čl. 209. ZJN-a.",
+        "citat": "Samostalni terminal za evidenciju zaduženja ključeva - tip KRDIK04 ili jednakovrijedan"
+      },
+      {
+        "opis": "Zahtjev integracije s postojećim korisničkim RFID/magnetnim karticama (480 kom.) implicitno favorizira ponuditelja koji ima uvid u postojeći sustav Elektre Zadar (moguća prednost inkumbenta), premda je riječ o legitimnom tehničkom zahtjevu interoperabilnosti.",
+        "citat": "Potrebno je u sustav integrirati postojeće magnetne kartice za svakog korisnika Elektre Zadar - 480 kom."
+      }
+    ],
+    "rizik": "nizak",
+    "napomena_riziku": "Rizik je nizak jer je referenca na konkretan tip proizvoda eksplicitno popraćena klauzulom jednakovrijednosti, a norme (HRN EN 12600, HRN EN 356, ISO/IEC 14443) dosljedno dopuštaju jednakovrijedna rješenja kroz cijelu specifikaciju. Zaprimljena je samo jedna ponuda, što je konzistentno i s nišnom prirodom predmeta nabave i s mogućom blagom restriktivnošću, no iz same dokumentacije ne proizlazi namjerno isključivanje razumnih alternativa."
+  },
+  "napomena": "Pregledano svih 16 dostupnih .txt datoteka u extracted/ (opći podaci, obavijest o nadmetanju, kriteriji za odabir ponude i kvalitativni odabir, tehnička specifikacija, troškovnik, upute za ponuditelje, prijedlog ugovora, izjave, zapisnik o pregledu i ocjeni, obavijest o dodjeli ugovora, prilozi zapisniku). Dokumentacija je čitljiva i potpuna; postupak je zaprimio samo jednu ponudu (GRADING-INVEST d.o.o.), ugovorena vrijednost 65.580,00 EUR naspram procijenjenih 65.600,00 EUR."
+}

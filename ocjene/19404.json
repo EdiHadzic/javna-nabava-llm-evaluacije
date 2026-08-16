@@ -1,0 +1,39 @@
+{
+  "postupak_id": 19404,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij ENP (cijena i kvaliteta) potpuno je operacionaliziran matematičkim formulama: cijena (90 bodova) prema formuli CP=(CPmin/CPpon)x90, a jamstveni rok (10 bodova) prema jasnoj bodovnoj skali s definiranim rasponima (24/25-47/48-60 mjeseci), uz eksplicitno pravilo za slučaj izjednačenih ponuda (ranije zaprimljena) i tretman nepotpune izjave o jamstvu (smatra se minimalnih 24 mjeseca). Nema prostora za diskrecijsku interpretaciju bodovanja.",
+      "citat": "Trajanje jamstva u mjesecima:24=0 bodova Trajanje jamstva u mjesecima: od 25 do 47=5 bodova Trajanje jamstva u mjesecima: od 48 do 60=10 bodova"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Predmet nabave (nadogradnja dječjeg vrtića) opisan je iznimno detaljno kroz šest glavnih projekata (arhitektonski, konstrukcija, vodovod/kanalizacija, energetska učinkovitost, strojarski, elektro) i opsežan troškovnik (1.540 redaka) s tehničkim karakteristikama po stavci, što omogućuje potpuno usporedive ponude. Ocjena nije 5 jer se kod više stavki strojarske/klimatizacijske instalacije (VRF sustav, rekuperator, cirkulacijska pumpa) uz tehničke parametre navodi i konkretan proizvođač i točan tip/model bez da je uz tu pojedinu stavku ponovljena napomena 'ili jednakovrijedno' (opća napomena o jednakovrijednosti postoji, ali samo u zasebnom općem dokumentu, ne uz same stavke) — v. i restriktivnost niže.",
+      "citat": "Proizvod: MITSUBISHI ELECTRIC"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dostupan je pun i međusobno konzistentan set dokumenata za samostalnu izradu ponude: opći podaci, kriteriji kvalitativnog odabira, kriteriji za odabir ponude, upute za ponuditelje s točnim popisom obveznih sastavnica ponude, troškovnik, tehnička projektna dokumentacija, obrazac izjave o jamstvenom roku, prijedlog ugovora. Nakon dodjele dostupni su i zapisnici o pregledu i ocjeni ponuda, odluka o odabiru, obavijest o dodjeli, sklopljeni ugovor i naknadne obavijesti o izmjeni ugovora te dokumenti o prihvatu ispravka računske pogreške — cijeli životni ciklus postupka je dokumentiran.",
+      "citat": "Elektronička ponuda mora sadržavati najmanje: Uvez ponude Popunjeni eESPD obrazac (ili više njih, ako je primjenjivo) Popunjen troškovnik"
+    },
+    "prosjecna_ocjena": 4.67
+  },
+  "restriktivnost": {
+    "prisutno": true,
+    "indikatori": [
+      {
+        "opis": "Više stavki troškovnika za klimatizacijski (VRF) sustav i rekuperator topline poimenično navode jedan proizvođač (Mitsubishi Electric) i točan tip/model, bez napomene 'ili jednakovrijedno' izravno uz tu stavku (za razliku od građevinskih/hidroizolacijskih stavki gdje je 'ili jednakovrijedno' dosljedno navedeno uz svaku stavku s markom).",
+        "citat": "Proizvod: MITSUBISHI ELECTRIC Tip: MXZ-5D102VA2"
+      },
+      {
+        "opis": "Cirkulacijska pumpa specificirana konkretnim komercijalnim modelom (Grundfos ALPHA2) bez napomene o jednakovrijednosti uz stavku.",
+        "citat": "MODEL: ALPHA 2 25-60 180"
+      },
+      {
+        "opis": "Opća napomena o dopuštenosti 'jednakovrijednog' rješenja za markirane stavke postoji, ali samo u zasebnom dokumentu (Opći podaci o postupku nabave), pravno pokriva cijeli troškovnik po čl. 209. ZJN, no praktično umanjuje uočljivost prava na jednakovrijednost baš kod ovih stavki gdje nije ponovljena."
+      }
+    ],
+    "rizik": "srednji"
+  },
+  "napomena": "Pročitani su svi .txt dokumenti u extracted/ (33 datoteke). Velike projektne dokumentacije (glavni arhitektonski/građevinski/strojarski/elektro projekti, >100.000-1.200.000 znakova svaka) pregledane su ciljanim pretraživanjem (grep) na indikatore marke/tipa/modela zbog opsega, dok su svi ključni dokumenti za ocjenu (kriteriji, obavijest o nadmetanju, opći podaci, upute za ponuditelje, troškovnik, zapisnici, odluka, obavijest o dodjeli, ugovor) pročitani u cijelosti. Postupak je dovršen s 2 zaprimljene ponude i ugovorenom vrijednošću 620.568,14 EUR (+3,4% od procijenjene 600.000,00 EUR)."
+}

@@ -1,0 +1,27 @@
+{
+  "postupak_id": 12066,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij ENP (cijena i kvaliteta) potpuno je operacionaliziran matematičkim formulama s eksplicitnim ponderima (90/10), granicama vrijednosti (min 1%, maks 10% energije iz obnovljivih izvora) i preciznim pravilom razrješenja jednakog rangiranja. Nema prostora za diskrecijsko tumačenje.",
+      "citat": "Ponuda s najnižom cijenom dobiva 90,00 bodova, dok se ostale ponude boduju prema formuli"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Tehničke specifikacije precizno definiraju obračunske elemente, tarifne modele i potpun popis od 23 mjernih mjesta s adresama i tarifnim modelom, što omogućuje izravno usporedive ponude. Dio detalja (mrežna pravila, opći uvjeti opskrbe) upućuje se na vanjske propise umjesto da bude samostalno izložen, pa opis nije posve autarkičan.",
+      "citat": "Po višim dnevnim tarifnim stavkama obračunava se električna energija isporučena u vremenu od 07.00 do 21.00 sat u razdoblju zimskog računanja vremena"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dostupna je cjelovita dokumentacija: opći podaci, upute za ponuditelje, kriteriji za odabir ponude i za kvalitativni odabir gospodarskog subjekta, tehničke specifikacije, troškovnik s privitkom popisa mjernih mjesta, prilozi 1 i 2, te odgovori naručitelja na upit zainteresiranog subjekta koji je rezultirao izmjenom DON-a. Sve potrebno za samostalnu izradu ponude je prisutno.",
+      "citat": "Elektronička ponuda mora sadržavati najmanje: Uvez ponude Popunjeni eESPD obrazac (ili više njih, ako je primjenjivo) Popunjen troškovnik"
+    },
+    "prosjecna_ocjena": 4.67
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak"
+  },
+  "napomena": "Dokumentacija eksplicitno isključuje upućivanje na marku/patent ('ova dokumentacija o nabavi ne upućuje na marku, izvor, patent i sl.'). Referentni uvjet (minimalno jedna isporuka jednake ili veće vrijednosti od procijenjene, u zadnje 4 godine) proporcionalan je vrijednosti nabave (280.000,00 EUR) i standardan za sektor opskrbe energijom, bez indikacija prilagodbe određenom ponuditelju. Datoteka 'Prilozi.zip.txt' prazna je (0 B), ali njezin sadržaj (Prilog 1 i Prilog 2) dostupan je zasebno u drugim .docx datotekama pa nema stvarnog gubitka informacije za ovu ocjenu."
+}

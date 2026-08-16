@@ -1,0 +1,30 @@
+{
+  "postupak_id": 11187,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij ENP je potpuno operacionaliziran: cijena (90%) i jamstveni rok (10%) s eksplicitnim matematičkim formulama, bodovnom tablicom za jamstveni rok (raspon 24-60 mjeseci s pripadajućim bodovima po intervalu) i pravilom za jednako rangirane ponude. Nema prostora za diskrecijsku ocjenu.",
+      "citat": "Ponuda s najnižom cijenom dobiva 90,00 bodova, dok se ostale ponude boduju prema formuli"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 5,
+      "obrazlozenje": "Tehnička specifikacija (27 str.) navodi za svaki od 9 transformatora točne tehničke parametre (tip, snaga, napon, grupu spoja, količinu ulja) i korak-po-korak popis radova koje treba izvesti, uključujući mjerne kriterije prihvatljivosti (npr. probojna čvrstoća ulja). Opis je vrlo konkretan, a ne isključuje razumne alternative jer se za sve navedene tipove opreme/materijala eksplicitno dopušta jednakovrijedno rješenje.",
+      "citat": "minimalna probojna čvrstoća ulja nakon obrade treba biti minimalno 40 kV /2,5 mm (HRN EN 60156)"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dostupna je cjelovita dokumentacija: opći podaci, obavijest o nadmetanju, kriteriji za odabir ponude, kriteriji kvalitativnog odabira s uputama za ESPD, upute za ponuditelje, tehnička specifikacija, troškovnik, prijedlog ugovora i obrazac za dokazivanje iskustva stručnjaka. Jedini nedostatak (obrazac Izjave o integritetu) uočen je putem modula Pitanja/Pojašnjenja i naručitelj ga je dopunio dokumentaciji prije roka za dostavu ponuda.",
+      "citat": "Naručitelj je učitao/ažurirao dokumentaciju te dodao \"Izjavu o integritetu\""
+    },
+    "prosjecna_ocjena": 5.0
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [
+      "Tehnička specifikacija navodi konkretne marke/tipove za dijelove koji se ugrađuju (npr. pokazivač protoka ulja tipa \"CM\" S.C.A.I. - MILANO, ulje NYNAS NYTRO 4000X), ali je za svaki takav navod izričito dopušteno jednakovrijedno rješenje uz dokazivanje tehničkim listom/katalogom, što je u skladu sa ZJN-om i ne smatra se restriktivnim.",
+      "Uvjet tehničke i stručne sposobnosti (min. 1 referenca u vrijednosti procijenjene vrijednosti nabave, tri stručnjaka s definiranim kvalifikacijama, pet vrsta specijalizirane opreme) proporcionalan je vrlo specijaliziranom predmetu nabave (održavanje energetskih transformatora visokog napona) i nije nerazmjerno visok u odnosu na vrijednost i prirodu posla."
+    ],
+    "rizik": "nizak"
+  },
+  "napomena": "Svi ključni dokumenti postupka pročitani i sadržajno bogati (tehnička specifikacija, kriteriji, upute, zapisnik o ocjeni, obavijest o dodjeli). Zaprimljene su 2 ponude; ponuda KONČAR-ENERGETSKI TRANSFORMATORI odbijena je jer je cijena premašila osigurana sredstva naručitelja, a ne zbog eventualne neispunjenosti uvjeta - stoga uski broj ponuditelja vjerojatnije odražava usku nišu tržišta (specijalizirano održavanje visokonaponskih energetskih transformatora) nego restriktivnost specifikacije."
+}

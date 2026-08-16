@@ -1,0 +1,27 @@
+{
+  "postupak_id": 16307,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriteriji za odabir ponude (cijena 90% i rok odaziva na reklamaciju 10%) definirani su brojčano, s eksplicitnim matematičkim formulama za izračun bodova za svaki kriterij te jasno omeđenim rasponom prihvatljivih vrijednosti (minimalno 1 sat, maksimalno 3 sata za rok odaziva), što omogućuje potpuno predvidljivo i provjerljivo bodovanje.",
+      "citat": "C = Cmin/Cp * 90 ... RO = (Rmin/Rp) x 10"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Opis predmeta nabave vrlo je konkretan: sadržaj školskog obroka razrađen je po danu u tjednu i po dvotjednom ciklusu, s točnim gramažama i pakiranjima, uz precizne lokacije i vremena isporuke (533+27+17 obroka, do 9:30/14:30). Opis nije neproporcionalno uzak jer dopušta izmjenu sadržaja obroka u dogovoru s naručiteljem u okviru ugovorene cijene, čime se čuva usporedivost ponuda bez isključivanja razumnih alternativa.",
+      "citat": "Ponedjeljak\tŠtrudla od jabuke 100 g + Tekući jogurt 0,18 l"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dostupna je puna dokumentacijska cjelina za samostalnu izradu ponude: opći podaci, tehničke specifikacije, troškovnik, kriteriji kvalitativnog odabira s detaljnim uputama o ESPD-u i načinu dokazivanja, upute za ponuditelje s formulom ENP-a, uvjetima jamstva i rokovima. Nema naznaka nedostajućih priloga potrebnih za izradu ponude.",
+      "citat": "Popunjeni eESPD obrazac (ili više njih, ako je primjenjivo) Popunjen troškovnik"
+    },
+    "prosjecna_ocjena": 4.67
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak"
+  },
+  "napomena": "Pročitane su sve relevantne datoteke u extracted/ (obavijest o nadmetanju, opći podaci, kriteriji kvalitativnog odabira, kriterij za odabir ENP, tehničke specifikacije, troškovnik, upute za ponuditelje, odluka o odabiru, obavijest o dodjeli ugovora, zapisnik o pregledu i ocjeni). Nema referenci na točno određenu marku/proizvod niti nesrazmjerno visokih pragova (financijski prag reference = procijenjena vrijednost, standardno; HACCP certifikat standardan je zahtjev za nabavu hrane; jamstvo za ozbiljnost ponude 2.000 EUR razmjerno je procijenjenoj vrijednosti od 110.091,60 EUR). Zaprimljena je samo 1 ponuda (DUO PEKA BIOGRAD d.o.o., lokalna tvrtka iz Biograda) - nizak broj ponuditelja nije uzet kao pokazatelj restriktivnosti specifikacije jer ne postoji izravan dokaz da je uzrokovan prilagodbom specifikacije, no relevantan je kontekst za interpretaciju u 5.2./5.3. Zabilježen je i ispravno deklariran sukob interesa (član stručnog povjerenstva Kristijan Kotlar, vlasnik nepovezanog obrta 'Bliss'), evidentiran sukladno čl. 76. st. 2. t. 2. ZJN 2016 u dokumentu 'Opći podaci o postupku nabave' - ocjenjeno kao pozitivan pokazatelj transparentnosti, ne restriktivnosti, jer odabrani ponuditelj nije povezan s tim sukobom interesa."
+}

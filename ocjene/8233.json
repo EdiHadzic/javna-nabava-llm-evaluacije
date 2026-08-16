@@ -1,0 +1,27 @@
+{
+  "postupak_id": 8233,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij odabira (ekonomski najpovoljnija ponuda) potpuno je operacionaliziran zasebnim dokumentom s eksplicitnom formulom bodovanja, točnim ponderima (cijena 90, jamstveni rok 10) i tablicom praga bodova za jamstveni rok, identično za sve tri grupe. Nema dvosmislenosti niti subjektivnih elemenata ocjenjivanja.",
+      "citat": "Ponuda s najnižom cijenom dobiva 90,00 bodova... 24 mjeseca 0,00; od 25 do 35 mjeseci 5,00; 36 mjeseci i više 10,00"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Predmet nabave (radovi na hitnim intervencijama/održavanju/priključcima) po prirodi je okvirni sporazum s promjenjivim, unaprijed nedefiniranim opsegom pojedinačnih narudžbi, pa je opis nužno okviran ('okvirne količine'). Ipak, opseg je jasno omeđen po tri geografska područja/grupe s procijenjenim vrijednostima, rokovima odaziva i opsežnim tehničkim uvjetima (Bilteni HEP-a, granske norme za polaganje kabela, temeljenje stupova, TS), što omogućuje usporedivu ponudu unatoč fleksibilnosti opsega.",
+      "citat": "Naručitelj je odredio predviđene (okvirne) količine u troškovniku. Stvarno nabavljena količina predmeta nabave može biti veća ili manja od predviđene (okvirne) količine."
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dostupna je cjelovita dokumentacija: opći podaci, detaljne tehničke specifikacije (uklj. granske norme HEP-a), zaseban troškovnik po grupi, kriteriji kvalitativnog odabira gospodarskog subjekta s ESPD uputama, kriteriji za odabir ponude, upute za ponuditelje s jasnim popisom obveznih sastavnica ponude, iznosima jamstava i rokovima. Dokumentacija omogućuje samostalnu izradu ponude bez dodatnih pojašnjenja.",
+      "citat": "Elektronička ponuda za svaku ponuđenu grupu mora sadržavati najmanje: Uvez ponude, Popunjeni eESPD obrazac, Popunjen troškovnik..."
+    },
+    "prosjecna_ocjena": 4.67
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak"
+  },
+  "napomena": "Pročitani su svi relevantni dokumenti (opći podaci, kriteriji kvalitativnog odabira, kriteriji za odabir ponude, upute za ponuditelje, tehnička specifikacija JUG 2024 - cjelovito, oba dijela). Referentni pragovi iskustva (zbrojen iznos radova >= procijenjena vrijednost grupe: 1.800.000/3.000.000/1.865.000 EUR) i kadrovski/opremski uvjeti (1 inženjer građevinske i 1 elektrotehničke struke, 9-12 radnika, standardna građevinska mehanizacija) proporcionalni su veličini pojedine grupe i uobičajeni za radove ove vrste kod sektorskog naručitelja (HEP-ODS); nema referenci na specifičan proizvod, marku ili patentirano rješenje. Tehnički uvjeti u prilogu su interne granske norme HEP-a (generičke, ne vezane uz jednog dobavljača opreme)."
+}

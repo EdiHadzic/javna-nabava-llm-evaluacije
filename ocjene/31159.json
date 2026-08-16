@@ -1,0 +1,27 @@
+{
+  "postupak_id": 31159,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij odabira (ekonomski najpovoljnija ponuda) potpuno je operacionaliziran eksplicitnim matematičkim formulama i ponderima za sve tri komponente (cijena 80%, rok isporuke 10%, rok trajanja/valjanosti 10%), s definiranim jedinicama mjere i pravilom za slučaj izjednačenih ponuda.",
+      "citat": "C = C1 / Cpo x 80 ... RI = RImin/RIpon x 10 ... RT = RTpon/RTmax x 10"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Opis predmeta nabave vrlo je konkretan: točan popis 14 traženih seroloških pretraga s količinama, zahtjev za analizatorom s minimalnom brzinom, mogućnošću kontinuiranog dodavanja potrošnog materijala i ograničenjem dimenzija. Dovoljno je detaljno za usporedivost ponuda, a ne veže se uz konkretnu marku/model, čime ostavlja prostor više proizvođača dijagnostičkih analizatora.",
+      "citat": "Minimalna brzina pojedinog analizatora mora biti barem 150 testova na sat"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dokumentacija sadrži cjelovit set priloga potreban za samostalnu izradu ponude: opće podatke, kriterije kvalitativnog odabira, kriterij za odabir ponude, upute za ponuditelje, tehničku specifikaciju/troškovnik s tablicama za popunjavanje, prijedlog ugovora i obrasce izjava/ovlasti.",
+      "citat": "Elektronička ponuda mora sadržavati najmanje: Uvez ponude, Popunjeni eESPD obrazac, Popunjen troškovnik..."
+    },
+    "prosjecna_ocjena": 4.67
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak",
+    "napomena": "Nema navoda konkretne marke/modela/patentiranog rješenja niti neproporcionalnih pragova. Kombinirana nabava reagensa i najma analizatora te klauzula o zadržavanju uređaja do sljedećeg ugovora strukturno pogoduje postojećem dobavljaču, ali pristigle su ponude dvaju različitih gospodarskih subjekata sa znatno različitim cijenama, što upućuje na stvarnu konkurenciju."
+  }
+}

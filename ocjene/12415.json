@@ -1,0 +1,27 @@
+{
+  "postupak_id": 12415,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriteriji za odabir ponude (ekonomski najpovoljnija ponuda) potpuno su kvantificirani i matematički definirani: cijena nosi 90 bodova prema eksplicitnoj formuli (najniža cijena = maksimum bodova, ostale razmjerno), a jamstveni rok nosi 10 bodova prema fiksnoj tablici bodovanja bez prostora za diskrecijsku ocjenu.",
+      "citat": "2 godine- 0 bodova 3 godine- 3 boda 4 godine- 6 bodova 5 godina i više -10 bodova"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Sam dokument 'Tehničke specifikacije' sadrži samo uvodnu rečenicu i upućuje na zaseban Glavni projekt (GP 33/18) i troškovnik, no ta referirana tehnička dokumentacija (arhitektonski projekt, statika, strojarstvo, elektro, vodovod i kanalizacija) doista postoji kao opsežni zasebni prilozi s razrađenim opisom radova, čime je opis predmeta nabave u praksi vrlo konkretan i usporediv; ocjena nije 5 jer je sam sažetak tehničkih specifikacija minimalan i oslanja se u potpunosti na vanjske priloge.",
+      "citat": "Tehničke specifikacije određene su opisom premeta nabave, troškovnikom, Glavnim projektom broj GP 33/18 te svom ostalom tehničkom dokumentacijom."
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dostupna je cjelovita dokumentacija za samostalnu izradu ponude: opći podaci o postupku, kriteriji kvalitativnog odabira gospodarskog subjekta, kriteriji za odabir ponude, upute za ponuditelje s detaljnim odredbama o jamstvima, plaćanju i rokovima, obavijest o nadmetanju te opsežna projektna dokumentacija i troškovnik.",
+      "citat": "Elektronička ponuda mora sadržavati najmanje: Uvez ponude Popunjeni eESPD obrazac (ili više njih, ako je primjenjivo) Popunjen troškovnik"
+    },
+    "prosjecna_ocjena": 4.67
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak"
+  },
+  "napomena": "Dokument 'Tehničke specifikacije.docx' ekstrahiran je gotovo prazan (301 znak), ali sadržajno je nadomješten opsežnim zasebnim projektnim prilozima (arhitektonski, statika, strojarstvo, elektro, ViK) i troškovnikom koji su pročitani. U troškovniku nisu pronađene reference na točno određenu marku/tip/proizvođača niti nesrazmjerni referentni uvjeti; dokumentacija izričito dopušta 'ili jednakovrijedno' za sve stavke koje spominju marku/tip. Kontekstualna napomena izvan opsega ove ocjene: zaprimljena je samo 1 ponuda (AG BAREŠIĆ & SINOVI d.o.o., iz istog mjesta Drage, koji je prema zapisniku već izvodio I. fazu istog projekta), a ugovorena vrijednost (292.401,76 EUR) premašuje procijenjenu (187.000,00 EUR) za oko 56% - nizak broj ponuditelja i visoko odstupanje nisu sami po sebi dokaz restriktivnosti specifikacije, ali su relevantni za interpretaciju u 5.2./5.3."
+}

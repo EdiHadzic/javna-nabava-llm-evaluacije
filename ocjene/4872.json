@@ -1,0 +1,27 @@
+{
+  "postupak_id": 4872,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij ENP potpuno je matematički definiran: cijena 80 bodova prema eksplicitnoj formuli (najniža cijena = max bodova, ostale razmjerno), kvaliteta 20 bodova (duljina jamstvenog roka) uz potpunu tablicu bodova za svaku vrijednost od 24 do 64 mjeseca, s definiranim min/max granicama.",
+      "citat": "Ponuda s najnižom cijenom dobiva 80,00 bodova, dok se ostale ponude boduju prema formuli"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 5,
+      "obrazlozenje": "Troškovnik (5 dionica ceste s točnim duljinama) sadrži tehnički vrlo konkretne stavke (metode rada, debljine slojeva, tražene vrijednosti modula stišljivosti, vrsta asfaltne mješavine), a istovremeno se dosljedno koristi klauzula 'ili jednakovrijedno' čime se izbjegava nepotrebno sužavanje na jednog proizvođača.",
+      "citat": "Traženi min. modul stišljivosti mjereno kružnom pločom Ø 30 cm iznosi Ms=80 MN/m2"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dostupan je pun set dokumenata potreban za samostalnu izradu ponude: opći podaci, kriteriji kvalitativnog odabira i odabira ponude, upute za ponuditelje, troškovnik, prijedlog ugovora, uvjeti za obavljanje djelatnosti građenja, obrasci izjave i ovlaštenja. Napomena: 'Nacrti.pdf' ekstrahiran je vrlo oskudno (samo popis dionica i duljina), vjerojatno jer su stvarni tehnički nacrti slikovni/CAD sadržaj koji ekstrakcijski pipeline nije uspio pretvoriti u tekst — ne ukazuje na stvarni nedostatak u samoj dokumentaciji.",
+      "citat": "Detaljan troškovnik se nalazi u zasebnom prilogu – Troškovnik."
+    },
+    "prosjecna_ocjena": 5.0
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak"
+  },
+  "napomena": "Pročitano svih 12 relevantnih dokumenata iz extracted/ (uklj. dupliciran root/podfolder skup). Naručitelj eksplicitno navodi da je izbjegavao upućivanje na marku, izvor ili patent i da za svako upućivanje na tehničku specifikaciju vrijedi 'ili jednakovrijedno'; nema pretraženih referenci na konkretne marke, certifikate ili neproporcionalne pragove. Uvjet tehničke sposobnosti (min. 1 - max. 4 ugovora u vrijednosti od najmanje 120.000 EUR, jednako procijenjenoj vrijednosti nabave) standardan je omjer 1:1 i nije nerazmjeran. Jedina slabost je vrlo oskudna ekstrakcija Nacrti.pdf, vjerojatno artefakt OCR/formata slike, ne stvarni nedostatak dokumentacije."
+}

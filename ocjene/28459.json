@@ -1,0 +1,40 @@
+{
+  "postupak_id": 28459,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriteriji odabira (cijena, dodatne funkcionalne karakteristike, jamstveni rok) definirani su egzaktnim formulama i točnim bodovnim pragovima za obje grupe, s jasnim ponderima (70/20/10 za Grupu 1; 90/10 za Grupu 2) i preciznim uvjetima diskvalifikacije (npr. jamstvo <12 mjeseci).",
+      "citat": "Predmetni kriterij određuje se temeljem cijene prihvatljive ponude, bez PDV-a, iskazane u ponudbenom listu. Maksimalan broj bodova: 70 bodova."
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 3,
+      "obrazlozenje": "Opis predmeta nabave je iznimno detaljan, ali granica prema prekomjernoj uskosti je prijeđena: specifikacije sadrže velik broj usko definiranih numeričkih parametara (svjetlosni promjeri, postoci zadržavanja intenziteta uz razne kombinacije maski/cilindara, raspon temperature boje) koji nalikuju parametrima iz kataloga jednog određenog proizvođača, a ne funkcionalnim minimumima nužnim za usporedivost ponuda.",
+      "citat": "Preostali intenzitet svjetlosti mjereno s jednom maskom i jednim cilindrom, minimalno 45%"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dostupna je cjelovita dokumentacija: opći podaci o postupku, detaljni kriteriji kvalitativnog odabira (ESPD osnove), upute za ponuditelje s uvjetima jamstava i dostave, prijedlog ugovora te troškovnik s tehničkim specifikacijama. Naizgled prazan dokument 'Tehničke specifikacije.docx' nije nedostatak jer eksplicitno upućuje na troškovnik kao stvarni nositelj specifikacija.",
+      "citat": "Tehničke specifikacije predmeta nabave su sadržane u samom troškovniku predmeta nabave koji je sastavni dio DON-a."
+    },
+    "prosjecna_ocjena": 4.33
+  },
+  "restriktivnost": {
+    "prisutno": true,
+    "indikatori": [
+      {
+        "opis": "Dodatni bodovni kriterij (10 od 100 ukupnih bodova) zahtijeva vrlo specifičnu konstrukcijsku značajku (minimalan broj dioda i oblik kupole) koja nalikuje karakteristici konkretnog modela, ne funkcionalnom zahtjevu.",
+        "citat": "Kružni oblik kupole sa minimalno 90 dioda u rasvjetnoj glavi"
+      },
+      {
+        "opis": "Drugi dodatni bodovni kriterij traži vrlo specifičan dizajn pozicioniranja HD kamere, opet više nalik značajki jednog proizvoda nego generičkom funkcionalnom zahtjevu.",
+        "citat": "Pozicija pripreme za ugradnju HD kamere dislocirana od ručice za sterilno pozicioniranje i upravljanje"
+      },
+      {
+        "opis": "Kontradiktorna definicija broja LED izvora između grupa unutar istog postupka (Grupa 1 traži minimalno 90 dioda, dok Grupa 2 traži maksimalno 12 izvora svjetla) upućuje na to da su tehnički uvjeti oblikovani prema dva različita, unaprijed poznata proizvoda različitih proizvođača, a ne prema neutralnim funkcionalnim zahtjevima.",
+        "citat": "LED tehnologija (maksimalno 12 izvora svijetla)"
+      }
+    ],
+    "rizik": "srednji"
+  },
+  "napomena": "Pročitano svih 19 dostupnih .txt datoteka (2 prazne priloge – Prilozi.zip – izostavljene jer su 0 bajtova). Dokumentacija je opsežna i formalno potpuna. Uočena je velika razlika između procijenjene (35.000 EUR) i ugovorene vrijednosti (89.470 EUR) za Grupu 1, no ta kvantitativna analiza vrijednosnog odstupanja izvan je opsega ove semantičke ocjene (pripada 4.3/5.1)."
+}

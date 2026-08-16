@@ -1,0 +1,27 @@
+{
+  "postupak_id": 11029,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij ENP potpuno je operacionaliziran: cijena 90% i jamstveni rok 10%, s eksplicitnom matematičkom formulom za bodovanje cijene i tablicom bodova po godinama jamstvenog roka (2/3/4/5+ god. = 0/5/7,5/10 bodova). Nema prostora za subjektivnu diskreciju povjerenstva.",
+      "citat": "broj bodova = najniža cijena ponude / cijena ponude * 90"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Predmet je jasno podijeljen na 2 grupe s CPV oznakama, lokacijom, okvirnim rokovima i troškovnicima velikog opsega (110-114 KB). Dokument 'tehničke specifikacije' sadrži uglavnom opće odredbe o jednakovrijednosti normi, dok su stvarni tehnički parametri (glavni projekt UPOV-a) upućeni na vanjski poveznicu izvan DON-a, što je uobičajeno za građevinske radove, ali smanjuje samodostatnost dokumentacije.",
+      "citat": "Radovi se izvode sukladno projketno tehničkoj dokumentaciji, cjelokupna projektna dokumentacija dostupna je na sljedećem linku"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Kompletan set dokumenata dostupan: DON s kriterijima i tehničkim specifikacijama, obrasci, nacrt ugovora, troškovnici po grupama, kriteriji kvalitativnog odabira, upute za ponuditelje, obavijest o nadmetanju, odgovori na upite, te (post-award) zapisnici o pregledu i ocjeni i odluke o odabiru. Ponuditelj ima sve što je potrebno za samostalnu izradu ponude.",
+      "citat": "Popunjeni eESPD obrazac (ili više njih, ako je primjenjivo) Popunjen troškovnik ... Vrijednosti kriterija za odabir ponude"
+    },
+    "prosjecna_ocjena": 4.67
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak"
+  },
+  "napomena": "Dokumentacija eksplicitno zabranjuje upućivanje na određenu marku/patent bez izraza 'ili jednakovrijedno' (čl. 209.-211. ZJN 2016 citiran doslovno). Jamstvo za ozbiljnost ponude proporcionalno (~2,9-3,0% procijenjene vrijednosti grupe). Zanimljivo, dio 'Kriteriji za kvalitativni odabir gospodarskog subjekta' ne sadrži zasebne uvjete ekonomsko-financijske ni tehničko-stručne sposobnosti (samo isključenja i upis u registar) - neuobičajeno nisko za ugovor od 2,57 mil. EUR, ali to djeluje u smjeru smanjenja barijera ulaska, ne prilagođenosti specifičnom ponuditelju."
+}

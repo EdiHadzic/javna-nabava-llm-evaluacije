@@ -1,0 +1,27 @@
+{
+  "postupak_id": 30481,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij ENP potpuno je matematički definiran: cijena 90 bodova po eksplicitnoj formuli (najniža cijena = max bodova, ostale relativno), kvaliteta (vrijeme isporuke u slučaju žurnosti) 10 bodova s preciznom tablicom intervala i pripadajućih bodova, uključno s min/max dopuštenim vrijednostima i dokazom potrebnim za provjeru.",
+      "citat": "1-2 sata 10 bodova 3-5 sati 8 bodova 6-8 sati 6 bodova 9-12 sati 4 boda 13-24 sata 2 boda 25-36 sati 0 bodova"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 3,
+      "obrazlozenje": "Sam dokument 'Tehničke specifikacije' vrlo je kratak i uglavnom upućuje na opću zakonsku usklađenost (kakvoća, HACCP, deklariranje) bez detaljnog opisa svojstava proizvoda; konkretna specifikacija predmeta (vrste komada mesa, težinski rasponi) nalazi se tek u troškovniku, gdje je razumno, ali ne iznimno detaljno navedena.",
+      "citat": "Junetina I (but bez kosti) u komadu do 3 kg"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 4,
+      "obrazlozenje": "Sva ključna dokumentacija za samostalnu izradu ponude prisutna je i sadržajna (opći podaci, kriteriji odabira, tehničke specifikacije, oba troškovnika, upute za ponuditelje, prijedlog ugovora, obavijest o nadmetanju). Jedina mana: dvije priložene zip arhive ('Prilozi.zip', 'Prilozi (1).zip') ekstrahirane su kao 0 bajtova, pa njihov sadržaj nije provjeriv iz raspoloživog teksta.",
+      "citat": "eESPD obrazac... Popunjen troškovnik... Potpisana izjava o vremenu isporuke u slučaju žurnosti... Prijedlog ugovora o javnoj nabavi"
+    },
+    "prosjecna_ocjena": 4.0
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak",
+    "napomena": "Predmet nabave je standardna roba (svježe meso) bez tehnički kompleksnih zahtjeva; kriteriji sposobnosti ograničeni su na standardne ZJN2016 osnove za isključenje, bez dodatnih financijskih/referentnih pragova ili zahtjeva za specifičnog proizvođača/marku. Jamstvo za ozbiljnost ponude proporcionalno je vrijednosti nabave."
+  }
+}

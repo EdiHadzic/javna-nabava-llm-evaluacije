@@ -1,0 +1,27 @@
+{
+  "postupak_id": 11529,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij za odabir ponude (ekonomski najpovoljnija ponuda) potpuno je operacionaliziran: cijena nosi 90 bodova, udio električne energije iz obnovljivih izvora 10 bodova, uz eksplicitne matematičke formule, brojčane primjere pretvorbe postotka u bodove i propisane gornju/donju granicu vrijednosti kriterija (0-50%). Kriteriji za kvalitativni odabir (osnove za isključenje, upis u registar) navedeni su prema standardnim, jednoznačnim odredbama ZJN2016 s jasnim načinom dokazivanja (ESPD).",
+      "citat": "Ponuda s najniže ponuđenom cijenom dobiva najveći broj bodova."
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Tehnička specifikacija je kratka (jedna stranica), ali sadrži sve bitne elemente za usporedivu ponudu: minimalni udio obnovljivih izvora (50%), definiciju obračunskog razdoblja i tarifnih elemenata (VT/NT, radna snaga, naknade, trošarine). Troškovnik dodatno precizira 5 mjernih mjesta s adresama, tarifnim modelima i okvirnim količinama u kWh, što omogućuje izravnu usporedbu ponuda. Opis je sažet, ali dostatan za homogenu robu (opskrba električnom energijom), bez ikakvih indikatora sužavanja izbora.",
+      "citat": "Obračunsko razdoblje za opskrbu električnom energijom iznosi 30+/-3 dana."
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dostupan je pun set dokumenata potreban za samostalnu izradu ponude: opći podaci o postupku, tehničke specifikacije, troškovnik, kriteriji kvalitativnog odabira, kriteriji za odabir ponude, upute za ponuditelje, obavijest o nadmetanju, izmjena dokumentacije s odgovorom naručitelja na upit gospodarskog subjekta, te naknadno zapisnik o pregledu i ocjeni i odluka o odabiru. Jedina praznina je 'Prilozi.zip' (0 B ekstrahiranog sadržaja), no iz konteksta ostalih dokumenata ne proizlazi da nedostaje nešto nužno za izradu ponude.",
+      "citat": "Elektronička ponuda mora sadržavati najmanje: Uvez ponude Popunjeni eESPD obrazac (ili više njih, ako je primjenjivo) Popunjen troškovnik"
+    },
+    "prosjecna_ocjena": 4.67
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak"
+  },
+  "napomena": "Postupak opskrbe električnom energijom (CPV 09310000, sektorski naručitelj Liburnija d.o.o.) - homogena roba bez prostora za specifikaciju prilagođenu točno određenom ponuditelju; zahtjev minimalnog udjela 50% obnovljivih izvora je opći politički/zakonski standard, ne diskriminirajući prag. Jamstvo za ozbiljnost ponude (1.500 EUR, ~2,7% procijenjene vrijednosti) proporcionalno je vrijednosti nabave. Zaprimljena je samo 1 ponuda (HEP-Opskrba d.o.o.), ali to odražava strukturu hrvatskog tržišta opskrbe električnom energijom za male poslovne kupce, ne restriktivnost dokumentacije. Dokument 'Opći podaci o postupku nabave' sadrži i standardnu izjavu naručitelja o sukobu interesa s trećim gospodarskim subjektom (KEKI SERVIS, čišćenje/poliranje brodova) - nerelevantno za predmet ove nabave (opskrba električnom energijom) pa nije uzeto kao indikator restriktivnosti. Dvije od pročitanih .pdf datoteka (Zapisnik i Odluka o odabiru, verzija '20 06 24 potpisana') OCR-ski su degradirane (zamijenjena slova), ali sadržajno dupliciraju čiste HTML-ekvivalente pa nisu utjecale na ocjenu."
+}

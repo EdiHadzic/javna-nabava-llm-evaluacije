@@ -1,0 +1,27 @@
+{
+  "postupak_id": 10736,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij odabira (ekonomski najpovoljnija ponuda) potpuno je operacionaliziran za sve tri grupe: cijena nosi 90 bodova prema eksplicitnoj formuli C = (Cmin/Cp) x 90, a kvaliteta (duljina jamstvenog roka) 10 bodova prema formuli s jasno određenim minimalnim (12 mj.) i maksimalnim (60 mj.) pragom koji se boduje, uz naznaku dokaza (Izjava o trajanju jamstvenog roka, PRILOG 1) i pravilo za rangiranje jednakih ponuda (vrijeme zaprimanja).",
+      "citat": "Naručitelj je odredio minimalni jamstveni rok za isporučenu robu u trajanju od 12 mjeseci, a maksimalni jamstveni rok koji se uzima u obzir je 60 mjeseci."
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 5,
+      "obrazlozenje": "Tehničke specifikacije za sve tri grupe (namještaj, kuhinja, praonica rublja) navode točne dimenzije, materijale, minimalne/maksimalne tehničke parametre (snaga, broj okretaja, potrošnja vode/energije i sl.) i dopuštena odstupanja (±2%, ±5%), što omogućuje usporedivu ponudu bez nepotrebnog suženja tržišta - posebno jer se kod materijalnih specifikacija (npr. AISI 304) dosljedno dodaje 'ili jednakovrijedno'.",
+      "citat": "Radna ploha debljine min. 50 mm od nehrđajućeg čelika AISI 304 ili jednakovrijedno"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dostupna je cjelovita dokumentacija za samostalnu izradu ponude po sve tri grupe: Opći podaci, Kriteriji za kvalitativni odabir gospodarskog subjekta (s uputama o ESPD i dokazima), Kriteriji za odabir ponude, zasebne Tehničke specifikacije i Troškovnici (xlsx) za svaku grupu, Upute za ponuditelje te obrazac Izjave o jamstvenom roku (PRILOG 1). Naknadno su dostupni i zapisnici o pregledu i ocjeni te odluke o odabiru po grupama, čime je dokumentiran cijeli tijek postupka.",
+      "citat": "Detaljan troškovnik se nalazi u zasebnom prilogu – Troškovnik."
+    },
+    "prosjecna_ocjena": 5.0
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak"
+  },
+  "napomena": "Ocjena temeljena na čitanju svih relevantnih .txt datoteka iz extracted/ direktorija postupka 10736 (Opći podaci, Obavijest o nadmetanju, Kriteriji za kvalitativni odabir, Kriteriji za odabir ponude, Upute za ponuditelje, Tehničke specifikacije i Troškovnici za sve tri grupe, Obavijest o dodjeli ugovora). Tehničke specifikacije dosljedno koriste klauzulu 'ili jednakovrijedno' uz sve reference na standarde/materijale (npr. AISI 304, obrada 'Scotch Brite'), bez upućivanja na konkretnu marku, proizvođača ili patentirano rješenje; financijski i tehnički uvjeti sposobnosti proporcionalni su procijenjenoj vrijednosti (36.000-144.000 EUR po grupi); stvarna razina konkurencije (4/2/2 zaprimljene ponude po grupama) ne upućuje na suženo tržište. Kvaliteta ekstrahiranog teksta je dobra (HTML/DOCX/XLSX izvori, bez OCR artefakata). Nekoliko pratećih dokumenata dokaza (kaznena/sudska evidencija EOJN) ekstrahirano je prazno (0 bajtova), no ne utječu na ocjenu jer ne sadrže sadržaj relevantan za transparentnost/restriktivnost specifikacije."
+}

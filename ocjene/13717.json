@@ -1,0 +1,41 @@
+{
+  "postupak_id": 13717,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij odabira (ekonomski najpovoljnija ponuda) potpuno je operacionaliziran: cijena nosi 90 bodova, jamstveni rok 10 bodova, s eksplicitnom formulom za cijenu (najniža cijena = max bodova, ostale proporcionalno) i preciznom tablicom bodovanja jamstvenog roka po rasponima mjeseci (24-24=0, 25-36=5, 37-48=7, 49-60=10). Nema prostora za diskrecijsko tumačenje - zapisnik o ocjeni pokazuje da je bodovanje obiju ponuda dosljedno primijenjeno prema toj formuli.",
+      "citat": "Minimalan jamstveni rok je 24 mjeseca, a maksimalni rok koji se uzima u obzir je 60 mjeseci. Jamstveni rok obvezno iskazati u mjesecima."
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 3,
+      "obrazlozenje": "Tehnička specifikacija je vrlo detaljna (točne dimenzije, kutovi nagiba, materijali, promjeri kotača), što olakšava usporedivost ponuda, ali dokument 'Odgovori' pokazuje da je zainteresirani gospodarski subjekt eksplicitno prijavio da najmanje dvije stavke (1.15 - mehanizam uklanjanja bočnih stranica bez alata; 2.4 i 2.5 - broj ladica i mehanizam podešavanja pladnja) upućuju na jednog konkretnog proizvođača/ponuditelja i traže izmjenu radi otvaranja tržišta. Naručitelj je odbio sve prijedloge izmjena bez detaljnije tehničke argumentacije osim generičke tvrdnje da 'na tržištu postoji veći broj ponuditelja'. Razina detalja je stoga na granici između potrebne preciznosti i prekomjernog suženja koje isključuje razumne alternative.",
+      "citat": "Navedenim ste opisom ograničili specifikaciju na samo jednog proizvođača i time onemogućili drugim ponuditeljima sudjelovanje u predmetu nadmetanja."
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 4,
+      "obrazlozenje": "Dostupna je gotovo cjelokupna dokumentacija potrebna za samostalnu izradu ponude: opći podaci, kriteriji kvalitativnog odabira s uputama, kriteriji za odabir ponude s formulama, upute za ponuditelje, tehnička specifikacija, troškovnik, obavijest o nadmetanju, odgovori na upite. Jedini nedostatak: 'Prilozi.zip' ekstrahiran je kao prazna datoteka (0 bajtova) pa sadržaj tog priloga nije moguće provjeriti iz raspoloživog teksta, iako se čini da ostala dokumentacija (troškovnik, tehnička specifikacija) postoji zasebno izvan tog arhiva.",
+      "citat": "Elektronička ponuda mora sadržavati najmanje: Uvez ponude Popunjeni eESPD obrazac Popunjen troškovnik Dostaviti Izjavu o jamstvenom roku Katalog proizvoda Prijedlog ugovora"
+    },
+    "prosjecna_ocjena": 4.0
+  },
+  "restriktivnost": {
+    "prisutno": true,
+    "indikatori": [
+      {
+        "opis": "Zainteresirani gospodarski subjekt izravno je naveo da opis mehanizma uklanjanja bočnih stranica kreveta bez alata (stavka 1.15) upućuje na samo jednog ponuditelja, a naručitelj je izmjenu odbio bez konkretnog tehničkog obrazloženja zašto je baš takav mehanizam nužan.",
+        "citat": "ovakav opis upućuje na samo jeddnog ponuditelja"
+      },
+      {
+        "opis": "Za noćni ormarić (broj izvlačnih ladica, stavka 2.4) zainteresirani subjekt tvrdi da je specifikacija ograničena na jednog proizvođača; naručitelj odbija izmjenu uz generičku tvrdnju o postojanju više ponuditelja na tržištu, bez daljnjeg dokaza.",
+        "citat": "Navedenim ste opisom ograničili specifikaciju na samo jednog proizvođača i time onemogućili drugim ponuditeljima sudjelovanje u predmetu nadmetanja."
+      },
+      {
+        "opis": "Isti prigovor (upućivanje na jednog proizvođača) ponovljen je i za mehanizam podešavanja visine pladnja noćnog ormarića (stavka 2.5, hidraulički mehanizam bez alternative plinske opruge) - naručitelj ponovno odbija izmjenu.",
+        "citat": "Naručitelj ne prihvaća prijedlog izmjene. Predmet nabave opisan je sukladno funkcionalnim potrebama naručitelja. Na tržištu postoji veći broj ponuditelja"
+      }
+    ],
+    "rizik": "srednji",
+    "napomena_rizika": "Rizik je ocijenjen kao srednji, a ne visok, jer: (a) naručitelj je za svaku stavku dao obrazloženje (funkcionalna potreba, sigurnost pacijenta) i tvrdnju o postojanju šireg tržišta ponuditelja, (b) u postupku su ipak zaprimljene 2 valjane ponude od različitih gospodarskih subjekata (MEDIS ADRIA d.o.o. i KARL DIETZ KIJEVO d.o.o.), što pokazuje da specifikacija nije u potpunosti eliminirala konkurenciju. Nije visok jer nema dokaza (npr. navođenja točne markice/kataloškog broja) da je riječ o namjernom favoriziranju; nije nizak jer je isti prigovor - upućivanje na jednog proizvođača/ponuditelja - eksplicitno i ponovljeno iznesen za tri različite stavke i u cijelosti odbijen bez detaljnije tehničke protuargumentacije, a broj zaprimljenih ponuda (2) je ispod prosjeka za robe u uzorku i znatno ispod nacionalnog prosjeka."
+  },
+  "napomena": "Pročitane su sve dostupne .txt datoteke u extracted/ (14 datoteka). 'Prilozi.zip.txt' je prazan (0 bajtova) - sadržaj tog priloga nije bio dostupan za ocjenu. Dvije PDF datoteke ('ZAPISNIK O PREGLEDU I OCJENI.pdf' i 'ODLUKA O ODABIRU.pdf') su OCR-skenirane inačice koje sadrže manje pogreške prepoznavanja teksta, ali dupliciraju sadržaj čistijih HTML/PDF inačica ('Zapisnik o pregledu i ocjeni.pdf', 'Odluka o odabiru.html') pa to nije utjecalo na ocjenu. Predmet nabave: 30 medicinskih kreveta i 30 noćnih ormarića za Dom za starije i nemoćne osobe Zadar (JN-44/23, ponovljeni postupak), procijenjena vrijednost 100.000,00 EUR, dodijeljeno KARL DIETZ KIJEVO d.o.o. za 85.500,00 EUR bez PDV-a."
+}

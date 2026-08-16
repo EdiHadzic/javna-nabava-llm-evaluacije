@@ -1,0 +1,49 @@
+{
+  "postupak_id": 1764,
+  "broj_pojedinacnih_runova": 2,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 4,
+      "obrazlozenje": "Oba pokretanja slažu se sadržajno: kriterij ENP (cijena 90 bodova, jamstveni rok 10 bodova) definiran je eksplicitnim formulama bodovanja i jasno omeđenim rasponom necjenovnog kriterija (24-48 mjeseci), s pravilom za jednako rangirane ponude (raniji primitak). Kriteriji kvalitativnog odabira (financijska i tehnička sposobnost, obrazovne kvalifikacije) navedeni su s pravnom osnovom, brojčanim pragovima i načinom dokazivanja. Nije 5 jer je jamstveni rok jedini necjenovni kriterij (10% pondera), pa je stvarna diferencijacija ponuda gotovo posve svedena na cijenu, a pojedini pragovi (npr. 7/10 dana blokade računa za financijsku sposobnost) nisu obrazloženi zašto su baš ti brojevi odabrani.",
+      "citat": "Naručitelj je ograničio najviši dozvoljeni iznos za kriterij 48,00 Naručitelj je ograničio najniži dozvoljeni iznos za kriterij 24,00",
+      "runovi": [
+        4,
+        4
+      ],
+      "slaganje": "puno"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 2,
+      "obrazlozenje": "Neslaganje (3 vs 2) razriješeno izravnim ponovnim čitanjem Priloga III i troškovnika. Tehnička specifikacija predmeta nabave (350.000 EUR, 24 mjeseca) sastoji se od svega 5 rečenica i opisuje isključivo sustav pasivnog otplinjavanja (dimenzije zdenaca, materijal cijevi, granulacija zasipa) — preostale četiri od pet troškovničkih stavki (ugradnja otpada, održavanje nasipa/kanala/ceste, održavanje opreme, dovoz materijala) uopće nisu obrađene u tehničkoj specifikaciji, nego samo paušalno opisane unutar samog troškovnika, bez ijednog kvantificiranog tehničkog uvjeta, norme kvalitete ili učestalosti intervencije — završna rečenica specifikacije upućuje na neodređene 'tehničke uvjete' bez daljnjeg pojašnjenja. Iako su količine za obračun definirane (m3, kom., mjesečne tranše), što omogućuje formalnu usporedivost cijena, sama kvaliteta/opseg izvedbe ostaje nedovoljno konkretizirana za predmet ove veličine i trajanja.",
+      "citat": "Materijal koji se ugrađuje mora zadovoljiti tehničke uvjete te je potrebno redovito održavanje zdenaca.",
+      "runovi": [
+        3,
+        2
+      ],
+      "slaganje": "djelomicno"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 3,
+      "obrazlozenje": "Neslaganje (4 vs 3) razriješeno izravnim čitanjem Uputa za ponuditelje. Standardni paket dokumentacije formalno je prisutan (opći podaci, upute za ponuditelje, kriteriji kvalitativnog odabira, kriteriji za odabir ponude, tehnička specifikacija, troškovnik, prilozi/obrasci) i sam za sebe dovoljan da ponuditelj formalno popuni ponudu. Međutim, dokumentacija ne sadrži nikakve tehničke nacrte, situacijske planove ili geodetske podatke za plohu od cca. 10.000 m2 s obodnim nasipom, kanalom i cestom, a naručitelj eksplicitno upozorava da neće prihvatiti naknadne prigovore o zahtjevnosti lokacije jer se predajom ponude smatra da je ponuditelj upoznat sa stanjem gradilišta — što je izravna potvrda da pisana dokumentacija sama po sebi ne prenosi sve informacije potrebne za potpuno informiranu procjenu opsega i rizika posla, nego se dio tog tereta prebacuje na (neobvezni) fizički obilazak lokacije.",
+      "citat": "Naručitelj neće prihvatiti eventualne naknadne prigovore odabranog ponuditelja koji bi se odnosili na zahtjevnost lokacije.",
+      "runovi": [
+        4,
+        3
+      ],
+      "slaganje": "djelomicno"
+    },
+    "prosjecna_ocjena": 3.0
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak",
+    "runovi_prisutno": [
+      false,
+      false
+    ],
+    "slaganje": "puno"
+  },
+  "napomena": "Svi relevantni dokumenti (obavijest o nadmetanju, opći podaci, kriteriji kvalitativnog odabira, kriteriji za odabir ponude, upute za ponuditelje, tehnička specifikacija, troškovnik uklj. .xls, odluka o odabiru) uspješno su ekstrahirani u čitljiv tekst, nema praznih ekstrakcija kod ovog postupka. Nisu pronađene reference na konkretnu marku/proizvod ili patentirano rješenje (materijali poput PE cijevi i šljunčanog zasipa opisani su generički); referentni prag (1-3 ugovora u zbroju >=350.000 EUR u 5 godina) odgovara procijenjenoj vrijednosti nabave; traženi kadrovski uvjet (1 inženjer gradilišta) standardan je za radove ove veličine. Zaprimljena je samo jedna ponuda (KLANAC GRADITELJSTVO d.o.o.), no oba runa i ovaj resolver slažu se da to nije samo po sebi indikator restriktivnosti dokumentacije (nema izravnog dokaza namjerne prilagodbe specifikacije određenom ponuditelju) — vjerojatnije objašnjenje je uska/specijalizirana priroda usluge (održavanje odlagališta otpada), a djelomično i rijetka konkretizacija tehničkih zahtjeva utvrđena u dimenziji razina_detalja_opisa.",
+  "napomena_resolvera": "Jasnoca_kriterija i restriktivnost imali su puno slaganje (identične brojčane ocjene i sadržajno usklađena obrazloženja) te su preuzeti gotovo bez izmjena, samo sintetizirani. Razina_detalja_opisa (3 vs 2) i potpunost_dokumentacije (4 vs 3) razlikovale su se za točno 1 bod uz sadržajno kompatibilna obrazloženja (isti nalazi, različit prag prosudbe) — u oba slučaja ponovno su izravno pročitani PRILOG III (Tehničke specifikacije), Troškovnik i Upute za ponuditelje iz Diplomski/Postupci/1764/extracted/, ne samo tuđi citati. U oba slučaja citat iz run_2 pokazao se preciznijim i izravnije utemeljujućim ocjenu (doslovan, necjepkan navod koji izravno demonstrira manjak konkretnosti/potpunosti), pa je u oba slučaja preuzeta niža ocjena run_2 kao finalna, u skladu s pravilom da se pri djelomičnom neslaganju bira vrijednost bolje utemeljenog citata, a ne mehanički prosjek. Pouzdanost finalne ocjene: umjerena do visoka — dvije od četiri stavke (jasnoca_kriterija, restriktivnost) imale su puno slaganje, dvije (razina_detalja_opisa, potpunost_dokumentacije) razriješene su djelomičnim neslaganjem uz izravnu provjeru izvornog teksta, a nijedna nije zahtijevala potpuni rascjep (razlika >=2 boda ili sadržajno suprotstavljena obrazloženja)."
+}

@@ -1,0 +1,31 @@
+{
+  "postupak_id": 28386,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij ENP (cijena 90 + jamstveni rok 10 bodova) potpuno je operacionaliziran matematičkim formulama, uz tablicu bodovanja jamstvenog roka s jasno definiranim intervalima (min. 24, maks. 60 mjeseci) i pravilom za jednako rangirane ponude. Nema prostora za diskrecijsko tumačenje, što potvrđuje i Zapisnik o pregledu i ocjeni gdje je bodovanje svih 10 ponuda izračunato bez spora.",
+      "citat": "Ponuda s najnižom cijenom dobiva 90,00 bodova, dok se ostale ponude boduju prema formuli"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 3,
+      "obrazlozenje": "Izvorni troškovnik sadržavao je niz stavki opisanih paušalno (jedinica mjere 'kpl' bez definirane količine, dimenzija, tipa materijala), na što su ponuditelji uputili preko 100 upita tijekom razdoblja od 13.11.2024. do 28.1.2025. Naručitelj je na dio prigovora reagirao izmjenom troškovnika (izdano najmanje 7 revizija, 'Troškovnik – VII izmjena', i 10+ 'Obavijest o izmjenama'), ali je na dio odbio dati dodatnu preciznost uz uputu da se podaci nalaze u glavnom projektu.",
+      "citat": "Ove stavke nije moguće ponuditi ovako napisane, osobito ne kao kpl za jedinicu mjere."
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 4,
+      "obrazlozenje": "Dokumentacija je opsežna (tehnički elaborat, 8 mapa glavnog/izvedbenog projekta, geomehanički elaborat, revizija projekta, ESPD upute) i nakon niza izmjena omogućila je svim od 10 zaprimljenih ponuda da budu ocijenjene kao potpune, valjane po obliku i sadržaju te sukladne tehničkim specifikacijama (Zapisnik o pregledu i ocjeni, t. 7-8: 'DA' za sve ponuditelje). Manji broj slučajeva naručitelj je uputio ponuditelje da podatke sami izvuku iz grafičkog dijela projekta umjesto da ih eksplicitno navede u troškovniku.",
+      "citat": "Stavka se nudi kao komplet, a površina je vidljiva u glavnom projektu."
+    },
+    "prosjecna_ocjena": 4.0
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [
+      "Nema referenci na točno određenu marku, patentirano rješenje ili proizvođača; svi tehnički zahtjevi (npr. ENEC certifikat, IP/IK klase, CE oznaka, debljine slojeva) generički su formulirani i praćeni standardnom klauzulom o jednakovrijednosti.",
+      "Uvjet tehničke sposobnosti (zbroj vrijednosti do 4 izvedena rada mora dosegnuti procijenjenu vrijednost nabave, 2.300.000 EUR) je na gornjoj granici uobičajene prakse, ali empirijski nije djelovao ograničavajuće.",
+      "Zaprimljeno je 10 ponuda, sve od malih i srednjih poduzetnika, sve su ocijenjene kao potpune, valjane i sukladne tehničkim specifikacijama te nijedan ponuditelj nije isključen po osnovama isključenja ili kriterijima sposobnosti."
+    ],
+    "rizik": "nizak"
+  },
+  "napomena": "Pročitano svih 60 .txt datoteka u extracted/ (jedna, 'MAPA 1.7z.txt', prazna zbog nepodržanog izvornog arhivskog formata unutar pipeline-a, ali sadržajno dupla PDF inačica 'MAPA 1.pdf.txt' uspješno je ekstrahirana pa gubitak sadržaja nije relevantan). Postupak je robovi (radovi, procijenjena vrijednost 2.300.000 EUR), okončan sklapanjem ugovora sa zajednicom ponuditelja LAVČEVIĆ za 2.116.052,34 EUR bez PDV-a. Neuobičajeno visok broj upita (~100) tijekom nadmetanja ukazuje na inicijalno nedovoljno precizan troškovnik, no visok broj konkurentnih, potpuno usklađenih ponuda (10/10) upućuje da to u praksi nije stvorilo diskriminatornu prepreku."
+}

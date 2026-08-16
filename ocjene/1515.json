@@ -1,0 +1,49 @@
+{
+  "postupak_id": 1515,
+  "broj_pojedinacnih_runova": 2,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 4,
+      "obrazlozenje": "Kriterij ekonomski najpovoljnije ponude (cijena 90%, rok odaziva na reklamaciju 10%) u potpunosti je mjerljiv, s eksplicitnim matematičkim formulama i jasnim pravilom za slučaj nedostavljanja izjave o roku odaziva - na razini same formule kriterij je besprijekoran, kako je uočilo prvo pokretanje. Međutim, promatra li se cjelina kriterija u širem smislu (uključujući uvjete sposobnosti / kriterij za odabir gospodarskog subjekta), postoji stvarna manja nedosljednost koju je uočilo drugo pokretanje: polje 'Minimalni broj referenci' u Kriterijima za kvalitativni odabir ostaje sadržajno prazno - uvjet tehničke i stručne sposobnosti definiran je isključivo vrijednosno (isporuke robe u vrijednosti barem procijenjene vrijednosti grupe), bez navođenja traženog broja pojedinačnih referenci, unatoč posebno predviđenom polju za taj podatak. Neovisnom provjerom izvornog dokumenta utvrđeno je da je vremensko razdoblje referentnog iskustva, nasuprot tvrdnji drugog pokretanja, zapravo precizno određeno (godina pokretanja postupka - 2024. - i tri prethodne godine: 2023., 2022., 2021.), pa ta konkretna primjedba nije bila točna. Preostaje, ipak, stvarna manja nejasnoća oko broja referenci koja opravdava ocjenu ispod maksimuma.",
+      "citat": "Minimalni broj referenci Zahtjev / opis - Gospodarski subjekt mora dokazati da je u godini u kojoj je započeo postupak javne nabave i tijekom tri godine koje prethode toj godini uredno izvršio isporuku robe iste ili slične predmetu ove nabave, čiji je iznos bez PDV-a minimalno u visini procijenjene vrijednosti grupe za koju se ponuda predaje.",
+      "runovi": [
+        5,
+        4
+      ],
+      "slaganje": "djelomicno"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Zaseban dokument 'tehničke specifikacije' doista je sadržajno gotovo prazan - svodi se na opće regulatorne obveze (sukladnost sa zakonima o hrani, deklaracija, HACCP, sljedivost) bez ijednog konkretnog tehničkog parametra proizvoda; oba pokretanja to točno uočavaju. Međutim, stvarna tehnička konkretizacija predmeta nabave prisutna je i dovoljno razrađena na razini stavki troškovnika: svaka stavka ima definiranu jedinicu mjere, okvirnu godišnju količinu i minimalnu masu, a kod dijela stavki (npr. štrudle) i minimalni udio ključnog sastojka ('udio jabuke min. 30%'), što nadilazi puko navođenje mase. Ta razina detalja dostatna je za usporedivu ponudu bez pozivanja na marku, proizvođača ili patentirano rješenje. Smještaj stvarne specifikacije u troškovnik umjesto u zaseban tehnički dokument jest pitanje organizacije dokumentacije, ali sam po sebi ne umanjuje sadržajnu razinu detalja opisa predmeta - taj aspekt (fragmentiranost/samostojnost dokumenta) primjerenije se odražava kroz ocjenu potpunosti dokumentacije nego kroz razinu detalja opisa kao takvu.",
+      "citat": "Štrudla od jabuke, udio jabuke min. 30%, težine min. 100 gr",
+      "runovi": [
+        4,
+        3
+      ],
+      "slaganje": "djelomicno"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dostupan je pun skup dokumenata potreban gospodarskom subjektu za samostalnu izradu ponude bez traženja dodatnih pojašnjenja o formalnim elementima: opći podaci o postupku, obavijest o nadmetanju, kriteriji za kvalitativni odabir s uputama za ESPD (uključujući osnove za isključenje i uvjete sposobnosti), upute za ponuditelje s razrađenim kriterijem ENP i formulama bodovanja, zaseban obrazac izjave o roku odaziva na reklamaciju te popunjivi troškovnici za obje grupe koji sadrže sve potrebne tehničke parametre po stavci. Činjenica da je zaseban dokument 'tehničke specifikacije' sadržajno generičan ne predstavlja prazninu u dokumentaciji, jer su konkretni tehnički podaci koji bi ondje inače stajali stvarno prisutni i dostupni - samo u drugom, jednako obvezujućem dokumentu (troškovniku). Nema izostanka nijednog dokumenta ili podatka nužnog za sastavljanje ponude.",
+      "citat": "Elektronička ponuda za svaku ponuđenu grupu mora sadržavati najmanje: Uvez ponude Popunjeni eESPD obrazac ... Popunjen troškovnik",
+      "runovi": [
+        5,
+        4
+      ],
+      "slaganje": "djelomicno"
+    },
+    "prosjecna_ocjena": 4.33
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak",
+    "runovi_prisutno": [
+      false,
+      false
+    ],
+    "slaganje": "puno"
+  },
+  "napomena": "Pročitani su svi relevantni dokumenti iz extracted/ (Opći podaci, Kriteriji za kvalitativni odabir, Upute za ponuditelje, tehničke specifikacije, oba troškovnika, Kriterij za odabir ENP/Izjava). Referentni uvjet (isporuke u vrijednosti barem procijenjene vrijednosti grupe tijekom 2021.-2024.) proporcionalan je vrijednosti nabave; jamstva za ozbiljnost ponude (400/2.000 EUR, ~2,7-2,8% procijenjene vrijednosti) razmjerna su procijenjenoj vrijednosti grupa. Naručitelj transparentno objavljuje popis gospodarskih subjekata s kojima je u sukobu interesa (obrt 'Bliss'), što je pozitivan element. Nije pronađen nijedan indikator prilagodbe specifikacije određenom ponuditelju (nema referenci na zaštićene marke, patentirana rješenja ili nesrazmjerne pragove). Kontekstualna napomena (ne ulazi u ocjene transparentnosti ni restriktivnosti): u oba postupka (grupe 1 i 2) zaprimljena je samo jedna ponuda (Tvornica kruha Zadar d.d.), što ukazuje na nisku razinu tržišnog natjecanja u ishodu, no to je posljedica ishoda postupka, a ne izravan dokaz prilagođenosti specifikacije određenom ponuditelju u samoj dokumentaciji.",
+  "napomena_resolvera": "Sva tri para ocjena razlikovala su se za točno 1 bod (run_1 dosljedno viši), što je moglo upućivati na jednostavnu sustavnu razliku u strogosti drugog pokretanja. Neovisnom provjerom izvornih dokumenata (tehničke specifikacije, oba troškovnika, Kriteriji za kvalitativni odabir) utvrđeno je da svako neslaganje ima vlastiti, djelomično utemeljen razlog, a ne jedinstven pomak: (1) jasnoća kriterija - drugo pokretanje ispravno je uočilo da uvjet tehničke/stručne sposobnosti ne navodi traženi broj referenci (samo vrijednosni prag), iako je njegova tvrdnja o nepreciznom razdoblju bila netočna (razdoblje je precizno navedeno: 2021.-2024.); finalna ocjena 4 preuzeta je od drugog pokretanja jer je jezgra primjedbe utemeljena. (2) razina detalja opisa - oba pokretanja točno uočavaju da je zaseban dokument tehničkih specifikacija sadržajno prazan, no neovisnim čitanjem troškovnika utvrđeno je da stvarna tehnička konkretizacija (jedinica mjere, količina, masa, kod dijela stavki i udio sastojka) postoji i dostatna je za usporedivost ponuda; finalna ocjena 4 preuzeta je od prvog pokretanja jer prazan zaseban dokument ne umanjuje stvarnu razinu detalja koja postoji drugdje. (3) potpunost dokumentacije - isti nalaz (prazan tehnički dokument) ovdje ne predstavlja prazninu jer se potrebni podaci nalaze u drugom, jednako obvezujućem dokumentu (troškovniku); finalna ocjena 5 preuzeta je od prvog pokretanja. Restriktivnost: puna suglasnost bez potrebe za dodatnom provjerom. Razina pouzdanosti finalne ocjene: umjerena do visoka - nijedno neslaganje nije bilo pravi rascjep (razlika >=2 boda ili sadržajno suprotstavljena obrazloženja), sva su bila razrješiva usporedbom preciznosti citata i izravnom provjerom izvornika, a restriktivnost je imala punu suglasnost."
+}

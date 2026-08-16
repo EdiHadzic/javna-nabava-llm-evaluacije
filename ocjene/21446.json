@@ -1,0 +1,27 @@
+{
+  "postupak_id": 21446,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij je ekonomski najpovoljnija ponuda s eksplicitnom formulom bodovanja cijene i potpuno razrađenom tablicom bodovanja za jamstveni rok (raspon 24-60 mjeseci, prag po pragu), bez prostora za diskreciju ocjenjivača.",
+      "citat": "Ponuda s najnižom cijenom dobiva 90,00 bodova, dok se ostale ponude boduju prema formuli"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Osnovni tekstualni opis predmeta u 'Općim podacima' je kratak i formulaičan (upućuje na priloge), ali stvarni sadržaj je vrlo detaljan: opsežna projektna dokumentacija (tri mape - prometnica, vodovod i odvodnja, JR i DTK) i troškovnik s pozivanjem na EN/DN tehničke norme, ne na konkretne robne marke.",
+      "citat": "Predmet nabave je rekonstrukcija ulice Zadarskih bratovština 1. i 2. faze, detaljno opisan u Prilogu - Troškovnik i Prilogu - Tehničke specifikacije."
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Svi ključni dokumenti prisutni su i međusobno konzistentni: opći podaci, kriteriji za odabir ponude, kriteriji za kvalitativni odabir, upute za ponuditelje, troškovnik, tehnička dokumentacija, prijedlog ugovora, a rezultati (zapisnik o pregledu i ocjeni, obavijest o dodjeli) potvrđuju da su sve tri zaprimljene ponude ocijenjene kao potpune i valjane.",
+      "citat": "Prijedlog ugovora se nalazi u prilogu te je sastavni dio dokumentacije o nabavi."
+    },
+    "prosjecna_ocjena": 4.67
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak"
+  },
+  "napomena": "Pročitani su svi manji dokumenti u cijelosti (opći podaci, kriteriji za odabir ponude, kriteriji za kvalitativni odabir, upute za ponuditelje, obavijest o nadmetanju, obavijest o dodjeli ugovora, zapisnik o pregledu i ocjeni, odluka o odabiru). Tri velike projektne datoteke (Mapa_1/2/3, ukupno ~1,8 milijuna znakova) pregledane su ciljanim pretraživanjem uobičajenih indikatora restriktivnosti (izričite marke, 'isključivo', 'jedini ovlašteni', zaštitni znak, patent) umjesto punog čitanja zbog opsega - nije pronađen nijedan pogodak; troškovnik referira isključivo EN/DN tehničke norme (npr. EN 545, DN 100), ne konkretne proizvođače. Postupak je konkurentan (3 valjane ponude, sve prihvaćene), s standardnom klauzulom jednakovrijednosti i proporcionalnim referentnim pragom (zbroj do 3 ranija rada = procijenjena vrijednost)."
+}

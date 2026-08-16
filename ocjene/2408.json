@@ -1,0 +1,27 @@
+{
+  "postupak_id": 2408,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij odabira je ekonomski najpovoljnija ponuda s eksplicitno danim relativnim značajem (cijena 90, rok isporuke 10), točnom matematičkom formulom bodovanja cijene (C=NC/CP*90) i potpuno mjerljivim, unaprijed fiksiranim pragovima za kriterij kvalitete (rok isporuke), bez prostora za naknadnu diskrecijsku ocjenu povjerenstva.",
+      "citat": "Rok isporuke do 14 dana od dana slanja narudžbe - 10 bodova, b) Rok isporuke do 21 dan od dana slanja narudžbe - 5 bodova."
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 5,
+      "obrazlozenje": "Troškovnik sadrži oko 420 stavki s preciznim botaničkim nazivima, veličinama (visina/opseg debla) i okvirnim količinama za svaku stavku, što omogućuje izravno usporedive ponude. Specifikacije koriste generičke botaničke/kultivarske nazive uobičajene u rasadničarskoj struci, a ne vlasnički/markirani proizvod, što je potvrđeno i time da su obje pristigle ponude (uklj. jednu iz Italije) ocijenjene sukladnima opisu predmeta.",
+      "citat": "NAZIV ROBE OPSEG DEBLA VISINA JEDINICA MJERE PREDVIĐENA (OKVIRNA) KOLIČINA JEDINIČNA CIJENA (BEZ PDV-a)"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 4,
+      "obrazlozenje": "Dostupna je puna osnovna dokumentacija (opći podaci, upute za ponuditelje, kriteriji za odabir, kriteriji kvalitativnog odabira, troškovnik, obrasci-prilozi za rok isporuke i ovlaštenje), dovoljna za samostalnu izradu ponude - potvrđeno time što su obje zaprimljene ponude ocijenjene valjanima i cjelovitima. Manji nedostatak: dokumentacija najavljuje zasebnu tehničku specifikaciju u prilogu, no priložena datoteka 'Prilozi.zip' na disku je 0 bajtova (praznog sadržaja), pa je sadržaj tog najavljenog priloga stvarno nedostupan iz ovog uzorka - iako je troškovnik sam po sebi funkcionalno poslužio kao dovoljno detaljna specifikacija.",
+      "citat": "3.1.2. Tehničke specifikacije Detaljne tehničke specifikacije se nalaze u zasebnom prilogu."
+    },
+    "prosjecna_ocjena": 4.67
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak"
+  },
+  "napomena": "Nema zahtjeva za konkretnu marku/patentirano rješenje niti nesrazmjernih financijskih/referentnih pragova - jedini kvalitativni uvjet je upis u registar (nema traženih ekonomsko-financijskih ni tehničko-stručnih kapaciteta), a jamstvo za ozbiljnost ponude od 3.000 EUR (~2,6% procijenjene vrijednosti od 114.000 EUR) i jamstvo za uredno ispunjenje od 10% vrijednosti ugovora standardni su i proporcionalni. Pristiglo je 2 valjane ponude (jedna hrvatska, jedna iz Italije), obje prihvaćene bez isključenja, što dodatno potkrepljuje nisku restriktivnost. Prilozi.zip na disku prazan (0 B) - nije mogao biti pročitan, ali nije bio presudan jer je troškovnik sam sadržavao dovoljnu razinu tehničke specifikacije za usporedive ponude."
+}

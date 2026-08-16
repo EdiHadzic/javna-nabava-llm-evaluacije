@@ -1,0 +1,40 @@
+{
+  "postupak_id": 21093,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij za odabir ponude (ekonomski najpovoljnija ponuda) potpuno je operacionaliziran: cijena nosi 90 % pondera, jamstveni rok 10 %, uz eksplicitne matematičke formule za izračun bodova za oba potkriterija, jasno definirane granice jamstvenog roka (min. 24, maks. 60 mjeseci) i pravilo za rangiranje pri izjednačenju. Nema prostora za diskrecijsku ili nejasnu ocjenu.",
+      "citat": "C= (Cmin/Cp) x 90 ... JR= (Jo/Jn) x 10"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Troškovnik (vrtic-oprema.xlsx) sadrži 28 stavki namještaja s vrlo preciznim opisima (materijal, debljine u mm, vrsta drva, dimenzije, boja), što omogućuje usporedivu ponudu i jasnu kontrolu izvršenja. Razina detalja je visoka do granice uskosti: kod dvije stavke opis koristi imena nalik nazivima iz kataloga konkretnog proizvođača ('Garnitura - Medo', 'Garnitura - Livada') umjesto isključivo generičkog funkcionalnog opisa, što blago snižava ocjenu unatoč inače iscrpnoj specifikaciji.",
+      "citat": "1.17. Garnitura - Medo satavljena od četriri elementa... 1.18. Garnitura - Livada satavljena od pet elementa..."
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dostupan je pun set dokumenata potreban za samostalnu izradu ponude: Obavijest o nadmetanju, Opći podaci o postupku, Kriteriji za kvalitativni odabir gospodarskog subjekta (s detaljnim ESPD uputama), Kriteriji za odabir ponude s formulama, Upute za ponuditelje, detaljan troškovnik s tehničkim specifikacijama svake stavke, tlocrti prostora (kat/prizemlje) za dispoziciju namještaja te obrazac Izjave o jamstvenom roku (Prilog 1). Ništa bitno za izradu ponude ne nedostaje.",
+      "citat": "Elektronička ponuda mora sadržavati najmanje: Uvez ponude, Popunjeni eESPD obrazac, Popunjen troškovnik, Vrijednosti kriterija za odabir ponude..."
+    },
+    "prosjecna_ocjena": 4.67
+  },
+  "restriktivnost": {
+    "prisutno": true,
+    "indikatori": [
+      {
+        "opis": "Dvije stavke troškovnika (1.17 i 1.18) nazvane su vlastitim imenima nalik nazivima iz kataloga konkretnog proizvođača ('Garnitura - Medo', 'Garnitura - Livada'), a ne isključivo funkcionalno-tehničkim opisom, što je karakteristično za kopiranje specifikacije iz ponude/kataloga određenog dobavljača.",
+        "citat": "1.17. Garnitura - Medo satavljena od četriri elementa... 1.18. Garnitura - Livada satavljena od pet elementa..."
+      },
+      {
+        "opis": "Ni u jednom dijelu dokumentacije (uklj. troškovnik i tehničke specifikacije svih 28 stavki namještaja) ne pojavljuje se klauzula 'ili jednakovrijedno' vezana uz opis predmeta nabave — izraz 'jednakovrijedno' javlja se isključivo u kontekstu dokaza za osnove isključenja (kaznena/porezna evidencija), nikad uz tehničke karakteristike robe, čime nije eksplicitno omogućena ponuda funkcionalno istovjetnog, ali drugačije dizajniranog namještaja.",
+        "citat": "(pretraga cjelokupnog extracted korpusa: 'jednakovrijedno' pojavljuje se samo u Kriteriji za kvalitativni odabir gospodarskog subjekta, uz dokaze o nekažnjavanju)"
+      },
+      {
+        "opis": "Zaprimljena je samo jedna ponuda u otvorenom postupku javno objavljenom na EOJN-u, a ta jedina ponuda dolazi od gospodarskog subjekta (LIBER MEDIA d.o.o.) čije reference pokazuju da je specijaliziran upravo za opremanje dječjih vrtića namještajem istog tipa u nizu drugih jedinica lokalne samouprave — okolnost dosljedna (ali ne i dokazna sama po sebi) tezi o tržištu suženom na jednog uobičajenog isporučitelja ovakvih specifikacija.",
+        "citat": "Broj zaprimljenih ponuda: 1 ... Ugovaratelj - LIBER MEDIA d.o.o."
+      }
+    ],
+    "rizik": "srednji"
+  },
+  "napomena": "Pročitani su svi relevantni dokumenti iz extracted/ mape (kriteriji kvalitativnog odabira, kriteriji za odabir ponude, obavijest o nadmetanju, opći podaci, upute za ponuditelje, troškovnik/popis opreme, popis referenci, zapisnik o pregledu i ocjeni, odluka o odabiru, obavijest o izmjeni ugovora). Dvije velike PDF datoteke tlocrta (tlocrt-kat.pdf, tlocrt-prizemlje.pdf) sadrže OCR-irani tehnički crtež/dispoziciju i nisu supstancijalno relevantne za ocjenu transparentnosti/restriktivnosti izvan potvrde da dispozicija namještaja postoji kao prilog. Administrativne potvrde (kaznena evidencija, porezni dug, IZJAVA obrasci, upis u registar) pregledane su samo radi potvrde da su dio uredne, potpune ponude jedinog ponuditelja. Izvan formalne rubrike ove ocjene, uočeno je da se ime jednog člana stručnog povjerenstva za pregled i ocjenu ponuda (Kristijan Kotlar) poklapa s imenom vlasnika gospodarskog subjekta navedenog na popisu subjekata s kojima je naručitelj u sukobu interesa ('Bliss, obrt za turizam i poslovno savjetovanje, vl. Kristijan Kotlar') — taj subjekt nije ponuditelj u ovom postupku, popis sukoba interesa je transparentno objavljen kao dio dokumentacije o nabavi, a nalaz nije obuhvaćen definicijom restriktivnosti specifikacije prema ovoj rubrici pa nije uključen u indikatore gore, no vrijedan je spomena kao kontekstualna opaska."
+}

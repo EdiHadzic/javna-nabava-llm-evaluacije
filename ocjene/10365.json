@@ -1,0 +1,37 @@
+{
+  "postupak_id": 10365,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriteriji za odabir ekonomski najpovoljnije ponude (cijena 80%, rok isporuke 10%, rok trajanja/valjanosti 10%) potpuno su mjerljivi, s eksplicitnim matematičkim formulama za bodovanje svake grupe i jasnim pravilom za slučaj jednakog broja bodova (vrijeme zaprimanja).",
+      "citat": "C = C1 / Cpo x 80 C – broj bodova koji je ponuda dobila za cjenovni kriterij C1 – cijena najniže ponude Cpo – cijena ponude koja je predmet ocjene"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Troškovnik za svaku od tri grupe sadrži razrađen popis stavki s jedinicama mjere i okvirnim količinama (npr. 41 stavka za Grupu 3 s poimeničnim popisom vrsta droga i pragova osjetljivosti u ng/ml), što omogućuje usporedivu ponudu. Ocjena nije 5 jer opis dijela tehničkih zahtjeva (npr. za Grupu 1 i 2) ovisi o kompatibilnosti s konkretnim uređajem, što sužava prostor za alternativna rješenja.",
+      "citat": "Panel za identifikaciju i određivanje osjetljivosti gram negativnih bakterija /25 panela"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dokumentacija je potpuna i interno konzistentna za sve tri grupe: opći podaci, kriteriji kvalitativnog odabira s uputama za ESPD, upute za ponuditelje s popisom obveznih priloga, troškovnik/tehnička specifikacija, prijedlog ugovora i obrazac ovlasti dostupni su i međusobno usklađeni (isti evidencijski broj, isti rokovi u svim dokumentima).",
+      "citat": "Elektronička ponuda za svaku ponuđenu grupu mora sadržavati najmanje: Uvez ponude Popunjeni eESPD obrazac (ili više njih, ako je primjenjivo) Popunjen troškovnik"
+    },
+    "prosjecna_ocjena": 4.67
+  },
+  "restriktivnost": {
+    "prisutno": true,
+    "indikatori": [
+      {
+        "opis": "Grupa 1 zahtijeva kompatibilnost isključivo s uređajem Bactec MGIT 320, u vlasništvu naručitelja.",
+        "citat": "Svi testovi moraju biti kompatibilni s uređajem tipa Bactec MGIT 320 - Aparat za brzo otkrivanje mikobakterija u kliničkim uzorcima."
+      },
+      {
+        "opis": "Grupa 2 zahtijeva kompatibilnost isključivo s instrumentom BD Phoenix M50, eksplicitno navedenim kao vlasništvo naručitelja.",
+        "citat": "Svi testovi moraju biti kompatibilni s instrumentom BD Phoenix M50 koji je vlasništvo ustanove."
+      }
+    ],
+    "rizik": "nizak",
+    "obrazlozenje_rizika": "Vezanost specifikacije uz markicu/model instrumenta tehnički je opravdana time što naručitelj već posjeduje taj uređaj (laboratorijska metoda akreditirana prema HRN EN ISO 15189:2012 na tom konkretnom instrumentu), pa je riječ o standardnoj praksi nabave potrošnog materijala za postojeću opremu, a ne o neopravdanom sužavanju tržišta prema jednom ponuditelju bez tehničkog razloga. Grupa 3 (testovi na droge) nema takvog ograničenja."
+  },
+  "napomena": "Dostupno je 22 dokumenta u extracted/ (opći podaci, kriteriji kvalitativnog odabira, kriterij za odabir ponude, upute za ponuditelje, troškovnici za sve 3 grupe, obavijest o nadmetanju, obavijest o dodjeli ugovora, odluke o odabiru po grupama, zapisnici o pregledu i ocjeni, prijedlog ugovora, prilozi III/IV) - dokumentacija je opsežna i čitljiva; jedina praznina su tri prazna .zip.txt priloga (0 bajtova), no njihov sadržaj dupliciran je u zasebno ekstrahiranim .doc/.docx/.pdf datotekama iste dokumentacije, pa ne utječe na ocjenu."
+}

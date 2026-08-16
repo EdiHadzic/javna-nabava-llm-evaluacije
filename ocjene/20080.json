@@ -1,0 +1,27 @@
+{
+  "postupak_id": 20080,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij odabira je ekonomski najpovoljnija ponuda s potpuno eksplicitnom, matematičkom formulom bodovanja: cijena (90 bodova, formula min(C)/C) i duljina jamstvenog roka (10 bodova, precizna tablica pragova od 24 do 60+ mjeseci). Nema prostora za diskrecijsko tumačenje, bodovi se računaju na šest decimala, a postupanje kod izjednačenih ponuda (vremenski prioritet) također je unaprijed definirano.",
+      "citat": "Ponuda s najnižom cijenom dobiva 90,00 bodova, dok se ostale ponude boduju prema formuli:"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Predmet nabave (uređenje poučnog puta, urbana oprema, info-table) opisan je vrlo konkretno kroz idejni građevinski projekt (78+ stranica tehničkog opisa, procjene troškova i grafičkih prikaza) i stavkama troškovnika s točnim dimenzijama, materijalima i normama kvalitete (npr. čelik S355J0W, beton C25/30). Opis pritom nije nepotrebno sužen na jednog dobavljača (dopuštena alternativa 'ariš ili bor'). Ocjena nije 5 jer je razina razrade tek 'idejni projekt', a naknadni aneks ugovora otkriva da opis terena/zahvata u fazi javnog nadmetanja nije obuhvatio sve stvarne uvjete na terenu (neoznačeno groblje, živa stijena), što je zahtijevalo naknadnu izmjenu opsega i roka radova.",
+      "citat": "drvo ariš ili bor, tretiran pod vakum pritiskom i u autoklavu protiv crvotočina i insekata, sve impregnirano, debljina dasaka 58 mm"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dostupna je puna dokumentacija potrebna za samostalnu izradu ponude: Opći podaci, Upute za ponuditelje, Kriteriji za kvalitativni odabir (ESPD, osnove isključenja, uvjeti sposobnosti), Kriteriji za odabir ponude, detaljan troškovnik te opsežan idejni građevinski projekt s tehničkim opisom, mjerama zaštite od požara, programom kontrole kvalitete i grafičkim prikazima. Sve stavke troškovnika imaju definiranu jedinicu mjere i količinu za unos cijene.",
+      "citat": "Detaljan troškovnik se nalazi u zasebnom prilogu – Troškovnik."
+    },
+    "prosjecna_ocjena": 4.67
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak"
+  },
+  "napomena": "Pročitane su sve manje/srednje .txt datoteke u extracted/ u cijelosti (Opći podaci, Upute za ponuditelje, oba dokumenta o kriterijima, Obavijest o nadmetanju, Obavijest o dodjeli ugovora, Obavijest o izmjeni ugovora, Odluka o odabiru, oba Zapisnika o pregledu i ocjeni, Troškovnik). Glavni tehnički dokument (idejni građevinski projekt, ~1,6 MB / 10.648 redaka) pregledan je preko sadržaja/strukture (SADRŽAJ, naslovi poglavlja) i ciljanim pretraživanjem ključnih riječi (marka/tip proizvoda, 'isključivo', 'patent', neproporcionalni pragovi) radi provjere restriktivnosti umjesto čitanja redak-po-redak zbog opsega; nisu pronađeni indikatori prilagođenosti specifičnom ponuditelju. Izvorna arhiva 'Prilozi.zip' je na disku 0 bajtova (poznat artefakt neuspjelog preuzimanja, nepovezan s ovim postupkom ocjenjivanja) pa njezin sadržaj nije mogao biti provjeren, no osnovna natječajna dokumentacija (troškovnik, idejni projekt s grafičkim prikazima, kriteriji, upute) čini se dostatnom neovisno o toj arhivi. Postupak je imao 2 zaprimljene ponude, jedna odbijena zbog cijene iznad osiguranih sredstava; odabrana ponuda (SANAC d.o.o.) ostvarila je maksimalnih 100 bodova."
+}

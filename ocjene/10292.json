@@ -1,0 +1,27 @@
+{
+  "postupak_id": 10292,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij odabira (ekonomski najpovoljnija ponuda) potpuno je operacionaliziran: eksplicitni ponderi (cijena 80, jamstveni rok 20), matematičke formule za bodovanje, jasno definirane gornja/donja granica za necjenovni kriterij te postupak kod jednakog broja bodova. Zapisnik o pregledu i ocjeni pokazuje da su bodovi oba ponuditelja izračunati točno prema najavljenoj formuli, bez naknadnih izmjena kriterija.",
+      "citat": "Naručitelj je ograničio najviši dozvoljeni iznos za kriterij 60,00 Naručitelj je ograničio najniži dozvoljeni iznos za kriterij 24,00"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 5,
+      "obrazlozenje": "Uz sažeti opći opis predmeta (dvorana za ispraćaje s pratećim prostorijama), dostupna je puna projektna dokumentacija u 6 mapa (arhitektonski, konstrukcija, fizika zgrade, elektrotehnika, vodovod/kanalizacija, geodetski projekt) te opsežan stavkovni troškovnik koji za pojedine stavke referira konkretne tehničke norme (HRN EN, DIN) uz dosljednu klauzulu 'ili jednakovrijedno'. Razina detalja omogućava izradu potpuno usporedivih ponuda.",
+      "citat": "Staklarski radovi moraju biti specificirani prema HRN EN 572-9:2005 ili jednakovrijednoj normi."
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dostupna je građevinska dozvola, kompletan glavni projekt u 6 mapa, troškovnik, kriteriji kvalitativnog odabira, kriteriji odabira ponude, upute za ponuditelje, obavijest o nadmetanju, odluka o odabiru, zapisnik o pregledu i ocjeni te obavijest o dodjeli - cjelovit set za samostalnu izradu ponude. Jedina praznina je arhiva '(root)__Glavni projekt.rar' koja se ekstrahirala kao 0 bajtova, no njezin sadržaj (glavni projekt) dostupan je odvojeno kroz šest MAPA PDF datoteka pa gubitak informacije nije stvaran.",
+      "citat": "Projekt Glavni projekt sukladno građevinskoj dozvoli za izgradnju ispraćajne dvorane na mjesnom groblju u Tinju."
+    },
+    "prosjecna_ocjena": 5.0
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak"
+  },
+  "napomena": "Svih 20 relevantnih dokumenata pročitano (jedna arhiva neuspješno ekstrahirana, ali bez gubitka sadržaja - v. gore). Nema referenci na konkretan proizvod/marku; tehničke norme dosljedno prate klauzulu 'ili jednakovrijedno'. Referentni uvjet (2 slična rada u vrijednosti >= procijenjene vrijednosti nabave u zadnjih 5 godina) proporcionalan je i standardan za građevinske radove te ne prelazi dvostruku vrijednost procijenjene nabave (naručitelj to izričito potvrđuje u zapisniku, polje 'Razlog traženja minimalnog godišnjeg prometa... Nije primjenjivo'). Napomena: dokumentacija sadrži zakonski propisanu objavu sukoba interesa (OPG u vlasništvu supruge gradonačelnika Grada Benkovca), no taj subjekt nije sudjelovao kao ponuditelj niti je povezan s tehničkim specifikacijama - tretirano kao pozitivan signal transparentnosti (zakonska obveza objave), ne kao indikator restriktivnosti prema određenom ponuditelju."
+}

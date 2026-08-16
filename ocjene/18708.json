@@ -1,0 +1,32 @@
+{
+  "postupak_id": 18708,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij ekonomski najpovoljnije ponude potpuno je kvantificiran i matematički definiran: cijena nosi 90 bodova (formula najniža cijena/ponuđena cijena), rok plaćanja 10 bodova s eksplicitnom tablicom bodovanja (30 dana=0, 45 dana=5, 60 dana=10) i jasno određenim min./maks. rasponom (30-60 dana), uz isključenje ponuda s kraćim rokom. Nema dvosmislenosti niti prostora za diskrecijsku ocjenu.",
+      "citat": "Minimalni rok plaćanja je 30 dana, a maksimalni je 60 dana. Ponude u kojima se nudi kraći rok plaćanja neće se uzimati u obzir."
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Tehnička specifikacija je kratka (jedan odlomak), no za standardiziranu robu (gorivo) to je primjereno - poziva se na točne europske/hrvatske norme (HRN EN 228, HRN EN 590) i EURO V standard umjesto na proizvođača ili marku, a okvirne količine za četverogodišnje razdoblje jasno su navedene u troškovniku (16.000 L benzina, 170.000 L dizela). Opis omogućuje usporedivu ponudu bez nepotrebnog suženja na jednog dobavljača goriva.",
+      "citat": "EUROSUPER 95 BS – bezsumporni, bezolovni motorni benzin koji zadovoljava zahtjeve kvalitete prema normi HRN EN 228, koja odgovara zahtjevima minimalno EURO V i koji sadrži do 10 mg/kg sumpora."
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dostupan je pun i međusobno konzistentan skup dokumenata (Opći podaci, Tehničke specifikacije, Troškovnik, Kriteriji za kvalitativni odabir, Kriteriji za odabir ponude, Upute za ponuditelje, obrazac Izjave o roku plaćanja) koji zajedno omogućuju samostalnu izradu ponude bez dodatnih pojašnjenja - uključujući točan popis obveznog sadržaja elektroničke ponude.",
+      "citat": "Elektronička ponuda mora sadržavati najmanje: Uvez ponude Popunjeni eESPD obrazac (ili više njih, ako je primjenjivo) Popunjen troškovnik"
+    },
+    "prosjecna_ocjena": 4.67
+  },
+  "restriktivnost": {
+    "prisutno": true,
+    "indikatori": [
+      {
+        "opis": "Zahtjev za mrežu benzinskih postaja kombinira tri geografska uvjeta istovremeno (1 postaja u Gradu Biogradu na Moru s radom 365 dana godišnje, 3 postaje u Zadarskoj županiji, 1 postaja na autocesti Benkovac-Zagreb u oba smjera) - operativno opravdano za nabavu goriva putem kartica za vozni park, ali u praksi ispunjivo tek od strane najvećih lanaca s gustom nacionalnom mrežom postaja, što se poklapa s ishodom (zaprimljena samo jedna ponuda, INA d.d., najvećeg hrvatskog distributera goriva).",
+        "citat": "Ponuditelj mora omogućiti opskrbu benzinskim i dizelskim gorivom: • na najmanje 1 (jednu) benzinsku postaju na području Grada Biograda na Moru, s radom 365 dana u godini."
+      }
+    ],
+    "rizik": "nizak"
+  },
+  "napomena": "Pročitani su svi relevantni dokumenti u extracted/ (obavijest o nadmetanju, opći podaci, kriteriji kvalitativnog odabira i odabira ponude, upute za ponuditelje, tehničke specifikacije, troškovnik, zapisnik o pregledu i ocjeni, odluka o odabiru). Zapisnik o pregledu i ocjeni ponuda ima OCR artefakte (izobličeni znakovi, npr. 'lznos jamstva' umjesto 'Iznos jamstva'), ali sadržajno je čitljiv i nije utjecao na ocjenu jer su isti podaci potvrđeni u Odluci o odabiru. Zaprimljena je samo jedna ponuda (INA d.d.), što je u skladu sa strukturom hrvatskog tržišta goriva na veliko (mali broj distributera s nacionalnom mrežom postaja i HERA dozvolom), ne nužno dokaz namjerne restriktivnosti - stoga je rizik ocijenjen kao nizak, a ne srednji/visok."
+}

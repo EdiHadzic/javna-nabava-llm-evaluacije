@@ -1,0 +1,40 @@
+{
+  "postupak_id": 29134,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij odabira (ekonomski najpovoljnija ponuda) precizno je operacionaliziran zasebnim dokumentom s eksplicitnim formulama, ponderima (cijena 80, jamstveni rok 20) i jasno definiranim gornjim/donjim granicama za necjenovni kriterij, čime je bodovanje potpuno predvidljivo i provjerljivo unaprijed. Kriteriji kvalitativnog odabira (osnove za isključenje, tehnička i stručna sposobnost) također su detaljno razrađeni s preciznim referentnim razdobljem i metodom izračuna zbrojene vrijednosti referenci.",
+      "citat": "Minimalno trajanje jamstvenog roka je 24 mjeseca... Najduže trajanje jamstvenog roka je 60 mjeseci koje će se uzimati u obzir za potrebe dodjele bodova."
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 3,
+      "obrazlozenje": "Opis predmeta je opsežan (troškovnik + projektno-tehnička dokumentacija u 8 mapa), no izvorna verzija sadržavala je brojne nejasnoće i podspecificirane stavke (nedefinirane visine okana, granulacije materijala, obračunske jedinice, opisi profila i sl.), što je zahtijevalo najmanje 4-9 izmjena dokumentacije i preko 130 odgovorenih upita prije nego je razina detalja postala dostatna za usporedivu ponudu. Naručitelj je aktivno i sustavno dopunjavao opise nakon upita, ali sama učestalost i opseg potrebnih dopuna ukazuje na osjetne početne nedostatke.",
+      "citat": "Molimo pojašnjenje da li su omaškom izostavljeni radovi rušenja postojeće asfaltne obloge parkirališta... Po situaciji iz projekta arhitekture dalo bi se zaključiti da sve navedeno treba ukloniti"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 3,
+      "obrazlozenje": "Dostupna je opsežna projektna dokumentacija (8 mapa: arhitektura, konstrukcija, ViK, fizika, elektro, termotehnika, vertikalni transport, plinovod), prijedlog ugovora, obrasci i izjave. Međutim, naručitelj je izravno priznao da pojedini dokumenti potrebni za samostalnu i preciznu izradu ponude uopće nisu izrađeni (sheme stolarije/bravarije, projektni elaborat i plan armature za AB radove), unatoč tome što se troškovnik na te elemente oslanja.",
+      "citat": "Naručitelj pojašnjava da nema izrađene sheme stolarije i bravarije stoga ih nije u mogućnosti objaviti... Naručitelj pojašnjava da nije izrađen projektni elaborat i plan armature."
+    },
+    "prosjecna_ocjena": 3.67
+  },
+  "restriktivnost": {
+    "prisutno": true,
+    "indikatori": [
+      {
+        "opis": "Tehnička specifikacija dizalice topline (strojarske instalacije) izvorno je zadavala točnu masu i dimenzije proizvoda bez dopuštenih odstupanja, na što je gospodarski subjekt upozorio da upućuje na točno jedan proizvod na tržištu; naručitelj je nedostatak popravio tek u 4. izmjeni dokumentacije.",
+        "citat": "Po sadašnjim kriterijima čak se određeuje i egzaktna masa od 1280kg i dimenzije od 1080x3400x2350mm što točno upućuje na jedan proizvod."
+      },
+      {
+        "opis": "Isti obrazac problema ponovljen je kod više različitih ventilokonvektora/split jedinica (svaki put točna masa i dimenzije na mm/kg, bez raspona), što je sustavno obilježje izvorne specifikacije strojarskih instalacija, a ne izolirani slučaj.",
+        "citat": "Po sadašnjim kriterijima čak se određeuje i egzaktna masa od 143kg i dimenzije od 1338x1050x330(+40)mm što točno upućuje na jedan proizvod."
+      },
+      {
+        "opis": "Elektroinstalacije rasvjete izvorno su specificirane s točnim svjetlosnim tokom (lm) i dimenzijama za 16 tipova svjetiljki bez navedenih dopuštenih odstupanja, što je gospodarski subjekt izričito naveo kao prepreku ravnopravnom sudjelovanju.",
+        "citat": "Molimo navesti dopuštena odstupanja kriterija jednakovrijednosti za svjetiljke poglavlja instalacije rasvjete kako bi svi zainteresirani gospodarski subjeti mogli ravnopravno sudjelovati."
+      }
+    ],
+    "rizik": "srednji"
+  },
+  "napomena": "Ocjena temeljena na 11 od ukupno cca. 49 dostupnih .txt datoteka: dokumenti opisa postupka, kriteriji odabira, upute za ponuditelje, prilozi/uvjeti, obavijest o nadmetanju i djelomično pročitan Q&A modul (Odgovori.html, prvih ~130 od ukupno preko 130 upita, datoteka je bila prevelika za jedno čitanje). Nisu pojedinačno pregledane pune tehničke mape projektne dokumentacije (MAPA 1-8, ukupno preko 6 milijuna znakova PDF-teksta), niti Elaborat ZNR, niti sami troškovnici/zapisnik o pregledu i ocjeni ponuda (relevantni za AwardInfo, ne za ovu ocjenu). Restriktivnost je klasificirana kao srednji rizik jer je repetitivan obrazac prekomjerno uskih specifikacija (masa/dimenzije do mm i kg bez odstupanja) zahvatio više različitih sustava (strojarske, elektro), ali ga je naručitelj sustavno i transparentno ispravljao kroz službene izmjene dokumentacije prije roka za dostavu ponuda, uz jasno navedene razloge u odgovorima na upite."
+}

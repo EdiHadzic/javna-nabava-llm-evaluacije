@@ -1,0 +1,40 @@
+{
+  "postupak_id": 18469,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij za odabir ponude (ekonomski najpovoljnija ponuda) precizno je definiran s dva podkriterija (cijena 90 bodova, duljina jamstvenog roka 10 bodova), uz eksplicitnu matematičku formulu za bodovanje cijene i tablicu bodova po intervalima trajanja jamstva. Nema prostora za proizvoljnu interpretaciju.",
+      "citat": "Maksimalni broj bodova koji ponuditelj može dobiti po ovom kriteriju je 10,00"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 3,
+      "obrazlozenje": "Opći opis predmeta nabave (rekonstrukcija vodovodne/kanalizacijske mreže i kameno opločenje unutar zaštićene povijesne jezgre) i CPV oznake jasni su i konkretni. Međutim, kroz postupak pitanja/pojašnjenja pokazalo se da je izvorna specifikacija u više stavki troškovnika bila nejasna ili dvosmislena (spajanje dviju različitih obrada kamena u jednu stavku, nedefinirane količine i varijante uzoraka žbuke, neprecizno grafički neprikazana površina rušenja od 1.100 m2) te je sadržavala i element koji je naručitelj naknadno priznao kao neopravdano restriktivan (zahtjev za kamenom 'iz lokalnih nalazišta'). Dio primjedbi ispravljen je izmjenama dokumentacije, dio nije (npr. količine uzoraka žbuke, grafički prikaz površine rušenja).",
+      "citat": "Stavka je nejasna ,neprecizna i dvosmislena. Naime radi se o dvije vrste različitih obrada"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 4,
+      "obrazlozenje": "Formalna dokumentacija (Opći podaci, Kriteriji za odabir ponude, Kriteriji za kvalitativni odabir/ESPD upute, Upute za ponuditelje, Opis uvjeta sukladno posebnim propisima, obrasci izjava) vrlo je detaljna i samodostatna. Umanjuje ocjenu to što stvarna projektna dokumentacija (nacrti, glavni projekt, detaljne tehničke specifikacije) nije priložena unutar dokumentacije o nabavi na EOJN-u, već je dostupna isključivo putem vanjske poveznice na file-sharing servis izvan portala javne nabave.",
+      "citat": "Kompletna projektna dokumentacija je dostupna na: https://jumboiskon.tportal.hr/dl/1ebcc6cf-1db3-42a2-9c04-81aedda581b8"
+    },
+    "prosjecna_ocjena": 4.0
+  },
+  "restriktivnost": {
+    "prisutno": true,
+    "indikatori": [
+      {
+        "opis": "Izvorna troškovnička stavka zahtijevala je kamen 'iz lokalnih nalazišta'. Ponuditelj je to formalno osporio kao diskriminatorno i suprotno člankom 4. ZJN 2016 (načela slobode kretanja robe, jednakog tretmana, zabrane diskriminacije). Naručitelj je prigovor prihvatio i riječi izbrisao iz troškovnika, čime je potvrđeno da je izvorni zahtjev bio neopravdano restriktivan.",
+        "citat": "Prihvaća se prijedlog gospodarskog subjekta te se iz troškovnika brišu riječi „lokalnih nalazišta“"
+      },
+      {
+        "opis": "Zahtjev za fizičku dostavu uzoraka kamena dimenzija 40x40 cm (procijenjena masa cca 32 kg po uzorku, uz obradu u dvije vrste) ponuditelj je ocijenio nesrazmjernim i neprimjerenim; naručitelj je zahtjev zadržao unatoč prigovoru. Praktična posljedica: jedan od tri zaprimljena ponuditelja (MEDIUS d.o.o.) naknadno je isključen iz postupka upravo zbog nedostavljanja traženog uzorka.",
+        "citat": "Ponuditelj nije dostavio uzorak kako je Naručitelj tražio odredbama dokumentacije o nabavi."
+      },
+      {
+        "opis": "Više stavki troškovnika bilo je izvorno formulirano na način koji je onemogućavao jednoznačnu kalkulaciju cijene (kombinacija dviju međusobno isključivih obrada kamena u jednoj stavci, nedefinirana količina uzoraka žbuke za dvije alternativne varijante fasade), što je otežavalo usporedivost ponuda do djelomične izmjene dokumentacije.",
+        "citat": "štokana i grebana obrada nije moguća na jednom kamenu, već su to dvije različite stvari"
+      }
+    ],
+    "rizik": "srednji"
+  },
+  "napomena": "Pročitane su sve relevantne .txt datoteke iz extracted/ (Opći podaci, Kriteriji za odabir ponude, Kriteriji za kvalitativni odabir, Opis uvjeta i zahtjeva, Upute za ponuditelje, Odgovori na pitanja, Odluka o odabiru, Obavijest o dodjeli ugovora, Zapisnik o pregledu i ocjeni). Napomena o ograničenju: 'Tehničke specifikacije.docx.txt' i 'Projektna dokumentacija.docx.txt' sadrže samo kratku naznaku i poveznicu na vanjski link prema stvarnoj projektnoj dokumentaciji (nacrti/glavni projekt) — sadržaj tih dokumenata (koji čine glavninu tehničkog opisa radova) nije dostupan u ovom skupu ekstrahiranih tekstova, pa ocjena djelomično počiva na indirektnim dokazima (odgovori na pitanja, izmjene troškovnika, zapisnik o ocjeni)."
+}

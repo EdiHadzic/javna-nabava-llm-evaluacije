@@ -1,0 +1,33 @@
+{
+  "postupak_id": 15948,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij za odabir ponude (ekonomski najpovoljnija ponuda) u potpunosti je kvantificiran zasebnim dokumentom 'Kriterij za odabir ENP': cijena nosi 90 bodova po eksplicitnoj formuli C=(Cmin/Cp)x90, a kvaliteta (rok odaziva na reklamaciju) nosi 10 bodova po formuli Ro=Romin/Rop*10, uz jasno određene donju (2 radna dana) i gornju (5 radnih dana) granicu dopuštene vrijednosti. Zapisnik o pregledu i ocjeni dosljedno primjenjuje istu formulu za sve 4 ponude s prikazanim izračunom po ponuditelju, što potvrđuje mjerljivost i provjerljivost kriterija u praksi.",
+      "citat": "C = (Cmin/Cp) x 90 ... Ro = Romin/Rop * 10 ... Enp = C + Ro (zaokruženo na šest decimala)"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 5,
+      "obrazlozenje": "Predmet nabave (školski udžbenici) opisan je do razine pojedinačnog naslova, autora, nakladnika, kataloškog broja i točne količine po razredu i predmetu u Troškovniku, izravno vezano uz službeni Katalog odobrenih udžbenika Ministarstva znanosti i obrazovanja za šk. god. 2024./2025. Visoka specifičnost ovdje nije proizvoljno suženje tržišnog natjecanja nego posljedica zakonske obveze (Zakon o udžbenicima) da škola nabavlja točno određene, prethodno odobrene naslove — Tehničke specifikacije to izrijekom navode kao razlog i naglašavaju da Troškovnik ne smije stvarati neopravdane prepreke tržišnom natjecanju.",
+      "citat": "u školama su u uporabi obrazovni materijali objavljeni u Katalogu odobrenih udžbenika za školsku godinu 2024./2025... Naručitelj je definirao Troškovnik na način da omogućuje svim gospodarskim subjektima jednak pristup"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dostupan je pun i međusobno dosljedan skup dokumenata potreban za samostalnu izradu ponude: Opći podaci, Obavijest o nadmetanju, Kriteriji za kvalitativni odabir gospodarskog subjekta (s uputama o ESPD-u i načinu dokazivanja), Upute za ponuditelje (uvjeti jamstva, način dostave, plaćanje, rokovi), Tehničke specifikacije, Kriterij za odabir ENP i detaljan Troškovnik s izmjenom (transparentno obrazloženom u 'Odgovori' i 'Izmjena' dokumentu). Naknadno su dostupni i Zapisnik o pregledu i ocjeni te Odluka o odabiru koji potvrđuju da je dokumentacija bila dostatna svim četirima ponuditeljima za podnošenje valjanih i cjelovitih ponuda. Jedina manjkavost: prilog 'APD.rar' ekstrahiran je u 0 bajtova (poznati tehnički artefakt rar-ekstrakcije, v. napomena), no prema Zapisniku (t. 13, 'Popis priloga: Ažurirani popratni dokumenti Didacta d.o.o.') radi se o naknadno pribavljenim dokazima za odabranog ponuditelja nakon otvaranja ponuda, čiji je sadržaj velikim dijelom već dostupan kao zasebni PDF-ovi (kaznena evidencija, porezni dug) — stoga ne umanjuje mogućnost samostalne izrade ponude.",
+      "citat": "Elektronička ponuda mora sadržavati najmanje: Uvez ponude, Popunjeni eESPD obrazac, Popunjen troškovnik, Vrijednosti kriterija za odabir ponude"
+    },
+    "prosjecna_ocjena": 5.0
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [
+      "Specifikacija je vezana uz točno određene naslove/nakladnike, no to proizlazi izravno iz zakonske obveze nabave udžbenika isključivo iz službenog Ministarstvenog kataloga odobrenih udžbenika, a ne iz proizvoljnog favoriziranja određenog gospodarskog subjekta — 4 različita gospodarska subjekta (ŠKOLSKA KNJIGA, EKUPI, NARODNE NOVINE, DIDACTA) uspješno su ponudila cjelokupan Troškovnik.",
+      "Uvjet tehničke sposobnosti (minimalno 1 referentni ugovor u vrijednosti jednakoj ili većoj od procijenjene vrijednosti nabave) standardan je i proporcionalan, ne prelazi uobičajene pragove iz ZJN 2016.",
+      "Jamstvo za ozbiljnost ponude (500 EUR, ~1,85% procijenjene vrijednosti od 26.986,21 EUR) i jamstvo za uredno ispunjenje ugovora (10% ugovorene vrijednosti) proporcionalni su i u skladu sa standardnom praksom.",
+      "Naručitelj je transparentno objavio postojanje sukoba interesa (član stručnog povjerenstva vlasnik je obrta 'Bliss'), a taj gospodarski subjekt nije sudjelovao u postupku — primjer dobre prakse, ne restriktivnosti.",
+      "4 stvarna ponuditelja s bliskim ponudama (raspon ENP bodova 96,01–100,00) ukazuju na stvarnu cjenovnu konkurenciju, ne na postupak prilagođen unaprijed poznatom pobjedniku."
+    ],
+    "rizik": "nizak"
+  },
+  "napomena": "Pročitani su svi dostupni .txt dokumenti u extracted/ (20 datoteka), uključujući dvije koje su tehnički prazne ili gotovo prazne (APD.rar.txt - 0 bajtova; SKM_C22724081911000.pdf.txt je čitljiv sken-duplikat Zapisnika, bez novog sadržaja). Postupak je iznimno dobro dokumentiran i interno konzistentan (Obavijest o nadmetanju, Izmjena, Zapisnik, Odluka o odabiru i Obavijest o dodjeli ugovora podudaraju se u svim ključnim podacima), a jedina izmjena dokumentacije (izmjena količine stavke 'Matematika 7') objavljena je i obrazložena kroz standardni postupak pitanja/odgovora prije roka za dostavu ponuda, što dodatno potvrđuje transparentnost postupka."
+}

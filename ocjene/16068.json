@@ -1,0 +1,27 @@
+{
+  "postupak_id": 16068,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij za odabir ponude (ekonomski najpovoljnija ponuda) potpuno je operacionaliziran: cijena nosi 90 % značaja, rok isporuke 10 %, uz eksplicitnu matematičku formulu bodovanja, propisane granice ponuđene vrijednosti (min. 24 h, maks. 48 h) i pravilo za jednako rangirane ponude (ranije zaprimljena ponuda). Nema prostora za diskrecijsko tumačenje pri bodovanju, što potvrđuje i Zapisnik o pregledu i ocjeni gdje su bodovi izračunati dosljedno formuli za oba ponuditelja.",
+      "citat": "Cijena 90,00 ... Rok isporuke 10,00 ... Naručitelj je ograničio najviši dozvoljeni iznos za kriterij 48,00 ... najniži ... 24,00"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Predmet nabave (svježe povrće i voće) opisan je kroz troškovnik s 29 stavki (vrsta, jedinica mjere, okvirna količina) te kroz jasno definirane uvjete kakvoće i izvršenja (svježina, zrelost, higijena, sukladnost sa Zakonom o hrani i propisima o kvaliteti voća/povrća, uvjeti prijevoza i ambalaže). Razina detalja je primjerena jednostavnom, standardiziranom predmetu nabave (roba široke potrošnje) i ne isključuje razumne alternative jer se poziva na opće zakonske standarde kvalitete, a ne na specifičan proizvod ili markicu.",
+      "citat": "Proizvodi moraju biti dovoljno razvijeni, ali ne prerazvijeni, normalne vanjske vlažnosti i bez stranog mirisa i /ili okusa."
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 4,
+      "obrazlozenje": "Dostupna je cjelovita osnovna dokumentacija za samostalnu izradu ponude: opći podaci o postupku, upute za ponuditelje, kriteriji kvalitativnog odabira i odabira ponude, te troškovnik koji ujedno služi i kao tehnička specifikacija. Ocjena je snižena s 5 na 4 jer je datoteka 'Prilozi.zip' ekstrahirana kao potpuno prazna (0 bajtova) pa sadržaj tog priloga (ako je postojao) nije bilo moguće provjeriti - nejasno je je li riječ o praznoj/neuspješno preuzetoj arhivi ili je stvarno sadržavala dodatne obrasce izvan onoga što je već pokriveno troškovnikom.",
+      "citat": "TEHNIČKE SPECIFIKACIJE NALAZE SE U TROŠKOVNIKU"
+    },
+    "prosjecna_ocjena": 4.33
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak"
+  },
+  "napomena": "Pročitane su sve dostupne .txt datoteke u extracted/ (12 datoteka). Predmet nabave je jednostavna roba (svježe voće i povrće) bez tehničkih parametara podložnih prilagodbi određenom ponuditelju; referentni uvjet tehničke sposobnosti (zbroj vrijednosti isporuka minimalno u visini procijenjene vrijednosti nabave, kroz godinu pokretanja i tri prethodne) proporcionalan je i standardan, ne prelazi uobičajene pragove. Zaprimljene su 2 valjane ponude (Samirić d.o.o. i ZKM d.o.o.), obje su zadovoljile sve kvalitativne uvjete i osnove za isključenje, što je dodatna posredna potvrda da specifikacija nije bila neopravdano restriktivna. 'Prilozi.zip.txt' prazan je (0 bajtova) i 'Odluka o odabiru.pdf.txt' sadrži samo digitalni potpis (5 redaka) - potonje nije problem jer isti sadržaj postoji u cijelosti u 'Odluka o odabiru.html.txt'."
+}

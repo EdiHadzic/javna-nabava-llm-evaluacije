@@ -1,0 +1,27 @@
+{
+  "postupak_id": 11101,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriteriji za odabir ponude (ENP) su potpuno mjerljivi i formalizirani: cijena (90 bodova) i jamstveni rok za izvedene radove (10 bodova), s eksplicitnim matematičkim formulama, minimalnim dozvoljenim iznosom (2 godine) i zaokruživanjem na šest decimala. Kriteriji kvalitativnog odabira gospodarskog subjekta (osnove za isključenje, upis u registar, popis radova) također su navedeni s točnom pravnom osnovom, pitanjem za ESPD i načinom dokazivanja, bez dvosmislenosti.",
+      "citat": "Ponuda s najnižom cijenom dobiva 90,00 bodova, dok se ostale ponude boduju prema formuli"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Predmet nabave (sanacija sanitarnih čvorova) opisan je vrlo detaljno kroz stavkovni troškovnik (14 grupa radova, konkretne dimenzije, materijali, norme kvalitete) i tri tlocrta (postojeće/novo stanje po katovima), što omogućuje usporedivu ponudu. Gdje se spominju konkretni proizvodi/sustavi (npr. protuklizne pločice DIN 51130, SOS tipkalo tipa HUST BIS-SOS C1), dosljedno je dodana klauzula 'ili jednakovrijedno/jednakovrijedan', čime se izbjegava sužavanje na jednog dobavljača. Ocjena nije 5 jer je zaseban dokument 'TEHNIČKE SPECIFIKACIJE' svega jedna rečenica-uputnica na Troškovnik, a ne samostalan tehnički opis, pa je informacija fragmentirana po više datoteka.",
+      "citat": "Protuklizne DIN 51130 ili jednakovrijedan, otporne na habanje, sredstva čišćenje i kemikalije, s površinom koja se lako čisti/održava."
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 4,
+      "obrazlozenje": "Dostupan je gotovo cjelovit paket dokumentacije nužan za samostalnu izradu ponude: opći podaci o postupku, upute za ponuditelje (uvjeti jamstva, plaćanja, rok valjanosti, obilazak lokacije), detaljan troškovnik i tlocrti, te naknadno zapisnici o pregledu i ocjeni i odluka o odabiru. Ocjena nije 5 jer je 'Prilozi.zip' ekstrahiran kao potpuno prazna datoteka (0 bajtova) pa sadržaj tog priloga nije moguće provjeriti niti procijeniti doprinosi li potpunosti dokumentacije ili je riječ o praznoj/oštećenoj arhivi.",
+      "citat": "Elektronička ponuda mora sadržavati najmanje: Uvez ponude Popunjeni eESPD obrazac (ili više njih, ako je primjenjivo) Popunjen troškovnik"
+    },
+    "prosjecna_ocjena": 4.33
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak"
+  },
+  "napomena": "Referentni uvjet (izvršeni radovi iste ili slične vrste u vrijednosti minimalno jednakoj procijenjenoj vrijednosti nabave, 122.800,00 EUR, tijekom 5 godina) proporcionalan je i standardan, ne nesrazmjeran. Reference na konkretne proizvode/sustave (Hunter Douglas, sustav Istega) odnose se isključivo na opis postojećeg stanja koje se ruši, ne na traženu specifikaciju novih radova, pa nisu tretirane kao indikator restriktivnosti. Postupak zaprimio samo 1 ponudu (izvan opsega ove ocjene, ali relevantno za 5.1./5.3. kvantitativnu analizu konkurentnosti)."
+}

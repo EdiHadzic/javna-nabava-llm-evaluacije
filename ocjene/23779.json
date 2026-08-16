@@ -1,0 +1,28 @@
+{
+  "postupak_id": 23779,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij za odabir ponude (ekonomski najpovoljnija ponuda, 50% cijena / 50% tehnički elementi) u potpunosti je operacionaliziran kroz zaseban dokument 'Kriterij za odabir ponuda (ručno rangiranje)' koji doslovno preuzima bodovnu tablicu i matematičke formule iz Uredbe o uvjetima i vrednovanju kriterija za davanje koncesije i sklapanje ugovora o javnoj usluzi za obavljanje javnog prijevoza u linijskom obalnom pomorskom prometu (NN 31/14). Svaki tehnički element (brzina, udobnost, starost broda, kapacitet, iskustvo brodara, održavanje) ima točno propisan broj bodova, a ekonomsko-financijski element se izračunava egzaktnom formulom (koncesijski koeficijent / koeficijent naknade). Kriteriji nisu prepušteni diskrecijskoj ocjeni naručitelja nego su unaprijed matematički mjerljivi i javno objavljeni, što je gotovo maksimalna moguća razina jasnoće.",
+      "citat": "1. tehnički kriteriji 50%; 2. ekonomsko-financijski kriteriji 50%. Najpovoljnijim ponuditeljem smatrat će se brodar koji prema navedenim kriterijima ostvari najveći broj bodova."
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Opis predmeta nabave (državna brzobrodska linija 9404/9405, luke pristajanja, trajanje ugovora 72 mjeseca uz opciju produljenja, opcije promjene broda/cijene/godišnjeg poravnanja) vrlo je konkretan i upotpunjen zasebnim opsežnim dokumentom 'Dio I.' s detaljnim tehničkim zahtjevima, redom plovidbe i obrascima. Ipak, iz Odgovora na pitanja gospodarskih subjekata vidljivo je da je barem jedna odredba (obveza prilagodbe reda plovidbe ponuđenoj brzini broda u Obrascu 2-3) izvorno bila nedovoljno jasna te je zatražena izmjena/brisanje zbog nejasnoće, što ukazuje na manji nedostatak preciznosti u prvotnoj verziji dokumentacije, naknadno adresiran kroz pojašnjenja.",
+      "citat": "moli objašnjenje i izmijenu odredbe navedene u dokumetaciji za nadmetanje dio I. „...dužan je prilagoditi red plovidbe u obrascu 2 - 3 ponuđenoj brzini broda u liniji...“, a radi njene nejasnoće moli da se ista izbriše"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dokumentacija je opsežna i cjelovita: Opći podaci, Upute za ponuditelje, Kriteriji za kvalitativni odabir, Kriterij za odabir ponuda s formulama, Dio I. s troškovnikom i punim popisom obrazaca/dokaza koje ponuditelj mora dostaviti (organizirano kao eksplicitna kontrolna lista od cca. 19+ stavki), te zaseban Program državne potpore (SGEI) koji regulira parametre izračuna, nadzora i revizije naknade. Naručitelj je uz to aktivno odgovarao na dodatna pitanja ponuditelja (dokument Odgovori) prije isteka roka za dostavu ponuda, čime je dokumentacija dodatno upotpunjena i razjašnjena tijekom postupka.",
+      "citat": "17. Troškovnik (obrazac: Detaljni opis i prikaz ukupnih prihoda i rashoda) ispuniti troškovnik kao zaseban dokument ... 18. ESPD obrazac (standardni obrazac za europsku jedinstvenu dokumentaciju o nabavi) ispunjava ponuditelj"
+    },
+    "prosjecna_ocjena": 4.67
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak",
+    "napomena_restriktivnost": "Tehnički i financijski uvjeti (npr. minimalna brzina/starost broda, dokazi bonitetа, jamstva od 20.000/70.000/100.000 EUR nasuprot procijenjenoj vrijednosti od 29,2 mil. EUR) izravno su preuzeti iz zakonskih/podzakonskih akata (ZJN2016, Zakon o prijevozu u linijskom i povremenom obalnom pomorskom prometu, Uredba NN 31/14, Pravilnik NN 47/23) te se jednako primjenjuju na sve potencijalne ponuditelje, a ne predstavljaju diskrecijski izbor naručitelja prilagođen određenom subjektu. Nema referenci na točno određeni proizvod/marku ili patentirano rješenje. Jedan gospodarski subjekt je putem pitanja predložio uvođenje varijantnih ponuda (kako noviji brodovi ne bi 'blokirali' konkurenciju na više linija istog brodara) te je naručitelj taj prijedlog odbio pozivajući se na zakonsko diskrecijsko pravo da ne dopusti varijante - to je granični slučaj koji potencijalno smanjuje konkurentnost, ali je unutar zakonskih ovlasti naručitelja i nije indikacija prilagodbe specifikacije jednom ponuditelju, stoga nije klasificirano kao restriktivnost u užem smislu ove sheme."
+  },
+  "napomena": "Postupak je javna usluga od općeg gospodarskog interesa (SGEI) - obavljanje državne brzobrodske linije - u potpunosti reguliran posebnim zakonom (Zakon o prijevozu u linijskom i povremenom obalnom pomorskom prometu, NN 19/22) i podzakonskim aktima (Uredba NN 31/14, Pravilnik NN 47/23), što objašnjava iznimno visoku formalnu razinu jasnoće kriterija - naručitelj ima vrlo malo diskrecije jer su bodovne ljestvice i formule propisane izvana. Pročitano je svih 36 dostupnih .txt datoteka relevantnih za ocjenu (opći podaci, kriteriji kvalitativnog odabira, kriterij za odabir ponuda/ručno rangiranje, upute za ponuditelje, Dio I. dokumentacije s troškovnikom, obavijest o nadmetanju, odgovori na pitanja, obavijest o dodjeli ugovora). Postupak je okončan dodjelom ugovora tvrtki Jadrolinija (2 zaprimljene ponude), ugovorena vrijednost 17.357.182,80 EUR nasuprot procijenjenoj 29.200.481,00 EUR."
+}

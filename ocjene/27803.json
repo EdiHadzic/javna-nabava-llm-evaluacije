@@ -1,0 +1,39 @@
+{
+  "postupak_id": 27803,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij ENP je posve eksplicitan i matematički operacionaliziran: cijena 90 bodova po formuli C=Cmin/Cn×90, produljeni jamstveni rok 10 bodova po jasnoj step-tablici (0/5/10 bodova za 0/12/24+ mjeseci produljenja), s pravilom razrješenja izjednačenih ponuda. U Zapisniku o pregledu i ocjeni izračun je proveden transparentno i sljedivo za jedinu valjanu ponudu.",
+      "citat": "1. Cijena ponude 90% 90 2. Produljeni jamstveni rok 10% 10"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 2,
+      "obrazlozenje": "Tehnička specifikacija (54 stavke, mnoge s desetcima podstavki) opisuje predmet nabave iznimno detaljno, no razina detalja prelazi ono što je potrebno za usporedivost ponuda: brojni parametri zadani su na neuobičajeno precizne, 'ne-okrugle' vrijednosti (npr. točno 412 dB dinamičkog opsega, točno 24.770.000 kanala za procesiranje signala, točno 23.900 okvira kino memorije, 2035 Hz frame rate) koje odgovaraju obrascu prepisivanja specifikacije jednog konkretnog proizvoda iz kataloga proizvođača, a ne funkcionalnom opisu potrebe naručitelja. Ovakva preciznost realno sužava krug ponuditelja koji mogu zadovoljiti svaku pojedinu stavku.",
+      "citat": "Dinamički opseg uređaja min. 412 dB... Broj kanala za procesiranje signala: min. 24.770.000"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dostupan je pun set dokumenata potreban za samostalnu izradu ponude: Opći podaci, Kriteriji kvalitativnog odabira s uputama, Kriterij za odabir ponude, detaljna Tehnička specifikacija, Troškovnik, Upute za ponuditelje (s točnim popisom obveznog sadržaja elektroničke ponude) te obrasci izjava (produljeni jamstveni rok, nepostojanje zabrane dodjele ugovora). Dokumentacija je interno konzistentna kroz sve faze postupka (nadmetanje, odluka, zapisnik, dodjela).",
+      "citat": "Elektronička ponuda mora sadržavati najmanje: Uvez ponude, Popunjeni eESPD obrazac, Popunjen troškovnik, Vrijednosti kriterija za odabir, Katalog proizvoda"
+    },
+    "prosjecna_ocjena": 4.0
+  },
+  "restriktivnost": {
+    "prisutno": true,
+    "indikatori": [
+      {
+        "opis": "Niz tehničkih zahtjeva zadan na neuobičajeno preciznim, 'ne-okruglim' brojčanim pragovima koji nalikuju izravnom prepisivanju specifikacije jednog konkretnog modela iz kataloga proizvođača, umjesto funkcionalnog opisa potrebe.",
+        "citat": "Kino memorija od min. 23 900 okvira (sličica)... Maks. \"frame rate\" min.: 2035Hz"
+      },
+      {
+        "opis": "Iznimno velik broj (54 glavne + desetci podstavki) usko definiranih min. tehničkih parametara po svakom modu rada uređaja, gdje odstupanje na bilo kojoj pojedinačnoj stavci može diskvalificirati ponudu — obrazac koji u praksi može odgovarati specifikaciji točno jednog proizvoda na tržištu.",
+        "citat": "Broj TGC-a min. 10... Chroma mapa u min. 17 koraka... Mogućnost odabira min. 4 razine višesmjernog skeniranja"
+      },
+      {
+        "opis": "Ishod postupka posredno podupire indikator: od 2 zaprimljene ponude, jedina konkurentska ponuda (AnalyticPharma) proglašena je nepravilnom upravo zbog neispunjavanja zahtjeva tehničke specifikacije/troškovnika, čime je u praksi ostala samo jedna sukladna ponuda."
+      }
+    ],
+    "rizik": "srednji"
+  },
+  "napomena": "Svi ključni dokumenti dostupni su i čitljivi (HTML/PDF/XLSX ekstrakcija bez vidljivih praznina); jedina prazna datoteka je 'Odluka o odabiru__Prilozi.zip.txt' (0 bajtova), koja je sporedni prilog uz odluku o odabiru i nije bila presudna za ocjenu. Restriktivnost je ocijenjena na temelju obrasca neuobičajeno precizne tehničke specifikacije, ne na temelju izravnog navođenja marke/modela ili nesrazmjernih referentnih/financijskih pragova (potonji nisu utvrđeni u dokumentaciji)."
+}

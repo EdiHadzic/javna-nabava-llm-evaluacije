@@ -1,0 +1,36 @@
+{
+  "postupak_id": 3590,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij ENP (cijena 90 %, jamstveni rok 10 %) razrađen je eksplicitnom formulom bodovanja i tablicom pragova (24-60 mjeseci → 0-10 bodova), potpuno mjerljivo i bez prostora za diskrecijsko tumačenje.",
+      "citat": "Ponuda s najnižom cijenom ostvaruje maksimalan broj bodova, a ostale ponude s višom cijenom vrednuju se relativno prema ponudi s najnižom cijenom."
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 5,
+      "obrazlozenje": "Tehnička specifikacija (23 str.) opisuje 12 pozicija ormara do razine materijala, IP/IK klasa, dimenzija vijaka i podložnih pločica te normi (HRN EN, DIN), uz dosljednu klauzulu 'ili jednakovrijedno' koja čuva usporedivost ponuda.",
+      "citat": "Dužina svornjaka mora biti minimalno 35 mm (dio izvan uporišta slobodan za priključenje) te na njima mora biti posložena jedna standardna podložna pločica (vanjskog promjera 24 mm)"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dostupan je kompletan skup dokumenata za samostalnu izradu ponude: opći podaci, tehnička specifikacija, detaljan troškovnik (12 stavki), kriteriji kvalitativnog odabira, kriteriji odabira ponude, upute ponuditeljima, prijedlog okvirnog sporazuma i izjava o integritetu.",
+      "citat": "Elektronička ponuda mora sadržavati najmanje: Uvez ponude Popunjeni eESPD obrazac (ili više njih, ako je primjenjivo) Popunjen troškovnik"
+    },
+    "prosjecna_ocjena": 5.0
+  },
+  "restriktivnost": {
+    "prisutno": true,
+    "indikatori": [
+      {
+        "opis": "Tehnička specifikacija navodi konkretne komercijalne tipove opreme (osiguračke pruge, strujni mjerni transformatori) po nazivu proizvođača, iako uz klauzulu jednakovrijednosti.",
+        "citat": "tip: ARS 400-6-M12 ( APATOR ili jednakovrijedno) plus strujne mjerne transformatore SMT( tipa CTB 2 ili jednakovrijedno)"
+      },
+      {
+        "opis": "Referenca na konkretan proizvod (limitator) po nazivu proizvođača i modelu, uz klauzulu jednakovrijednosti.",
+        "citat": "Predviđeno mjesto za ugradnju limitatora ETI OSP-10 ili jednakovrijedan"
+      }
+    ],
+    "rizik": "nizak"
+  },
+  "napomena": "Pročitani svi relevantni dokumenti iz extracted/ (tehnička specifikacija, troškovnik, oba dokumenta o kriterijima, opći podaci, obavijest o nadmetanju, upute za ponuditelje); dokumenti o dodjeli/zapisnik nisu korišteni jer nisu relevantni za ovu ocjenu. Brend-specifične reference u tehničkoj specifikaciji dosljedno prate klauzulu 'ili jednakovrijedno', a referentni prag tehničke sposobnosti (430.000 EUR) proporcionalan je procijenjenoj vrijednosti nabave, stoga je rizik restriktivnosti ocijenjen niskim unatoč prisutnosti brend-referenci."
+}

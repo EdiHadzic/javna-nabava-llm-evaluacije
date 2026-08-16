@@ -1,0 +1,31 @@
+{
+  "postupak_id": 5049,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriteriji za odabir ponude (cijena 90%, jamstveni rok za otklanjanje nedostataka 10%) definirani su eksplicitnim matematičkim formulama, jasnim minimalnim pragom (12 mjeseci) i pravilom za slučaj izjednačenja, potpuno mjerljivo i objektivno.",
+      "citat": "Minimalni jamstveni rok je 12 mjeseci... Ponude u kojima je iskazan jamstveni rok kraći od 12 mjeseci bit će odbačene."
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 3,
+      "obrazlozenje": "Tehnička specifikacija hemodinamskog monitora vrlo je opsežna i funkcionalno opisana (14 stavki), ali uključuje nazive specifičnih, proizvođački vezanih algoritama (HPI, Eadyn) i uskih parametara (NIRS na 5 valnih duljina, dubina penetracije do 2,5 cm) koji graniče s prekomjernom specifičnošću i potencijalno sužavaju krug sposobnih ponuditelja.",
+      "citat": "Mogućnost promatranja HPI, Eadyn, dp/dt, CO/CI, SV/SVI, SVV, PPV, MAP, SYS, DIA"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dostupna je cjelovita dokumentacija za samostalnu izradu ponude: troškovnik s minimalnim tehničkim karakteristikama, upute za ponuditelje s formulama bodovanja, kriteriji kvalitativnog odabira, prijedlog ugovora i obrazac numeričkih vrijednosti kriterija.",
+      "citat": "Elektronička ponuda mora sadržavati najmanje: Uvez ponude, Popunjeni eESPD obrazac, Popunjen troškovnik, Vrijednosti kriterija za odabir ponude"
+    },
+    "prosjecna_ocjena": 4.33
+  },
+  "restriktivnost": {
+    "prisutno": true,
+    "indikatori": [
+      "Tehnička specifikacija zahtijeva mogućnost promatranja parametara nazvanih 'HPI' (Hypotension Prediction Index) i 'Eadyn' (dinamička arterijska elastancija) - ovo su nazivi patentiranih/proizvođački specifičnih algoritama, ne generički klinički parametri, što sužava krug sposobnih ponuditelja na jednu platformu.",
+      "NIRS tkivna oksimetrija traži vrlo uzak tehnički parametar - promatranje '5 valnih duljina unutar NIRS spektra, sa dubinom penetracije svijetla do 2,5cm' - stupanj preciznosti koji odgovara jednom konkretnom senzorskom proizvodu.",
+      "Kombinacija svih traženih modaliteta u jednom modularnom uređaju (neinvazivna prstna manžeta + minimalno invazivna arterijska linija + nadogradnja za invazivni PA kateter termodilucijski nadzor) odgovara točno strukturi jedne integrirane platforme jednog proizvođača, umjesto generičkog opisa funkcionalnih zahtjeva."
+    ],
+    "rizik": "visok"
+  },
+  "napomena": "Dostupna je gotovo cjelokupna relevantna dokumentacija postupka (12 datoteka), uključujući troškovnik, upute za ponuditelje, kriterije kvalitativnog odabira, zapisnik o pregledu i ocjeni te odluku o odabiru. Odabran je ponuditelj BORMIAMED d.o.o. (46.903,00 EUR bez PDV-a od procijenjenih 50.000,00 EUR), druga ponuda (AnalyticPharma d.o.o.) odbijena je zbog nedostavljenog jamstva za ozbiljnost ponude i nepopunjenog troškovnika, što ukazuje na formalnu, ne nužno sadržajnu, konkurenciju."
+}

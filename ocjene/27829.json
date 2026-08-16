@@ -1,0 +1,39 @@
+{
+  "postupak_id": 27829,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriteriji za odabir ponude su potpuno mjerljivi: eksplicitne formule i pondiranje za cijenu (90%) i jamstveni rok (10%), s definiranim minimumom (12 mjeseci) i posljedicom nepoštivanja. Kvalitativni kriteriji (osnove za isključenje, tehnička/stručna sposobnost) detaljno su razrađeni po člancima ZJN2016 uz ESPD upute i način dokazivanja za svaku stavku.",
+      "citat": "P = Pn / Pr * 90 ... Maksimalan broj od 90 bodova dodijelit će se ponudi s najnižom cijenom."
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Opis predmeta nabave iznimno je konkretan (svaka od 5 grupa ima desetke tehničkih podstavki u troškovniku), što olakšava usporedivost ponuda, no dio numeričkih parametara (posebno kod Grupe 2) toliko je precizan da graniči s prepisivanjem specifikacije jednog konkretnog modela, a ne funkcionalnog raspona.",
+      "citat": "Dimenzije hladnjaka 205 x 60 x 65 cm (+/-1cm)... Potrošnja energije u 24h/365 dana maksimalno 1,12/409 kWh"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dokumentacija je cjelovita i međusobno usklađena: opći podaci, kriteriji kvalitativnog odabira s ESPD uputama, upute za ponuditelje, numerički kriteriji odabira, prijedlog ugovora i zaseban troškovnik po svakoj od 5 grupa s minimalnim tehničkim karakteristikama - dovoljno za samostalnu izradu ponude bez dodatnih pojašnjenja.",
+      "citat": "Medicinski namještaj i oprema za hemodijalizu, a detaljan opis svakog dijela predmeta nabave nalazi se u Troškovnicima za grupe od 1. do 5."
+    },
+    "prosjecna_ocjena": 4.67
+  },
+  "restriktivnost": {
+    "prisutno": true,
+    "indikatori": [
+      {
+        "grupa": "GRUPA 2 (Kombinirani laboratorijski hladnjak)",
+        "opis": "Neuobičajeno precizni numerički parametri (dimenzije s tolerancijom ±1cm, potrošnja energije na dvije decimale) tipični su za prepisivanje specifikacije konkretnog komercijalnog modela, a ne funkcionalnog zahtjeva naručitelja.",
+        "citat": "Dimenzije hladnjaka 205 x 60 x 65 cm (+/-1cm) ... Potrošnja energije u 24h/365 dana maksimalno 1,12/409 kWh"
+      },
+      {
+        "grupa": "GRUPA 1 (Defibrilator s monitorom)",
+        "opis": "Vrlo uska tehnička ograničenja (masa, dijagonala ekrana, kapacitet baterije, vrijeme punjenja) mogu odgovarati samo uskom krugu proizvoda, iako je riječ o standardnoj praksi kod medicinske opreme visoke specifičnosti.",
+        "citat": "Težina uređaja sa baterijom maksimalno 6.3 kg ... Litij ionska baterija kapaciteta min. 100 defibrilacija ili 4 sata rada s jednom baterijom"
+      }
+    ],
+    "rizik": "srednji",
+    "napomena_o_konkurenciji": "Unatoč uskim tehničkim tolerancijama, stvarna konkurencija nije bila drastično sužena isključivo zbog specifikacije: primljeno je 2-3 ponude po grupi, a odbijene ponude (npr. AnalyticPharma d.o.o. na svih 5 grupa) odbijene su pretežno zbog administrativnih razloga (nedostavljeno jamstvo, neispunjen troškovnik, cijena iznad osiguranih sredstava), ne zbog tehničke neusklađenosti s uskim specifikacijama."
+  },
+  "napomena": "Svih 12 dostupnih .txt datoteka pročitano. Datoteka 'Tehnička specifikacija.docx.txt' sadrži samo uputu da je specifikacija u troškovniku (očekivano, nije nedostatak). Prilozi_1-4.zip i Prilozi.zip prazni su (0 bajtova) - vjerojatno prazne originalne arhive, bez utjecaja na ocjenu jer su svi ključni dokumenti (kriteriji, upute, troškovnici, zapisnik, odluka) dostupni u drugim formatima (html/pdf/docx/xlsx)."
+}

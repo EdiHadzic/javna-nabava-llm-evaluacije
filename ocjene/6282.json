@@ -1,0 +1,27 @@
+{
+  "postupak_id": 6282,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriteriji za odabir ponude potpuno su jasni i mjerljivi: cijena 70 bodova (formula min(C)/C), kvaliteta 30 bodova temeljena na broju sličnih ugovora Tehničkog stručnjaka 1, s eksplicitnom bodovnom tablicom (0/1/2/3+ ugovora = 0/10/20/30 bodova) i definiranim dokazima (CV po propisanom obrascu).",
+      "citat": "Ponuda s najnižom cijenom dobiva 70,00 bodova, dok se ostale ponude boduju prema formuli"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 3,
+      "obrazlozenje": "Opis predmeta nabave u glavnim dokumentima (Obavijest o nadmetanju, Opći podaci) svodi se na jednu rečenicu ponovljenu na više mjesta. Zaseban dokument 'Tehničke specifikacije' daje nešto konteksta (katastarske čestice, obveze nadzornog inženjera, pravna osnova), ali za punu tehničku podlogu (glavni projekt, građevinska dozvola) upućuje ponuditelje na dokumentaciju posve drugog, ranijeg postupka nabave radova, koja nije priložena uz ovaj postupak.",
+      "citat": "Detaljnija specifikacija i projektna dokumentacija može se vidjeti u elektronskom oglasniku javne nabave pod oznakom 2023/S 0F2-0053835"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 4,
+      "obrazlozenje": "Dostupan je pun standardni set dokumentacije (kriteriji kvalitativnog odabira, kriteriji odabira ponude, upute za ponuditelje, tehničke specifikacije, obrasci i izjave), dovoljan za samostalnu izradu ponude. Nedostatak: troškovnik je sveden na jednu paušalnu stavku bez razrade po fazama/aktivnostima nadzora, što je uobičajeno za usluge nadzora, ali smanjuje usporedivost strukture cijene ponuda.",
+      "citat": "Usluga stručnog građevinskog nadzora tijekom izvođenja radova na regulaciji vodotoka Ričine u Zadru (III faza) komplet 1 0"
+    },
+    "prosjecna_ocjena": 4.0
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak"
+  },
+  "napomena": "Pročitane su sve relevantne .txt datoteke u extracted/ (kriteriji kvalitativnog odabira, kriteriji za odabir ponude, obavijest o nadmetanju, opći podaci, upute za ponuditelje, tehničke specifikacije, troškovnik, obrasci i izjave, odluka o odabiru, obavijest o dodjeli). Financijski prag (2x procijenjene vrijednosti) i tehnički uvjeti (min. 1 referenca, VSS razina 7 struke građevinarstva) proporcionalni su predmetu i vrijednosti nabave (70.000 EUR); nema referenci na specifičan proizvod/marku niti nesrazmjernih pragova. Dokumenti evaluacije postupka (Prilog Zapisniku 1-3, Zapisnik o pregledu i ocjeni) nisu detaljno čitani jer se odnose na fazu nakon objave dokumentacije o nabavi i nisu relevantni za ocjenu transparentnosti same dokumentacije."
+}

@@ -1,0 +1,34 @@
+{
+  "postupak_id": 30350,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriteriji za odabir su eksplicitno i mjerljivo definirani. Ekonomski najpovoljnija ponuda određuje se dvama kriterijima: cijena (90 bodova prema formuli NC/CO x 90) i rok isporuke (10 bodova, maksimalno do 06:00). Formula i bodovna skala su detaljno razrađeni bez dvosmislenosti.",
+      "citat": "Ekonomski najpovoljnija ponuda je prihvatljiva ponuda s najvećim brojem bodova, koja se temelji na kriterijima... Kriterij za odabir ponude je ekonomski najpovoljnija ponuda... Bodovanje: 1 posto = 1 bod"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 4,
+      "obrazlozenje": "Opis predmeta nabave je jasno orijentiran na sigurnost i kvalitetu hrane. Tehnička specifikacija detaljno propisuje zakonske okvire (Zakon o hrani, Zakon o higijeni hrane) i sustave kvalitete (HACCP, ISO 22000). Međutim, specifikacija proizvoda je do određene mjere generička - količine su samo okvirne, a specifikacija se oslanja na reference na vanjske standarde umjesto detaljan popis pojedinih vrsta, sortiranja i kvalitetnih razreda.",
+      "citat": "Ponuđena roba mora po kakvoći i zdravstvenoj ispravnosti odgovarati svim važećim propisima Republike Hrvatske... Ponuditelj obvezno mora dokazati da ima uveden jedan od sustava za osiguranje kvalitete (HACCP, ISO 22000:2005 ili neki drugi sustav)"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dokumentacija je potpuna i obuhvaća sve standardne elemente javne nabave: opće podatke, tehničku specifikaciju, kriterije kvalifikacije, uputu za ponuditelje, kriterije odabira, troškovnik, izjavu o roku isporuke, te nalaz o dodjeli s bodovanjem. Sve potrebne obavijesti i obrasci dostupni su.",
+      "citat": "Elektronička ponuda mora sadržavati najmanje: Uvez ponude, Popunjeni eESPD obrazac, Popunjen troškovnik, Izjava o roku isporuke, Vrijednosti kriterija za odabir ponude"
+    },
+    "prosjecna_ocjena": 4.7
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [
+      {
+        "tip": "geografska_implicitna",
+        "opis": "Rok isporuke do 07:00 AM dnevno može indirektno favorizirati lokalne dobavljače, ali nije namjerno tailoring",
+        "citat": "Isporuka se vrši radnim danima, od ponedjeljka do petka najkasnije do 07,00 sati",
+        "razina_rizika": "nizak"
+      }
+    ],
+    "rizik": "nizak"
+  },
+  "napomena": "Postupak nije pokazao znakove namjernog prilagođavanja specifikacije određenom ponuditelju. Specifikacija koristi opće, zakonski definirane standarde bez referenci na specifične marke, patente ili nerealno visoke pragove. Nagrade su dodjeljene na osnovi transparentne formule: od 2 primljene ponude, oba ponuditelja su bila mala i srednja poduzeća iz Hrvatske. Konačna vrijednost ugovora (73.216 EUR) je bila manja od procijenjene (77.000 EUR), što ukazuje na učinkovitu tržišnu natjecanja."
+}

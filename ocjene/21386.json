@@ -1,0 +1,27 @@
+{
+  "postupak_id": 21386,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriteriji za odabir ponude (cijena i stručna kvalifikacija stručnjaka) definirani su brojčano i uz eksplicitnu matematičku formulu za izračun bodova po cijeni, te potpuno razrađenu tablicu bodovanja stručnog iskustva po pragovima investicijske vrijednosti prijašnjih projekata za svakog pojedinog stručnjaka i grupu. Nema dvosmislenosti u načinu izračuna ukupnog broja bodova.",
+      "citat": "C (cijena ponude) = najniža cijena valjane ponude / cijena valjane ponude * 70"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 3,
+      "obrazlozenje": "Opis predmeta nabave (opseg poslova stručnog i projektantskog nadzora) narativno je vrlo detaljan u Obavijesti o nadmetanju i Općim podacima. Međutim, formalni dokument 'Tehničke specifikacije' svodi se na uputu na zakonske propise bez ikakvih konkretnih tehničkih parametara, a troškovnici za obje grupe sadrže samo jednu paušalnu stavku ('komplet') bez razrade po fazama, satima ili vrsti aktivnosti, što ponuditeljima ostavlja malo osnove za usporedivu razradu cijene.",
+      "citat": "Usluga Stručnog nadzora gradnje, te Koordinatora zaštite na radu tijekom projektiranja i građenja nad Energetskom obnovom zgrada OB Zadar\tkomplet\t1"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 4,
+      "obrazlozenje": "Dostupan je gotovo cjelovit paket dokumentacije: obavijest o nadmetanju, opći podaci, upute za ponuditelje s popisom obveznog sadržaja ponude, detaljan opis kriterija kvalitativnog odabira s načinom dokazivanja, obrazac za izračun ENP-a, prilozi za iskaz reference stručnjaka i troškovnici. Naručitelj je također transparentno objavio ispravak vlastite pogreške (nesrazmjeran uvjet tehničke i stručne sposobnosti) putem službene izmjene obavijesti prije roka za dostavu ponuda, čime je otklonjena nejasnoća. Jedina slabost je minimalizam tehničke specifikacije i troškovnika (v. gore).",
+      "citat": "Elektronička ponuda za svaku ponuđenu grupu mora sadržavati najmanje: Uvez ponude Popunjeni eESPD obrazac ... Popunjen troškovnik ..."
+    },
+    "prosjecna_ocjena": 4.0
+  },
+  "restriktivnost": {
+    "prisutno": false,
+    "indikatori": [],
+    "rizik": "nizak"
+  },
+  "napomena": "Zanimljiv je nalaz da je izvorna dokumentacija sadržavala nesrazmjeran uvjet tehničke i stručne sposobnosti (TISS dokazivan prema ukupnoj procijenjenoj vrijednosti nabave umjesto prema vrijednosti pojedine grupe), no naručitelj je to sam uočio i ispravio službenom izmjenom (Izmjena 1., 25.10.2024.) prije roka za dostavu ponuda te produljio rok - stoga se to ne tretira kao aktivna restriktivnost u konačnoj, važećoj verziji dokumentacije koja je i pročitana. Pragovi investicijske vrijednosti za dodjelu dodatnih bodova za iskustvo stručnjaka (npr. 2.000.000 EUR za Grupu 2 čija je procijenjena vrijednost samo 28.500 EUR) relativno su visoki u odnosu na vrijednost grupe, ali se odnose isključivo na dodatne bodove kvalitete (ne na minimalni uvjet sposobnosti za sudjelovanje), pa nisu ocijenjeni kao isključujuća restriktivnost. Naručitelj (Opća bolnica Zadar) objavio je i popis gospodarskih subjekata s kojima je u sukobu interesa (ECO DRAFT d.o.o.), što je standardna, transparentna praksa, ne indikator restriktivnosti."
+}

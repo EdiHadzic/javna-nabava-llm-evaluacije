@@ -1,0 +1,43 @@
+{
+  "postupak_id": 32007,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij ENP potpuno je operacionaliziran: eksplicitna formula za cijenu (P = Pn/Pr*90) i potpuno definirana bodovna skala za rok isporuke po satnim intervalima, identično za sve tri grupe.",
+      "citat": "Isporuka u roku od 0 do 12 sati: 10 bodova; 12,01 do 24 sata: 5 bodova; 24,01 do 36 sati: 0 bodova"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 3,
+      "obrazlozenje": "Opis predmeta nabave na razini opće dokumentacije prazan je i u potpunosti prebačen na troškovnik. Sam troškovnik je za Grupu 1 razumno generičan, ali za Grupe 2 i 3 opisi pojedinih stavki su neuobičajeno detaljni, formulirani gotovo kao promotivni/proizvođački tekst jednog konkretnog proizvoda, bez klauzule 'ili jednakovrijedno'.",
+      "citat": "Tehničke specifikacije za predmet nabave su sastavni dio troškovnika."
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 4,
+      "obrazlozenje": "Dostupan je pun paket dokumentacije potreban za samostalnu izradu ponude: Opći podaci, Kriteriji kvalitativnog odabira, Upute za ponuditelje, Troškovnik za sve 3 grupe, PRILOG 1, Prijedlog ugovora.",
+      "citat": "Popunjen troškovnik ... Popunjen obrazac ponude – PRILOG 1 ... Prijedlog ugovora ili okvirnog sporazuma PRIJEDLOG UGOVORA"
+    },
+    "prosjecna_ocjena": 4.0
+  },
+  "restriktivnost": {
+    "prisutno": true,
+    "indikatori": [
+      {
+        "indikator": "Opis stavki u Grupi 2 (termokauter nastavci) formuliran je u stilu proizvođačkog promotivnog materijala s vrlo specifičnim funkcionalnim/kliničkim svojstvima, karakterističnim za jedan konkretan komercijalni proizvod, bez klauzule o jednakovrijednosti.",
+        "rizik": "srednji"
+      },
+      {
+        "indikator": "Opis stavke u Grupi 3 (matrica za regeneraciju dure) navodi točno određeno vrijeme resorpcije i materijal, specifikacija tipična za jedan određeni proizvod na tržištu.",
+        "rizik": "srednji"
+      },
+      {
+        "indikator": "Napomena da su generator i nožna pedala već 'dani na korištenje' upućuje na postojeću opremu naručitelja s kojom ponuđeni potrošni materijal mora biti kompatibilan - potencijalni vendor lock-in.",
+        "rizik": "srednji"
+      },
+      {
+        "indikator": "Ni u jednom od tri troškovnika ne postoji klauzula 'ili jednakovrijedno' uz visoko specifične tehničke opise.",
+        "rizik": "srednji"
+      }
+    ],
+    "rizik": "srednji"
+  }
+}

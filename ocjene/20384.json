@@ -1,0 +1,37 @@
+{
+  "postupak_id": 20384,
+  "transparentnost": {
+    "jasnoca_kriterija": {
+      "ocjena": 5,
+      "obrazlozenje": "Kriterij za odabir ponude (ekonomski najpovoljnija ponuda) potpuno je operacionaliziran: cijena 90 bodova, jamstveni rok 10 bodova, s eksplicitnom matematičkom formulom za bodovanje cijene i točnom tablicom pretvorbe broja mjeseci jamstvenog roka u bodove (npr. 72 i više mjeseci = 10,00 bodova). Nema prostora za diskrecijsku ocjenu naručitelja.",
+      "citat": "Rbr Opis Broj bodova ... 6 72 mjeseca i više 10,00"
+    },
+    "razina_detalja_opisa": {
+      "ocjena": 5,
+      "obrazlozenje": "Predmet nabave (sustav vatrodojave) opisan je kroz opsežan troškovnik od 51 stavke s preciznim tehničkim parametrima za svaku komponentu (npr. minimalni broj petlji, radni naponi, struje u mirovanju/alarmu, IP zaštita, sukladnost s HRN EN 54 normama) te dodatni Izvedbeni projekt kao prilog. Razina detalja je vrlo visoka i omogućuje izravnu usporedivost ponuda.",
+      "citat": "- radni napon minimalno u rasponu od 19 do 30 Vdc - struja u mirovanju najviše 200 μA, struja u alarmu najviše 10 mA"
+    },
+    "potpunost_dokumentacije": {
+      "ocjena": 5,
+      "obrazlozenje": "Dostupan je pun set dokumenata potreban za samostalnu izradu ponude: Opći podaci, Obavijest o nadmetanju, Upute za ponuditelje, Kriteriji za odabir ponude, Kriteriji za kvalitativni odabir gospodarskog subjekta, Tehnička specifikacija s Izvedbenim projektom, Troškovnik, Prijedlog ugovora te obrasci izjava (o integritetu, o jamstvenom roku). Svi dokumenti međusobno su konzistentni i upućuju jedni na druge.",
+      "citat": "Elektronička ponuda mora sadržavati najmanje: Uvez ponude, Popunjeni eESPD obrazac, Popunjen troškovnik ... Prijedlog ugovora ... Izjava o integritetu"
+    },
+    "prosjecna_ocjena": 5.0
+  },
+  "restriktivnost": {
+    "prisutno": true,
+    "indikatori": [
+      {
+        "opis": "Gotovo sve stavke troškovnika (najmanje 20 od 51) referenciraju točan naziv i model proizvoda jednog proizvođača (INIM) uz standardnu klauzulu 'ili jednakovrijedno', uključujući vrlo specifične tehnološke reference na vlasnički INIM ekosustav (HorNet mreža, Iris/Enea/Apollo protokoli).",
+        "citat": "INIM S-SmartLoop2080/G ili jednakovrijedno."
+      },
+      {
+        "opis": "Dimenzijski i maseni zahtjevi za centralu (max 480x470x135 mm, masa max 8 kg) precizno odgovaraju parametrima referentnog INIM modela; u praksi je doveo do isključenja ponuditelja PERAN d.o.o. čija je ponuđena centrala bila veća/teža od dopuštenog.",
+        "citat": "ponuđena centrala za dojavu požara dimenzijama i maksimalnom dopuštenom masom (VxŠxD 600x445x225 mm, masa 15 kg) nije u skladu s uvjetima propisanim u troškovniku (VxŠxD max. 480x470x135 mm, masa max. 8 kg)"
+      }
+    ],
+    "rizik": "nizak",
+    "napomena_o_riziku": "Unatoč pervazivnim referencama na jednu markicu (INIM), klauzula 'ili jednakovrijedno' primijenjena je dosljedno i u skladu s čl. 209. ZJN, mehanizam dokazivanja jednakovrijednosti jasno je opisan, a u postupku je sudjelovalo 4 ponuditelja (od kojih dva odbijena zbog objektivnog neispunjavanja minimalnih tehničkih karakteristika, ne zbog formalnosti vezane uz marku) što ukazuje na stvarnu tržišnu dostupnost unatoč detaljnoj specifikaciji."
+  },
+  "napomena": "Dokumentacija je bila iznimno cjelovita i čitljiva (HTML izvori portala + PDF/XLS prilozi), uključujući Odluku o odabiru s detaljnim obrazloženjima odbijanja dviju ponuda, što je omogućilo visoku pouzdanost ocjene. Zapisnik o pregledu i ocjeni i dodatna korespondencija o upotpunjavanju dokumentacije (CONSTRUCTA TERRA, LOCUM) pregledani su radi konteksta, ali nisu bili presudni za ocjenu transparentnosti/restriktivnosti."
+}
