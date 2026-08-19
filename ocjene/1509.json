@@ -1,49 +1,27 @@
 {
   "postupak_id": 1509,
-  "broj_pojedinacnih_runova": 2,
   "transparentnost": {
     "jasnoca_kriterija": {
       "ocjena": 5,
-      "obrazlozenje": "Kriterij ekonomski najpovoljnije ponude potpuno je operacionaliziran i bez prostora za diskrecijsko tumačenje: cijena nosi 85 bodova prema eksplicitnoj matematičkoj formuli (najniža cijena/cijena x 85), a rok trajanja jamstva za odrađene radove nosi do 15 bodova prema jasno stupnjevanoj ljestvici s četiri praga (2 godine = 0 bodova, do 4 godine = 5 bodova, do 5 godina = 10 bodova, 6 godina i više = 15 bodova). Uvjeti sposobnosti (popis radova, tehnički stručnjaci) također su zadani konkretnim brojčanim pragovima (min. 3 ugovora u zbroju ne manjem od 1.000.000 EUR; stručnjaci s min. 2 projekta izgradnje/rekonstrukcije kanalizacijske mreže u duljini ne manjoj od 2.000 m1). Potpunu mjerljivost potvrđuje i Zapisnik o pregledu i ocjeni ponuda, gdje su bodovi za oba ponuditelja izračunati bez ikakvih nejasnoća ili spornih tumačenja.",
-      "citat": "Jamstvo za odrađene radove 2 godine - 0 bodova - do 4 godine - 5 bodova - do 5 godina - 10 bodova - 6 godina i više - 15 bodova",
-      "runovi": [
-        5,
-        5
-      ],
-      "slaganje": "puno"
+      "obrazlozenje": "Kriteriji za odabir ponude su potpuno kvantificirani i mjerljivi: cijena 85 bodova po eksplicitnoj formuli, jamstvo 15 bodova prema jasnoj ljestvici (2/4/5/6+ godina). Uvjeti sposobnosti (upis u registar, popis radova, tehnički stručnjaci) definirani su konkretnim brojčanim pragovima uz jasan način dokazivanja (ESPD, potvrde, obrazac životopisa).",
+      "citat": "Popis mora sadržavati minimalno 3 Ugovora u zbroju ne manji od 1.000.000,00 eura."
     },
     "razina_detalja_opisa": {
       "ocjena": 4,
-      "obrazlozenje": "Troškovnik (koji formalno nosi tehničku specifikaciju) doista je vrlo detaljan — potvrđeno izravnim uvidom u '(root)__Troškovnik_Špada.xls.txt': stavke navode dimenzije, klase materijala i norme (HRN EN, DIN, ISO) uz dosljednu klauzulu 'ili jednakovrijedno' (npr. HRN EN 124 za poklopce okna), čime se izbjegava sužavanje na jednog proizvođača. Međutim, sâm opis predmeta nabave u tijelu DON-a (t. 2.1–2.4) sveden je na upućivanje: 'sve sukladno troškovniku koji je sastavni dio DON-a' i 'Nevedene u troškovniku koji je sastavni dio dokumentacije o nabavi' (provjereno u '(root)__DON_MO Špada.pdf.txt', redci 89-100) — DON samostalno ne nosi nikakav narativni opis. Dodatno, cjelokupna projektna dokumentacija (glavni/idejni projekt) ne prilaže se unutar objavljene dokumentacije nego se upućuje na vanjsku poveznicu izvan EOJN sustava. Zbog kombinacije 'prazne' DON-ove naracije i ovisnosti o eksternom resursu, ocjena se spušta s maksimuma na 4 unatoč visokoj kvaliteti samog troškovnika.",
-      "citat": "2.1. Opis predmeta nabave: Predmet nabave je „Izgradnja sustava javne odvodnje komunalnih otpadnih voda u naselju Špada (1.faza) u gradu Zadru“ sve sukladno troškovniku koji je sastavni dio DON-a. [...] 2.4. Tehničke specifikacije: Nevedene u troškovniku koji je sastavni dio dokumentacije o nabavi.",
-      "runovi": [
-        5,
-        4
-      ],
-      "slaganje": "djelomicno"
+      "obrazlozenje": "Opis predmeta nabave u DON-u je sažet i upućuje na troškovnik kao jedini nositelj tehničkih specifikacija, ali sâm troškovnik (77 kB) sadrži vrlo detaljne stavke s tehničkim normama (HRN EN) i dosljednom klauzulom 'ili jednakovrijedna', što omogućuje usporedivost ponuda bez isključivanja alternativnih rješenja. Manji minus jer tehnički opis nije izdvojen u zaseban, lako pregledan dokument nego je uklopljen isključivo u troškovnik.",
+      "citat": "U jediničnu cijenu predvidjeti sav potreban materijal, rad ljudi i strojeva prema općim tehničkim pravilima struke, normama i standardima u graditeljstvu"
     },
     "potpunost_dokumentacije": {
-      "ocjena": 4,
-      "obrazlozenje": "Dostupna je puna dokumentacija potrebna za samostalnu izradu ponude: DON s općim podacima, Kriteriji za kvalitativni odabir, zaseban dokument 'Upute za ponuditelje', troškovnik, ESPD obrazac i obrasci za tehničke stručnjake (npr. Prilog 16 za životopise). Ocjena je spuštena s maksimuma jer se za 'cjelokupnu projektnu dokumentaciju' (glavni/idejni projekt, tehnički detalji izvan troškovnika) izrijekom upućuje na vanjsku poveznicu na web-stranici naručitelja, izvan EOJN sustava, čime dio dokumentacije formalno nije samostalno dostupan unutar objavljenog paketa dokumentacije o nabavi, nego ovisi o dostupnosti vanjskog resursa.",
-      "citat": "Cjelokupna projektna dokumentacija je dostupna na sljedećem link-u: https://www.odvodnja.hr/projekt_spada.html",
-      "runovi": [
-        4,
-        4
-      ],
-      "slaganje": "puno"
+      "ocjena": 5,
+      "obrazlozenje": "Dostupan je pun set dokumenata potreban za samostalnu izradu ponude: DON, Kriteriji za kvalitativni odabir, Upute za ponuditelje, Obavijest o nadmetanju i detaljan troškovnik sa svim stavkama, uz jasno navedene obvezne sastavnice ponude.",
+      "citat": "Elektronička ponuda mora sadržavati najmanje: Uvez ponude Popunjeni eESPD obrazac... Popunjen troškovnik"
     },
-    "prosjecna_ocjena": 4.33
+    "prosjecna_ocjena": 4.67
   },
   "restriktivnost": {
     "prisutno": false,
     "indikatori": [],
-    "rizik": "nizak",
-    "runovi_prisutno": [
-      false,
-      false
-    ],
-    "slaganje": "puno"
+    "rizik": "nizak"
   },
-  "napomena": "Pročitani su svi ključni dokumenti iz extracted/ (DON, Kriteriji za kvalitativni odabir, Upute za ponuditelje, Obavijest o nadmetanju, Opći podaci o postupku nabave, Troškovnik, Zapisnik o pregledu i ocjeni, Obavijest o dodjeli ugovora), kao i dodatna izravna provjera DON-a i troškovnika radi razrješenja razina_detalja_opisa. Zaprimljene su 2 ponude (STRABAG d.o.o. i VODOINSTALACIJA d.o.o.), obje ocijenjene sukladnima bez sporova; odabrana je VODOINSTALACIJA d.o.o. sa 100 bodova. Više popratnih dokumenata (izjave, obrasci, pojašnjenje, odluka) ekstrahirano je kao prazno ili gotovo prazno (1-11 bajtova), vjerojatno zbog OCR/formatnih ograničenja pipeline-a (4.1.), no nisu bili nužni za ocjenu triju dimenzija transparentnosti jer su ključni sadržaji (kriteriji, opis predmeta, troškovnik) bili potpuno dostupni u drugim datotekama. Nema referenci na točno određeni proizvod/marku niti patentirano rješenje u troškovniku; svi navedeni pragovi sposobnosti razmjerni su procijenjenoj vrijednosti nabave (1.382.000,00 EUR). Nizak broj ponuda (2) nema dokazanog traga u dokumentaciji da je posljedica prilagođene specifikacije, stoga nije evidentiran kao indikator restriktivnosti.",
-  "napomena_resolvera": "Jasnoća kriterija i potpunost dokumentacije imali su puno slaganje (ista brojčana ocjena, sadržajno usklađena obrazloženja) — finalne ocjene preuzete izravno, citat odabran prema preciznosti (kod jasnoće kriterija odabrana je verzija s cijelom bodovnom ljestvicom umjesto samo najvišeg praga). Razina detalja opisa razilazila se za točno 1 bod (run 1: 5, run 2: 4) uz sadržajno kompatibilna, ali različito naglašena obrazloženja (run 1 gledao isključivo kvalitetu troškovnika; run 2 dodatno naglasio da je opis u samom tijelu DON-a prazan te ovisnost o eksternoj poveznici) — razriješeno izravnim, neovisnim čitanjem '(root)__DON_MO Špada.pdf.txt' (redci 89-104), koje je potvrdilo run-2-ovu karakterizaciju (DON t. 2.1/2.4 doslovno upućuje na troškovnik bez ikakvog vlastitog opisa), pa je usvojena ocjena 4. Restriktivnost je imala puno slaganje (oba runa: prisutno=false, rizik=nizak); run 2 je naveo dodatne potporne napomene (generički tehnički zahtjevi, razmjerni prag referenci, nema uvjeta ekonomske sposobnosti, dosljedna klauzula jednakovrijednosti) koje su sadržajno konzistentne sa zaključkom run-a 1 i uklopljene u opću napomenu, ali nisu tretirane kao pozitivni indikatori restriktivnosti jer opisuju odsutnost, a ne prisutnost rizika. Razina pouzdanosti finalne ocjene: visoka — jedino razilaženje (razina_detalja_opisa) razriješeno je izravnom provjerom izvornog teksta, ne proizvoljnim odabirom između dva runa."
+  "napomena": "Pročitani su svi relevantni dokumenti u extracted/ (DON, Kriteriji za kvalitativni odabir, Upute za ponuditelje, Obavijest o nadmetanju, Troškovnik, Obavijest o dodjeli ugovora, Zapisnik o pregledu i ocjeni). Tehnički zahtjevi u troškovniku dosljedno koriste norme uz klauzulu 'ili jednakovrijedna', bez referenci na marku/proizvođača/patent. Referentni pragovi (3 ugovora, ukupno min. 1.000.000 EUR; 2 stručnjaka s min. 2 projekta od 2000 m cjevovoda) proporcionalni su procijenjenoj vrijednosti (1.382.000 EUR). Zaprimljene su 2 ponude (STRABAG i VODOINSTALACIJA), što potvrđuje stvarnu konkurenciju, a ne indikaciju restriktivnosti. Jedna datoteka (Pojašnjenje ODVODNJA - naselje Špada) ekstrahirana je prazna (0 bajtova sadržaja) - poznata ograničenja ekstrakcijskog pipelinea, ali nije bila presudna jer su svi ključni dokumenti bili čitljivi."
 }

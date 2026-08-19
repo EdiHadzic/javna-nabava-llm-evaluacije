@@ -16,8 +16,8 @@ javno objavljeno.
 ## Struktura
 
 - `ocjene/{id}.json` — finalna ocjena za postupak `{id}` (odgovara Id
-  postupka na EOJN portalu, npr. `https://eojn.hr/tender-eo/{id}`). Za 434
-  postupka to je rezultat jednog pokretanja LLM ocjenjivanja; za 24 postupka
+  postupka na EOJN portalu, npr. `https://eojn.hr/tender-eo/{id}`). Za 443
+  postupka to je rezultat jednog pokretanja LLM ocjenjivanja; za 15 postupaka
   (metodološki stariji, pouzdaniji dizajn s 2-3 neovisna pokretanja i
   razrješavanjem razlika) to je razriješena, sintetizirana finalna ocjena —
   te datoteke imaju dodatna polja (`runovi`, `slaganje`,

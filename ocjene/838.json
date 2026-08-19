@@ -1,52 +1,31 @@
 {
   "postupak_id": 838,
-  "broj_pojedinacnih_runova": 2,
   "transparentnost": {
     "jasnoca_kriterija": {
       "ocjena": 5,
-      "obrazlozenje": "Kriterij za odabir ponude (ekonomski najpovoljnija ponuda) u potpunosti je operacionaliziran i bez diskrecije: cijena nosi 80 bodova prema eksplicitnoj formuli (najniža cijena = 80 bodova, ostale razmjerno prema omjeru s najnižom), a 'Iskustvo ključnog stručnjaka' (20 bodova) definirano je zatvorenom tablicom pragova (0-1 imenovanja = 0, 2-4 = 5, 5-6 = 12, 7+ = 20 bodova) — verificirano izravnim čitanjem 'Kriteriji za odabir ponude.html.txt'. Run 2 je ocijenio 4, navodeći kao minus da je definicija 'istih ili sličnih radova' (niskogradnja: groblja, ceste, hidrotehničke građevine) široka kategorija — ovo je točan navod (potvrđeno u 'Kriteriji za kvalitativni odabir gospodarskog subjekta.html.txt', t. 5.2.1.3), ali odnosi se na uvjet tehničke sposobnosti (kvalitativni odabir gospodarskog subjekta), a ne na 'kriterije za odabir ponude' koje ova dimenzija prema definiciji mjeri (jasnoća i mjerljivost bodovanja ponude). Budući da je sâmo bodovanje ponude potpuno determinističko i mjerljivo, bez prostora za diskrecijsku ocjenu povjerenstva, zadržava se ocjena 5; opažanje o širini referentne kategorije ostaje valjano, ali kao napomena uz drugi kriterij (sposobnost), ne kao razlog za snižavanje ove dimenzije.",
-      "citat": "Ponuda s najnižom cijenom dobiva 80,00 bodova, dok se ostale ponude boduju prema formuli... Rbr Opis Broj bodova... 4  7 i više  20,00",
-      "runovi": [
-        5,
-        4
-      ],
-      "slaganje": "djelomicno"
+      "obrazlozenje": "Kriterij ENP je posve kvantificiran: cijena 80 bodova po eksplicitnoj formuli (najniža cijena = max, ostale razmjerno), kvaliteta 20 bodova preko čvrste tablice pragova (0-1/2-4/5-6/7+ imenovanja stručnjaka). Nema subjektivnih/opisnih kriterija koje bi povjerenstvo tumačilo naknadno; primjena u Zapisniku o pregledu i ocjeni potpuno je dosljedna objavljenoj formuli.",
+      "citat": "Bodovna vrijednost prema ovom kriteriju izračunava se prema broju imenovanja na funkciju/broj obavljenih poslova"
     },
     "razina_detalja_opisa": {
       "ocjena": 4,
-      "obrazlozenje": "Opis predmeta nabave za glavni predmet nabave (52 grobnice) potkrijepljen je vrlo detaljnim troškovnikom i glavnim arhitektonskim/konstrukcijskim tekstovima s konkretnim dimenzijama, klasama betona i normama (npr. 'Betonirati betonom C30/37... Debljina svih zidova je 20 cm'), što omogućuje usporedive ponude bez isključivanja jednakovrijednih rješenja. Međutim, izravnom provjerom cjelokupnog direktorija extracted/ utvrđeno je da je 27 od 58 izdvojenih datoteka (gotovo polovica) prazno ili gotovo prazno (0-1 znak) — i to ne 'nekoliko' pojedinačnih priloga kako je naveo run 1, nego sustavno svi pojedinačni nacrti (LIST 1-10, 6A, SHEME OTVORA — 12 datoteka) za pomoćni objekt i svi nacrti rasvjete parkirališta (list 0-5 — 6 datoteka), uz još nekoliko sličnih kod rasvjete grobalja. Riječ je gotovo sigurno o skeniranim/CAD nacrtima bez tekstualnog sloja (ograničenje 4.1. pipelinea), no za te dvije sekundarne cjeline (pomoćni objekt, rasvjeta parkirališta) grafički detalj se ne može verificirati iz teksta, iako narativni opisi tih cjelina (glavni_tekst_arhitektura, projekt konstrukcije) jesu prisutni i opsežni. Zbog konkretnosti i mjerljivosti detalja za glavninu predmeta nabave, ali uz stvaran i opsežniji nego prvotno procijenjen nedostatak grafičke dokumentacije za sekundarne cjeline, ocjena je 4, ne 5.",
-      "citat": "Betoniranje armiranobetonskih zidova grobnica. Betonirati betonom C30/37 sa dodatkom za vodonepropusnost... Debljina svih zidova je 20 cm.",
-      "runovi": [
-        4,
-        5
-      ],
-      "slaganje": "djelomicno"
+      "obrazlozenje": "Opis predmeta vrlo je konkretan i tehnički bogat (izvedbeni arhitektonski, konstruktivni i elektro-projekt te troškovnik od gotovo 1000 stavki s preciznim tehničkim opisima svake pozicije), što omogućuje potpuno usporedive ponude. Blago umanjuje ocjenu što nekoliko stavki troškovnika imenuje konkretan komercijalni proizvod/marku (dekorativni beton, rasvjetna tijela) umjesto isključivo generičke tehničke specifikacije, iako je to popraćeno klauzulom o jednakovrijednosti (v. restriktivnost niže) pa stvarno isključenje alternativa nije vjerojatno.",
+      "citat": "Izrada bojanog pranog kulir betona tip CEMEX CoolirADVANCED debljine 12 cm."
     },
     "potpunost_dokumentacije": {
-      "ocjena": 4,
-      "obrazlozenje": "Oba runa dala su istu ocjenu (4) uz djelomično različite, ali komplementarne razloge za umanjenje s maksimuma: run 1 ističe da su brojni grafički PDF-ovi (tlocrti, sheme) ekstrahirani prazni ili gotovo prazni, dok run 2 ističe da je 'Prilozi.zip.txt' ekstrahiran prazan (0 bajtova) pa se ne može provjeriti sadrži li dodatnu dokumentaciju. Izravna provjera potvrđuje oba nalaza: uz Prilozi.zip (0 B), doista je 27/58 datoteka prazno/gotovo prazno, koncentrirano u nacrtima pomoćnog objekta i rasvjete parkirališta. Unatoč tome, dostupna je puna standardna tekstualna dokumentacija dostatna za samostalnu izradu ponude: Opći podaci, Upute za ponuditelje, Kriteriji (odabira i kvalitativnog odabira), Obavijest o nadmetanju, glavni arhitektonski/konstrukcijski tekstovi i detaljan troškovnik (109.637 B, ~1000 redaka sa stavkama, opisima i normativima). Ocjena 4 odražava tu kombinaciju - dokumentacija je funkcionalno potpuna, ali s dva odvojena, potvrđena nedostatka u ekstrahiranom skupu (prazan zip prilog i prazni grafički nacrti sekundarnih cjelina).",
-      "citat": "3.1.3. Troškovnik Detaljan troškovnik se nalazi u zasebnom prilogu – Troškovnik.",
-      "runovi": [
-        4,
-        4
-      ],
-      "slaganje": "puno"
+      "ocjena": 5,
+      "obrazlozenje": "Dostupna je puna projektna dokumentacija (arhitektura, konstrukcija, elektroinstalacije/rasvjeta), detaljan troškovnik s općim uvjetima izvođenja, Kriteriji za odabir ponude, Kriteriji za kvalitativni odabir gospodarskog subjekta i Upute za ponuditelje s jasno navedenim obveznim sadržajem ponude, iznosima jamstava i rokovima. Dovoljno za samostalnu izradu ponude bez dodatnih upita naručitelju o osnovnim parametrima nabave.",
+      "citat": "Elektronička ponuda mora sadržavati najmanje: Uvez ponude, Popunjeni eESPD obrazac, Popunjen troškovnik, Vrijednosti kriterija za odabir ponude..."
     },
-    "prosjecna_ocjena": 4.33
+    "prosjecna_ocjena": 4.67
   },
   "restriktivnost": {
     "prisutno": true,
     "indikatori": [
-      "Potvrđeno izravnim čitanjem '(root)__TROŠKOVNIK Groblje faza 4.xlsx.txt' (stavke IV/01 i IV/02, list 'IV_ukrasni beton'): troškovnik doslovno imenuje konkretan komercijalni proizvod jednog proizvođača - 'Izrada bojanog pranog kulir betona tip CEMEX CoolirADVANCED debljine 12 cm' i 'izrada i doprema betona tipa CEMEX CoolirADVANCED bojanog pigmentom...', te ponovno 'kulir betonom tip Coolir Advanced C 30/37' u IV/02 - bez da je uz same te stavke izravno navedena fraza 'ili jednakovrijedno' (za razliku od većine drugih stavki troškovnika koje tu frazu eksplicitno sadrže, npr. 'u zaštiti min. IP44 ili jednakovrijedno').",
-      "Rizik je formalno ublažen s dvije razine: (1) opća klauzula u 'Opći podaci o postupku nabave' (t. 3.1.2. Tehničke specifikacije): 'Kriteriji za ocjenu jednakovrijednosti predmeta nabave: Zadovoljenje tehničkih specifikacija navedenih proizvoda uz dozvoljeno odstupanje 5% od minimalnih tehničkih karakteristika'; (2) opća napomena u samom troškovniku (t. 13): 'U specifikaciji specificirana oprema (proizvođač, kataloški broj i sl.) podrazumijeva se \"kao tip … ili jednakovrijedno\"... Kod takvih je stavki formirano mjesto za upis nuđenog jednakovrijednog proizvoda' - čime nabavna dokumentacija kao cjelina formalno ne isključuje jednakovrijednu ponudu, iako to nije ponovljeno uz konkretnu CEMEX stavku."
+      "Troškovnik u više stavki imenuje konkretan komercijalni proizvod/marku umjesto isključivo generičkog tehničkog opisa, npr. dekorativni kolni beton: 'Izrada bojanog pranog kulir betona tip CEMEX CoolirADVANCED debljine 12 cm' i rasvjetna tijela: 'Dobava, montaža i spajanje ugradne zidne svjetiljke tip kao BEGA 33017A, K3, IP65... komplet sa kutijom za ugradnju tip BEGA 10424'.",
+      "Mitigirajući faktor (smanjuje rizik): dokumentacija sadrži opću klauzulu o jednakovrijednosti na dvije razine — u 'Opći podaci o postupku nabave' ('Kriteriji za ocjenu jednakovrijednosti predmeta nabave: Zadovoljenje tehničkih specifikacija navedenih proizvoda uz dozvoljeno odstupanje 5% od minimalnih tehničkih karakteristika') i u samom troškovniku ('specificirana oprema... podrazumjeva se \"kao tip … ili jednakovrijedno\"'), a stavka za rasvjetu izrijekom koristi formulaciju 'tip kao BEGA', što je u skladu s čl. 200. ZJN2016 i standardna je praksa u građevinskim nabavama.",
+      "Referentni prag za tehničku sposobnost je proporcionalan (najmanje u visini procijenjene vrijednosti nabave, dopušteno kroz 1-4 ranija ugovora), nije neproporcionalno visok."
     ],
-    "rizik": "nizak",
-    "runovi_prisutno": [
-      false,
-      true
-    ],
-    "slaganje": "rascjep"
+    "rizik": "nizak"
   },
-  "napomena": "Resolver je izravno pročitao i verificirao ključne izvore: '(root)__TROŠKOVNIK Groblje faza 4.xlsx.txt' (109.637 B, cjelovito), '(root)__Kriteriji za odabir ponude.html.txt', '(root)__Kriteriji za kvalitativni odabir gospodarskog subjekta.html.txt' i '(root)__Opći podaci o postupku nabave.html.txt', te popisao cijeli extracted/ direktorij (58 datoteka) radi provjere opsega prazne ekstrakcije. Utvrđeno: 27/58 datoteka (46,5%) prazno je ili gotovo prazno (0-1 znak), sustavno koncentrirano u pojedinačnim grafičkim nacrtima pomoćnog objekta (12 datoteka) i rasvjete parkirališta (6 datoteka) te 'Prilozi.zip.txt' - vjerojatno skenirani/CAD dokumenti bez tekstualnog sloja (ograničenje 4.1. ekstrakcijskog pipelinea), ne stvarni izostanak dokumentacije. Glavni predmet nabave (52 grobnice) i troškovnik u cjelini dobro su pokriveni tekstom.",
-  "napomena_resolvera": "Tri od četiri stavke riješene su bez potrebe za punim rascjepom: potpunost_dokumentacije imala je puno slaganje (obje ocjene 4) pa je obrazloženje samo sintetiziralo dva različita, ali oba potvrđena nalaza o praznoj ekstrakciji. jasnoca_kriterija i razina_detalja_opisa razlikovale su se za točno 1 bod (djelomično slaganje); u oba slučaja resolver je izravno pročitao izvorne dokumente (Kriteriji za odabir ponude, Kriteriji za kvalitativni odabir, cijeli popis extracted/) da presudi koji je citat/obrazloženje preciznije utemeljen, umjesto mehaničkog usrednjavanja - za jasnoca_kriterija zadržana je viša ocjena (5) jer se run 2 primjedba odnosila na drugi kriterij (sposobnost, ne odabir ponude); za razinu_detalja_opisa zadržana je niža ocjena (4) jer je izravna provjera pokazala da je prazna ekstrakcija opsežnija (27/58 datoteka) nego što je bilo koji run naveo, iako koncentrirana na sekundarne cjeline. restriktivnost je bila stvaran rascjep 1-na-1 (run 1: false, run 2: true) - resolver je samostalno pročitao troškovnik i potvrdio da je CEMEX CoolirADVANCED marka doista dvaput doslovno navedena bez izravno pripojene klauzule jednakovrijednosti uz tu stavku, pa je finalno prisutno: true unatoč run-1 negativnom nalazu; rizik je ipak procijenjen kao nizak jer postoje dvije neovisne, opće klauzule jednakovrijednosti u dokumentaciji (glavni tekst 3.1.2. i troškovnik t. 13) koje formalno pokrivaju i ovu stavku. Razina pouzdanosti finalne ocjene: umjerena do visoka - jedna dimenzija ima puno slaganje, dvije djelomično (obje razriješene izravnom provjerom izvora), a rascjep kod restriktivnosti razriješen je konkretnim, provjerljivim citatom iz izvornog troškovnika, ne pretpostavkom."
+  "napomena": "Pročitane su sve relevantne .txt datoteke u extracted/ (Opći podaci, Kriteriji za odabir ponude, Kriteriji za kvalitativni odabir, Upute za ponuditelje, Obavijest o nadmetanju, Obavijest o dodjeli ugovora, Zapisnik o pregledu i ocjeni, Odluka o odabiru, te tehnička dokumentacija/troškovnik). Napomena o kvaliteti ekstrakcije: 16 datoteka (uglavnom nacrti pomoćnog objekta 'arhitektura i statika LIST 1-10', dio rasvjete parkirališta i jedna shema) ekstrahirano je kao gotovo prazno (0-1 bajt), vjerojatno skenirani/CAD nacrti koje pipeline ekstrakcije nije uspio pročitati (poznata OCR/scan limitacija, v. CLAUDE.md) — te datoteke formalno postoje kao dio dokumentacije, samo njihov sadržaj nije bio dostupan za ovu ocjenu; ne smatram to indikacijom stvarnog nedostatka dokumentacije jer je opsežan tekstualni/troškovnički sadržaj dostupan i dostatan. Postupak je imao 2 ponuditelja (TEHMA d.o.o. i TIM d.o.o.), oba dosegla maksimalni bod za kriterij kvalitete (7+ imenovanja), pa u praksi kriterij kvalitete nije diferencirao ponude — što je opservacija o ishodu, ne o jasnoći same specifikacije kriterija."
 }
