@@ -1,7 +1,7 @@
 # Evaluacije transparentnosti javne nabave (LLM)
 
 Ovaj repozitorij sadrži strojno (LLM) generirane ocjene transparentnosti i
-restriktivnosti za 458 dovršenih postupaka javne nabave Zadarske županije
+restriktivnosti za 457+1 dovršenih postupaka javne nabave Zadarske županije
 objavljenih tijekom 2024. godine, prikupljenih s portala EOJN RH
 (https://eojn.hr). Podaci su nusprodukt diplomskog rada *"Analiza javnih
 nabava primjenom umjetne inteligencije u funkciji učinkovitog i djelotvornog
