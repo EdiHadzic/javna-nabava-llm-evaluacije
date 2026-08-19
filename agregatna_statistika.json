@@ -1,10 +1,10 @@
 {
   "n_total": 457,
-  "n_legacy_multirun": 24,
-  "n_single_run": 433,
+  "n_legacy_multirun": 15,
+  "n_single_run": 442,
   "avg_score": {
-    "mean": 4.339277899343545,
-    "sd": 0.6856360935292665,
+    "mean": 4.3429978118161925,
+    "sd": 0.6864974576027161,
     "min": 1.33,
     "max": 5.0
   },
@@ -20,11 +20,11 @@
   },
   "dim_stats": {
     "jasnoca_kriterija": {
-      "mean": 4.824945295404814,
-      "sd": 0.5333425903398555,
+      "mean": 4.827133479212254,
+      "sd": 0.5320032428986075,
       "dist": {
-        "5": 402,
-        "4": 37,
+        "5": 403,
+        "4": 36,
         "3": 11,
         "2": 7
       }
@@ -41,11 +41,11 @@
       }
     },
     "potpunost_dokumentacije": {
-      "mean": 4.361050328227571,
-      "sd": 0.980584713525168,
+      "mean": 4.36980306345733,
+      "sd": 0.9817851849563659,
       "dist": {
-        "4": 151,
-        "5": 261,
+        "5": 265,
+        "4": 147,
         "3": 14,
         "1": 20,
         "2": 11
@@ -60,63 +60,63 @@
   "sector_avg": {
     "Robe": {
       "n": 203,
-      "mean": 4.442709359605911,
-      "sd": 0.40933208754346795
+      "mean": 4.444384236453202,
+      "sd": 0.409563013728736
     },
     "Radovi": {
       "n": 132,
-      "mean": 4.478106060606061,
-      "sd": 0.529682770378645
+      "mean": 4.485833333333333,
+      "sd": 0.5299457400279177
     },
     "Usluge": {
       "n": 122,
-      "mean": 4.0169672131147545,
-      "sd": 1.0178608953111956
+      "mean": 4.0197540983606554,
+      "sd": 1.0191787622240023
     }
   },
   "sector_dim": {
     "Robe": {
-      "jasnoca_kriterija": 4.945812807881773,
+      "jasnoca_kriterija": 4.9507389162561575,
       "razina_detalja_opisa": 3.7783251231527095,
       "potpunost_dokumentacije": 4.600985221674877
     },
     "Radovi": {
       "jasnoca_kriterija": 4.878787878787879,
       "razina_detalja_opisa": 4.113636363636363,
-      "potpunost_dokumentacije": 4.4393939393939394
+      "potpunost_dokumentacije": 4.462121212121212
     },
     "Usluge": {
       "jasnoca_kriterija": 4.565573770491803,
       "razina_detalja_opisa": 3.6065573770491803,
-      "potpunost_dokumentacije": 3.877049180327869
+      "potpunost_dokumentacije": 3.8852459016393444
     }
   },
-  "restr_overall": 0.43326039387308535,
-  "restr_count": 198,
+  "restr_overall": 0.43544857768052514,
+  "restr_count": 199,
   "restr_by_sector": {
-    "Robe": 0.5024630541871922,
+    "Robe": 0.5073891625615764,
     "Radovi": 0.3484848484848485,
     "Usluge": 0.4098360655737705
   },
   "rizik_among_flagged": {
     "nizak": 49,
-    "srednji": 116,
+    "srednji": 117,
     "visok": 33
   },
   "rizik_full_sample": {
-    "nizak": 308,
-    "srednji": 116,
+    "nizak": 307,
+    "srednji": 117,
     "visok": 33
   },
   "rizik_by_sector": {
     "Robe": {
+      "nizak": 22,
       "srednji": 66,
-      "nizak": 21,
       "visok": 15
     },
     "Radovi": {
-      "nizak": 21,
-      "srednji": 23,
+      "nizak": 20,
+      "srednji": 24,
       "visok": 2
     },
     "Usluge": {
@@ -126,7 +126,7 @@
     }
   },
   "restr_rate_low_score": 0.5263157894736842,
-  "restr_rate_high_score": 0.42,
+  "restr_rate_high_score": 0.4225,
   "n_low_score": 57,
   "n_high_score": 400
 }

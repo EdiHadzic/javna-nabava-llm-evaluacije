@@ -1,49 +1,33 @@
 {
   "postupak_id": 220,
-  "broj_pojedinacnih_runova": 2,
   "transparentnost": {
     "jasnoca_kriterija": {
       "ocjena": 5,
-      "obrazlozenje": "Kriterij odabira (ekonomski najpovoljnija ponuda) u potpunosti je matematički eksplicitan za oba parametra: cijena nosi 90% s formulom CP=(Cmin/Cpon)*90, a jamstveni rok za otklanjanje nedostataka 10% s formulom JR=(Jo/Jn)*10, dodatno konkretiziranom tablicom bodova po godinama trajanja jamstva (2 godine = 0, 3 godine = 5, 4 godine = 10 bodova). Definirano je i jasno pravilo za razrješenje jednako rangiranih ponuda (raniji primitak ponude). Ne ostavlja se prostor za diskrecijsko tumačenje.",
-      "citat": "JR = (Jo/Jn) * 10 ... Trajanje jamstva u godinama: 2 godine 0, 3 godine 5, 4 godine 10",
-      "runovi": [
-        5,
-        5
-      ],
-      "slaganje": "puno"
+      "obrazlozenje": "Kriterij ENP potpuno je operacionaliziran: cijena 90 bodova, jamstveni rok za otklanjanje nedostataka 10 bodova, uz eksplicitne matematičke formule za oba (CP=(Cmin/Cpon)*90; JR=(Jo/Jn)*10) i tablicu bodova za jamstveni rok (2/3/4 god = 0/5/10 bodova). Nema dvosmislenosti u načinu bodovanja.",
+      "citat": "CP = (Cmin/Cpon) * 90 ... Temeljem vrednovanja ponude po kriteriju cijene najviše se može dobiti 90 bodova."
     },
     "razina_detalja_opisa": {
       "ocjena": 5,
-      "obrazlozenje": "Predmet nabave (izgradnja servisne prometnice, CPV 45233120) razrađen je kroz opsežan Glavni projekt (tehnička specifikacija) i detaljan Troškovnik čije su stavke definirane prema Općim tehničkim uvjetima za radove na cestama (OTU, Zagreb 2001.) s točnim količinama, jedinicama mjere i tehničkim zahtjevima (npr. zbijenost tla, debljine slojeva, vrste asfaltnih mješavina). Dokumentacija izričito dopušta ponudu 'jednakovrijednog' rješenja svugdje gdje se spominje marka, patent, tip ili podrijetlo, čime se opis drži konkretnim bez sužavanja na jednog ponuditelja ili proizvod.",
-      "citat": "Za sve stavke Troškovnika u kojima se možebitno traži ili navodi marka, patent, tip ili određeno podrijetlo, ponuditelj može ponuditi „jednakovrijedno“ traženom ili navedenom.",
-      "runovi": [
-        5,
-        5
-      ],
-      "slaganje": "puno"
+      "obrazlozenje": "Predmet nabave opisan je kroz opsežan troškovnik s pojedinačnim stavkama (svaka s tehničkim opisom, jedinicom mjere, količinom i referencom na Opće tehničke uvjete za radove na cestama) te kroz priloženi Glavni projekt (idejno/tehničko rješenje, nacrti, poprečni i uzdužni profili). Razina detalja omogućuje izravno usporedive ponude, a izričita klauzula o 'jednakovrijednosti' sprječava prekomjerno sužavanje kruga ponuditelja.",
+      "citat": "Za sve stavke Troškovnika u kojima se možebitno traži ili navodi marka, patent, tip ili određeno podrijetlo, ponuditelj može ponuditi „jednakovrijedno“ traženom."
     },
     "potpunost_dokumentacije": {
       "ocjena": 5,
-      "obrazlozenje": "Dostupan je pun standardni set dokumenata besplatno i u cijelosti: Dokumentacija o nabavi (DON) s prijedlogom ugovora i obrascima, Opći podaci o postupku nabave, Kriteriji za kvalitativni odabir gospodarskog subjekta, Kriteriji za odabir ponude, Upute za ponuditelje te detaljan troškovnik (dionice OS A i OS B) s tehničkim opisima svake stavke. Sve informacije potrebne za samostalnu izradu ponude (jamstva, rokovi, način plaćanja, uvjeti sposobnosti, popis priloga ponude) navedene su iscrpno i konzistentno kroz sve dokumente; postupak je rezultirao s 8 zaprimljenih i formalno valjanih ponuda, uključujući velike izvođače, bez naznaka nejasnoća u dokumentaciji.",
-      "citat": "Ponuditelji kreiraju ponudu u EOJN koja sadrži sljedeće: ispunjeni Ponudbeni list ... ispunjeni Troškovnik ... ispunjeni ESPD obrazac ... izjava o duljini jamstvenog roka ... ovjeren Prijedlog ugovora",
-      "runovi": [
-        5,
-        5
-      ],
-      "slaganje": "puno"
+      "obrazlozenje": "Dostupan je pun set dokumenata potreban za samostalnu izradu ponude: cjelovita Dokumentacija o nabavi (DON), Upute za ponuditelje, Kriteriji za odabir ponude i za kvalitativni odabir subjekta, detaljan troškovnik (dvije osi, OS A i OS B) te glavni projekt s tehničkim opisom i nacrtima. Sadržajno ništa bitno ne nedostaje za pripremu ponude.",
+      "citat": "Troškovnik je sastavni dio Dokumentacije o nabavi... Sve stavke Troškovnika moraju biti ispunjene."
     },
     "prosjecna_ocjena": 5.0
   },
   "restriktivnost": {
     "prisutno": false,
-    "indikatori": [],
-    "rizik": "nizak",
-    "runovi_prisutno": [
-      false,
-      false
+    "indikatori": [
+      "Referentni uvjet (najmanje 1 rad u visini procijenjene vrijednosti ili 2 rada čiji zbroj to dostiže) je standardan i proporcionalan vrijednosti nabave (2.600.822,12 EUR), ne prekomjeran.",
+      "Jamstvo za ozbiljnost ponude iznosi 70.000 EUR, tj. ~2,7% procijenjene vrijednosti, uobičajen omjer za radove ove veličine.",
+      "Kadrovski uvjet (1 inženjer gradilišta s iskustvom na 2 gradilišta sličnih radova) postavljen je minimalno, bez pretjeranih zahtjeva.",
+      "Nema referenci na specifičnu marku/proizvođača/patent; postoji izričita klauzula o prihvaćanju jednakovrijednog rješenja.",
+      "Zaprimljeno je 8 ponuda (6 od malih i srednjih poduzeća) prema Obavijesti o dodjeli ugovora, što empirijski potvrđuje da specifikacija nije odbila potencijalne ponuditelje."
     ],
-    "slaganje": "puno"
+    "rizik": "nizak"
   },
-  "napomena": "Dvije priložene arhive (GPpolicnik.rar, Prilozi.zip) ekstrahirane su kao prazne (0 bajtova), potvrđeno izravnim uvidom u extracted/ (nepodržan format arhive u ekstrakcijskom pipelineu), no to nije utjecalo na ocjenu jer su svi ključni dokumenti (DON, Upute za ponuditelje, Kriteriji za kvalitativni odabir, Kriteriji za odabir ponude, Troškovnik, Opći podaci o postupku nabave) uspješno ekstrahirani u punom tekstu. DON je uspješno ekstrahiran unatoč .doc formatu (98.691 bajtova teksta). Referentni uvjeti (1 rad u visini procijenjene vrijednosti ili 2 čiji zbroj to doseže unutar 5 godina; 1 inženjer gradilišta s iskustvom na 2 slična gradilišta) proporcionalni su procijenjenoj vrijednosti nabave (2.600.822,12 EUR) i ne prelaze uobičajenu razinu za radove ove veličine.",
-  "napomena_resolvera": "Oba runa neovisno su se u potpunosti složila na sve tri dimenzije transparentnosti (5/5/5) i na restriktivnost (oba prisutno: false), uz sadržajno kompatibilna obrazloženja i citate koji se međusobno nadopunjuju (run 2 daje detaljniju tehničku razradu troškovnika i eksplicitno navodi razloge niske restriktivnosti). Nije bilo numeričkog ni sadržajnog razilaženja te stoga nije bilo potrebe za samostalnim, nezavisnim ponovnim čitanjem izvornog teksta radi razrješenja spora (nema rascjepa) — jedina provjera izvan runova bio je uvid u popis datoteka u extracted/ radi potvrde napomene o praznim arhivama, što se poklopilo s navodima oba runa. Razina pouzdanosti finalne ocjene: visoka."
+  "napomena": "Pročitane su sve relevantne .txt datoteke iz extracted/: Opći podaci o postupku nabave, Kriteriji za kvalitativni odabir gospodarskog subjekta, Kriteriji za odabir ponude, Obavijest o nadmetanju, Upute za ponuditelje, puna Dokumentacija o nabavi (DON Biljane), troškovnik (POLIČNIK-TRO-3-os-A_os B.xlsx) i tehnički Glavni projekt (GPpolicnik.pdf, djelomično zbog opsega od 3,8MB/preko 100 stranica, ali sadržajno reprezentativan uzorak pregledan). Dvije datoteke (GPpolicnik.rar.txt, Prilozi.zip.txt) prazne su 0 bajtova (poznati artefakt neuspješne ekstrakcije arhive iz limitacije #5/#7 u CLAUDE.md), ali sadržaj tih arhiva očito dupliciran u glavnom PDF-u/DOC-u koji su uspješno ekstrahirani, pa ocjena nije oslabljena nedostatkom sadržaja."
 }

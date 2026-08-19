@@ -1,49 +1,32 @@
 {
   "postupak_id": 488,
-  "broj_pojedinacnih_runova": 2,
   "transparentnost": {
     "jasnoca_kriterija": {
       "ocjena": 5,
-      "obrazlozenje": "Kriterij za odabir ponude (ekonomski najpovoljnija ponuda) u potpunosti je operacionaliziran: cijena 90 bodova, jamstveni rok za otklanjanje nedostataka 10 bodova, uz eksplicitne matematičke formule za oba parametra (CP = (Cmin/Cpon) * 90; JR = (Jo/Jn) * 10) i tablicu bodovanja jamstvenog roka (2/3/4 godine → 0/5/10 bodova). Kriteriji za odabir gospodarskog subjekta (1 referenca u visini procijenjene vrijednosti ili 2 reference čiji zbroj to pokriva; 1 inženjer gradilišta s iskustvom na 2 slična gradilišta) također su mjerljivi. Zapisnik o pregledu i ocjeni potvrđuje dosljednu primjenu formule na obje valjane ponude (KRUŠEVO-PUT 100,00 i COLAS HRVATSKA 98,90 bodova), što dokazuje da su kriteriji bili operativno primjenjivi, ne samo deklarativni.",
-      "citat": "CP = (Cmin/Cpon) * 90 ... JR = (Jo/Jn) * 10",
-      "runovi": [
-        5,
-        5
-      ],
-      "slaganje": "puno"
+      "obrazlozenje": "Kriterij ENP je posve kvantificiran i matematički operacionaliziran u zasebnom dokumentu 'Kriteriji za odabir ponude': cijena nosi 90 bodova, jamstveni rok za otklanjanje nedostataka 10 bodova, uz eksplicitne formule za oba (CP=(Cmin/Cpon)*90; JR=(Jo/Jn)*10) i tablicu bodova po godinama jamstva (2/3/4 god. = 0/5/10 bodova). Nema prostora za diskrecijsko tumačenje; zapisnik o pregledu potvrđuje da su bodovi izračunati točno prema toj formuli.",
+      "citat": "Ponuda s najnižom cijenom dobiva 90,00 bodova, dok se ostale ponude boduju prema formuli"
     },
     "razina_detalja_opisa": {
       "ocjena": 4,
-      "obrazlozenje": "Opis predmeta (sanacija kolnika lokalne ceste L63068, CPV 45233120) potkrijepljen je opsežnim troškovnikom i tehničkom specifikacijom koja se poziva na Opće tehničke uvjete za radove na cestama (OTU, IGH 2001) i HRN norme. Razina detalja nije bila potpuna od početka: modul Pitanja/Pojašnjenja (provjereno izravno u 'Odgovori.html.txt') pokazuje da su ponuditelji morali tražiti dva pojašnjenja — stavka 1.8 (nabava/postavljanje signalizacije za privremenu regulaciju prometa) nije imala specifikaciju dovoljnu za izračun troška jer elaborat privremene regulacije prometa nije bio priložen, a stavka 3.4 (betonski rigol) izvorno nije imala zadane dimenzije. Naručitelj je oba pitanja razriješio brzo (tipska shema regulacije prometa objavljena 5.2.2024., potvrda dimenzija rigola), pa opis u konačnici omogućava usporedivu ponudu bez pretjerane suženosti (izričito dopušta jednakovrijedna rješenja).",
-      "citat": "U troškovniku u stavci 1.8 ... a u dokumentaciji nije elaborat privremene regulacije prometa.",
-      "runovi": [
-        4,
-        4
-      ],
-      "slaganje": "puno"
+      "obrazlozenje": "Troškovnik (TROSKOVNIK_za JN.xls) sadrži vrlo detaljan opis svake stavke radova s tehničkim normativima (klase betona, debljine slojeva, tipovi asfaltbetona, pozivanje na OTU norme), što omogućuje izravnu usporedivost ponuda. Dokumentacija izričito dopušta 'jednakovrijedno' rješenje gdje god se spominje marka/tip, čime se izbjegava prekomjerno sužavanje kruga ponuditelja. Manji minus: elaborat privremene regulacije prometa (stavka 1.8/1.9 troškovnika) izvorno nije bio priložen uz dokumentaciju, nego je naknadno dostavljen tek kroz odgovor na pitanje gospodarskog subjekta - inicijalna nepotpunost te jedne stavke.",
+      "citat": "ponuditelj može ponuditi „jednakovrijedno“ traženom ili navedenom"
     },
     "potpunost_dokumentacije": {
-      "ocjena": 4,
-      "obrazlozenje": "Dokumentacija o nabavi je opsežna i standardno strukturirana (DON s 8 poglavlja, zasebni Kriteriji za kvalitativni odabir, Kriteriji za odabir ponude, Upute za ponuditelje, Opći podaci, Troškovnik, tehnička specifikacija, Obavijest o nadmetanju), a naknadno objavljeni Zapisnik o pregledu i ocjeni pokazuje iznimno visoku razinu dokumentiranosti i sljedivosti same provedbe postupka (8 zaprimljenih ponuda, 6 odbijeno zbog premašivanja osiguranih sredstava, detaljan bodovni izračun za preostale 2). Međutim, dimenzija 'potpunost_dokumentacije' mjeri je li dokumentacija bila potpuna ZA SAMOSTALNU IZRADU PONUDE (v. definiciju u SKILL.md), a ne kvalitetu naknadne evaluacijske dokumentacije. Po tom mjerilu paket nije bio potpun od objave: DON izričito prebacuje izradu elaborata privremene regulacije prometa na izvođača (DON, čl. o troškovima privremene regulacije prometa), no troškovnik je od ponuditelja tražio cijenu stavke 1.8 'prema rješenjima iz elaborata' bez ikakve specifikacije, zbog čega je ponuditelj morao zatražiti pojašnjenje prije nego što je uopće mogao izraditi ponudu, a naručitelj je tek naknadno (5.2.2024., unutar roka) objavio tipsku shemu kao pomoć. Ovo je stvarni, ako manji, nedostatak izvorne dokumentacijske cjeline, pa ocjena 5 (potpuna dokumentiranost bez ostatka) nije opravdana — 4 je precizniji odraz definicije dimenzije.",
-      "citat": "a u dokumentaciji nije elaborat privremene regulacije prometa. Molimo da se objavi elaborat ... kako bi se moglo izračunati trošak.",
-      "runovi": [
-        5,
-        4
-      ],
-      "slaganje": "djelomicno"
+      "ocjena": 5,
+      "obrazlozenje": "Dostupna je puna Dokumentacija o nabavi (DON, >100 str.) s troškovnikom, tehničkim uvjetima, kriterijima kvalitativnog odabira i uputama za ponuditelje, dovoljna za samostalnu izradu ponude - potvrđeno time da je od 8 zaprimljenih ponuda čak 8 bilo valjano po obliku, sadržaju i cjelovitosti te je 8/8 zadovoljilo zahtjeve opisa predmeta i tehničkih specifikacija (nijedna nije odbijena zbog nejasnoće specifikacije, sve odbijene su isključivo zbog cijene iznad osiguranih sredstava).",
+      "citat": "Popunjeni eESPD obrazac (ili više njih, ako je primjenjivo) Popunjen troškovnik"
     },
-    "prosjecna_ocjena": 4.33
+    "prosjecna_ocjena": 4.67
   },
   "restriktivnost": {
     "prisutno": false,
-    "indikatori": [],
-    "rizik": "nizak",
-    "runovi_prisutno": [
-      false,
-      false
+    "indikatori": [
+      "Dokumentacija eksplicitno dopušta 'jednakovrijedno' rješenje za svaku stavku troškovnika u kojoj bi se moglo pojaviti spominjanje marke/patenta/tipa - suprotno indikatoru negativne selekcije.",
+      "Referentni uvjet (najmanje 1 izvršeni ugovor u visini procijenjene vrijednosti nabave, ili 2 ugovora čiji zbroj to pokriva, u zadnjih 5 god.) proporcionalan je vrijednosti nabave (235.434,34 EUR) i uobičajen za radove ove veličine, ne prekoračuje ono što je uobičajeno za sanaciju cesta.",
+      "Jamstvo za ozbiljnost ponude (5.000 EUR, cca. 2,1% procijenjene vrijednosti) i jamstvo za uredno ispunjenje ugovora (10% ugovorene cijene) u skladu su sa standardnim postotcima iz ZJN 2016, nisu nesrazmjerno visoki.",
+      "Traženi kadrovski uvjet (1 inženjer gradilišta s iskustvom na 2 slična gradilišta) minimalan je i razmjeran, dokumentacija izričito dopušta angažiranje više stručnjaka od minimuma."
     ],
-    "slaganje": "puno"
+    "rizik": "nizak"
   },
-  "napomena": "Referentni uvjet (1 rad iste/slične vrste u vrijednosti procijenjene nabave unazad 5 godina, ili 2 rada čiji zbroj to pokriva) i kadrovski uvjet (1 inženjer gradilišta s iskustvom na 2 slična gradilišta) proporcionalni su vrijednosti nabave (235.434,34 EUR) i tipični za radove na cestama; DON i Troškovnik izričito dopuštaju 'jednakovrijedno' za svaku eventualnu referencu marke/tipa/patenta, što je protiv-indikator restriktivnosti, a praksa to potvrđuje (8 ponuda od različitih gospodarskih subjekata, uklj. STRABAG i COLAS, svih 8 zadovoljilo uvjete sposobnosti i tehničke zahtjeve; 6 odbijeno isključivo zbog cijene iznad osiguranih sredstava, što je pokazatelj procjene vrijednosti/konkurentnosti, ne transparentnosti ili restriktivnosti). '(root)__Prilozi.zip.txt' ekstrahiran je kao prazan (0 B) — vjerojatno arhiva s tehničkim crtežima bez tekstualnog sadržaja, nije korišten u ocjeni.",
-  "napomena_resolvera": "Jasnoća kriterija: puna suglasnost oba runa (5/5), obrazloženja sadržajno komplementarna (run 2 dodaje mjerljivost kvalifikacijskih uvjeta) — sintetizirano bez potrebe za neovisnim čitanjem izvora. Razina detalja opisa: puna brojčana suglasnost (4/4); neovisnom provjerom 'Odgovori.html.txt' potvrđeno je da postoje DVA pojašnjenja (stavka 1.8 i stavka 3.4), ne samo jedno kako navodi run 1 — obrazloženje je stoga prošireno na temelju izravnog čitanja izvora, iako se to nije odrazilo na brojčanu ocjenu. Potpunost dokumentacije: rascjep od 1 boda (5 vs 4) s naizgled kompatibilnim obrazloženjima (isti činjenični supstrat, različit prag prosudbe) — riješeno NE mehaničkim odabirom nijednog runa, nego vraćanjem na točnu definiciju dimenzije u SKILL.md ('je li dokumentacija potpuna za samostalnu izradu ponude') i izravnom provjerom DON-a ('DON Novigrad.doc.txt', odredba o privremenoj regulaciji prometa) i modula Odgovori. Na temelju toga run 2 (ocjena 4) bolje odgovara definiciji dimenzije jer je stvarni nedostatak specifikacije stavke 1.8 postojao u trenutku kad su ponuditelji trebali izraditi ponudu, dok run 1 (ocjena 5) svoju ocjenu temelji pretežno na kvaliteti naknadne evaluacijske dokumentacije (Zapisnik), što je izvan opsega ove dimenzije. Restriktivnost: puna suglasnost (oba false/nizak), bez potrebe za rascjepom. Ukupna pouzdanost finalne ocjene: visoka za jasnoću kriterija i restriktivnost (puna suglasnost), srednja-visoka za razinu detalja opisa (puna brojčana suglasnost, prošireno obrazloženje), umjerena za potpunost dokumentacije (razriješen rascjep zahtijeva interpretativnu prosudbu, iako utemeljenu na izravnom čitanju izvora)."
+  "napomena": "Pročitano je svih 18 dostupnih .txt datoteka u extracted/ (DON, Kriteriji za kvalitativni odabir, Kriteriji za odabir ponude, Obavijest o nadmetanju, Upute za ponuditelje, Opći podaci, Troškovnik, Odgovori na pitanja, Zapisnik o pregledu i ocjeni, Obavijest o dodjeli ugovora i dr.); jedina prazna datoteka je 'Prilozi.zip.txt' (0 bajtova - poznati artefakt neuspjele ekstrakcije arhive, ne utječe na ocjenu jer je sadržaj dostupan u drugim dokumentima). Zanimljiv nalaz izvan opsega ove ocjene: od 8 zaprimljenih ponuda čak 6 je odbijeno kao neprihvatljivo isključivo zato što je cijena premašila planirana/osigurana sredstva naručitelja - moguć signal da je procijenjena vrijednost bila podcijenjena u odnosu na tržišne cijene u trenutku provedbe, a ne posljedica nejasnoće ili restriktivnosti specifikacije (svih 8 ponuda zadovoljilo je tehničke zahtjeve i kriterije sposobnosti)."
 }
