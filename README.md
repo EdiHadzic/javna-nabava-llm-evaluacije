@@ -16,7 +16,7 @@ javno objavljeno.
 ## Struktura
 
 - `ocjene/{id}.json` — finalna ocjena za postupak `{id}` (odgovara Id
-  postupka na EOJN portalu, npr. `https://eojn.hr/tender-eo/{id}`). Za 443
+  postupka na EOJN portalu, npr. `https://eojn.hr/tender-eo/{id}`). Za 442 + 1 (izolirani slucaj KBC Split)
   postupka to je rezultat jednog pokretanja LLM ocjenjivanja; za 15 postupaka
   (metodološki stariji, pouzdaniji dizajn s 2-3 neovisna pokretanja i
   razrješavanjem razlika) to je razriješena, sintetizirana finalna ocjena —
